@@ -4,6 +4,8 @@
 
 **Confidence level:** Low to moderate throughout. This document is speculative scenario-modeling, not documented fact or prediction. Mechanisms described (SCRAM behavior, generator runtimes, spent fuel pool physics) are based on real, sourced engineering documentation. Timing estimates for a *fully unattended, zero-intervention* event are extrapolation, since no real-world case (including Fukushima) had zero human response at all sites simultaneously.
 
+**Standing framework correction (applies to every section below):** Earlier drafts of this document assumed grid failure is driven mainly by chaotic human-demand swings colliding with automated supply — lights, HVAC, and businesses turning on and off unpredictably with no one managing the balance. With **zero humans present anywhere, ever**, that trigger doesn't exist. The only load on the grid becomes flat, predictable, automated draw: thermostats cycling, refrigeration compressors, data centers, water/wastewater pumps, streetlights on photocells. This is close to the most stable load profile a grid could have. The result: demand-driven collapse is no longer the primary failure mode. The new primary failure mode is **slow, uncorrected mechanical/maintenance drift** — clogged filters, fouled intake screens, sensor calibration drift, lubrication breakdown, ash/fuel handling backups — accumulating over days to weeks until an individual unit trips on its own protective systems, with no one to reset it or catch the fault early. Net effect: most timelines below are **longer** than earlier drafts stated, and the failure point is fuzzier and more staggered (each plant fails on its own maintenance clock, not simultaneously as a grid-wide event). This correction is speculative reasoning, not documented engineering fact, and confidence on the exact revised durations is low.
+
 **Sources used:**
 - U.S. NRC, "Fukushima Fact Sheet" — https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/fs-japan.html
 - U.S. EIA, Nuclear FAQ — https://www.eia.gov/tools/faqs/faq.php?id=207&t=21
@@ -16,19 +18,20 @@
 ## 1. Nuclear
 
 ### Correction to initial assumption
-Reactors do not SCRAM (auto-shutdown) the instant human input stops. Reactor control is highly automated and can maintain stable output on autopilot for a period. The most likely trip trigger is not the plant itself failing, but grid-side instability (frequency/voltage swings from thousands of unmanaged generation and demand points elsewhere) reaching the plant's protective relay setpoints.
+Reactors do not SCRAM (auto-shutdown) the instant human input stops. Reactor control is highly automated and can maintain stable output on autopilot for a period. Earlier drafts assumed the trip trigger was grid-wide demand instability; under the automated-only-demand correction (see top of document), that trigger is largely absent, and the more likely trip cause becomes an individual, uncorrected mechanical or sensor fault reaching a protective setpoint — a slower, less predictable process, staggered plant by plant.
 
-### Timeline
+### Timeline (revised under automated-only-demand framework)
 
 | Time | Event |
 |---|---|
-| Minutes 0–60 | Plant continues running on automatic control. Grid elsewhere begins destabilizing as demand/supply balance breaks down with no dispatchers. |
-| Hours 0–a few hours | Most plants trip (SCRAM) automatically in response to detected grid instability, not internal failure. Reactor core stops fissioning; decay heat remains and requires active cooling. |
-| Hours 0–72 | Emergency diesel generators / battery-backed systems (required under post-Fukushima "FLEX" safety upgrades) power cooling pumps for both reactor core and spent fuel pool. This is a designed coping window, not indefinite. |
-| Days ~3–10 (extrapolated) | Generator fuel or battery reserves deplete with no one to refuel. Active cooling stops. Reactor core is by this point low-heat and less urgent; spent fuel pool becomes the primary hazard. |
-| Days 10–30 (extrapolated) | Spent fuel pool water heats toward boiling without circulation; evaporation accelerates once boiling begins. Water level drops toward top of fuel racks. |
-| Weeks 3–8 (extrapolated) — **danger threshold** | Fuel rod exposure becomes plausible at plants with smaller pools or fuller pools nearing capacity. Exposed zirconium cladding can react with steam, generating hydrogen and releasing radioactive material — the Fukushima failure mode. Not simultaneous across all 54 plants; staggered by each site's battery/generator capacity and pool water inventory at shutdown. |
-| Months 2–12+ | For any plant that reaches fuel exposure, resulting contamination is a **regional, not global**, hazard — bounded to tens of miles based on Chernobyl/Fukushima precedent. Affected zones likely remain hazardous for years to decades. |
+| Hours 0–24 | Plant continues running on automatic control against a flat, predictable, all-automated grid load — arguably the most stable operating condition the plant has ever seen. |
+| Days 1–7 (revised, longer than earlier draft) | The likelier failure driver becomes an uncorrected individual fault — sensor drift, a sticking valve, a clogged intake screen — rather than grid-wide instability. Each plant is on its own maintenance clock, not a synchronized grid event. |
+| Week 1–2 (revised) — **likely SCRAM window** | An accumulated fault crosses a protective threshold with no one to catch or reset it early, triggering an automatic trip. Reactor core stops fissioning; decay heat remains and requires active cooling. |
+| From trip point +0–72 hours | Emergency diesel generators / battery-backed systems (required under post-Fukushima "FLEX" safety upgrades) power cooling pumps for both reactor core and spent fuel pool. This is a designed coping window, not indefinite, and it starts counting from whenever the actual trip happens — not from hour zero. |
+| From trip point +3–10 days (extrapolated) | Generator fuel or battery reserves deplete with no one to refuel. Active cooling stops. Reactor core is by this point low-heat and less urgent; spent fuel pool becomes the primary hazard. |
+| From trip point +10–30 days (extrapolated) | Spent fuel pool water heats toward boiling without circulation; evaporation accelerates once boiling begins. Water level drops toward top of fuel racks. |
+| From trip point +weeks 3–8 (extrapolated) — **danger threshold** | Fuel rod exposure becomes plausible at plants with smaller pools or fuller pools nearing capacity. Exposed zirconium cladding can react with steam, generating hydrogen and releasing radioactive material — the Fukushima failure mode. Not simultaneous across all 54 plants; staggered both by each site's battery/generator capacity *and* by when each plant's individual trip occurs under this revised framework. |
+| Months 2–12+ from trip point | For any plant that reaches fuel exposure, resulting contamination is a **regional, not global**, hazard — bounded to tens of miles based on Chernobyl/Fukushima precedent. Affected zones likely remain hazardous for years to decades. |
 
 ### Regional concentration (US)
 - **Heaviest:** Illinois (11 reactors, most of any state), plus Michigan, Wisconsin, Minnesota, Ohio — highest density of long-term pool risk in one region.
@@ -44,9 +47,9 @@ Reactors do not SCRAM (auto-shutdown) the instant human input stops. Reactor con
 
 | Time | Event |
 |---|---|
-| Hours 0–2 | Combustion control, pressure regulation, and safety interlocks require active oversight. Automated safety trips likely engage within hours without operators managing abnormal readings. |
-| Hours 2–24 | Compressor stations along pipelines (needed to maintain delivery pressure) begin losing power/oversight, cutting fuel supply to downstream plants even if the plant itself is intact. |
-| Day 1–2 — **grid contribution lost** | Natural gas generation, the largest single source in gas-heavy states, is offline. No prolonged danger phase — failure mode is loss of power, not a hazard like nuclear. |
+| Hours 0–24 | Combustion control, pressure regulation, and safety interlocks are automated and continue running against flat, predictable automated demand. Gas peaker plants (built specifically for demand spikes) likely see reduced or no dispatch at all, since the demand spikes they exist for no longer occur — baseload combined-cycle gas plants keep running. |
+| Days 1–5 (revised, longer than earlier draft) | Compressor stations along pipelines (needed to maintain delivery pressure) are also automated and can run unattended for a period, but accumulate the same uncorrected-fault risk as any unattended industrial system — filter fouling, minor leaks, sensor drift. |
+| Days 5–10 (revised) — **grid contribution lost** | Natural gas generation, the largest single source in gas-heavy states, goes offline as individual compressor or plant faults accumulate past safety thresholds. No prolonged danger phase — failure mode is loss of power, not a hazard like nuclear. |
 
 **Regional concentration:** Texas (roughly half its power from gas), Louisiana, Pennsylvania, Ohio.
 
@@ -56,9 +59,9 @@ Reactors do not SCRAM (auto-shutdown) the instant human input stops. Reactor con
 
 | Time | Event |
 |---|---|
-| Hours 0–24 | Automated stoking, cooling water intake screening, and emissions controls need monitoring; abnormal readings without operator response likely trigger protective trips. |
-| Days 1–5 | Even with 30+ days of on-site coal reserves typical at many plants, lack of fuel handling, ash removal, and safety monitoring makes continued unattended operation unlikely to last the full reserve window. |
-| Day 5+ — **grid contribution lost** | Coal generation offline. No prolonged hazard phase; primary risk is regional, from coal ash pond containment structures losing any active water management, a slower-developing environmental (not acute life-threatening) issue over months to years. |
+| Hours 0–48 | Automated stoking, cooling water intake screening, and emissions controls run against a flat, stable automated load. Baseload coal plants (unlike gas peakers) keep running much as they normally would overnight. |
+| Days 2–10 (revised, longer than earlier draft) | Fuel handling and ash removal are semi-automated but accumulate uncorrected faults over time — clogged screens, ash buildup, conveyor jams — without a person to clear them. Even with 30+ days of on-site coal reserves typical at many plants, these mechanical faults are likelier to cause a trip before fuel actually runs out. |
+| Days 7–14 (revised) — **grid contribution lost** | Coal generation offline as accumulated faults cross safety thresholds. No prolonged hazard phase; primary risk is regional, from coal ash pond containment structures losing any active water management, a slower-developing environmental (not acute life-threatening) issue over months to years. |
 
 **Regional concentration:** West Virginia, Wyoming, Kentucky, Missouri, Indiana.
 
@@ -80,8 +83,8 @@ Reactors do not SCRAM (auto-shutdown) the instant human input stops. Reactor con
 
 | Time | Event |
 |---|---|
-| Hours 0–48 | Automated brake/feathering systems engage in high wind or fault conditions to prevent mechanical damage — turbines are designed to lock into a safe, stationary position rather than run uncontrolled. |
-| Day 2+ — **grid contribution lost** | Turbines stop producing usable power as grid-side instability disconnects them, but this is a passive, non-hazardous shutdown. No danger phase. |
+| Days 1–7 (revised, longer than earlier draft) | With demand-driven grid instability largely removed, turbines can likely keep generating into a stable, flat-demand grid for longer than originally estimated. Automated brake/feathering systems still engage in high wind or fault conditions to prevent mechanical damage — turbines are designed to lock into a safe, stationary position rather than run uncontrolled. |
+| Week 1–3 (revised) — **grid contribution lost** | Turbines stop producing usable power as individual mechanical faults (bearing wear, yaw motor issues, blade icing in some climates) accumulate without maintenance, or as connected grid infrastructure elsewhere fails and disconnects them. This is a passive, non-hazardous shutdown. No danger phase. |
 
 **Regional concentration:** Texas (largest wind generation by far), Iowa, Oklahoma, Kansas.
 
@@ -98,20 +101,22 @@ Reactors do not SCRAM (auto-shutdown) the instant human input stops. Reactor con
 
 ---
 
-## Summary ranking: time to shutdown, fastest to slowest
+## Summary ranking: time to shutdown, fastest to slowest (revised under automated-only-demand framework)
 
-1. Natural gas — hours to 1–2 days
-2. Coal — 1–5 days
-3. Wind — hours to 2 days (non-hazardous)
-4. Nuclear (active generation) — hours (safe SCRAM), but **danger phase weeks 3–8** (spent fuel pools)
+1. Natural gas — days 5–10
+2. Coal — days 7–14
+3. Nuclear (active generation) — SCRAM likely week 1–2 (not hours), then **danger phase weeks 3–8 from that trip point**, i.e. roughly week 4–10 from event start
+4. Wind — week 1–3 (non-hazardous)
 5. Hydroelectric — days to indefinite, with conditional flood/dam-failure risk
 6. Solar — indefinite, no hazard phase
 
 ## Summary ranking: life-threatening danger, if any
 
-1. **Nuclear spent fuel pools** — weeks 3–8, regional contamination, years-to-decades exclusion zones. Highest-severity, most geographically concentrated hazard in the scenario.
+1. **Nuclear spent fuel pools** — roughly week 4–10 from event start under the revised framework, regional contamination, years-to-decades exclusion zones. Highest-severity, most geographically concentrated hazard in the scenario.
 2. **Hydroelectric dam failure** — acute, sudden, conditional on rainfall/flood timing; downstream-only.
 3. All other sources (gas, coal, wind, solar) — no direct life-threatening hazard from the shutdown itself; risk is secondary (loss of power for medical equipment, refrigeration, heating/cooling, water treatment).
+
+**Note on this revision:** these are wide, low-confidence bands, not firm numbers. The tradeoff behind the longer timelines: automated systems left completely uncorrected for weeks are also accumulating small faults the whole time, so "longer" does not mean "safer," just "the failure clock moved from hours to weeks and got less predictable."
 
 ## 7. Location-Specific Timelines: Raleigh NC, Tucson AZ, Reno NV, Alpharetta GA
 
@@ -132,42 +137,42 @@ Sources: https://en.wikipedia.org/wiki/List_of_power_stations_in_North_Carolina 
 
 | Time | Event |
 |---|---|
-| Hours 0–24 | Gas share (40%, largest single source) fails as pipeline compressor stations lose oversight. |
-| Hours 0–few hours | Nuclear plants (Shearon Harris, Brunswick, Robinson) SCRAM from grid instability, not internal failure. |
-| Days 1–5 | Coal share (13.2%) offline as fuel handling/ash management goes unmonitored. |
-| Days 3–10 (extrapolated) | Nuclear generator/battery reserves deplete; spent fuel pools begin unmonitored heating. |
-| Weeks 3–8 (extrapolated) — **danger window** | Potential fuel exposure at NC's nuclear sites. |
-| Day 5+ | Remaining ~9.4% solar share, plus any surviving hydro/biomass, is the only output left — contingent on local wiring staying intact and isolated from the wider collapsing grid. |
+| Days 5–10 (revised) | Gas share (40%, largest single source) fails as compressor stations and combustion controls accumulate uncorrected faults. |
+| Week 1–2 (revised) | Nuclear plants (Shearon Harris, Brunswick, Robinson) trip — likelier from an accumulated individual fault than grid-wide instability, since automated-only demand is stable. |
+| Days 7–14 (revised) | Coal share (13.2%) offline as fuel handling/ash management faults accumulate. |
+| Trip point +3–10 days | Nuclear generator/battery reserves deplete; spent fuel pools begin unmonitored heating. |
+| Trip point +weeks 3–8 (roughly week 4–10 from event start) — **danger window** | Potential fuel exposure at NC's nuclear sites. |
+| Week 2+ | Remaining ~9.4% solar share, plus any surviving hydro/biomass, is the only output left — contingent on local wiring staying intact and isolated from the wider collapsing grid. |
 
 ### Tucson, AZ
 
 | Time | Event |
 |---|---|
-| Hours 0–24 | Gas share (45%, largest of all four locations) fails first. |
-| Hours 0–few hours | Palo Verde Nuclear Generating Station SCRAMs. |
-| Days 1–5 | Coal share (7.87%) offline. |
-| Days 3–10 (extrapolated) | Palo Verde's cooling reserves deplete. |
-| Weeks 3–8 (extrapolated) — **danger window** | Palo Verde is roughly 100 miles from Tucson — the closest proximity to a nuclear hazard of the four locations. |
+| Days 5–10 (revised) | Gas share (45%, largest of all four locations) fails as accumulated faults cross safety thresholds. |
+| Week 1–2 (revised) | Palo Verde Nuclear Generating Station trips — from an accumulated fault, not grid-wide instability. |
+| Days 7–14 (revised) | Coal share (7.87%) offline. |
+| Trip point +3–10 days | Palo Verde's cooling reserves deplete. |
+| Trip point +weeks 3–8 (roughly week 4–10 from event start) — **danger window** | Palo Verde is roughly 100 miles from Tucson — the closest proximity to a nuclear hazard of the four locations. |
 | Ongoing | 13.3% solar share (highest of the four) is Tucson's strongest long-term asset; Southwest climate maximizes solar reliability. |
 
 ### Reno, NV
 
 | Time | Event |
 |---|---|
-| Hours 0–24 | Gas share (50.5%, over half of state supply) fails — largest single-source collapse of the four locations. |
-| Days 1–5 | Coal share (5.72%, smallest of the four) offline. |
-| No nuclear phase | Nevada has zero nuclear generation — this is the only location on the list with no spent-fuel-pool hazard at all. |
+| Days 5–10 (revised) | Gas share (50.5%, over half of state supply) fails as accumulated faults cross safety thresholds — largest single-source collapse of the four locations. |
+| Days 7–14 (revised) | Coal share (5.72%, smallest of the four) offline. |
+| No nuclear phase | Nevada has zero nuclear generation — this is the only location on the list with no spent-fuel-pool hazard at all, and therefore the only one unaffected by the nuclear-timeline revision entirely. |
 | Ongoing | Solar (30.1%) plus geothermal (8.56%) together approach 40% of supply. Both are low-maintenance and not fuel-delivery-dependent; geothermal runs on continuous underground heat, unlike weather/daylight-dependent solar. This is the strongest long-term power position of the four locations. |
 
 ### Alpharetta, GA
 
 | Time | Event |
 |---|---|
-| Hours 0–24 | Gas share (38.6%) fails first. |
-| Hours 0–few hours | Plant Vogtle SCRAMs. |
-| Days 1–5 | Coal share (13.6%) offline. |
-| Days 3–10 (extrapolated) | Vogtle's cooling reserves deplete. |
-| Weeks 3–8 (extrapolated) — **danger window** | Vogtle is roughly 150 miles from Alpharetta. Georgia's 34.7% nuclear share is the highest of the four locations, making this the most concentrated nuclear risk on the list. |
+| Days 5–10 (revised) | Gas share (38.6%) fails as accumulated faults cross safety thresholds. |
+| Week 1–2 (revised) | Plant Vogtle trips — likelier from an accumulated fault than grid-wide instability, given stable automated-only demand overnight and beyond. |
+| Days 7–14 (revised) | Coal share (13.6%) offline. |
+| Trip point +3–10 days | Vogtle's cooling reserves deplete. |
+| Trip point +weeks 3–8 (roughly week 4–10 from event start) — **danger window** | Vogtle is roughly 150 miles from Alpharetta. Georgia's 34.7% nuclear share is the highest of the four locations, making this the most concentrated nuclear risk on the list. |
 | Ongoing | Only ~7.6% solar share remains — the smallest renewable buffer of the four locations. |
 
 ### Ranking: safest to riskiest (this scenario)
@@ -190,10 +195,10 @@ JEA is unusually fossil-fuel-heavy compared to the Florida state average: as of 
 
 | Time | Event |
 |---|---|
-| Hours 0–24 | JEA's gas turbines (Greenland Energy Center) fail first, same mechanism as any gas plant — pipeline compressor stations lose oversight. |
-| Days 1–5 | Coal/petcoke units at Northside Generating Station go offline as fuel handling and ash management go unmonitored. |
+| Days 5–10 (revised) | JEA's gas turbines (Greenland Energy Center) fail as accumulated faults cross safety thresholds, same mechanism as any gas plant. |
+| Days 7–14 (revised) | Coal/petcoke units at Northside Generating Station go offline as fuel handling and ash management faults accumulate. |
 | No local nuclear phase | JEA operates no nuclear plant directly, so there is no on-site spent-fuel-pool hazard at Mayport itself. |
-| Weeks 3–8 (extrapolated) | Indirect nuclear risk only via JEA's Vogtle power purchase contract — if Vogtle's pools reach the danger window described in Section 1, it affects JEA's contracted supply, not a hazard physically located at Mayport. |
+| Trip point +weeks 3–8 (roughly week 4–10 from event start) | Indirect nuclear risk only via JEA's Vogtle power purchase contract — if Vogtle's pools reach the danger window described in Section 1, it affects JEA's contracted supply, not a hazard physically located at Mayport. |
 | Base-specific factor | Naval Station Mayport and NAS Jacksonville maintain dedicated on-site backup diesel generators for mission-critical infrastructure — confirmed for the base's wastewater treatment plant, among other facilities. (https://www.americanelectricofjacksonville.com/industrial-electrical-contracting/generators/) Military installations often carry larger on-site fuel reserves than civilian facilities, though exact reserve capacity for Mayport specifically is not public information — flagged as unknown rather than assumed. |
 | Ships in port | Navy vessels berthed at Mayport carry their own onboard gas-turbine or diesel-electric generators, independent of shore power, as long as fuel remains and automated engineering systems can run without crew — a factor with no clear civilian equivalent elsewhere in this document. This is speculative extrapolation, not a documented capability for unattended operation. |
 
