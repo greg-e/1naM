@@ -68,7 +68,7 @@ The worst news, delivered plainly, and a plan to meet.
 - Sam decides to fly to Atlanta himself — will find an aircraft on the Gander ramp; no type chosen on-page.
 - They agree to meet **4:00 PM Thursday (Day 2) at PDK — DeKalb-Peachtree Airport**.
 - Call drops right after and does not reconnect — last phone contact between them for the foreseeable future.
-- **NEEDS a prose fix:** strike the closing "hasn't been to the office" line — there is no office.
+- Closes pointing forward to "how does this hold together once I leave the house" (→ Section 7 workstation). *(Rewritten 2026-09-08 in the terser Section-1 voice; office line struck.)*
 
 ## 6. Sam — Day 1 — Gander (terminal, main ramp, GA/FBO apron — PAL Aviation)
 
@@ -94,7 +94,7 @@ Grief, then the unglamorous work of getting an aircraft flying alone.
 - By Thursday's gray edge: ~4,000 pattern calls → **three hits with address + callback number: Huntsville AL, Phoenix AZ, Portland OR**. No names.
 - Calls: **all three fail outright** (flat network-failure notice — infrastructure gone). He expects Portland to connect (hydro grid) and it doesn't. **No contact with anyone, no voice, no name, no promise.**
 - What he has: three addresses, three dead numbers, three fragments of transcript (Huntsville argued ~6 min; Phoenix four callbacks; Portland calm, read out coordinates). Realization: this was never a phone call — it's three points on a map, no clock he can read.
-- Before leaving: copies the model weights to portable drives + packs a carry kit. Drives north to PDK with Dan — "and this time it came with the understanding that after it, there would be three more."
+- Leaving home for good: **takes the whole workstation** (~100+ lbs, hand-trucked out — "pivotal to the story"), its power supply + a storm battery station, and **Naomi's Bible** from her study (kept unchanged 16 years) — opens it to her ribbon, reads the verse she'd underlined/highlighted, **Isaiah 41:10** ("…I will help you") — a quiet answer to the Section 1 prayer. Drives north to PDK with Dan — "and this time it came with the understanding that after it, there would be three more."
 - **REI satellite-hotspot subplot deleted. Grace phone conversation cut** (2026-09-08 change) — she's a location-only lead again.
 - **Downstream fixes pending:** Section 10 ("Portland's Grace, she's expecting us" + mission-order rationale), Section 13 ("imagined the phone call").
 

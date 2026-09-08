@@ -2,7 +2,7 @@
 
 The house was dark when he got back from Marietta, every window of it, and for a second on the walk up from the car he had the disorienting thought that his own power had finally gone too — before he remembered he'd left in daylight and never turned a light on. Inside, it was all still there: the low hum of the workstation down the hall, the refrigerator, the small ordinary sounds of a house that still had a grid under it. Dan went straight to his bowl and looked back at him, and John realized he couldn't remember the last time he'd eaten. Sometime yesterday.
 
-He made himself fix that first. Not a meal — he didn't have the patience for a meal — but eggs, four of them, and toast, and the rest of a sleeve of crackers, eating fast at the counter while Dan worked through his own dinner on the floor. He'd caught himself once already since all this started getting so far into a problem that his hands began shaking and he didn't know why, and he wasn't going to do that twice. Twenty minutes later he felt steady in a way that embarrassed him, how simple the fix had been.
+He made himself fix that first. Not a meal — he didn't have the patience for a meal — but eggs, four of them, and some left over sausage he had for second breakfast on Monday, eating fast at the counter while Dan worked through his own dinner on the floor. He'd caught himself once already since all this started getting so far into a problem that his hands began shaking and he didn't know why, and he wasn't going to do that twice. Twenty minutes later he felt steady in a way that embarrassed him, how simple the fix had been.
 
 Then he went back down the hall, sat at the desk, and tried to lay out what he actually had.
 
@@ -38,6 +38,20 @@ So he did not, in the end, get to say any of it. He'd spent the whole search hal
 
 It changed the shape of everything that came after. This had never really been a phone call — that was a hope he'd carried because carrying it was easier than the alternative. It was three points on a map, hundreds and then thousands of miles apart, that somebody was going to have to physically go and stand on before anyone learned anything at all. And there was no clock he could read on it. The man in Huntsville, the woman in Phoenix, whoever had given those coordinates in Portland — any of them might last a week, or might have been gone before he ever found the call, and the only way to know was to fly there and see, one at a time, however long that took.
 
-He wasn't going to be home for a while — he understood that now the way you understand weather coming in. So before he left he made his one machine into a kit he could carry: the model's weights copied onto a stack of portable drives, the most capable laptop in the house, every charger and cable and adapter he could dig out of a drawer, all of it into a hard case that had held camera gear in some other life. It would not run the model the way the workstation had. It would run enough of it.
+He wasn't going to be home for a while. He understood that now the way you understand weather coming in.
 
-Then he put Dan in the car, and the case on the seat, and the notebook — three addresses, three dead lines, a dead man's crew list crossed out at the top of the page — into his jacket, and pointed north toward PDK. The four o'clock still had daylight in front of it. For the first time since the morning before last, he had somewhere he actually had to be — and this time it came with the understanding that after it, there would be three more.
+Which meant the machine came too. He'd stood in that doorway a day ago and called it a problem for later. Later was now. It was the one real capability he had — the thing that had found Sam, the thing that might yet find the other three — and he was not going to leave it humming in an empty house for the grid to quit under.
+
+Getting it out was ugly. A hundred and some pounds of compute in a case built to sit still, and nobody to take the other end. He rolled the hand truck in from the garage, tipped the thing onto it an inch at a time, walked it down the hall and out the front door and down the porch steps one jarring drop at a time, Dan trailing him the whole way with his ears up like something was wrong. It went into the back of the car at an angle, braced with the water case and a folded moving blanket. The power supply after it, the cables, the little battery station he kept for storms.
+
+Then he stood in the hall a second, catching his breath, and went into Naomi's study.
+
+He'd kept the room. Sixteen years and he'd never managed to make it into anything else — her books shelved the way she'd shelved them, the reading chair, the rolltop desk he'd bought her their second year in this house. He came in here and sat, sometimes. No reason he could have put words to. It helped, and he'd stopped questioning that a long time ago.
+
+Her Bible was on the desk where it always was, soft at the corners, the ribbon still marking wherever she'd left off. He picked it up and held it a moment, then opened it to the ribbon.
+
+Isaiah. A verse underlined in pencil and then gone over again in yellow, the way she used to mark the ones she kept coming back to. *Fear not, for I am with you; be not dismayed, for I am your God. I will strengthen you, I will help you.*
+
+He read it through twice. Then he closed the book, carried it out, and set it in the duffel by the door, on top of the clothes, and didn't let himself think too hard about why.
+
+Dan up front. The notebook — three addresses, three dead lines, a dead man's crew list crossed out at the top — in his jacket. He backed out of the driveway pointed north toward PDK. The four o'clock still had daylight in front of it. For the first time since the morning before last he had somewhere he had to be — and this time it came with the understanding that after it, there would be three more.

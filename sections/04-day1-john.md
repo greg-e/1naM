@@ -1,35 +1,41 @@
 # 4 — John, Day 1
 
-The conversation that followed didn't have any of the shape John had expected, in the handful of minutes he'd spent imagining what it might feel like to actually reach someone. There was no relief in it, not clean relief anyway — just the two of them talking over each other in short, urgent bursts, each trying to get the other caught up before the line gave out, because both of them understood, without either one saying it out loud, that a call like this one didn't come with any guarantee of a second try.
+Not the shape he'd pictured, in the few minutes he'd let himself picture reaching anyone at all. No clean relief in it. Both of them talking over each other in short bursts, each trying to get the other caught up before the line quit, because neither of them believed there'd be a second call.
 
-Sam talked fast and flat, the way John imagined a man talked when he'd trained his whole life to keep his voice level no matter what was happening around him. The flight deck. His first officer. The relief pilot. The diversion, the low pass, the landing nobody was there to see. John listened to all of it standing at the receptionist's desk with his free hand pressed flat against the school stationery, the fourteen numbers gone soft and grey under his palm, and felt the morning's whole shape rearrange itself around one simple fact: somewhere out there, at least one other person had been living through the same impossible math he had.
+Sam talked fast and flat, a career of keeping his voice level no matter what. The flight deck. His first officer. The relief pilot — both gone at the controls while he slept. A coast socked in, an approach he didn't finish, a hundred miles inland to a runway lit for nobody.
 
-"You're in Atlanta," Sam said, once he'd run out of his own story and started asking questions instead. "You said Atlanta."
+John listened from the chair at his own desk, the workstation humming beside him, Dan's chin on his foot. Somewhere out over the water, at least one other person had been doing the same math he had.
+
+"How did you find me." Not an accusation. A man needing to understand what had happened to him.
+
+The short version was the honest one. "You were the only airplane still on the map doing something a person does. Couldn't get a name off that, so I went into Delta's crew records and took one. It wasn't legal. There was nobody left to ask."
+
+A silence. Then a sound that wasn't quite a laugh. "I don't think I care."
+
+"No. Didn't think you would."
+
+"You're in Atlanta. You said Atlanta."
 
 "Alpharetta. North side."
 
-A pause, and John could hear something shift in Sam's breathing on the other end, the particular sound of a man deciding whether he had any right to ask for something. "My wife," Sam said. "Elena. And my daughter, Maya. They're in Marietta — I can give you the address. I've been calling since I landed, over and over, nobody's — " His voice caught somewhere in the middle of that sentence and he pushed through it anyway. "I need someone to actually go there. Not call. Go. I'm not going to be able to get back for — I don't even know how long, and I can't just sit here not knowing."
+A pause, and the breathing changed on the other end — a man deciding whether he had any right to ask for something. "My wife. Elena. And my daughter, Maya. They're in Marietta." A breath. "I've been calling since I got on the ground. Over and over. Nothing." His voice went somewhere in the middle of it and he pushed through. "I need someone to actually go there. Not call. Go, and look. I don't know when I get back — don't even know yet what I'd get back in — and I can't sit in this airport another hour not knowing."
 
-"I'll go," John said, before he'd finished deciding it, and meant it more completely than he'd meant anything all day.
+"I'll go." Out before he'd finished deciding it, and he meant it more than he'd meant anything all day.
 
-They traded what they could while the line still held — Sam's cell number, in case either of them found a working tower again; John's, the same; the address in Marietta, which Sam recited twice, slow, like a man double-checking a number he'd already had memorized for fifteen years and still didn't trust himself with today. Somewhere in the middle of the second repetition the connection thinned to a papery hiss, Sam's voice arriving a half-second behind itself, and John understood they were losing whatever was left of it.
+They traded what they could while the line held. Sam's cell, in case a tower came back somewhere. John's, the same. The Marietta address, which Sam said twice, slow and careful, like a number he'd had memorized fifteen years and still didn't trust himself with today. Partway through the second time the connection thinned to a dry hiss, his voice landing a half-beat behind itself.
 
-"Call this number back if you get through," John said, fast, before it went. "Any time. I'll have my phone."
+"You get through to me again — any hour — I'll pick up."
 
-"John." Sam's voice, right at the edge of the static now. "Thank you. Whatever you find — just tell me the truth. I'd rather know."
+"John." Right at the edge of the static now. "Whatever you find over there. Just tell me the truth. Don't try to soften it. I'd rather know."
 
 "I will."
 
-The line dropped clean a few seconds later, no goodbye, just the flat tone of a call that had ended itself. John stood there with the receiver still against his ear for a moment before he made himself set it down.
+The line dropped a few seconds later, no goodbye, just the flat tone of a call that had ended itself. He held the phone a while before he set it down.
 
-He didn't waste time sitting with any of it. He gathered the fourteen numbers, folded the page into his jacket pocket, and was back in the car with Dan before he'd fully worked out the order he meant to do things in — home first, he decided, pulling out of the school's lot; he needed more than a laptop bag and good intentions if he was driving into whatever Marietta actually looked like today.
+Then he moved. A duffel out of the hall closet. Two changes of clothes, the good flashlight from the garage, a first-aid kit still in its shrink wrap, a case of water, Dan's food and his bowl. Fast, no lingering on any of it.
 
-The house was exactly as dead as he'd left it, warm and silent and smelling faintly of the coffee he'd never finished that morning. He moved through it with a kind of ruthless efficiency he didn't examine too closely — a duffel from the hall closet, two changes of clothes, the good flashlight from the garage, a case of water bottles from the pantry, Dan's food and bowl. He stopped in the doorway of his office last, looking at the dead rack that had done exactly what he'd needed it to do that morning and then died on him at the worst possible moment, and made himself think it through properly instead of just grabbing what was closest.
+He stopped in the office doorway on the way past. The machine in the corner, humming, doing everything he asked of it and going nowhere — held to the spot by its own weight and its own power draw. A problem for later. Not today.
 
-The model itself — the actual weights, the thing that had spent two hours finding Sam for him — didn't live in the machine. It lived on four enterprise SSDs racked into the chassis, portable in the most literal sense if he was willing to void a warranty and void it fast. He pulled all four with a screwdriver he kept for exactly this kind of stubborn, ill-advised confidence in his own hardware, wrapped them in a t-shirt, and dropped them into the duffel next to the water bottles. Whatever came next, he wasn't going to be caught without this again — not on a laptop battery, not scrambling for some stranger's generator, not ever, if he could help it.
+Every minute he stood in his own house was a minute Sam spent alone in an empty terminal not knowing. That math was not close.
 
-He sat with the drives in his lap for a second, already turning over what he'd need to actually run them again — his own rack was a hundred and forty pounds of dead server sitting in a house with no power and no timeline for getting any back, and Anthropic's small Atlanta office, a leased floor in Midtown the handful of Southeast-based researchers used maybe once a month, kept exactly the kind of inference hardware and real backup power that would solve that problem. It was a good idea. It could also wait.
-
-Sam didn't have a working phone number for Elena anymore, hadn't for hours, and every minute John spent solving his own problem was a minute Sam spent sitting alone in an empty airport not knowing. That math wasn't close. The office would still be there in the afternoon, generator or no generator, and whatever he needed to build out of it could get built once he'd actually done the one thing he'd promised a stranger four and a half hours away that he'd do.
-
-He pulled out of the driveway and pointed the car toward Marietta, Dan's head already out the window into air that smelled, for the first time all day, faintly like smoke somewhere a long way off. Midtown could wait until after. Everything could wait until after.
+Dan in the car. Out of the driveway toward Marietta. The streets stayed exactly as wrong as they'd been all day — stopped cars at their odd angles, no one in them, no one anywhere — the whole city holding as still as it had held since two in the morning the day before.

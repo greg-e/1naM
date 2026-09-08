@@ -1,55 +1,63 @@
 # 5 — John, Day 1
 
-The drive down was worse than the morning had been, in a way John hadn't braced himself for. The roads emptied out the same way they had near his own house — stalled cars at odd angles, one long stretch where he had to thread the shoulder around a jackknifed delivery truck that had taken out a stretch of guardrail with it — but he was driving into it now instead of just discovering it, and every mile put him that much closer to a question he already knew the shape of the answer to. He kept the radio off. There was nothing on it anyway, but he kept it off on purpose, some superstition he didn't examine too closely insisting that silence was easier to sit with than static.
+The drive down was worse than the morning had been. Same emptied roads — stalled cars at their angles, one stretch where he threaded the shoulder around a delivery truck folded through a guardrail — except he was driving into it now, not stumbling onto it, and every mile put him closer to a question he already knew the shape of. He kept the radio off. Nothing on it anyway. Off on purpose.
 
-Elena and Sam's street looked like every other street he'd seen since six that morning — driveways too full, no one out walking a dog or fetching a paper, a garbage can knocked on its side at the curb by nothing he could see. Sam's address turned out to be a two-story colonial with a basketball hoop bolted over the garage and a minivan parked square and ordinary in the driveway, doors shut, nothing about it wrong at all — the kind of untouched stillness that told its own story before he'd even reached the front walk. Whatever had happened here had happened well after anyone had last needed that car. He sat in his own car for a second before he made himself get out.
+Elena and Maya's street looked like every street he'd seen since he left the house — driveways too full, nobody out, a garbage can on its side at the curb by nothing. Sam's address was a two-story colonial, basketball hoop over the garage, a minivan parked square and ordinary in the driveway, doors shut. Nothing wrong with any of it. Which was the thing that was wrong. Whatever had happened here had happened long after anyone last needed that car.
 
-The front door was unlocked. He knocked anyway, three times, waited the length of a full breath, and let himself in when nothing answered, because some part of him had known since the driveway that nothing was going to.
+He sat in his own car a second before he made himself get out.
 
-He found Elena first, in the primary bedroom at the top of the stairs, still in bed, the covers pulled up to her shoulder the way anyone sleeps on an ordinary Monday night that never had any reason to be their last one. He didn't need to check for a pulse to know. He checked anyway, the same automatic gesture he'd already performed twice today, and got the same cool, certain nothing back that he'd gotten from the man in the sedan that morning.
+Front door unlocked. He knocked anyway, three times, waited a breath, let himself in when nothing came back — because he'd known since the driveway that nothing would.
 
-Maya's room was down the hall, a door with a hand-painted sign on it that had clearly survived several rounds of being too old for and kept anyway. She was in her own bed too, small under a comforter covered in stars, a backpack sitting packed and ready by her desk for a second day of school that had never come — new folders, a lunch box still zipped, a name written on a fresh binder in the careful, deliberate handwriting of someone proud enough of good penmanship to slow down for it. John stood in the doorway a long moment without going any further into the room. Some things didn't need a pulse check to be certain, and some part of him didn't want to be the kind of person who'd walked all the way in anyway.
+He found Elena first. Primary bedroom at the top of the stairs, still in bed, covers up to her shoulder, the way anyone sleeps on an ordinary Monday night that had no reason to be the last one. He didn't need to check. He checked anyway — the same gesture, the same cool nothing he'd gotten every other time.
 
-He went back downstairs eventually and sat on the bottom step for longer than he meant to, Dan's leash still looped over one hand from the car, the dog pressed warm and solid against his leg like he understood exactly what kind of house this had become. There wasn't anything to do here. No one to call for, no scene to manage, nothing to fix. Just a house that had gone quiet at two in the morning along with every other house on the street, on the block, in the whole silent, sprawling ache of a city that used to be full.
+Maya's room was down the hall. A door with a hand-painted sign she'd clearly outgrown and kept anyway. She was in her bed too, small under a comforter covered in stars. A backpack sat packed by the desk — new folders, a lunch box still zipped, her name on a fresh binder in careful, slowed-down handwriting — ready for a second day of school that never came.
 
-He made himself go back up once, briefly — pulled Maya's comforter up over her shoulders the way Elena's already was, and closed both bedroom doors gently behind him on his way out, small useless gestures that didn't accomplish anything except letting him feel like he'd done something before he left them there. Then he went back downstairs, turned the thumb-latch on the front door, and pulled it shut behind him until he heard it catch, some old instinct insisting that a locked door was still worth something even now, even here. He sat down on the top step of the porch with Dan beside him and took out his phone.
+John stood in the doorway and didn't go in. Some things didn't need a pulse to be sure of, and he didn't want to be the kind of man who walked all the way in anyway.
 
-Sam picked up on the first ring, which told John everything about how he'd probably spent every minute since the line had dropped that afternoon — phone in hand, waiting, the way a man waits when he already knows the answer is coming and still can't make himself stop hoping otherwise.
+He went back downstairs and sat on the bottom step longer than he meant to, Dan's leash still looped over his hand, the dog pressed warm and solid against his leg like he knew exactly what kind of house this was. Nothing to do here. No one to call for, no scene to manage, nothing to fix. A house that had gone quiet at two in the morning along with every other house on the street.
 
-"Tell me," Sam said. No hello. Nothing else first.
+He made himself go up once more. Pulled Maya's comforter to her shoulders, the way Elena's already was. Closed both doors, gently. Downstairs, he turned the thumb-latch and pulled the front door shut until it caught — some old instinct that a locked door still meant something, even now, even here.
 
-"I'm here," John said. "I'm at the house." He made himself say the rest of it plainly, the way he'd have wanted it said to him. "They didn't make it, Sam. Both of them. It looks like it happened in their sleep — no struggle, nothing. I don't think either of them ever woke up."
+Then he sat on the top step with Dan and took out his phone.
 
-The silence on the other end went on long enough that John checked the screen to be sure the call hadn't dropped. When Sam's voice came back it was wrecked in a way it hadn't been even that morning, describing his own dead crew.
+Sam picked up on the first ring.
 
-"Okay," Sam said, and then, again, quieter, like he was testing whether the word still worked. "Okay."
+"Tell me." No hello.
 
-"I'm sorry," John said, because there wasn't anything better and he wasn't going to pretend there was.
+"I'm here. I'm at the house." He said the rest plainly, the way he'd have wanted it said to him. "They didn't make it, Sam. Both of them. In their sleep — no struggle, nothing. I don't think either of them ever woke up."
 
-"You checked yourself." Not a question.
+The silence went long enough that John checked the screen. When Sam's voice came back it was wrecked in a way it hadn't been that morning, talking about his own crew.
+
+"Okay," Sam said. Then again, quieter, like he was testing whether the word still worked. "Okay."
+
+"I'm sorry." There wasn't anything better and he wasn't going to pretend there was.
+
+"You checked yourself."
 
 "I checked myself. I wouldn't have told you otherwise."
 
-Another long pause, and John could hear something changing on the other end — the particular sound of a man deciding something, the same shift he'd heard that morning right before Sam asked him to make this drive in the first place. "I can't sit here anymore," Sam said finally. "In this airport, waiting on a phone that's about to die anyway. There's nothing left for me here. I'm going to find something on this ramp that'll fly and I'm coming to Atlanta."
+Another pause, and John heard it — a man deciding something, the same shift as that morning right before Sam asked him to make this drive. "I can't sit here anymore," Sam said. "In this airport, on a phone that's dying anyway. There's nothing left for me here. I'm going to find something on this ramp that flies and I'm coming to Atlanta."
 
-"Sam, that's—" John stopped himself before he finished the sentence, because he didn't actually have a better idea, and because some things a man needed to be allowed to decide for himself. "Okay. Where do I meet you?"
+"Sam, that's—" He stopped. He didn't have a better idea, and some things a man got to decide for himself. "Okay. Where do I meet you?"
 
-"PDK." The answer came fast, like Sam had already been turning it over before he'd said any of the rest out loud. "DeKalb-Peachtree. Small field, north side of the city — I know it, I've flown into it before on my own time. Long enough runway for anything I'm likely to find up here, and close enough to wherever you end up that we shouldn't have trouble finding each other." A breath. "Give me until tomorrow. I'm not doing this exhausted, and I'm not doing it without checking the airplane and the weather first, whatever I end up with. Four o'clock. Thursday afternoon."
+"PDK. DeKalb-Peachtree. North side of the city, small field — I've flown in there. Long enough runway for anything I'm likely to find, close enough to wherever you end up." A breath. "Give me till tomorrow. I'm not doing this exhausted, and not without checking the airplane and the weather first, whatever I end up with. Four o'clock. Thursday afternoon."
 
-"Four o'clock, Thursday, PDK," John repeated back, already committing it to memory the way he'd once memorized checklists he never expected to need. "I'll be there."
+"Four o'clock, Thursday, PDK." He committed it the way he'd once committed checklists he never expected to need. "I'll be there."
 
 "If I'm not—"
 
 "You will be."
 
-Sam huffed something that wasn't quite a laugh. "Four o'clock," he said again, like saying it twice might nail it down harder. Then, quieter: "Thank you. For going. For telling me straight instead of — I don't know. Softening it."
+Sam made a sound that wasn't quite a laugh. "Four o'clock," he said again, like twice might nail it down. Then, quieter: "Thank you. For going. For telling me straight."
 
 "I told you I would."
 
-The line held a moment longer, filled with nothing but the faint hiss of a connection that had been thinning all day, and then it dropped — not with the clean tone of a call ending, just a silence that never resolved into anything else. John tried calling back twice, out of instinct more than hope, and got nothing on either try, not even a ring. He sat there with the phone still in his hand for a while after that, Dan's head heavy against his knee, and understood without needing anyone to tell him that whatever had just happened between them, it was the last time a phone was going to be the thing that connected them. Everything from here on was going to have to happen in person, or not at all.
+The line held another moment, nothing on it but the hiss of a connection that had been thinning all day — and then it dropped. Not the clean tone of a call ending. Just a silence that didn't resolve into anything.
+
+He tried calling back. Twice. Nothing, not even a ring. He sat with the phone in his hand a while, Dan's head heavy on his knee, and understood without anyone telling him: that was the last time a phone was going to be the thing between them. From here it was in person, or not at all.
 
 Four o'clock. Thursday. PDK.
 
-He had a day to get ready, a dog to feed, and — somewhere on his own list, small and stubborn and not going anywhere — an office in Midtown he still needed to get to before any of the rest of this became possible at all.
+He had until tomorrow afternoon. A drive home in the failing light. A dog to feed. And one thing he still hadn't worked out — how any of this was supposed to hold together once he left the house to go do it.
 
 He sat a while longer before he made himself stand up.
