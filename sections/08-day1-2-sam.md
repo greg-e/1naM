@@ -1,4 +1,4 @@
-# 8 — Sam, Day 0-1
+# 8 — Sam, Day 1-2
 
 The dark came down faster than the flight plan wanted it to, the way it always did once the sun actually committed to going, and by the time the GPS showed him crossing back into range of the mainland proper, there was nothing left outside the windscreen but instrument glow and the black, textureless nothing of the Gulf of Maine below him. He didn't mind the dark itself. Dark was just dark, something an instrument-rated pilot flew through on a hundred ordinary nights without a second thought. What he minded, what had been sitting low and cold in his stomach for the last twenty minutes, was the particular kind of dark waiting for him at the other end of this leg — a mainland he already knew, from a man he trusted, was losing its lights one region at a time.
 

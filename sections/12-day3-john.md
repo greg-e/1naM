@@ -1,4 +1,4 @@
-# 12 — John, Day 2
+# 12 — John, Day 3
 
 Sam had the chart spread across both their knees before the engine was even fully warm, working the numbers out loud the way John had come to understand he worked everything that mattered. "Direct route's about thirteen hundred miles as the airways actually run it, not as the crow flies. Memphis, Little Rock, Tulsa, Amarillo, Albuquerque, then down into Phoenix past Winslow. Twenty-eight thousand feet is where this airplane wants to live for a leg this long — thin air, good true airspeed, fuel burn that doesn't bankrupt us."
 

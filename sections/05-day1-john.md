@@ -1,4 +1,4 @@
-# 5 — John, Day 0
+# 5 — John, Day 1
 
 The drive down was worse than the morning had been, in a way John hadn't braced himself for. The roads emptied out the same way they had near his own house — stalled cars at odd angles, one long stretch where he had to thread the shoulder around a jackknifed delivery truck that had taken out a stretch of guardrail with it — but he was driving into it now instead of just discovering it, and every mile put him that much closer to a question he already knew the shape of the answer to. He kept the radio off. There was nothing on it anyway, but he kept it off on purpose, some superstition he didn't examine too closely insisting that silence was easier to sit with than static.
 
@@ -34,9 +34,9 @@ Another long pause, and John could hear something changing on the other end — 
 
 "Sam, that's—" John stopped himself before he finished the sentence, because he didn't actually have a better idea, and because some things a man needed to be allowed to decide for himself. "Okay. Where do I meet you?"
 
-"PDK." The answer came fast, like Sam had already been turning it over before he'd said any of the rest out loud. "DeKalb-Peachtree. Small field, north side of the city — I know it, I've flown into it before on my own time. Long enough runway for anything I'm likely to find up here, and close enough to wherever you end up that we shouldn't have trouble finding each other." A breath. "Give me until tomorrow. I'm not doing this exhausted, and I'm not doing it without checking the airplane and the weather first, whatever I end up with. Four o'clock. Wednesday afternoon."
+"PDK." The answer came fast, like Sam had already been turning it over before he'd said any of the rest out loud. "DeKalb-Peachtree. Small field, north side of the city — I know it, I've flown into it before on my own time. Long enough runway for anything I'm likely to find up here, and close enough to wherever you end up that we shouldn't have trouble finding each other." A breath. "Give me until tomorrow. I'm not doing this exhausted, and I'm not doing it without checking the airplane and the weather first, whatever I end up with. Four o'clock. Thursday afternoon."
 
-"Four o'clock, Wednesday, PDK," John repeated back, already committing it to memory the way he'd once memorized checklists he never expected to need. "I'll be there."
+"Four o'clock, Thursday, PDK," John repeated back, already committing it to memory the way he'd once memorized checklists he never expected to need. "I'll be there."
 
 "If I'm not—"
 
@@ -48,7 +48,7 @@ Sam huffed something that wasn't quite a laugh. "Four o'clock," he said again, l
 
 The line held a moment longer, filled with nothing but the faint hiss of a connection that had been thinning all day, and then it dropped — not with the clean tone of a call ending, just a silence that never resolved into anything else. John tried calling back twice, out of instinct more than hope, and got nothing on either try, not even a ring. He sat there with the phone still in his hand for a while after that, Dan's head heavy against his knee, and understood without needing anyone to tell him that whatever had just happened between them, it was the last time a phone was going to be the thing that connected them. Everything from here on was going to have to happen in person, or not at all.
 
-Four o'clock. Wednesday. PDK.
+Four o'clock. Thursday. PDK.
 
 He had a day to get ready, a dog to feed, and — somewhere on his own list, small and stubborn and not going anywhere — an office in Midtown he still needed to get to before any of the rest of this became possible at all.
 

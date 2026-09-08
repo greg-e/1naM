@@ -1,4 +1,4 @@
-# 10 — John, Day 1
+# 10 — John, Day 2
 
 PDK looked exactly like every other airport John had seen in the last two days — quiet in a way no airport should ever be quiet, a scatter of parked aircraft catching the late afternoon sun, not another living soul in sight — except for the one thing that made his chest go tight the second he saw it from the access road. A PC-12, sitting alone on the transient ramp, tail number he didn't recognize and didn't need to. Nobody else on earth was going to land a Pilatus at this specific airport at this specific hour. He parked crooked and didn't bother straightening it out.
 

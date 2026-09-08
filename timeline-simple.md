@@ -37,25 +37,28 @@ The sole surviving pilot discovers the flight deck dead and diverts.
 - Dark terminal, scattered dead (fewer than a daytime event — 2:00 AM timing).
 - Tries Elena, his mother, a squadron buddy, his sister on a weak signal — voicemail or endless ringing, no answers.
 
-## 3. John — Day 0 — Alpharetta (home office → nearby elementary school)
+## 3. John — Day 0–1 — Alpharetta (home, never leaves)
 
-Uses a jailbroken internal AI model to identify Sam's crew and gets through to him.
+*(Rebuilt 2026-09-08 — see the retcon in 1naM_Draft.md.)* Builds the whole picture from telemetry, then commits to an illegal hack to reach the one live person.
 
-- Back home ~10 AM; jailbreaks an in-development model to reconstruct Delta 84's crew from non-public scraps (pilot forum, social posts, an old scheduling leak). Not a 911 search — Sam never called anyone.
-- Home grid power fails ~midday mid-search; John relocates to the generator-powered school from Section 1.
-- Narrows ~17 names to 14 dialable numbers by ~1:30 PM; reaches Sam on the 8th call.
+- Never leaves home. Company-issued state-of-the-art workstation runs his team's in-development model locally + an MCP toolchain (aviation telemetry, weather, cleared gov feeds). No rack, no school, no office.
+- **Day 0 afternoon → night:** methodical nationwide reality-assessment — full DOT camera sweep coast to coast; then overnight, every feed he can reach (AIS shadow fleet, 911/CAD, Cospas-Sarsat beacons = a *handful* worldwide, grid telemetry showing the cascade).
+- Watches the sky empty all Tuesday; three ultra-long-hauls left by dark; the last drops off ~2 AM ("twenty-four hours, almost to the minute"). Empty sky.
+- Grid subplot as data: he watches plants trip, reactors scram to backup, reasons where it holds (hydro) and that his own region has a nuclear danger window "with a date on it." (No personal power loss — that beat is retired.)
+- **Day 1 (Wed):** ~4-hour drive with Dan, south into the empty city, to confirm the cameras with his own eyes. Comes home.
+- Delta 84 is the only lead to a live person. Commits to the thing he swore off: strips the safety layer off the local research model, runs it with **frontier Claude**, **breaches Delta's crew-scheduling + personnel systems** for the exact DL84/Sept-5 flight-deck crew — three names, three numbers.
+- Dilemma stated honestly, dissolved by cost-benefit arithmetic (no operators to harm; privacy of the near-certainly-dead; one live person who must not be alone). "The easiest hard decision he had ever made."
+- Calls: FO (rings out), Relief Pilot (dead man's voicemail — reader knows from Section 2 those two died), **Captain — Sam** (answers, third ring). Ends on "You're not. I'm right here."
 
-## 4. John — Day 0 — the school → John's house → en route to Marietta
+## 4. John — Day 1 — John's house → en route to Marietta
 
-First contact, then John commits to checking on Sam's family in person.
+**NEEDS REWRITE (no ATL office).** First contact continues; John commits to checking on Sam's family in person.
 
-- Call lasts long enough to trade cell numbers and for Sam to give the Marietta address for Elena and Maya, then drops.
-- Sam asks John to go check in person — he already tried calling repeatedly with nothing back.
-- John drives home, packs a go-bag, pulls the four SSDs with his model weights from the dead home rack.
-- Weighs detouring to Anthropic's Midtown Atlanta office (backup power, possible mobile hardware) vs. Sam sitting alone not knowing — chooses Marietta first, defers the office.
-- Section ends en route to Marietta, before he arrives.
+- Call continues: trade cell numbers, Sam gives the Marietta address twice, **asks John to go check in person and "just tell me the truth"** (this beat moved here from Section 3). Call drops.
+- No office-detour deliberation, no SSDs-from-a-dead-rack, no go-bag — John works from one machine and never relocates.
+- Section moves him from the call toward Marietta.
 
-## 5. John — Day 0 — Marietta, GA (Elena and Maya's house)
+## 5. John — Day 1 — Marietta, GA (Elena and Maya's house)
 
 The worst news, delivered plainly, and a plan to meet.
 
@@ -63,11 +66,11 @@ The worst news, delivered plainly, and a plan to meet.
 - John confirms it himself, covers both bodies, closes the bedroom doors, locks the front door.
 - Calls Sam and tells him plainly.
 - Sam decides to fly to Atlanta himself — will find an aircraft on the Gander ramp; no type chosen on-page.
-- They agree to meet **4:00 PM Wednesday (Day 1) at PDK — DeKalb-Peachtree Airport**.
+- They agree to meet **4:00 PM Thursday (Day 2) at PDK — DeKalb-Peachtree Airport**.
 - Call drops right after and does not reconnect — last phone contact between them for the foreseeable future.
-- John still hasn't been to the Anthropic office.
+- **NEEDS a prose fix:** strike the closing "hasn't been to the office" line — there is no office.
 
-## 6. Sam — Day 0 — Gander (terminal, main ramp, GA/FBO apron — PAL Aviation)
+## 6. Sam — Day 1 — Gander (terminal, main ramp, GA/FBO apron — PAL Aviation)
 
 Grief, then the unglamorous work of getting an aircraft flying alone.
 
@@ -79,21 +82,23 @@ Grief, then the unglamorous work of getting an aircraft flying alone.
 - Plans two legs (Gander → Bangor before dark, overnight, then Bangor → PDK) but never totals how much ground time ate his daylight.
 - Notices only at departure, rationalizes ("Bangor will have lights"), launches into fading light anyway.
 
-## 7. John — Day 0–1 — Anthropic Midtown office → REI Atlantic Station → PDK
+## 7. John — Day 1–2 — Alpharetta (home)
 
-Invents the nationwide 911 search and gets a satellite link working.
+*(Rebuilt 2026-09-08 — runs entirely from home, no office.)* Invents the nationwide 911 search, finds Grace.
 
-- Finally makes the deferred office visit — empty, real backup power, dead building internet, a tetherable cell signal he knows won't last. Eats/hydrates first (mirrors Sam in Section 6).
-- Epiphany: his own Section 1 911 call means every survivor who called 911 left the same trace.
-- Runs many parallel model instances against dispatch systems nationwide overnight; sifts ~4,000 calls down to **three hits with address + phone: Huntsville AL, Phoenix AZ, Portland OR**.
-- His cell connection dies completely ~noon Wednesday before he can call any of them.
-- Packs a mobile kit (three laptops, docks, cables, a case), decides he's not returning to Midtown.
-- Detours to REI at Atlantic Station, finds a display satellite hotspot; the model helps activate it via a dormant manufacturer demo credential (explicitly hypothetical).
-- Places calls as VoIP over the hotspot: **Huntsville and Phoenix fail outright** (network down). **Portland answers — Grace**, injured (believes her leg is broken), alone at a coastal overlook given by coordinates.
-- Reasons the Pacific Northwest hydro grid is why Portland is still reachable. Promises to call Grace back.
-- Departs for PDK mid-afternoon with the full kit; never returns to Midtown.
+- Home from Marietta Wed night; makes himself eat (Sam-parallel "fuel, not a meal").
+- Epiphany: his own Section 1 911 call was answered by the AI agent with no human in the loop → it answered *everyone* → every survivor who called left a trace.
+- Doesn't re-agonize about the ethics — line already crossed in Section 3 ("a difference of target, not of kind"). Just works.
+- A dozen parallel model instances against county-by-county dispatch systems, filtering for callers who **pushed back**. Eats the night.
+- Ticking clock: the **network backbone thinning** (his house has power — that's not the problem), watched failing all night on his telemetry.
+- By Thursday's gray edge: ~4,000 pattern calls → **three hits with address + callback number: Huntsville AL, Phoenix AZ, Portland OR**. No names.
+- Calls: **all three fail outright** (flat network-failure notice — infrastructure gone). He expects Portland to connect (hydro grid) and it doesn't. **No contact with anyone, no voice, no name, no promise.**
+- What he has: three addresses, three dead numbers, three fragments of transcript (Huntsville argued ~6 min; Phoenix four callbacks; Portland calm, read out coordinates). Realization: this was never a phone call — it's three points on a map, no clock he can read.
+- Before leaving: copies the model weights to portable drives + packs a carry kit. Drives north to PDK with Dan — "and this time it came with the understanding that after it, there would be three more."
+- **REI satellite-hotspot subplot deleted. Grace phone conversation cut** (2026-09-08 change) — she's a location-only lead again.
+- **Downstream fixes pending:** Section 10 ("Portland's Grace, she's expecting us" + mission-order rationale), Section 13 ("imagined the phone call").
 
-## 8. Sam — Day 0–1 — Gander → Bangor vicinity → Bar Harbor → Augusta → Loring/Limestone, ME
+## 8. Sam — Day 1–2 — Gander → Bangor vicinity → Bar Harbor → Augusta → Loring/Limestone, ME
 
 The daylight miscalculation comes due; the US grid collapse has reached Maine.
 
@@ -102,7 +107,7 @@ The daylight miscalculation comes due; the US grid collapse has reached Maine.
 - From his Air Force background, thinks of Loring AFB / Limestone — a decommissioned SAC base likely to have hardened power. It works.
 - Lands safely, exhausted and relieved, now much further north than planned. New Limestone→PDK distance problem unsolved.
 
-## 9. Sam — Day 1 — Loring/Limestone → Bangor → en route to PDK
+## 9. Sam — Day 2 — Loring/Limestone → Bangor → en route to PDK
 
 Solves the fuel problem by backtracking; the range risk resolves with it.
 
@@ -113,17 +118,17 @@ Solves the fuel problem by backtracking; the range risk resolves with it.
 - Tries calling John from the ramp — no signal at all.
 - Departs Bangor for PDK direct, mid-morning, real fuel margin, hours of buffer before 4 PM.
 
-## 10. John — Day 1 — PDK (DeKalb-Peachtree Airport)
+## 10. John — Day 2 — PDK (DeKalb-Peachtree Airport)
 
 The reunion and the mission launch.
 
-- John and Sam meet in person for the first time, on schedule at 4:00 PM. Brief but real (Dan greets Sam; a hug). They don't rehash the phone calls.
+- John and Sam meet in person for the first time, on schedule at 4:00 PM Thursday. Brief but real (Dan greets Sam; a hug). They don't rehash the phone calls.
 - Mission order settled: **Huntsville → Phoenix → Portland (Grace)** — Grace is safe and waiting; Huntsville/Phoenix are confirmed-dark unknowns that might not have time.
 - Sam learns John is a current, instrument-rated private pilot and starts checking him out on the PC-12 in flight — a turbine type transition, ongoing mentorship arc.
 - Aircraft swap: Sam's road-worn PC-12 left at PDK for a **brand-new PC-12 PRO from a Pilatus dealer on the field** — fuel topped off, keys in an easy lockbox (a deliberate easy beat after three sections of friction).
 - Sam verifies Huntsville is reachable with real daylight margin (~150 nm, ~30–35 min); they launch same day. John's mobile kit transfers to the new aircraft.
 
-## 11. John — Day 1–2 — Huntsville International → Tyler's house → a Waffle House → back to the ramp
+## 11. John — Day 2–3 — Huntsville International → Tyler's house → a Waffle House → back to the ramp
 
 Tyler is rescued; John's composure breaks in front of someone for the first time (he broke down privately once already, Section 1).
 
@@ -133,9 +138,9 @@ Tyler is rescued; John's composure breaks in front of someone for the first time
 - Waffle House, lit by a live patch of grid — both employees confirmed dead but outside in their cars on a break, so the interior is untouched. Sam cooks a real meal for the first time in his life (learned from videos with his daughter).
 - Tyler talks about his mother and the ISS without asking directly if she's alive; John promises they'll figure it out, not tonight.
 - Back at the aircraft, once Tyler's asleep, **John breaks down in front of Sam** — the first witnessed time (he broke privately on Day 0, Section 1) — over Tyler's grief, not his own losses. Sam sits with him wordlessly.
-- They sleep in shifts in the cabin (Day 1 into Day 2, Thursday Sep 7) and depart next morning for Phoenix — Sam flags "a fuel stop, probably two," not yet planned.
+- They sleep in shifts in the cabin (Day 2 into Day 3, Friday Sep 8) and depart next morning for Phoenix — Sam flags "a fuel stop, probably two," not yet planned.
 
-## 12. John — Day 2 — Huntsville → Amarillo, TX (fuel stop) → Phoenix Sky Harbor (KPHX)
+## 12. John — Day 3 — Huntsville → Amarillo, TX (fuel stop) → Phoenix Sky Harbor (KPHX)
 
 The fuel math works out to one stop; Catherine finds them.
 
@@ -147,7 +152,7 @@ The fuel math works out to one stop; Catherine finds them.
 - On landing, **Catherine Reyes** — staying near a Phoenix hospital since Day 0 — hears the engine (first working engine she's heard in three days) and **drives her car through the airport perimeter fence** onto the ramp to reach them before they finish taxiing.
 - She's the Phoenix hit John could never identify. Joins the group.
 
-## 13. John — Day 2 — Phoenix → Portland (PDX) → coastal overlook near Seaside/Cannon Beach → Providence Seaside Hospital → Grace's coastal house
+## 13. John — Day 3 — Phoenix → Portland (PDX) → coastal overlook near Seaside/Cannon Beach → Providence Seaside Hospital → Grace's coastal house
 
 Grace is rescued; the original mission completes; TruckHouse gets its first mention.
 
@@ -172,7 +177,7 @@ Runs parallel to Sections 1–13, not after them.
 - Processes his grief on-page, then decides to sail the ship into Seattle himself, alone.
 - Ends with him retaking manual helm briefly, then resuming course — three days out, not yet arrived.
 
-## 15. John — Day 2–5 — Grace's coastal house, Oregon
+## 15. John — Day 3–6 — Grace's coastal house, Oregon
 
 A multi-day rest; John spots Yohan's ship on AIS.
 
@@ -187,6 +192,8 @@ A multi-day rest; John spots Yohan's ship on AIS.
 ---
 
 # Day 0–1 master clock (John + Sam threads merged)
+
+> ⚠️ **STALE — not re-synced after the 2026-09-08 retcon.** The hour rows below predate the Section 3 rebuild + the +1-day full renumber. Ignore them for now: John's thread is +1 day (Wednesday → Thursday for the PDK reunion, now **4:00 PM Thursday**); all office / REI / hotspot / "cellular tether dies at noon" / OSINT-crew-search rows are void (no office; it's a direct Delta systems intrusion Wednesday afternoon). Use the per-section headings above as the current reference until this is rebuilt.
 
 All times Eastern. Yohan's Section 14 thread is parallel and is **not** merged here.
 

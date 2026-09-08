@@ -1,4 +1,4 @@
-# 15 — John, Day 2-5
+# 15 — John, Day 3-6
 
 They stayed longer than any of them planned to, and none of them apologized for it.
 

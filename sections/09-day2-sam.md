@@ -1,4 +1,4 @@
-# 9 — Sam, Day 1
+# 9 — Sam, Day 2
 
 He slept in four-hour-old fits in the left seat with his flight jacket bunched up against the window, and woke somewhere past first light to a cold cockpit and a runway stretching out gray and enormous in front of him, the same length that had saved his life a few hours earlier now just looking like what it actually was in daylight — a relic, built for bombers that had stopped flying this route before he was born, kept alive by whatever hardened Cold War circuitry nobody had bothered to decommission along with everything else. He sat with that a minute, working the stiffness out of his neck, before he let himself think about the day ahead.
 

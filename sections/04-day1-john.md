@@ -1,4 +1,4 @@
-# 4 — John, Day 0
+# 4 — John, Day 1
 
 The conversation that followed didn't have any of the shape John had expected, in the handful of minutes he'd spent imagining what it might feel like to actually reach someone. There was no relief in it, not clean relief anyway — just the two of them talking over each other in short, urgent bursts, each trying to get the other caught up before the line gave out, because both of them understood, without either one saying it out loud, that a call like this one didn't come with any guarantee of a second try.
 

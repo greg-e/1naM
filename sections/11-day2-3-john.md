@@ -1,4 +1,4 @@
-# 11 — John, Day 1-2
+# 11 — John, Day 2-3
 
 Huntsville International came up out of the haze looking almost too ordinary to trust — real runways, a real tower, a terminal building catching the last low sun without a single light on inside it. Sam did the low pass anyway, the same unhurried circuit he'd have flown at a field he'd known for twenty years, and only lined up for real once he'd satisfied himself the runway was clear and nothing on it was going to surprise them. "Old habits," he said, when John didn't ask. "Especially the ones that already saved my life twice this week."
 

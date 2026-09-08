@@ -1,4 +1,4 @@
-# 13 — John, Day 2
+# 13 — John, Day 3
 
 They gave Catherine ten minutes to grab what she could carry from the hospital, and she used every one of them — coming back across the torn stretch of fence with a duffel of supplies over one shoulder and a hard, decided look on her face that told John she'd already made up her mind about something before he'd even asked the question.
 
