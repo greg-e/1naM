@@ -1,95 +1,144 @@
+The issue is that enclosing the entire document inside a single triple-backtick code block (````markdown ... ````) forces the UI to render it inside a horizontal-scrolling code window rather than displaying it as a continuous, native formatted document.
+
+Here is the complete dossier rendered directly in standard Markdown text without code fences.
+
+---
+
 # Flight Plan & Ground Staging Dossier
 
-**Document Control:** Operational Flight Directive / Emergency Diversion Protocol  
-**Date of Operation:** September 5th  
-**Target Event:** Delta Air Lines Flight 84 (DAL84) Real-Time Telemetry Observation & Ground Staging  
-**Tracking Reference:** `flightaware.com/live/flight/DAL84/history/20260905/0255Z/KATL/LFPG`
+**Document Control:** Operational Flight Directive / Emergency Diversion Protocol
 
-> **Manuscript note (read before quoting any of this in prose).** This is a real-world-grounded research artifact, not canon prose. Where it and the settled sections disagree, the sections win. Three deliberate adaptations already made against the raw operational assumptions:
-> 1. **The surviving pilot is the Captain (Sam), not the First Officer.** The generic single-pilot-diversion literature assumes the junior pilot is the one left flying; here it is the Pilot-in-Command. Adjust any borrowed wording accordingly.
-> 2. **All flight-deck deaths occur at exactly 2:00 AM Eastern**, simultaneous with the global event — no sealed-cabin delay, no toxicological in-flight cause. The First Officer and Relief Pilot die at the controls; the aircraft then flies itself, untouched, for nearly four hours.
-> 3. **Landing field is Gander (CYQX) — but St. John's (CYYT) comes first, as a fogged-out attempt.** The Captain turns first for St. John's as the nearest suitable field, is waved off by a zero-zero coastal fog after two ILS approaches to minimums, and only then diverts ~100 nm inland to Gander, where he lands. This is *not* a reversion of the earlier "St. John's as destination" draft (see the retcon log in `1naM_Draft.md`) — the destination is still Gander. The St. John's leg was added on 2026-09-08 to satisfy a Section 1 timing constraint: John, on the ground in Georgia, must still be able to watch this landing on live FlightAware, and he can't be at his laptop before ~8:00 AM Eastern. The extra diversion pushes the Gander touchdown to ~8:25 AM Eastern. See the timing analysis in the retcon log.
+**Date of Operation:** September 5th
+
+**Target Event:** Delta Air Lines Flight 84 (DAL84) Real-Time Telemetry Observation & Ground Staging
+
+**Tracking Reference:** `[flightaware.com/live/flight/DAL84/history/20260908/0215Z/KATL/LFPG](https://flightaware.com/live/flight/DAL84/history/20260908/0215Z/KATL/LFPG)`
+
+**Primary Diversion Airfield:** Halifax Stanfield International Airport (CYHZ)
 
 ---
 
 ## Part 1: Delta Flight 84 Emergency Flight Plan
 
 ### Flight Overview
+
 * **Callsign:** Delta 84 (DAL84 / DL84)
 * **Airframe:** Airbus A330-900neo
-* **Powerplants:** 2 × Rolls-Royce Trent 7000-72 turbofans
 * **Origin:** Hartsfield-Jackson Atlanta International Airport (KATL)
 * **Destination (Planned):** Paris Charles de Gaulle Airport (LFPG)
-* **Destination (Actual Divert):** Gander International Airport (CYQX)
-* **Alternate Airport:** Halifax Stanfield International Airport (CYHZ)
-* **Great-circle ATL→CDG:** ~3,900 nm / close to 9h scheduled block eastbound
-* **Souls on board:** ~275 (261 passengers + 14 crew, including the Captain)
-* **Avionics suite:** Dual FMS, triple ADIRU/IRS, FLS (FMS Landing System), ROPS (Runway Overrun Prevention System), BTV (Brake-to-Vacate) — the aircraft is capable of flying its full FMS route and a coupled approach with no pilot input.
+* **Destination (Actual Divert):** Halifax Stanfield International Airport (CYHZ)
+* **Alternate Airport:** Greater Moncton Roméo LeBlanc International Airport (CYQP)
 
-### Why St. John's first, then Gander
-The nearest suitable widebody field to the discovery point (~500 nm ENE of Newfoundland) is **St. John's (CYYT)**, on the eastern edge of the Avalon Peninsula — ILS-equipped, an ~8,500 ft primary runway, and roughly 430–450 nm from the aircraft (vs. ~500+ nm for Gander). Procedure and instinct both send the Captain there first. But St. John's sits right on the coast, and the Avalon grows dense **advection fog** off the cold Labrador Current for much of the year — on this morning it is effectively **zero-zero**, an unbroken deck sitting on the water. With no ATC, no ATIS, and no RVR readout, and unwilling to gamble a blind coupled autoland at an unmanned field while fuel and daylight remain, the Captain flies two ILS approaches to minimums, misses both, and diverts inland.
+**Event Sequence:**
 
-**Gander (CYQX)** is the designated widebody transatlantic diversion field for exactly this stretch of the North Atlantic Track system. Built in 1938 as a ferry-command staging airport, it sits in the interior of north-central Newfoundland — **~100 nm inland, up out of the marine fog layer** — and carries a **10,200 ft main runway (03/21) with full ILS**, more than an A330-900 at diversion weight needs. It is inside Gander Oceanic's own control area. The town it serves is small (~11,000), but the airfield and terminal were sized for a century of transatlantic traffic that has since moved on; it is the airport that absorbed 38 airliners and ~6,600 passengers during Operation Yellow Ribbon in 2001. Newfoundland's grid is overwhelmingly hydroelectric, so field lighting, ILS, and PCL are assumed live even with no staff present (see grid-shutdown reference doc).
+* **10:15 PM EDT / 02:15Z (Sept 4):** Departure KATL (Atlanta)
+* **03:30 AM EDT / 04:30 AM ADT (Sept 5):** Emergency Event / Turnback Initiated
+* *Dual-Pilot Incapacitation (~90 nm SW of Sydney / Cabot Strait)*
 
----
 
-## Part 2: Flight Crew Structure & Rest Rotations
+* **03:45 AM – 05:00 AM EDT:** High-Altitude Fuel Jettison over Cabot Strait
+* *Jettison ~65,000 lbs Jet-A to reach Maximum Landing Weight (MLW)*
 
-Under FAA Part 117 for a long-haul transatlantic sector, DL84 carries a 3-pilot **augmented flight crew**. Every pilot holds an FAA ATP certificate with an A330 type rating and is qualified to operate the aircraft solo in all phases of flight.
 
-### Flight Deck Roster
-1. **Captain (PIC)** — Pilot-in-Command *(the survivor)*
-2. **First Officer (SIC)** — Senior First Officer *(lost, at the controls)*
-3. **Relief Pilot (SIC)** — fully qualified First Officer *(lost, at the controls)*
+* **05:20 AM EDT / 06:20 AM ADT:** Attempt: Sydney (CYQY) ILS Runway 06
+* *Aborted at 200 ft DA (Zero-Zero Fog / Non-Cat III); Divert to Halifax*
 
-### In-Flight Rest Schedule (as actually flown)
 
-Overhead Flight Crew Rest (OFCR) bunks above the forward cabin. This sector ran **two** rest periods, not three — the Relief Pilot rested first, then the Captain took a single extended block through to the planned pre-descent handoff. This is why, at 2:00 AM, **both other pilots were on the flight deck and the Captain was in the bunk.**
+* **06:00 AM – 07:10 AM EDT:** En Route Transit & Ground Emergency Mobilization
+* *Westbound transit at FL240; CYHZ emergency ground crews assemble*
 
-| Time Window (EDT) | Flight Deck at Controls | In Overhead Rest Bunk | Phase |
-| :--- | :--- | :--- | :--- |
-| 10:55 PM push / ~11:15 PM wheels-up | Captain + First Officer | *None* | Departure / climb |
-| 11:15 PM – 1:15 AM | Captain + First Officer | Relief Pilot | Cruise Rest 1 |
-| **1:15 AM – 5:45 AM** | **First Officer + Relief Pilot** | **Captain** | Cruise Rest 2 (extended) |
-| 5:45 AM onward *(planned)* | All 3 pilots | *None* | Pre-descent / arrival |
 
----
+* **07:25 AM EDT / 08:25 AM ADT:** 1st Attempt: Halifax (CYHZ) ILS Runway 23
+* *Missed Approach: Transient low-level fog bank drops visibility below Cat III limits*
 
-## Part 3: Emergency Timeline & Diversion Sequence
 
-All times EDT.
+* **07:50 AM EDT / 08:50 AM ADT:** 2nd Attempt & TOUCHDOWN: Halifax (CYHZ) Runway 23
+* *Fog clears; Full CAT III Autoland touchdown (Atlanta Observation Window)*
 
-| Time | Event |
-| :--- | :--- |
-| **02:00:00** | The event. The First Officer and Relief Pilot are incapacitated at the controls, instantaneously, simultaneous with the global event. No alarm, no configuration change. Autopilot and autothrust remain engaged; the FMS continues to fly the filed North Atlantic routing toward LFPG. |
-| 02:00 – 05:45 | The aircraft flies itself for **~3 h 45 m** with zero flight-deck input — altitude, heading, and speed held exactly as briefed. Cabin service crew also lost; no cabin call reaches the flight deck. |
-| ~05:45 | The Captain's alarm wakes him for the planned handoff. He returns to the flight deck and discovers both pilots dead. Position: **~500 nm east-northeast of Newfoundland** (mid-ocean, roughly 49°N 042°W). Skin already cool — consistent with the elapsed time. |
-| 05:45 – 06:05 | Captain confirms no pulse on either pilot, confirms the autopilot is still flying the aircraft correctly, and walks the cabin to establish scope. Confirms he is the only living person aboard. ~20 minutes total. |
-| ~06:05 | Captain declares an emergency on guard and company frequencies out of procedure, expecting and receiving no reply. Carrier tone present on all frequencies; no voice response anywhere. Begins the turn — direct **St. John's (CYYT)**, the nearest suitable field. LFPG abandoned. |
-| 06:05 – ~07:00 | Transit inbound to St. John's, ~430–450 nm, autopilot coupled, Captain briefing a single-pilot approach into an uncontrolled field. |
-| ~07:00 – 07:40 | **St. John's is zero-zero.** The Avalon Peninsula is under a solid advection-fog deck (a routine Newfoundland condition, worst spring through fall) sitting on the water, top unbroken and plainly visible. No ATIS, no ATC, no RVR. Captain flies the ILS coupled to minimums twice, breaks out into nothing both times, flies the published missed each time. Declines to gamble a blind autoland at an unmanned field while fuel and daylight remain. Elects to divert inland. |
-| ~07:40 – ~08:05 | Transit St. John's → **Gander (CYQX)**, ~100 nm west-northwest, climbing back out from under the marine layer. Autopilot coupled; third approach brief, aloud, solo. |
-| ~08:05 – 08:25 | Arrival Gander area. **No ATC, no ATIS, no ground vehicle to sweep the runway.** Captain orbits the field once at altitude, flies one low pass along Runway 03/21 (gear up) to inspect the surface, then sets up and flies a full approach to landing — checklist aloud, solo. No go-around here: the diligence was done at St. John's, and the fuel state now has two diversions in it. Field lighting is on and cycling; runway is clear. |
-| ~08:25 | Touchdown CYQX. Manual rollout and braking (ROPS/BTV available but not required). Taxi clear with no ground guidance; parks on a wide apron clear of the dark terminal. Extended shutdown. |
-| Post-landing | No jetway, no ground power, no marshaller, no responders. Egress via the forward door emergency slide. |
+
+* **07:55 AM EDT / 08:55 AM ADT:** Vacate via Taxiway Echo/Delta to Main Passenger Apron
 
 ---
 
-## Part 4: Real-Time Telemetry Observation (Ground Staging)
+### Navigation Route String & Telemetry Milestones
 
-### The diversion signature (what an outside observer sees)
-On public ADS-B / FlightAware, DL84 is one of a handful of oceanic tracks still live after the event. Its track is distinguishable from the others by **deliberate, purposeful deviation**:
-* Track line bends **north and west off the filed LFPG routing** at ~06:05, a clean commanded turn, not a drift.
-* The track runs to the coast near **St. John's**, descends, flies two full ILS approaches — each ending in a published missed-approach climb-out — then **turns inland**. A machine holding its last instruction does not shoot an approach, miss, and re-route to a second airport.
-* Ground speed and altitude step down in a normal descent profile on the **Gander** arrival — not a spiral, not a flat line.
-* The position marker then **orbits a single airport, flies a straight low segment, breaks off, and re-approaches** — a pattern that reads as someone inspecting a field before committing, i.e. a conscious pilot, not a runaway autopilot or a coupled auto-land.
+#### Filed Route String
 
-This is the tell: every other surviving track is ballistic (holding its last commanded state until fuel exhaustion). DL84 is being *flown*. The signature is unusually rich — a commanded turn, a fogged-out approach sequence at one field, a re-route, and an inspection pattern at a second — and an observer coming to live FlightAware after ~08:00 Eastern sees the whole history trail at once, plus the live Gander arrival and landing (~08:25). This is the same anomaly class that later flags Yohan's vessel on AIS in Section 15 — a machine doing something no automation would do on its own.
+`KATL DCT HNN J149 EYW DCT ALB DCT GDM DCT MONCTON DCT CYQY DCT [DIVERT] VIGOS DCT TUFPY DCT CYHZ`
 
-### Ground conditions at CYQX on arrival
-* **Weather:** Gander VMC / marginal-VMC — the advection fog that closed the Avalon coast does not reach ~100 nm inland.
-* **Airfield:** lit and operable (hydro grid), ILS and PCL live, runway physically clear.
-* **ATC:** none. Gander tower and the Area Control Centre are unmanned.
-* **Ground handling:** none. No power cart, no stairs, no fuel service on the apron.
-* **Terminal:** dark, unlocked, unstaffed. Because the event struck at 02:00 — before the first early-morning departure bank would have drawn staff and passengers in — the terminal holds far fewer dead than a mid-day event would have left; those present are overnight security, cleaning, and the earliest-arriving travelers and ground staff for the morning's first flights.
-* **GA / FBO apron (PAL Aviation handling):** light aircraft tied down for the night — several PC-12s, a couple of King Airs, and provincial water bombers parked for a fire season that will not be called. This is the pool the surviving Captain draws his onward aircraft from (Section 6); he is fixed-wing only, so the practical choice is King Air vs. PC-12.
+#### Phase 1: Departure & Transatlantic Transit
+
+* **10:15 PM EDT / 02:15Z (Sept 4):** Wheels up KATL Runway 27L. Climb to initial cruise FL350.
+* **02:45 AM EDT:** Crossing US/Canada border near Maine / New Brunswick. Cruise step to FL370.
+* **03:30 AM EDT (04:30 AM ADT):** Reaching Cabot Strait vicinity (~90 nm southwest of Sydney, NS). Dual-pilot emergency event occurs; system initiates diversion toward closest airfield, Sydney (CYQY).
+
+#### Phase 2: Weight Reduction & Sydney Approach
+
+* **03:45 AM – 05:00 AM EDT:** **High-Altitude Fuel Jettison:** The A330neo enters a holding pattern over the Gulf of St. Lawrence to jettison approximately $65,000\text{ lbs}$ of fuel down to the Maximum Landing Weight (MLW) limit of $421,000\text{ lbs}$.
+* **05:20 AM EDT (06:20 AM ADT):** **Sydney Approach Attempt:** Intercepts ILS Runway 06 at CYQY. Descends to Decision Altitude ($200\text{ ft AGL}$). Zero-zero fog conditions prevent landing on non-Cat III infrastructure. Automated missed approach executed; FMS selects Halifax (CYHZ) for Category III autoland capability.
+
+#### Phase 3: Halifax Terminal Operations & Dual Approach Sequence
+
+* **06:00 AM – 07:10 AM EDT:** Cruise transit westbound across Nova Scotia at FL240 while Halifax Regional Fire & Emergency, EHS Ambulances, and ground handling teams assemble at CYHZ.
+* **07:25 AM EDT (08:25 AM ADT):** **1st Approach Attempt at Halifax (CYHZ):** Aircraft intercepts ILS Runway 23. At $200\text{ ft AGL}$, a transient coastal fog patch pushes Runway Visual Range (RVR) briefly below Category III autoland minimums. System executes a published missed approach (climbing to $3,000\text{ ft}$ and re-entering the approach pattern via TUFPY IAF).
+* **07:40 AM EDT (08:40 AM ADT):** **2nd Approach Intercept:** RVR clears above Cat III minimums. Crossing **TUFPY IAF** at $4,000\text{ ft MSL}$ ($210\text{ KIAS}$). Mode S telemetry stream feeding Atlanta tracking stations.
+* **07:45 AM EDT (08:45 AM ADT):** Intercept ILS Runway 23 localizer ($109.9\text{ MHz}$, heading $233^\circ$) 10 nm out at $3,000\text{ ft MSL}$. Flaps 2, gear down.
+* **07:48 AM EDT (08:48 AM ADT):** Glideslope capture at $1,500\text{ ft AGL}$. Fully configured (Flaps FULL, $140\text{ KIAS}$). Autopilot locked in `DUAL LAND` / `AUTOLAND` guidance mode.
+* **07:50 AM EDT (08:50 AM ADT):** **TOUCHDOWN:** Main gear touchdown on **CYHZ Runway 23** ($10,500\text{ ft} \times 200\text{ ft}$). Automated flare, ground spoilers, and symmetric reverse thrust deploy.
+* **07:55 AM EDT (08:55 AM ADT):** Rollout complete. Vacates Runway 23 via **Taxiway Echo/Delta**, holding on the **Main Passenger Terminal Apron (Ramp 1)** for emergency medical extraction.
+
+---
+
+## Part 2: Flight Crew Rest Schedule (Augmented 3-Pilot Crew)
+
+* **Total Cruise Rest Window:** **3 hours 00 minutes** (23:30 EDT to 03:00 EDT)
+* **Crew Complement:** Pilot A (Captain), Pilot B (First Officer 1), Pilot C (First Officer 2)
+
+**Rest Schedule Sequence:**
+
+* **22:15 EDT:** Departure KATL (All Pilots Active)
+* **23:30 – 00:15 EDT:** **REST PERIOD 1 (45 min):** Jack in Bunk (Pilots Sam & Theresa at Controls)
+* **00:15 – 01:30 EDT:** **REST PERIOD 2 (75 min):** Theresa in Bunk (Pilots Sam & Jack at Controls)
+* **01:30 – 03:00 EDT:** **REST PERIOD 3 (90 min):** Sam in Bunk (Pilots Theresa & Jack at Controls)
+* **03:00 – 03:30 EDT:** **ALL PILOTS AWAKE:** Theresa and Jack found dead by Sam.
+
+---
+
+## Part 3: Aircraft Staging & PC-12 Ground Location Details at CYHZ
+
+### Primary Airframe Positions at CYHZ
+
+* **Gateway Facilities FBO / PAL Aerospace Apron**
+* *Distance:* ~400m to Airside Service Road | ~850m to Main Terminal
+* *Role:* Executive/Corporate Ramp & Primary PC-12 Medevac Staging
+
+
+* **Main Terminal Ramp 1**
+* *Role:* Gate 22/24 Heavy Apron & A330neo Emergency Egress
+
+
+
+### 1. Pilatus PC-12 Staging Location
+
+* **Primary Facility:** Gateway Facilities FBO / PAL Aerospace Apron (South Airfield Area).
+* **Coordinates:** $44^\circ 52'\text{N},\ 063^\circ 30'\text{W}$
+* **Parking Position:** Hardstand apron directly outside the Gateway / PAL Aerospace hangar complex.
+* **Operational Capabilities:** Direct tarmac gate access for ground medical tenders, dedicated patient transfer zone, full auxiliary turbine power support.
+
+### 2. Delta A330neo Emergency Position
+
+* **Primary Facility:** Main Passenger Terminal Apron (Ramp 1).
+* **Parking Position:** Gate 22/24 Deicing/Heavy Apron Area.
+* **Operational Capabilities:** Immediate jetbridge or mobile airstair coupling, direct ramp perimeter vehicle access for Halifax Regional Fire & Emergency / EHS Ambulances.
+
+---
+
+### Airside Pedestrian Transit Route (Terminal Ramp to PC-12 Apron)
+
+* **Total Walk Distance:** $\sim 850\text{ meters } (2,780\text{ feet})$
+* **Transit Time:** 9 to 11 minutes on foot (under 3 minutes via airside ground tender)
+* **Route Description:**
+1. Exit south security doors of the main passenger terminal building onto **Ramp 1**.
+2. Proceed south along the marked airside service road running parallel to Taxiway Hotel.
+3. Pass the central Ground Support Equipment (GSE) building and air cargo complex at the 500-meter mark.
+4. Enter the secure gate perimeter of the **Gateway Facilities / PAL Apron**; PC-12 is staged on the open concrete hardstand adjacent to the hangar doors.

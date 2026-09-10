@@ -1,4 +1,4 @@
-# 13 — John, Day 3
+# 11 — John, Day 3
 
 They gave Catherine ten minutes to grab what she could carry from the hospital, and she used every one of them — coming back across the torn stretch of fence with a duffel of supplies over one shoulder and a hard, decided look on her face that told John she'd already made up her mind about something before he'd even asked the question.
 
@@ -10,15 +10,15 @@ Sam had the chart out again before they'd finished strapping in, and for once hi
 
 "Then let's not waste the good luck," John said, and Sam laughed, short and real, and pushed the throttle forward.
 
-The desert gave way to mountains and then, hours later, to green — a green so sudden and total after a week of brown and gray that Tyler pressed his whole face to the window without saying anything, and Catherine, seeing it, reached over and squeezed his shoulder once, doctor's hands finding the exact right amount of pressure without being asked. Portland's runways came up out of a low ceiling looking almost ordinary, lights burning along the approach path in a way none of them had seen at an airport since Gander — Oregon's grid still doing, three days on, exactly what the hydro math had always promised it would.
+The desert gave way to mountains and then, hours later, to green — a green so sudden and total after a week of brown and gray that Tyler pressed his whole face to the window without saying anything, and Catherine, seeing it, reached over and squeezed his shoulder once, doctor's hands finding the exact right amount of pressure without being asked. Portland's runways came up out of a low ceiling looking almost ordinary, lights burning along the approach path in a way none of them had seen at an airport since Halifax — Oregon's grid still doing, three days on, exactly what the hydro math had always promised it would.
 
-They found the rental lot at the edge of the field, same as always — keys in the consoles, a full tank waiting, no drama in it at all — and pointed the car west, toward the coast and the coordinates John had been carrying folded in his jacket pocket since Wednesday afternoon in an office that felt like a different lifetime now.
+They found the rental lot at the edge of the field, same as always — keys in the consoles, a full tank waiting, no drama in it at all — and pointed the car west, toward the coast and the coordinates John had been carrying folded in his jacket pocket since that first gray morning at PDK, in a shut-down restaurant that felt like a different lifetime now.
 
 The overlook, when they found it, was a scrubby pull-off above a stretch of gray Pacific with cliffs dropping away on either side, a place somebody would only ever stop for the view. Grace was sitting against a boulder a few yards off the trail, a makeshift splint of driftwood and what looked like a torn jacket sleeve lashed around one leg, a half-empty water bottle beside her and an expression that shifted from wary to something close to disbelief as all four of them came into view at once.
 
-"You actually came," she said, voice rough from three days of mostly not talking to anyone. "I want to be honest, by day two I'd started assuming I imagined that phone call."
+"You actually came," she said, voice rough from three days of mostly not talking to anyone. "I called 911. Got that — recording, that computer voice, whatever it was. Read it these coordinates off my phone about six times and never got a person. By day two I'd pretty much decided nothing on the other end had heard me."
 
-"You didn't imagine it," John said, crouching down to her level the same way Sam had crouched for Tyler in Huntsville. "This is Catherine. She's a doctor. We're going to get you looked at properly."
+"Something heard you," John said, crouching down to her level the same way Sam had crouched for Tyler in Huntsville. "It logged the call. That's how we found the spot — I've been reading those logs for two days." He let that sit a second. "This is Catherine. She's a doctor. We're going to get you looked at properly."
 
 Catherine was already moving, gentle and fast at once, fingers working down the splint with the particular unhurried competence of someone who'd done this ten thousand times and knew panic never helped a fracture heal straighter. "Tib-fib, most likely," she said after a minute, mostly to herself. "You did a decent job stabilizing it — better than most people would manage alone on a cliff." To Grace: "It's going to hurt getting you into the car. I'm not going to pretend otherwise."
 

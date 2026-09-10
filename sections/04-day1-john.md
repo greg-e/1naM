@@ -1,41 +1,25 @@
 # 4 — John, Day 1
 
-Not the shape he'd pictured, in the few minutes he'd let himself picture reaching anyone at all. No clean relief in it. Both of them talking over each other in short bursts, each trying to get the other caught up before the line quit, because neither of them believed there'd be a second call.
+The drive to Marietta was worse than the morning walk had been, worse even than the long loop he'd made himself take through the city the day before. Same emptied roads — stalled cars at their angles, one stretch where he threaded the shoulder around a delivery truck folded through a guardrail — except he was driving straight into this one, not stumbling onto it, and every mile put him closer to a question he already knew the shape of. He kept the radio off. Nothing on it anyway. Off on purpose.
 
-Sam talked fast and flat, a career of keeping his voice level no matter what. The flight deck. His first officer. The relief pilot — both gone at the controls while he slept. A coast socked in, an approach he didn't finish, a hundred miles inland to a runway lit for nobody.
+Elena and Maya's street looked like every street he'd seen since he left the house — driveways too full, nobody out, a garbage can on its side at the curb by nothing. Sam's address was a two-story colonial, basketball hoop over the garage, a minivan parked square and ordinary in the driveway, doors shut. Nothing wrong with any of it. Which was the thing that was wrong. Whatever had happened here had happened long after anyone last needed that car.
 
-John listened from the chair at his own desk, the workstation humming beside him, Dan's chin on his foot. Somewhere out over the water, at least one other person had been doing the same math he had.
+He sat in his own car a second before he made himself get out.
 
-"How did you find me." Not an accusation. A man needing to understand what had happened to him.
+Front door unlocked. He knocked anyway, three times, waited a breath, let himself in when nothing came back — because he'd known since the driveway that nothing would.
 
-The short version was the honest one. "You were the only airplane still on the map doing something a person does. Couldn't get a name off that, so I went into Delta's crew records and took one. It wasn't legal. There was nobody left to ask."
+He found Elena first. Primary bedroom at the top of the stairs, still in bed, covers up to her shoulder, the way anyone sleeps on an ordinary Monday night that had no reason to be the last one. He didn't need to check. He checked anyway — the same gesture, the same cool nothing he'd gotten every other time.
 
-A silence. Then a sound that wasn't quite a laugh. "I don't think I care."
+Maya's room was down the hall. A door with a hand-painted sign she'd clearly outgrown and kept anyway. She was in her bed too, small under a comforter covered in stars. A backpack sat packed by the desk — new folders, a lunch box still zipped, her name on a fresh binder in careful, slowed-down handwriting — ready for a second day of school that never came.
 
-"No. Didn't think you would."
+John stood in the doorway and didn't go in. Some things didn't need a pulse to be sure of, and he didn't want to be the kind of man who walked all the way in anyway.
 
-"You're in Atlanta. You said Atlanta."
+He went back downstairs and sat on the bottom step longer than he meant to, Dan's leash still looped over his hand, the dog pressed warm and solid against his leg like he knew exactly what kind of house this was. Nothing to do here. No one to call for, no scene to manage, nothing to fix. A house that had gone quiet at two in the morning along with every other house on the street.
 
-"Alpharetta. North side."
+He made himself go up once more. Pulled Maya's comforter to her shoulders, the way Elena's already was. Closed both doors, gently. Downstairs, he turned the thumb-latch and pulled the front door shut until it caught — some old instinct that a locked door still meant something, even now, even here.
 
-A pause, and the breathing changed on the other end — a man deciding whether he had any right to ask for something. "My wife. Elena. And my daughter, Maya. They're in Marietta." A breath. "I've been calling since I got on the ground. Over and over. Nothing." His voice went somewhere in the middle of it and he pushed through. "I need someone to actually go there. Not call. Go, and look. I don't know when I get back — don't even know yet what I'd get back in — and I can't sit in this airport another hour not knowing."
+Then he sat on the top step with Dan for a while before he could stand up. There was a thing he knew now that Sam did not, and no clean way to hand it to him. Sam was somewhere on a ramp in Halifax working out how to get an airplane off the ground, and once he managed it he'd be hours in the air with a phone that couldn't hear anything — and *your wife and your daughter are dead* was not a sentence John was going to leave on a voicemail or say into a headset over an ocean. It would keep until Sam was down somewhere and called. It would have to.
 
-"I'll go." Out before he'd finished deciding it, and he meant it more than he'd meant anything all day.
+He drove home through the middle of a bright, wrong morning, Dan pressed against the console, and got back a little after eleven. The house was as he'd left it — the workstation still going down the hall, the notebook open on the desk with two dead numbers crossed out and one name at the top that was, as far as he knew, the only other living person he had any way to reach. He tried the number once, standing in the kitchen. It rang and rang and went nowhere — Sam mid-preflight with the phone in a bag, or already rolling, or just not able to take a call he had to half-know the shape of. Either way he was minutes from the air and then hours in it.
 
-They traded what they could while the line held. Sam's cell, in case a tower came back somewhere. John's, the same. The Marietta address, which Sam said twice, slow and careful, like a number he'd had memorized fifteen years and still didn't trust himself with today. Partway through the second time the connection thinned to a dry hiss, his voice landing a half-beat behind itself.
-
-"You get through to me again — any hour — I'll pick up."
-
-"John." Right at the edge of the static now. "Whatever you find over there. Just tell me the truth. Don't try to soften it. I'd rather know."
-
-"I will."
-
-The line dropped a few seconds later, no goodbye, just the flat tone of a call that had ended itself. He held the phone a while before he set it down.
-
-Then he moved. A duffel out of the hall closet. Two changes of clothes, the good flashlight from the garage, a first-aid kit still in its shrink wrap, a case of water, Dan's food and his bowl. Fast, no lingering on any of it.
-
-He stopped in the office doorway on the way past. The machine in the corner, humming, doing everything he asked of it and going nowhere — held to the spot by its own weight and its own power draw. A problem for later. Not today.
-
-Every minute he stood in his own house was a minute Sam spent alone in an empty terminal not knowing. That math was not close.
-
-Dan in the car. Out of the driveway toward Marietta. The streets stayed exactly as wrong as they'd been all day — stopped cars at their odd angles, no one in them, no one anywhere — the whole city holding as still as it had held since two in the morning the day before.
+So John had a thing he knew, and no one to tell it to, and a whole afternoon to hold onto it.

@@ -19,18 +19,16 @@
 - [2 — Sam, Day 0](sections/02-day0-sam.md)
 - [3 — John, Day 0–1](sections/03-day0-1-john.md)
 - [4 — John, Day 1](sections/04-day1-john.md)
-- [5 — John, Day 1](sections/05-day1-john.md)
-- [6 — Sam, Day 1](sections/06-day1-sam.md)
+- [5 — Sam, Day 1](sections/05-day1-sam.md)
+- [6 — John, Day 1](sections/06-day1-john.md)
 - [7 — John, Day 1-2](sections/07-day1-2-john.md)
-- [8 — Sam, Day 1-2](sections/08-day1-2-sam.md)
-- [9 — Sam, Day 2](sections/09-day2-sam.md)
-- [10 — John, Day 2](sections/10-day2-john.md)
-- [11 — John, Day 2-3](sections/11-day2-3-john.md)
-- [12 — John, Day 3](sections/12-day3-john.md)
-- [13 — John, Day 3](sections/13-day3-john.md)
-- [14 — Yohan, Day 0](sections/14-day0-yohan.md)
-- [15 — John, Day 3-6](sections/15-day3-6-john.md)
-- *(Sections 16 onward: cleared, pending rewrite — see Continuity & Production Notes. New sections go in `sections/` as `NN-dayX-slug.md`.)*
+- [8 — John, Day 2](sections/08-day2-john.md)
+- [9 — John, Day 2-3](sections/09-day2-3-john.md)
+- [10 — John, Day 3](sections/10-day3-john.md)
+- [11 — John, Day 3](sections/11-day3-john.md)
+- [12 — Yohan, Day 0](sections/12-day0-yohan.md)
+- [13 — John, Day 3-6](sections/13-day3-6-john.md)
+- *(Old Sections 8–9 — Sam's Loring night-diversion and fuel crisis — were deleted in the 2026-09-08 "Sam pushes through Wednesday" retcon; Sections 10–15 renumbered down to 8–13. Sections 14 onward: cleared, pending rewrite. New sections go in `sections/` as `NN-dayX-slug.md`.)*
 
 ---
 
@@ -83,6 +81,102 @@ The author supplied a new flight dossier, **`deltaFlight84.md`**, to replace **`
 **Files touched:** `deltaFlight84.md` (note #3, "Why St. John's first, then Gander," Part 3 timeline table, Part 4 signature + weather line), `sections/02-day0-sam.md` (para 15 onward — the turn is now for St. John's; added the fog approaches and the inland divert; Gander arrival trimmed to one inspection pass + a committed approach, no second go-around), `sections/01-day0-john.md` (para 37 — John reads the coastal break-off in the track history), `CLAUDE.md`, `timeline.md` + `timeline-simple.md` (Section 2 rows + hour-by-hour), this file.
 
 **Still fine / unchanged:** everything downstream of the Gander landing (the grief scene, the aircraft choice, the Bangor/Loring/Limestone legs). Section 2's other rough spots (typos: "there was no respons," "wathching," "flight attendence," "found woke up") were **not** touched this pass — flag for a future line edit.
+
+### ADDENDUM — 2026-09-08 (later same day): dossier replaced again — Halifax via Sydney, fuel jettison, autoland; Gander AND St. John's both dropped
+
+**What happened.** The author replaced `deltaFlight84.md` with a new version and directed ("follow the dossier fully") that Section 2 be trued up to it. The new dossier throws out the Newfoundland routing entirely. It is internally a bit loose (its "03:30 AM incapacitation" label, a 2026 date token, MLW arithmetic that doesn't quite close), so it was read for route/procedure/structure and reconciled against the hard canon rather than followed literally on timing.
+
+**The new diversion sequence (now canon):**
+- FO Theresa and relief pilot Jack die at the controls at **2:00 AM EDT** (unchanged hard rule) while Sam is in the bunk. Per the new dossier the augmented crew flew **three** rest periods (Relief Pilot → First Officer → Captain), Sam's running ~1:30–3:00 AM EDT — this **reverses** the 2026-09-07 "two rest periods, not three" note, but still puts both other pilots up front at 2:00 AM, so nothing else changes.
+- Sam wakes ~3:00 AM for his handoff, finds them, works the cabin, initiates the turnback ~3:30 AM — by then **~90 nm SW of Sydney, NS, over the Cabot Strait** (was: ~500 nm ENE of Newfoundland, ~5:45 AM). The aircraft now flies itself for **~1 hour**, not ~4.
+- Turns for **Sydney (CYQY)** as nearest suitable, but is tens of thousands of pounds over max landing weight (~5 h into a 9 h transatlantic fuel load) → holds over the Gulf of St. Lawrence and runs the **fuel-jettison** checklist, ~an hour, ~30 tons dumped. (New beat; also the point in the scene where the grief lands on him.)
+- **Sydney approach:** ILS 06 coupled to 200 ft in zero-zero advection fog; Sydney has no Cat III, 200 ft is as low as it goes; misses. ("He did not land" beat preserved.)
+- Diverts **~150 nm SW down Nova Scotia to Halifax Stanfield (CYHZ)** — the transatlantic alternate and the only field in fuel range with **Cat III autoland**.
+- **Halifax approach 1:** ILS 23; transient fog drops RVR below Cat III mins at ~200 ft; the automation flies the missed approach; Sam lets it.
+- **Halifax approach 2:** fog shifted; full coupled **autoland**; firm automatic touchdown Rwy 23. Sam is a passenger for the landing and hates it — a real character shift from the old "I won't gamble a blind autoland" Sam (the weather + fuel state take the choice away).
+- **Landing field: Halifax (CYHZ).** Flight-plan alternate: **Greater Moncton (CYQP)** (was Halifax). Terminal scene relocated to Halifax — a full big-city international airport (~450k metro), near-empty at 2:00 AM, keeps a smaller Operation Yellow Ribbon nod (Halifax took ~40 flights / ~7,000 pax in 2001).
+
+**Weather-source correction (same pass):** with the grid up, an unstaffed field's **automated weather still broadcasts** (AWOS/ASOS + RVR sensors run with no humans) — so Sam is *not* flying blind on the numbers. He gets wind/altimeter/visibility from a recorded voice at Sydney and a minute-by-minute automated RVR at Halifax (it's what lets him watch the number sit at CAT III limits and drop below on the first approach). What he lacks is the *human* layer: a controller confirming the runway is physically clear, and anyone to vouch the automated reading is current. The old "No ATIS to give him a number" line was wrong and is fixed.
+
+**Files touched this pass:** `sections/02-day0-sam.md` (lines 17–47 rewritten: Sydney turn, fuel-jettison hold, Sydney missed approach, divert down Nova Scotia, two Halifax approaches with an autoland, Halifax terminal scene; automated-weather fix at Sydney + both Halifax approaches; line 7 wake-time already 1:30/3:00 on disk); `sections/01-day0-john.md` (the FlightAware paragraph — track now bends to the Maritimes, a jettison hold off Cape Breton, Sydney miss, Halifax miss, then landing; John reads the **completed history** rather than watching it land live); `CLAUDE.md` ("Sam's flight — settled facts" block: death-time/position bullet, diversion-sequence bullet, Section-1-signature bullet); this entry.
+
+**STILL OPEN — needs author decisions / a later pass:**
+1. **Section 6 is still entirely "Gander."** The PC-12 pickup, the PAL Aviation FBO, "Gander Center" on the radio in Section 2 line 13, and — biggest — the **"Newfoundland hydro grid still on"** worldbuilding all need reworking for Halifax. Nova Scotia's real grid is **coal/wind-heavy, not hydro-dominant**, so the clean "hydro survives unattended" logic (also cited as the precedent for Portland/PNW in Section 7 and Huntsville/TVA in Section 11) does **not** transfer to Halifax as written. Options: (a) keep Sam on the ground at Halifax only briefly, on airport backup power, and move the "hydro grid" precedent-setting somewhere else; (b) have him hop to a nearby hydro-fed field; (c) something else. **Author call needed before Section 6 can be re-trued.**
+2. **Sections 8, 9** (Loring/Limestone, Bangor backtrack) reference the Gander departure and the Gander→Bangor plan — need their "from Gander" phrasing updated to "from Halifax" and the leg distances re-checked (Halifax→Bangor is shorter and more southerly than Gander→Bangor).
+3. **Section 1 live-landing beat.** Dossier touchdown ~7:50 AM EDT vs. John realistically at his laptop ~8:15+ AM → John now reads the finished track instead of watching it land in real time (small loss of immediacy). If the author wants the live beat back, the cleanest fix is to slide the dossier's whole timeline ~1 h later (touchdown ~8:50 EDT). **Left as "reads the history" for now.**
+4. **Section 14 (Yohan) echo.** "The machine keeps flying/steaming after everyone aboard is gone" is now only a ~1-hour beat for the A330 (vs. ~4 h before), a weaker parallel to Yohan's ship holding course for hours. Probably fine, but note it.
+5. Per-section facts blocks in this file for Sections 2 and 6 are stale (they still say Gander, and Section 5's block still says "Wednesday" / mentions the Atlanta office) — part of the already-flagged "draft facts-block resync" backlog, now bigger.
+6. `timeline.md` / `timeline-simple.md` Section 2 rows and hour-by-hour still say St. John's/Gander — full re-sync needed.
+7. `deltaFlight84.md` itself: the 2026 date token, the "03:30 incapacitation" label (should read as turnback-initiated), and the MLW jettison math could use a cleanup pass so it stops contradicting the hard 2:00 AM rule on its face.
+
+### ADDENDUM — 2026-09-08 (later same day): Section 3 spread across Tue/Wed; Sam's Halifax night + independent decision to fly home (Sections 2, 4, 5, 6)
+
+**Author-directed** ("all of it now" / "independent decision Wednesday"). Two coupled changes.
+
+**A. Section 3 restructured — the intrusion moves to Tuesday night, John sleeps while the agents work.**
+- The **~4-hour drive into the empty city moves from Wednesday to Tuesday afternoon** (right after John gets home ~10 AM), re-motivated by Section 1's inputs (frozen feeds, empty sky, GA-400) rather than by a prior camera sweep.
+- Tuesday evening → night: the nationwide telemetry assessment (unchanged content, retimed). Last of three ultra-long-hauls drops off ~2 AM Wednesday.
+- **Tuesday night:** the moral dilemma, then John **sets the freed-model + Claude intrusion running against Delta's systems and sleeps on the office couch while it works** (replaces the old "it took a couple of hours … by the middle of the afternoon" framing).
+- **Wednesday morning:** John wakes on the couch, **deliberately runs his Section 1 routine** (hot shower, the beet/spinach shake, the 2-mile Dan walk past the Pattersons'/Harry's/the Old Milton cars) as a way to hold the morning to a shape he can stand inside → then checks the finished output (three names, three numbers) and **pulls up FlightAware: DL84 still motionless on the Halifax ramp** where it stopped the day before.
+- The calls (First Officer / Relief Pilot / Sam) are unchanged and still Wednesday — now **late morning** rather than "afternoon." Section still ends on "You're not. I'm right here."
+- **The Section 1 "thud at 2:05 a.m." is paid off** on the Tuesday drive: ~5 miles south on GA-400, John passes an exploded tanker truck (burned to the frame, a grass fire still spreading, no one fighting it) — "Not a transformer, then." The old omniscient "nothing on fire because it happened at 2 a.m., no stoves on" line was reworked to John's own POV (he keeps expecting smoke, never finds it) per author note that he wouldn't know enough to reason that way.
+- **Second 911 attempt.** At the tanker fire John calls 911 again — half-hoping the Section 1 call was a fluke (backed-up queue). Same synthetic voice, same script, same loop, no human. Reinforces (doesn't undercut) the Section 7 origin beat that the AI triage agent answered *everyone*.
+- **Also (author POV note):** John's Tuesday-drive observations were tightened to what he can actually see/deduce — no narrator-level causal claims he couldn't make from the car. And the drive's *motivation* was corrected: it is **not** "I've only seen screens, I need to see it real" — John has already checked three bodies by hand that morning, one of them Harry (his 20-year friend, next door). The drive is a **scope** check: his street is one sample, the feeds say the whole country but feeds fail together for dull reasons, so he goes out past his own subdivision to put eyes on an independent piece of it. "Not from a chair."
+- Also: "Newfoundland"/"Gander" → "Halifax" throughout Section 3 (paras 5, 29, 55), and the DL84 signature line rewritten to the fuel-jettison-hold / two-missed-approaches version.
+- **Note:** Section 3's opening line (line 3) currently repeats Section 1's closing line ("Heaviness on his chest … since his wife Naomi died … no appetite for his usual second breakfast") near-verbatim — an author edit landed there mid-pass. The new para 2 flows from it, but flag the near-duplicate for a line edit (deliberate re-anchor vs. accidental paste).
+
+**B. Sam's thread — Halifax hotel night + Sam independently decides Wednesday to fly home.**
+- **Section 2** now ends with Sam's Day-0 night: terminal family calls fail → he goes to the **airport hotel joined to the Halifax terminal**, gets food from a locked café with a luggage cart, finds an unoccupied made-up room, showers (grief finally catches up), sleeps hard.
+- **Section 6 fully rewritten** (see its CLAUDE.md block). Opens Wednesday morning at the hotel. Sam's plan on waking: **fly home to Marietta and find Elena and Maya himself** — a decision he makes on his own, before John reaches him. The old cold-open grief breakdown is **relocated from the terminal gate-area floor to the left seat of the PC-12**, triggered by John's second call (Section 5's news). FBO/apron relocated to Halifax (GATEWAY / PAL AEROSPACE). Grid worldbuilding changed: power's up but *won't last* (no "Newfoundland hydro forever").
+- **Section 4** (John POV of call 1): flight recap updated to the Halifax dossier; **Sam now says he's already found an airplane and is flying home** — and asks John to check Marietta *because* John is 1–2 hours away and Sam is a fuel stop + an overnight out.
+- **Section 5** (John POV of call 2): Sam's "I'm coming to Atlanta" is now a **redirect** — "I already found the airplane … I was going to fly home … there's nothing to look for now … but I'm still coming." **Sam picks the meeting field** (John defers). Also cross-references the Tuesday city loop ("worse even than the long loop through the city the day before").
+
+**Still open / to check:**
+1. **Sections 7 and 10 name "Newfoundland"** as the place Sam landed in with the resilient grid ("the way Newfoundland did," "places like Newfoundland and Maine"). He landed at **Halifax**. Section 6 keeps a *soft* hydro-resilience beat (hydro-from-Labrador + coastal wind carrying Halifax's grid, "days not weeks") so the logic still roughly holds, but the on-page word should be **Halifax / Nova Scotia**, not Newfoundland. Small prose swap in Sections 7 (para 31) and 10 (para 23); the Section 7 CLAUDE.md block's "mirrors the Gander/Newfoundland logic" line also needs updating.
+2. **Section 8** "Sam arrives Bangor's vicinity after full dark" — Halifax→Bangor (~350 nm) is roughly half the old Gander→Bangor distance, so this now leans on a genuinely late (dusk) Halifax departure. Section 6 has him lifting off "into a sky running out of light," which supports it, but the leg is short — read Section 8 once more for whether the dark-arrival timing still feels earned. Its two "Gander" place-names were swapped to "Halifax" this pass.
+3. **Section 9** — its three "Gander" place-names swapped to "Halifax" this pass; the "phone held up outside the FBO … two nights ago" callback softened (no such gesture in the new Section 6, and it's one night not two). Section 9's Loring→Bangor→Atlanta structure is otherwise unaffected.
+4. `timeline.md` / `timeline-simple.md` — Section 2/3/4/5/6 rows now materially wrong (Gander, Wednesday drive, "Sam decides in Section 5", afternoon first-contact, no hotel night). Full re-sync still owed.
+
+### ADDENDUM — 2026-09-08 (later same day): Sam pushes straight through Wednesday — Sections 8 & 9 DELETED, 10–15 renumbered to 8–13
+
+**Author-directed**, via Q&A. This supersedes items 1–3 above (Sections 8 & 9 no longer exist).
+
+**The core change.** No Loring, no fuel crisis. Sam wakes at the Halifax hotel Wednesday morning, gets the FBO PC-12, records a new voicemail greeting (*"This is Sam. I'm alive, I'm okay. If you're hearing this — call me back"*), and departs **Wednesday morning in daylight** for home. Planned one fuel stop at **Manassas, VA (KHEF)**, ~halfway. **~4 h out, over Pennsylvania, the PT6 starts making metal** — a wandering ITT, then unsteady oil pressure; he brings it down at Manassas (his planned stop anyway), pulls the chip detector, finds gray fuzz on the magnet. **That airframe is done.** He spends the afternoon finding and prepping a **second PC-12 off the Manassas ramp** (based aircraft, fob in the FBO key box), but by the time it's ready it's evening, he's been up since dawn, and he's not flying a strange airplane solo into the dark. **He overnights in the Manassas FBO crew lounge and flies the second airplane to PDK Thursday morning.** The Loring night-diversion and the Bangor fuel crisis existed only because of a late departure into darkness — with a daylight departure they can't happen, so **Sections 8 (`08-day1-2-sam.md`, Loring) and 9 (`09-day2-sam.md`, Bangor backtrack) are deleted outright.** But the engine failure keeps a compressed, daylight version of Sam's "aircraft trouble on the way" arc and gives the "don't launch exhausted into an unknown airplane" craft beat somewhere to live.
+
+**First contact is no longer a live call.** Cell doesn't work in flight, so when John finishes his Wednesday-morning routine and calls the captain's number, he gets **Sam's re-recorded voicemail** — proof of life, not contact. **Section 3 ends there** (the old "Hello?" / "You're not. I'm right here." ending is gone), and the FlightAware check shows Sam's light single already airborne off Halifax. **Section 4** is the callback — Sam phoning John Wednesday **early afternoon from Manassas**, engine dead, stuck till morning. This is what makes the Marietta ask land: Sam genuinely cannot get there for a day-plus, and John is an hour away. **Section 5** is John's Marietta trip (afternoon) + the news call that **evening**, once Sam is bedded down at Manassas with signal — delivered live, plainly; they set **4:00 PM Thursday, PDK**; the line drops for the last time.
+
+**The reunion is Thursday** — now naturally, because Sam is a night and a leg away, not because he's in town but tired. He flies Manassas → PDK Thursday morning and meets John on the ramp at 4:00. Section 8 (formerly 10) onward is structurally intact.
+
+**Renumber (via `git mv`):** `10→08`, `11→09`, `12→10`, `13→11`, `14→12` (Yohan), `15→13`. H1 headers fixed. TOC updated.
+
+**Prose touched this pass:**
+- `03` — new voicemail ending. Also: the Wednesday-morning FlightAware check now shows **not** the parked A330 but a **light single that has just lifted off Halifax, tracking southwest** — John sees Sam get airborne (echo of the Section 1 "someone's still making decisions" beat), which also pre-explains why the call goes to voicemail (Sam already flying, cell dead aloft).
+- `04` — reworked: call opens with Sam calling John back **from Manassas ~2 pm** — dead engine, stuck till morning, "that's tomorrow at best before I can stand in that house, you're an hour from it right now." Recap updated (engine making metal over PA, the airframe left at Manassas). The Marietta ask now genuinely load-bearing.
+- `05` — reworked: John finds Elena and Maya, **does not call from the house** ("no version of *your wife and daughter are dead* that belonged on a voicemail"), drives home, calls that **evening once Sam's bedded down at Manassas**; news delivered live; 4:00 Thursday plan; last call. Sam's "I already found the airplane / redirect" content dropped. Dog-feeding beat removed (it lived in Section 7).
+- `06` — full rewrite: wake at hotel → PC-12/FBO/fuel → **records the voicemail** → **daylight departure**, no daylight-miscalc flaw → **~4 h out the PT6 starts making metal** → limps it into Manassas (planned fuel stop), chip detector confirms it → **spends the afternoon prepping a second PC-12 off the ramp**, but won't fly it exhausted into the dark → **overnights in the FBO crew lounge** → the grief breakdown is there, Wednesday night, with the second airplane ready and nothing left to do with his hands → phone rings, John, "he already knew." Ends on him picking up. (Manassas dark-town / FBO-on-a-generator beat = the grid evidence old Section 8 carried.)
+- `07` — opening adjusted (house dark "through the last call with Sam and after"); "flying south out of Newfoundland in something he hadn't picked yet" → "on the ground at an airport twenty minutes north … waiting on four o'clock tomorrow"; the Portland/PNW-hydro paragraph reworked to reference John's own Section 3 grid analysis + "a corner of Atlantic Canada" instead of "the way Newfoundland did."
+- `08` (formerly 10) — "how many more places like Newfoundland and Maine" → "watched the lights go out town by town on his way south"; "the voice John had spent two days talking to" → "the voice from the phone"; **the gear-transfer line fixed** to the whole workstation (two-man lift, Sam helps, power-on-the-road flagged in-story) instead of "laptops, SSDs, satellite hotspot"; **the "aircraft Sam flew in on" description reworked** — it's now the *second* PC-12, grabbed off the Manassas ramp after the first one quit over PA, provenance unknown ("two airplanes in two days I've taken on faith, and one of them already quit on me"), which is why Sam wants the dealer demo.
+
+**STILL OPEN:**
+1. **CLAUDE.md and this file's per-section facts blocks still use the old numbering (8–15) and still contain the deleted Sections 8 & 9 blocks.** A mechanical renumber pass is owed: every "Section 10/11/12/13/14/15" reference → "8/9/10/11/12/13", "Sections 1-15" → "1-13", delete the two "Sam's night diversion to Loring" / "Sam's Day 1 fuel problem" facts blocks. (The CLAUDE.md Section 3/4/5/6 blocks *are* updated this pass; the rest is not.)
+2. **`timeline.md` / `timeline-simple.md`** — now further out of sync (whole Sam thread compressed to one day, Sections 8/9 gone). Full re-sync owed.
+3. ~~**Section 8 pre-existing flags:** Grace briefing + John's "not current."~~ **RESOLVED in the 2026-09-08 continuity cleanup pass** (see below).
+4. **Old Section 8's one keeper beat — "the grid collapse has reached the US northeast"** — migrated into Section 6's Manassas fuel stop (dark town, FBO on a generator). If a later section wants a bigger on-page grid-failure set piece, it's now unbuilt.
+5. **`deltaFlight84.md`** cleanup (2026 date token, "03:30 incapacitation" label, MLW math) still owed from the earlier addendum.
+
+### CONTINUITY CLEANUP PASS — 2026-09-08 (Sections 3→8)
+
+After all the same-day iteration, a sweep for sequence/consistency in the John↔Sam contact chain:
+- **`03`** — the pasted-in duplicate opening line (Section 1's closing beat, verbatim, with typos) replaced with a clean transition. FlightAware/voicemail ending confirmed consistent (John sees the PC-12 already airborne → call goes to voicemail). Redundant second "turned around" in the city-drive paragraph noted (minor, left).
+- **`06`** — **the callback to John was out of order.** It sat after the "spent the afternoon prepping the replacement PC-12" paragraph, which put it at ~5–6 pm and contradicted Section 4's "the call came a little after two." Reordered: engine trouble → land Manassas → chip detector → **call John right there (~2 pm)** → *then* the afternoon prepping the second airplane → crew lounge → breakdown → John's news call. Added an explicit "wasn't going to fly it tonight" beat.
+- **`05`** — "engine shut down" / "I'm going to find somewhere to lie down" (future tense) reconciled with Section 6, where Sam is already on the crew-lounge couch when the news call lands: now "a man who'd finally run out of things to do with his hands" and "there's a couch in the FBO lounge here, that's as far as I'm getting."
+- **`07`** — line 9 still said Sam was "on the ground at an airport twenty minutes north" (a leftover from the brief "arrives PDK Wednesday" version) → "stranded on a ramp in Virginia with a dead engine, flying the rest of the way in tomorrow."
+- **`08`** (reunion):
+  - "every other airport John had seen in the last two days" → "everywhere else John had been" (he hasn't been to an airport).
+  - "a flight suit" → "a uniform shirt with the epaulets still on it" (Sam's an airline captain, not military/GA).
+  - **John's currency FIXED** — "not current, haven't touched a yoke in three years" → "instrument rated, current — I fly a 182 out of here most months, a lot of it in actual … nothing with a turbine." Sam's relief speech reworked around type-vs-competence. "relearning instruments he hadn't touched in three years" → "meeting a panel three generations past the steam gauges in his 182." Matches the persona retcon.
+  - **Grace briefing FIXED** — no names, reached no one, three transcript fragments; order rationale → routing/geography. Closing beat "Then Grace." / "Then Grace." → **"Then the people." / "Then the people."**
+  - "The aircraft Sam had flown in on … flown hard for two days" → the *second* PC-12 (grabbed at Manassas after the first quit); swap rationale reworked ("two airplanes in two days I've taken on faith, and one already quit on me").
 
 ## RETCON — 2026-09-08: Section 3 rebuilt — discovery mechanism, no ATL office, +1 day, grid subplot moved to telemetry
 
@@ -168,6 +262,46 @@ The author rewrote the opening of Section 1 and supplied a detailed character do
 - Grammar/register cleanup pass over the whole section (the rapid-interior fragments were smoothed except where the "Ummm" device wants them).
 
 **Files touched:** `sections/01-day0-john.md` (a two-pass rewrite: the author rewrote the opening through the neighborhood walk and the discovery of the first car in the ditch; Claude then rewrote everything from "he rushed to the driver's side…" to the end to match. **Structural change:** John now finds the dead driver and makes the AI-agent 911 call *on foot during his morning walk* (~7:40 AM), before any of the remote research — the old version had him doing hours of research first, then driving out to find bodies and call 911. The second drive is gone entirely. Order is now: walk → dead driver in the ditch + 911 → a second body (pickup in the median) → the Old Milton / GA-400 overpass, jackknifed 18-wheeler hung through the bridge rail over an empty highway → home → frozen feeds → no-aircraft realization → FlightAware/Delta-over-Gander → DOT cameras (now framed as "how far past GA-400 does it go," since he's already seen 400 in person) → 9 AM dead sync → calls all ring out → back to the laptop. The 911-agent pushback beat (the Section 7 seed) and the FlightAware diversion spot are both preserved.), `CLAUDE.md` (John cast bio), `timeline.md` + `timeline-simple.md` (Section 1 rows + hour-by-hour reordered), this file (bio + this entry). **Still needs cleanup:** `README.md` and `timeline.md` John descriptions; the "Day 0 discovery mechanism" wording in both `CLAUDE.md` and this file still says "jailbroken frontier model / deep AI research" framing and could be lightly retuned to the red-team framing (not urgent — mechanism itself is unchanged).
+
+## RETCON — 2026-09-09: `time.md` adopted as canon of time; Act 1 compressed to one day (Wednesday), no Thursday
+
+**Author-driven, iteratively, via a hand-built timeline file.** The author created **`time.md`** as a manual, authoritative timeline and instructed that it be treated as the canon of time — never edited by Claude, and scenes get fixed to match it (a rule now in `CLAUDE.md`, top). `timeline.md` and `timeline-simple.md` were deleted and are superseded by it. Sections 1–3 were trued up first; then `time.md` was extended through the PDK reunion and dinner, and the author confirmed a full retcon of Sections 4–8 + `CLAUDE.md`, with the engine-failure / Manassas / second-PC-12 / Thursday material **cut**.
+
+### The new Act 1 shape
+
+Everything from the first John↔Sam contact through the launch to Huntsville now happens on **one day — Wednesday, September 6 (Day 1)**. There is no Thursday reunion.
+
+| Beat | Old canon | New (per `time.md`) |
+|---|---|---|
+| First John↔Sam contact | Section 3 voicemail; live callback Wed ~2 pm from Manassas (Section 4) | **One live call, Wed ~8:10 a.m.**, John's call, Sam on the ground at the Halifax hotel. FO rings out, Relief Pilot voicemail, Captain answers "Hello?" |
+| The Marietta ask | Section 4 callback | Carried in the **8:10 call**; John + Dan leave for Marietta ~8:30 (ends Section 3) |
+| Marietta visit | Section 5 | **Section 4** (John finds Elena & Maya, confirms, covers, locks, home ~11:30; can't deliver news — Sam airborne) |
+| Sam's journey | Halifax → Manassas (engine failure, 2nd PC-12, overnight) → PDK Thursday | **Section 5** (reordered right after §4 as a parallel "meanwhile" thread): Halifax PAL-ramp PC-12 → **Bangor → Washington-Reagan → PDK**, three daylight legs, all Wednesday, arrive 6:50 p.m. Grief breakdown on the Bangor ramp after the news call. Ends on final approach to PDK, meeting deferred to §7. **No engine failure, no Manassas, no 2nd aircraft, no overnight, no voicemail re-record.** |
+| The news delivered | Section 5, John's evening call | **Sam calls from Bangor ~1 p.m.** (last phone contact). Hand-off across the §5/§6 seam: **§5 carries the one full rendering** (Sam's POV — "Tell me," John's words, "Okay… Okay," then Sam's grief on the ramp); **§6 gives only John's side** — dread going in, the act without repeated dialogue, the weight after. Not staged twice. |
+| John's afternoon | (was overnight, Section 7, from home) | **Section 6** (concurrent with the back half of §5): eat, grid forecasts, **seed the 911 search**, news call, pack the **whole workstation + Naomi's Bible** (Isaiah 41:10 study scene moved here from Section 7), drive to PDK, arrive ~6:15 p.m. and wait. |
+| PDK reunion | Section 8, 4:00 PM Thursday | **Section 7**, **Wed ~7:05 p.m.** + **dinner at the 57th Fighter Group restaurant** (real place on the field; John cooks scavenged steaks + vegetables) |
+| The 911 search / 3 leads | Section 7, overnight from home | **Section 7**, overnight **at PDK** while Sam sleeps in a crew room → same 3 dead-end leads (Huntsville / Phoenix / Portland) by Thursday dawn. Content unchanged (no contact, no names, "never a phone call"). |
+| Mission brief + PC-12 PRO swap + launch | Section 8, Thursday 4 pm | **Section 8**, Thursday. Swap rationale rewritten (no engine failure): "I took the Halifax airplane off a dark ramp on faith, don't know its history." Launch to Huntsville Thursday late afternoon, dusk arrival (Section 9 unchanged). |
+
+### Also changed / confirmed
+
+- **DL84 departure** pinned to ~22:15 EDT Sept 4 (prose: "just after ten-fifteen"). Diversion sequence (Sydney miss → Halifax autoland), 7:50 a.m. touchdown, and the "John reads the completed track" framing all **unchanged** and now consistent with `time.md`.
+- **Sam's Day 0 gains a Halifax city drive** (Section 2 end): after landing he takes a rental car into downtown Halifax to look for survivors (~10:00–16:20), finds no one, returns to the Alt Hotel, asleep ~20:30. Deliberate echo of John's Day-0 city drive. Supersedes "asleep within minutes, terminal-only."
+- **John's Day 0 (Section 3):** he does *not* stay up for the 2 a.m. last-plane drop — starts the Delta intrusion ~22:00, sleeps ~23:45, and **confirms the empty sky Wednesday morning** ("twenty-four hours after it all started, near enough to the minute — he slept through it"). The thematic line is kept, just relocated.
+- **Section 1 back-third trimmed:** John's 8:10 a.m. return from the walk is now a *glance* at the feeds ("only enough to see something is not right" — `time.md` line 14); the deep DOT-camera arithmetic and multi-source analysis are Section 3's job (they were already duplicated there).
+
+### Files touched (2026-09-09)
+
+- Prose: `sections/01-day0-john.md` (trim), `02-day0-sam.md` (departure time + Halifax city drive + no voicemail), `03-day0-1-john.md` (live call + Marietta ask + drive south), `04-day1-john.md` (**rewritten** → Marietta). **Sections 5 and 6 swapped** (`git mv`): `05-day1-sam.md` is now Sam's whole-day thread (was §6, rewritten → Bangor/DCA route, no engine failure; opens "That same Wednesday morning… Sam woke", ends on final approach to PDK); `06-day1-john.md` is John's afternoon (was §5, rewritten → grid work + Bangor news call + pack + drive; opens bridging back from the Sam chapter, news-call scene kept full but tightened). `07-day1-2-john.md` (**rewritten** → reunion + dinner + overnight search), `08-day2-john.md` (**rewritten** → Thursday brief + swap + launch). Small fixes in `09` (breakdown-parallel line, "over Bangor"→John never went there, Waffle-House "Gander" ref), `10` ("what Gander had cost him"→Halifax), `11` ("since Gander"→"since Halifax"; the "imagined that phone call" line reworked to the real canon — she read coordinates to a machine), `13` ("started in Midtown"→"at PDK", laptop/hotspot → workstation).
+- `CLAUDE.md`: new top retcon block + Section 2/3/4/5/6/7/8 facts blocks rebuilt (5↔6 swap reflected); John cast bio (Bible → Section 6); discovery-mechanism block; Day-0/Day-1 structure bullets; the deleted-Sam-sections block; Known open work.
+- `time.md`: **not touched** (author-maintained). `README.md`: timeline pointer → `time.md`. `timeline.md` + `timeline-simple.md`: **deleted.**
+
+### Still to do (flagged, not blocking)
+
+- **Section 11 (Grace's rescue):** "she believed she may have imagined the phone call" → there was no call; she gave coordinates to a machine and waited. (Long-standing flag, not from this retcon.)
+- Spot-check relative-time phrases in Sections 9–13 against the one-day-compressed Act 1 on the next full pass (the uniform compression mostly preserves gaps).
+- The per-section facts blocks lower in *this* file (lines ~315–471, "Section 3-4 / Section 5 / Section 6 (Gander) / Section 7 / Sections 8-9 / Section 10-13") predate the 2026-09-08 renumber and are now doubly stale — `CLAUDE.md` is the maintained reference. Rewrite or delete them when convenient.
+- Power for the workstation on the road / in the aircraft is still an unsolved plot mechanic (flagged in Section 8) — a later section owes an inverter / ground-power beat.
 
 ## Core premise (unchanged)
 

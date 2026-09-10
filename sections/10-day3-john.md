@@ -1,4 +1,4 @@
-# 12 — John, Day 3
+# 10 — John, Day 3
 
 Sam had the chart spread across both their knees before the engine was even fully warm, working the numbers out loud the way John had come to understand he worked everything that mattered. "Direct route's about thirteen hundred miles as the airways actually run it, not as the crow flies. Memphis, Little Rock, Tulsa, Amarillo, Albuquerque, then down into Phoenix past Winslow. Twenty-eight thousand feet is where this airplane wants to live for a leg this long — thin air, good true airspeed, fuel burn that doesn't bankrupt us."
 
@@ -26,7 +26,7 @@ Tyler woke somewhere past Tulsa, blinking against the light coming low and gold 
 
 Tyler nodded like that was a fair trade for now, and stayed kneeling there a while longer, quiet, watching Texas go by underneath a boy whose mother was somewhere directly overhead and impossibly far away at the same time.
 
-Amarillo, when it came up out of the haze, looked like every other field they'd found this week — real runways, a real ramp, nobody home. Sam did the low pass out of habit more than necessity now, found it clean, and brought them down onto a general aviation apron with a self-serve pump that gave up its access panel almost apologetically compared to what Gander had cost him. John held the nozzle this time while Sam ran the numbers on the second leg, a small, deliberate handoff neither of them commented on — useful, not just company. Forty minutes on the ground, tanks full, and they were airborne again with the sun still comfortably high and a clean, unhurried number written on Sam's kneeboard for the leg into Phoenix.
+Amarillo, when it came up out of the haze, looked like every other field they'd found this week — real runways, a real ramp, nobody home. Sam did the low pass out of habit more than necessity now, found it clean, and brought them down onto a general aviation apron with a self-serve pump that gave up its access panel almost apologetically compared to what the fuel truck at Halifax had cost him. John held the nozzle this time while Sam ran the numbers on the second leg, a small, deliberate handoff neither of them commented on — useful, not just company. Forty minutes on the ground, tanks full, and they were airborne again with the sun still comfortably high and a clean, unhurried number written on Sam's kneeboard for the leg into Phoenix.
 
 They picked up the desert a couple hours later, the ground turning red and folded and enormous under them, and Sky Harbor's runways swam up out of the haze looking bigger than anything they'd landed on all week — a real international field, wide enough that Sam's usual low pass felt almost small against it. He flew it anyway, unhurried, found the field clear, and turned them onto a long final with the city spread out dead and silent in every direction beneath them.
 
