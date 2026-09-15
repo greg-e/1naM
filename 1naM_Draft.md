@@ -17,24 +17,21 @@
 
 - [1 — John, Day 0](sections/01-day0-john.md)
 - [2 — Sam, Day 0](sections/02-day0-sam.md)
-- [3 — John, Day 0–1](sections/03-day0-1-john.md)
-- [4 — John, Day 1](sections/04-day1-john.md)
-- [5 — Sam, Day 1](sections/05-day1-sam.md)
-- [6 — John, Day 1](sections/06-day1-john.md)
-- [7 — John, Day 1-2](sections/07-day1-2-john.md)
+- [3 — John, Day 0](sections/03-day0-john-sam.md)
+- [4 — John, Day 0](sections/04-day0-search.md)
+- [5 — John, Day 1](sections/05-day1-launch.md)
+- [6 — John, Day 1-2](sections/06-day1-2-john.md)
+- [7 — John, Day 2](sections/07-day2-john.md)
 - [8 — John, Day 2](sections/08-day2-john.md)
-- [9 — John, Day 2-3](sections/09-day2-3-john.md)
-- [10 — John, Day 3](sections/10-day3-john.md)
-- [11 — John, Day 3](sections/11-day3-john.md)
-- [12 — Yohan, Day 0](sections/12-day0-yohan.md)
-- [13 — John, Day 3-6](sections/13-day3-6-john.md)
-- *(Old Sections 8–9 — Sam's Loring night-diversion and fuel crisis — were deleted in the 2026-09-08 "Sam pushes through Wednesday" retcon; Sections 10–15 renumbered down to 8–13. Sections 14 onward: cleared, pending rewrite. New sections go in `sections/` as `NN-dayX-slug.md`.)*
+- [9 — Yohan, Day 0](sections/09-day0-yohan.md)
+- [10 — John, Day 2-5](sections/10-day2-5-john.md)
+- *(2026-09-14 retcon: old Sections 3–8 — the phone-call/Delta-intrusion chapter, the solo Marietta visit, Sam's Halifax→Bangor→DCA→PDK odyssey, the PDK reunion/dinner, and the Thursday mission-brief/PC-12-swap/launch — are gone, replaced by the four sections above (3–5 new, 6–8 renumbered down from old 9–11 with no content changes needed). Sections 11 onward: cleared, pending rewrite. New sections go in `sections/` as `NN-dayX-slug.md`.)*
 
 ---
 
-## [Sections 16 onward — cleared, pending rewrite]
+## [Sections 11 onward — cleared, pending rewrite]
 
-Everything past the old Section 2 was removed in the [2026-09-05] retcon; Sections 3-15 have since been written fresh against the new canon, culminating in the John/Sam reunion at PDK, the full completion of the Huntsville → Phoenix → Portland mission (Tyler, Catherine, and Grace all rescued), a multi-day rest stop at Grace's coastal house, and a new parallel Day 0 thread for Yohan (Section 14) that reconnects with the main group's timeline in Section 15 when John spots his ship's live AIS track (see [sections/03-day0-1-john.md](sections/03-day0-1-john.md) through [sections/15-day3-6-john.md](sections/15-day3-6-john.md)). Sections 1-15 are now the only settled narrative prose in the book. Everything covering the TruckHouse arc's actual events, the ISS/Soyuz thread, and everything after is gone and needs to be written fresh against the new facts established in Sections 1-15 and in the notes below — see "MAJOR RETCON" at the top of these notes for the new cast, the new Day 0 discovery mechanism, and the grid-shutdown timeline's role as a pivotal subplot. Do not reconstruct any of the deleted content from memory or from git history without the author's direction — treat this as a genuine fresh start past Section 15, not a restyling of what was there before. New sections, once written, go in `sections/` as their own file (`NN-dayX-slug.md`), not inline in this document.
+Everything past the old Section 2 was removed in the [2026-09-05] retcon and has since been rewritten twice more — see the 2026-09-14 retcon at the end of the Continuity & Production Notes for the current shape. As of that pass, Sections 1-10 are the only settled narrative prose in the book: John and Sam meet in person the same day (Section 3), the nationwide 911 search and PC-12 acquisition happen Day 0-1 (Sections 4-5), the Huntsville → Phoenix → Portland mission runs (Tyler, Catherine, and Grace all rescued, Sections 6-8), a parallel Day 0 thread for Yohan (Section 9) reconnects with the main group's timeline in Section 10 when John spots his ship's live AIS track. Everything covering the actual meeting with Yohan, the TruckHouse arc, the ISS/Soyuz thread, and everything after is gone and needs to be written fresh against the facts established in Sections 1-10 and in the notes below. Do not reconstruct any older deleted content from memory or git history without the author's direction. New sections, once written, go in `sections/` as their own file (`NN-dayX-slug.md`), not inline in this document.
 
 ---
 
@@ -523,3 +520,39 @@ Whenever the group needs a car, the go-to is a rental car lot (airport or otherw
 ## Legacy retcon history (condensed, for reference only)
 
 Before this rewrite, the manuscript had gone through an earlier, extensive retcon pass (character cast changes, several cut characters, aircraft-fleet simplification to PC-12-only, a finalized-but-tragic Soyuz-crew fate, a cut Kazakhstan mission, a cut second base). That entire plot is now superseded by the 2026-09-05 retcon above and no longer applies — it's noted here only so future work understands that this book has been substantially rewritten more than once, and doesn't attempt to reconcile new work against it. Full detail on that earlier pass is preserved in git history if ever needed.
+
+## MAJOR RETCON — 2026-09-14: `time.md` rebuilt — Delta 27, in-person Atlanta reunion, no phone call
+
+**Author-driven**, via a full hand rewrite of `time.md` (the flight is renamed, the diversion target changes, and the whole shape of first contact changes) plus a new reference PDF, `DAL27_Emergency_Turnback_Dossier.pdf`. Confirmed with the author before touching prose (per the standing "propose before overwriting settled canon" rule). This supersedes the entire 2026-09-09 retcon above and guts old Sections 3–8 as written.
+
+### What changed
+
+- **The flight is now Delta 27** (DAL27/DL27), **Airbus A350-900**, **Atlanta (KATL) → Seoul-Incheon (RKSI/ICN)**, an ultra-long-haul (~15h20m block) sector — not Delta 84 to Paris on an A330-900neo. Still an augmented **three-pilot** crew (Sam as Captain, Theresa Foreman as First Officer, Jack Sommers as Relief Pilot) — the reference PDF specifies a 4-pilot generic crew (Pilot A/B/C/D) for a flight this long, and a single pilot's medical incapacitation rather than the story's global death event; both were deliberately **not** adopted literally. The PDF is used the same way the old `deltaFlight84.md` dossier was used: for realistic ATC/telemetry mechanics and timing, adapted to the book's actual premise (everyone aboard dies at 2:00 a.m. like everyone else; Sam is the sole survivor).
+- **Departure ~23:35 EDT Sept 4.** Sam's rest block starts ~00:30, ends 3:00 (finds Theresa and Jack dead, same discovery beat as before). **He turns back toward Atlanta at 3:30**, not Sydney/Halifax — a deliberate choice on Sam's part, not default emergency procedure: with no one left aboard to save by speed, and Elena and Maya in Marietta, home is the only direction that means anything. Aircraft is roughly over James Bay/Hudson Bay at the turn (consistent with an ATL–Seoul great-circle routing). **No fuel-jettison hold, no Sydney miss, no Cabot Strait, no Halifax, no Cat III autoland, no fog drama** — the long flight home (~7 hours) burns the weight down on its own, with a short racetrack near the end to finish it. He lands in daylight on a normal visual approach, hand-flown, at his own home field — a deliberate contrast with the old version's disorientation in an unfamiliar diversion airport.
+- **First John↔Sam contact is in person, same day, no phone call at all.** The old mechanism (John stripping the safety layer off his local model, breaching Delta's crew-scheduling/personnel systems for three names and numbers, the 8:10 a.m. call, FO rings out / Relief Pilot voicemail / Captain answers live) is **gone**. Instead: John notices on FlightAware, mid-morning, that one track among the frozen long-hauls is *still moving* — Delta 27, squawking 7700, turned and inbound to Atlanta. He drives to KATL, breaks into the Signature FBO on the GA side, finds keys to a fuel truck, and drives it out toward the runway to be *visible* to an inbound pilot who has no way of knowing if anyone survived. Sam lands ~10:30, sees the truck, and the two men meet on the ramp at ~11:00 — total strangers, first names only, no prior rapport. Sam rides the emergency slide down (kept from the old draft; Dan reaches him first).
+- **No Marietta side-trip by John, no mediated news call, no multi-day gap.** Sam and John drive to Sam's house together (~11:30–12:35) and **Sam finds Elena and Maya himself**, in person, with John present but staying at the threshold/in the hall — echoing (and now paralleling for Sam) the established private/witnessed-grief distinction from John's own arc. This replaces the old Section 4 (John finds them alone, can't deliver the news because Sam is airborne) entirely.
+- **Same-day convergence at John's house.** They drive back together, arriving ~13:40, and Section 3 ends on the line "Let's go find out how big this thing actually is" — handing off directly into John's detailed telemetry search. **Everything downstream of that point is now open** — see "Still to do," below.
+
+### Files touched (2026-09-14, part 1 — Day 0 through the John/Sam convergence)
+
+- `sections/01-day0-john.md`: extended past Harry's death to cover John noticing the still-moving Delta 27 track and driving for the airport (no rename).
+- `sections/02-day0-sam.md`: **full rewrite** — Delta 27/A350/Seoul, Atlanta turnback, no Halifax material, ends on final approach spotting the fuel truck (no rename).
+- `sections/03-day0-1-john.md` **retired and replaced** by a new file, `sections/03-day0-john-sam.md` (the entire phone-call/Delta-records-intrusion/solo-Marietta-visit chapter is gone; git history retains the old text).
+- `time.md`: not touched (author-maintained). `deltaFlight84.md`: already deleted by the author; not restored.
+
+### Part 2 (same day, continued) — the rest of Act 1 rebuilt through the launch to Huntsville
+
+With the author's go-ahead to keep going from the 13:40 arrival at John's house, the rest of Act 1 (old Sections 4–8) was rebuilt as **two new sections** instead of five, since the old PDK-reunion material is no longer needed — John and Sam already know each other intimately by 13:40 (they met, drove to Marietta, and found Elena and Maya together that morning), so there's no second "getting to know you" beat to spend a section on.
+
+- **New `sections/04-day0-search.md` (Section 4, John, Day 0):** John shows Sam the workstation and is upfront that he'd already started the Delta intrusion before Sam landed (moral weight kept, but now witnessed/endorsed by Sam rather than a solitary 2 a.m. decision). Together they run the DOT-camera/AIS/beacon/grid sweep that used to be John's solo Section 3 work. The grid-forecast/danger-window beat is kept (now shared with Sam). The 911-AI-triage realization and the decision to point the freed model at nationwide dispatch is kept, now with Sam explicitly endorsing it ("Some decisions don't need a vote"). Naomi's Bible beat kept, un-tied from a "leaving home for good" framing since they're returning to PDK deliberately, not fleeing. Ends with the search seeded and running overnight, both men asleep in John's house (not PDK).
+- **New `sections/05-day1-launch.md` (Section 5, John, Day 1):** Wake to the same three leads as before — Huntsville, Phoenix, Portland — same dead-number/"never really a phone call" beats, kept close to the original wording since none of it depended on location. Sam raises, unprompted, that his A350 is dead weight for this and they need something smaller; they drive to PDK. The PC-12 PRO dealer-showroom acquisition, the "you fly?" mentorship reveal, the two-man workstation lift, and the daylight-margin check before launch are **all kept from old Section 8**, adapted only for the new day-count and the fact that they're driving in from John's house rather than waking up at PDK already. Ends identically to before: "Then the people" / "Then the people," launch to Huntsville at dusk.
+- **Old Sections 9–13 renumbered down to 6–10 with no content changes**, since Section 9 (Huntsville/Tyler) onward already worked regardless of exactly how John and Sam met — `09→06-day1-2-john.md`, `10→07-day2-john.md`, `11→08-day2-john.md`, `12→09-day0-yohan.md`, `13→10-day2-5-john.md`. Day-count in headers/filenames shifted down by one throughout, per the standing "relative, not exact" rule — internal prose day-references were spot-checked, not exhaustively re-verified.
+- **Bonus fix while touching `08-day2-john.md` (old Section 11):** the long-standing flagged inconsistency where John tells Catherine "we talked to her on the phone three days ago and told her we were coming" about Grace — which contradicted the established "no contact was ever made" canon — is now fixed to reflect that no call ever connected.
+- TOC in this file fully updated to the new 1–10 numbering and filenames.
+
+### Still to do
+
+- **`CLAUDE.md` is now substantially out of date** — its Section 2–8 "settled facts" blocks, the cast bios (Sam's flight details, the discovery-mechanism section, the Fleet rule, the PDK-reunion/dinner references), and the "Known open work" list all still describe the superseded canon. This needs a full pass but was deliberately deferred until the new structure stopped moving; it should happen before the next writing session so `CLAUDE.md` doesn't keep describing a version of Act 1 that no longer exists.
+- **Immediate next section: Sections 6–8 (Huntsville/Phoenix/Portland) are unchanged and still end at Grace's house Day 2-5 with the TruckHouse mention** — the actual next new scene to write is still the Yohan meeting in Seattle, exactly as it was before this retcon.
+- `sections/01-day0-john-polished.md` (a separate, further-polished pass of Section 1's original text) still hasn't been reconciled with the newly-extended `01-day0-john.md` and may need merging by hand.
+- Day-count/relative-time phrasing in Sections 6–10 was shifted down by one in headers only; a full read-through to catch any stray "three days since Tuesday"-style phrases that assumed the old, one-day-later timeline would be worthwhile on the next full pass.
