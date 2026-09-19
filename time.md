@@ -14,9 +14,8 @@
 8:45 EDT - John goes to his neighbor Harry's house to check on him and finds him dead
 9:00 EDT - John's discovery of Delta 27
 9:10 EDT - John's trip to Atlanta Hartsfield Airport
-10:05 EDT - John arrives at Atlanta Airport gains access at Signature FBO and finds the keys to a fuel truck and drives toward runway 26R
+10:05 EDT - John arrives at Atlanta Airport gains access at Signature FBO
 10:30 EDT - Sam lands atlanta
-10:45 EDT - Sam see's fuel truck driving toward him on the ramp 
 11:00 EDT - John and Sam meet
 11:30 EDT - Back to Signature FBO and leave for Sam's house in John's car
 12:35 EDT - Sam's discovery of his family gone

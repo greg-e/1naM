@@ -26,18 +26,6 @@ He tried the radios the whole way south — Winnipeg, Minneapolis Center, Memphi
 
 Atlanta, when it finally rose out of the haze ahead, looked wrong before he could say how. No trails of morning traffic threading the interstates. No haze of ground light left over from the night, because there'd been no city awake to make it. Just the familiar shape of the skyline, the familiar bend of the river, the ordinary geography of a place he'd flown into a thousand times sitting there perfectly still, waiting for him like it always had, and no one in it.
 
-He keyed Guard again on the turn in, the way he had every twenty minutes since Hudson Bay, the words worn down to almost nothing by now. "Anybody — this is Delta Two-Seven, is there anybody on this frequency." He didn't expect anything back. He hadn't expected anything back in six hours of asking.
+He keyed Guard again on the turn in, the way he had every twenty minutes since Hudson Bay, the words worn down to almost nothing by now. "Anybody — this is Delta Two-Seven, is there anybody on this frequency." He didn't expect anything back. He hadn't heard anything back in six hours of asking.
 
 Something answered.
-
-Not a carrier tone, not the dead-air hum resolving into nothing the way it always had — a voice, thin and startled and entirely human, stumbling over the words getting them out. "Delta Two-Seven, this is — I don't have a callsign, my name's John Lauer, I'm on the ground in Atlanta, I can hear you."
-
-Sam's hand came off the yoke before he caught it. For a second his own throat wouldn't work at all. "Say again," he finally got out, rough, urgent in a way he hadn't sounded once in six hours of talking to dead air. "Say again — who is this?"
-
-The voice came back steadier the second time, like the man on the other end was working just as hard to hold himself together. John Lauer. Alpharetta. He'd watched the track turn around on a map that morning and driven straight to the airport on nothing but the hope of being there when it landed. He was parked on the general aviation side, south field — Signature.
-
-"Signature." Sam said it back and felt something in his chest that had been clenched for six hours ease off half an inch. He knew that ramp — two years of charter work before Delta, in and out of that exact FBO more times than he could count, a life that felt like it belonged to somebody else now. "I know exactly where that is. I'll bring it right to you."
-
-The radio went to dead air a few seconds later, whatever had been holding the signal together finally giving out, and Sam flew the rest of the approach with his hands steadier than they'd been since three o'clock that morning — weight finally down where it needed to be, a reason now to want the ground under his wheels beyond just getting down safe. He set up for Runway 26R the way he could have blind — home base, the one airport on earth he didn't need a chart for. No tower answered his calls. No ground vehicles crawled the ramps. He flew it as a plain visual approach, gear down, flaps full, hand-flying the last thousand feet himself, and the wheels touched Atlanta pavement a little after ten thirty in the morning, smooth, the reversers spooling down to a walk on a runway he'd departed off of less than twelve hours before as a completely different man.
-
-He slowed the airplane to a stop short of the first taxiway, hands still on the controls, engines idling, and keyed the radio once more before he moved another foot. "On my way to you now." Then, working the tiller with the same numb competence that had gotten him this far, he turned off toward the general aviation side of the field, toward the one ramp on this whole dead airport where he knew, for a fact, somebody was standing there waiting for him to come into view.
