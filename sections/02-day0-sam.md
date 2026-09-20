@@ -27,5 +27,3 @@ He tried the radios the whole way south — Winnipeg, Minneapolis Center, Memphi
 Atlanta, when it finally rose out of the haze ahead, looked wrong before he could say how. No trails of morning traffic threading the interstates. No haze of ground light left over from the night, because there'd been no city awake to make it. Just the familiar shape of the skyline, the familiar bend of the river, the ordinary geography of a place he'd flown into a thousand times sitting there perfectly still, waiting for him like it always had, and no one in it.
 
 He keyed Guard again on the turn in, the way he had every twenty minutes since Hudson Bay, the words worn down to almost nothing by now. "Anybody — this is Delta Two-Seven, is there anybody on this frequency." He didn't expect anything back. He hadn't heard anything back in six hours of asking.
-
-Something answered.

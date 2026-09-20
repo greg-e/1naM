@@ -36,7 +36,7 @@ John had found a little market two doors down still stocked with everything a ma
 
 "This is genuinely good," Sam said, around a mouthful, sounding almost offended by it. "How do you have two people on this trip who can suddenly cook."
 
-"Anthropic keeps decent knives in the office kitchen," John said. "Never actually stopped to notice how much I'd absorbed just watching other people use them."
+"Google keeps decent knives in the office kitchen," John said. "Never actually stopped to notice how much I'd absorbed just watching other people use them."
 
 It was over the second helping that Catherine set her fork down and looked around the table like she was deciding whether now was the moment. "There's something I should tell all of you," she said. "My brother runs a shop outside Reno — TruckHouse. Overland vehicles, built for exactly this kind of thing. Off-grid capable, the works. I don't know if he's alive. I don't know if any of it's still standing. But if we're going to keep doing this — finding people, moving people — eventually a plane isn't going to be enough, and that's the only place I know of that was built for what's coming next."
 
