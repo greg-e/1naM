@@ -72,7 +72,7 @@ A sound behind him made him jump out of his skin, a flat, cheerful voice from th
 
 He found her on the floor behind the counter, wedged between the register and the cigarette rack. Twenties, maybe younger, in a QuickTrip polo a size too big for her. He checked anyway. Cold, like everyone else that morning. "So sorry" John found himself saying outloud.
 
-Back on 400 every stalled car he worked around was a life gone... the firehouse, the girl on the floor, the two at the pumps, the man in the ditch, Harry, all of it stacking up behind him the same way the traffic wasn't. He checked FlightAware again, DAL27 still on course for Atlanta, over Kentucky now, forty minutes out, maybe less. John was close to an hour from Hartsfield. He didn't have much time.
+Back on 400 every stalled car he passed was a life gone... the firehouse, the girl on the floor, the two at the pumps, the man in the ditch, Harry, all of it stacking up behind him the same way the traffic wasn't. He checked FlightAware again, DAL27 still on course for Atlanta, over Kentucky now, forty minutes out, maybe less. John was close to an hour from Hartsfield. He didn't have much time.
 
 
 
