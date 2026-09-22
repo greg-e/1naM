@@ -97,33 +97,9 @@ Sources: Wikipedia, *Anchor windlass*; seamanship references (theseafarer.com, k
 
 ---
 
-## 4. The crash and Grace's house
+## 4. The crash and Grace's house — superseded, see `CLAUDE.md`
 
-### 4.1 Reading of "the accident" `[CANON]` interpretation
-
-**Grace's house is unsuitable because of the airliner that went down uncrewed near her home.** (The author wrote "the accident"; that is the only accident in her bio. If it means something else, tell me — Q-16.)
-
-### 4.2 What a crash next to a house leaves behind `[SRC]` (DTIC composite-hazard studies, aviation-investigation training, remediation sources)
-
-- **Jet fuel and hydraulic fluid** in soil and **groundwater** — and she is on a **well**. A contaminated well is disqualifying by itself.
-- **Carbon-fibre composite debris:** fibres from burnt composites can be inhaled and are sharp, needle-like along broken edges; a modern widebody airliner is heavily composite.
-- **Human remains and pathogens:** ~250–350 dead at the impact site, in September weather, and wildlife.
-- **Fire:** an airliner on final approach (if it was still carrying reserve fuel) can start a forest fire in the foothills; Puget Sound in early September is dry. `[DERIVED]`
-- No cleanup crew, no fire department, no investigators. It stays that way.
-
-**Result:** the house can be visible from the wreck, smell of fuel, sit on a poisoned aquifer, or simply be a place no one can be comfortable in. The author picks how bad; the cheapest version is "the well and the air, and you can't un-see it."
-
-### 4.3 A consistency problem the crash creates: the rescue site `[DERIVED]`
-
-The house is **inland**, ~7 mi south of the Strait shoreline (Google Maps pin; see `CLAUDE.md`). Grace was found "at the coastal overlook" with a fractured fibula, having survived "three days alone." If the crash was near her house, she cannot plausibly have walked 7 mi to the shoreline on a broken leg.
-
-**Proposed fix (needs author OK):** move the rescue site to the **Elwha River** — a bluff or gravel bar within about a mile of the house and the wreck. Driftwood for the splint is native there too (the Elwha carries large woody debris; `[VERIFY]` — dam removal 2011–2014 released sediment and wood). The group finds her, and the wreck, on the same trip. The 911 coordinates work unchanged.
-
-### 4.4 What Grace keeps `[DERIVED]`
-
-- Her **skills** (electrical engineer, diesel mechanic) — the point of §10's well-pump / generator / antenna scenes moves to the new place.
-- Possibly her **equipment**: solar panels, inverter, battery bank, tools. Salvaging them is a grief-and-competence beat: going back to her own house (with someone beside her) to strip it. The house is where she can't live but can *shop*.
-- Her injury, her 911 call that nobody answered, and the "no one knew" weight.
+This section originally researched an airliner-crash injury mechanism and its house-contamination consequences. **That mechanism is retired (2026-09-21, `CLAUDE.md`'s Grace/Port Angeles retcon):** Grace's injury is a car crash at the Highway 101 Elwha River bridge, driving home from her job as a civilian maritime mechanic at the Coast Guard station on Ediz Hook. There's no airliner, no contaminated well, and no dramatic reason the house is unusable — it's simply never visited, since the group's base is the station and the cutter *Active* regardless. The rescue site (under the bridge itself, no travel needed) and the 911 mechanism (she reads her own map-app coordinates to the AI triage agent) are also settled there. Her skills (electrical engineer, diesel mechanic) still carry forward through her Hook job and the station power/well-pump/generator/antenna work in Section 10 — only the equipment-salvage beat and her solar+battery system detail are retired along with the house.
 
 ---
 
@@ -231,10 +207,10 @@ This keeps the cast **engaged** (per the craft rules): Grace and Yohan build the
 
 | Facility | Detail |
 |---|---|
-| Aviation | Hangar; **three MH-65E Dolphin helicopters** (commissioned 1935; first permanent Coast Guard air station on the Pacific coast) |
+| Aviation | Hangar; **three MH-65E Dolphin helicopters** (commissioned 1935; first permanent Coast Guard air station on the Pacific coast) — **payoff, 2026-09-21:** these are what Sam uses to refine the rotorcraft rating he's been working toward, per `CLAUDE.md`'s retcon to his fixed-wing-only bio |
 | **Airfield (KNOW)** | **Runway 8/26, 4,500 × 150 ft, asphalt, elevation 13 ft**; 48.1413°N, 123.4140°W; continuous attendance; radio "Port Angeles Air" 345.0 / 127.7; fuel **JP-8 "available to SAR and Coast Guard missions only"** (AirNav; the restriction — and the "closed to non-CG aircraft without 24-hr PPR" note — is moot now). The PC-12 needs ~2,500 ft to take off and ~2,200 ft to land (brochure), so 4,500 ft is ample. **I wrongly said earlier that the Hook has no runway; the author corrected this.** |
 | Support | Administrative and support facilities; **exchange** (a store); **medical clinic** and **dental clinic** |
-| Marine | Docks/pier for vessels up to **400 ft**; a **41-ft utility boat**; cutters *Adelie* (87 ft) and *Cuttyhunk* (110 ft); other cutters have been associated with the station over time (*Active*, *Swordfish*, *Wahoo*) |
+| Marine | Docks/pier for vessels up to **400 ft**; a **41-ft utility boat**; cutters *Adelie* (87 ft) and *Cuttyhunk* (110 ft); other cutters have been associated with the station over time (*Active*, *Swordfish*, *Wahoo*) — **updated 2026-09-21: for this story, *Active* is now a new-generation Offshore Patrol Cutter (Argus-class, ~360 ft), the recapitalized replacement for the real 1966 Reliance-class WMEC-618 of the same name, homeported at the station and freshly provisioned for a Bering Sea/Alaska patrol when the event hits — see `CLAUDE.md`'s 2026-09-21 addendum** |
 | Escort operations | **Transit Protection System** (completed 14 Sep 2018): a new pier, utility trestle, and an **"alert forces facility"** to support Coast Guard escorts of Navy submarines (Maritime Force Protection Unit–Bangor) |
 | Radio and tower | Coast Guard radio station NOW; **170-ft VTS radar tower** |
 | **Housing** | **None on the base.** Coast Guard personnel rent in Port Angeles |
@@ -298,123 +274,13 @@ This keeps the cast **engaged** (per the craft rules): Grace and Yohan build the
 
 **Who does what `[DERIVED]`:** Catherine leads (identification, order, hygiene, respirators/PPE); John, Sam and Grace (once her cast allows) do the work; **Tyler is kept away** — by choice, and Sam or John stays with him. Yohan, alone on a ship with 22 dead, has already faced a version of this (§9).
 
-### 8.5 The RV plan — CANON: four Super C motorhomes from the Sequim dealership (author, 2026-09-20)
+### 8.5–8.7 The RV plan and its alternatives — WITHDRAWN 2026-09-21
 
-**What a Super C is `[VERIFY — general knowledge, not sourced]`:** a Class C motorhome body built on a **medium-duty truck chassis** (Freightliner M2, Ford F-550/F-650, Ram 5500) with a **diesel engine** (commonly a Cummins ~6.7 L), typically 33–45 ft, ~20,000–33,000 lb GVWR, a large fuel tank (roughly 80–150 gal), a **diesel generator** (~7.5–10 kW), big fresh/grey/black tanks, a residential-style fridge, and slide-outs; many are sold with four-season packages and several are toy haulers with a rear garage. The floor sits high, so the **entry has several steps**; some chassis use **air brakes**. Sleeps 4–8 each.
+**Withdrawn (author, 2026-09-21):** the four-Super-C-motorhome plan (dealership at 261293 US-101, Sequim) is scratched — a self-contained vehicle fleet this early undercuts TruckHouse, the story's actual self-contained-vehicle goal (Reno, for the Italy excursion). Superseded twice over: first by living in the station's own converted buildings (§8.2, Option C), then by living aboard the cutter *Active* for berths/power/water/freezer (`CLAUDE.md`), which also moots the RV-era water/power infrastructure research (rainwater collection, the ship's water-maker, well/creek options) that once filled this space. None of it should be reused or re-proposed without the author. One fact worth keeping in mind for other scenes: **every campground, RV park, and much of the area's private lodging was full of Labor Day campers/guests when the event hit** — a body-count reason to avoid those locations generally, independent of the RV plan itself.
 
-**Why Super C fits this story:** **diesel is the common fuel** — RV engines and generators, the station's boats, and probably its standby generators and pumps — so one fuel supply serves the camp `[DERIVED]`; they are heavy (far less likely to tip in wind than towables); four units give **every person a door and a bed**, with one left over for operations. Also they are the RV equivalent of the TruckHouse BCR: a house on a truck, foreshadowing the Italy convoy.
+### 8.8 The plan as decided: the Hook, the cutter *Active*, and the 17
 
-**Working allocation `[DERIVED]`, author to change:** (1) **Catherine and Grace** (ground access; medical supplies), (2) **John and Tyler**, (3) **Sam**, (4) **the ham-radio and operations unit** — John's workstation, ISS tracking, and the HF/VHF/UHF gear on the roof; it doubles as Yohan's room ashore or the group's dining room. Dan follows whoever is up.
-
-**Issues specific to Super Cs `[VERIFY]` / `[DERIVED]`:** **stock** — Super Cs are low-volume and expensive, so a single Sequim lot may not hold four; the backups are the other Sequim-area lot (Peninsula RV, a consignment lot `[VERIFY]`), Wilder RV in Port Angeles, and RV Country's Fife WA lot across the sound `[VERIFY]`; **entry steps for Grace's boot** — a low-step model, a folding step, or a ramp built from pier or hangar lumber (Grace and Yohan can build it); **driving** — no CDL is needed for a personal motorhome in WA `[VERIFY]`, but the chassis are big and may have air brakes: Sam (heavy-airlift pilot) and Catherine are natural drivers, and the ~16-mi drive along US-101 is easy; **fuel and generator load** — **per the author, each RV has a big house-battery bank and recharges off the engine on auto mode**, so the generators run only when the bank is low — a few hours a day, perhaps 1–2 gal/day per unit (~250–500 gal across the four over two months) `[DERIVED]`; a shared microgrid or salvaged solar cuts it further, and the station's and the ship's diesel supply is ample; **height** — 12–13.5 ft; confirm clearance on Ediz Hook Road (the mill area at its base) `[VERIFY]`.
-
-**Reference unit — "like this" (author, 2026-09-20): the 2027 Thor Motor Coach Inception 38DX** (RV Country stock #47492; listed at **$305,995**; RV class "Class Super C"; listed at RV Country's **Mesa, AZ** lot — *not* Sequim, so it is a model reference, not a unit the group can take) `[SRC]` rvcountry.com:
-
-| Spec | Listing |
-|---|---|
-| Chassis / engine | Freightliner S2RV; Cummins B6.7 in-line diesel (regular diesel); Allison 6-speed; 4×2 |
-| Dimensions | 39′ 10″ long; 8.42 ft wide; **13.25 ft tall** |
-| Sleeps | 4 — one king, one full, one sofa bed |
-| Layout | 3 slide-outs; 2 bathrooms (porcelain toilet); tankless water heater (electric/propane) |
-| Tanks | 1 fresh; 2 black; 2 grey; 1 propane; 154 cu ft storage (capacities not listed) |
-| Power / comfort | **Diesel generator**; 55-amp converter; automatic A/C and heater; 3 TVs; 2 radios |
-| Not listed | Fuel capacity, GVWR, propane size, solar/inverter/battery details, entry steps `[VERIFY]` |
-
-**What this means for the plan:** four of these sleep 16 — plenty for five people, Dan, and Yohan ashore, with two bathrooms each; the diesel generator and diesel engine fit the "one fuel" idea; **13.25 ft tall** (confirm clearance on Ediz Hook Road). **The Sequim lot's Super C inventory is unverified**: RV Country's site listed no Super C in Sequim in my check (that page's filtering looked unreliable) and this unit is in Mesa; a small-town lot may hold Class A, C, or trailers instead. **In the story the author decides** — a plausible version is that the lot holds a few Super Cs, and the group takes whatever mix is there, matching the "4 Super C" plan. Note: RV Country also has lots in **Mesa AZ (Phoenix) and Sparks NV (Reno — TruckHouse's town)**, which could echo the Catherine/TruckHouse thread later.
-
-*Earlier draft of this section follows, kept for its analysis.*
-
-#### (Earlier draft) The RV plan (author-suggested)
-
-**Source: the dealership at 261293 US-101, Sequim, WA 98382 (author-supplied, 2026-09-20) — confirmed on rvcountry.com as RV Country's Sequim location** (sales Mon–Sat 8:30–6, Sun 10–5; service and parts Mon–Fri) `[SRC]`. OpenStreetMap ("Peninsula RV") and Yelp ("Clear Creek RV Center") show older names for the same address; RV Country's other locations are Sparks NV, Mesa AZ, Coburg OR, Fresno CA and Fife WA `[SRC]` its inventory page. Geocoded to 48.0799°N, 123.1717°W, just west of Sequim on US-101. **~12 mi straight-line / ~16 mi by road, roughly 25 minutes from the Hook `[DERIVED]`.**
-
-Other sources considered: Peninsula RV (a consignment lot on US-101 near Sequim, per RV Insider), Wilder RV (Port Angeles; trailers and park models, closest to the Hook), and the **Camping World in Silverdale** the author first named (11572 Clear Creek Rd NW) — a bigger lot, but it is across Hood Canal: the road link is the **Hood Canal Bridge**, a 7,869-ft floating bridge whose draw sections are hydraulically raised and whose floating spans retract for ships and submarines (WSDOT) — if they were open at the moment of the event, the crossing is severed, and the alternative is a ~120–140 mi drive around the canal `[VERIFY]`. It is also near Naval Base Kitsap-Bangor. **With dealers on the peninsula, there is no reason to cross.** *(Real businesses are named for research only; keep them out of the prose, as with the vacation-rental pin.)*
-
-**Why it works:**
-
-- **Bodies:** a dealership lot at 2 AM has nobody. The RVs are new, clean, and empty — the group can live on the Hook **without entering the station's buildings.**
-- **Self-contained:** each RV carries house batteries, a propane furnace, stove and fridge, fresh/grey/black water tanks, and (on motorhomes) a generator; many have solar and lithium `[VERIFY per model]`. This is the off-grid comfort the requirements ask for.
-- **Mobile:** if a windstorm or a surge threatens the spit, the camp can move to a mainland lot. RVs also give privacy: a door, a bed, a kitchen.
-- **Sky:** flat spit, water on both sides; roof-mounted ham antennas on every unit.
-- **Access:** a ground-level bedroom and few stairs for Grace.
-- **Tone:** it echoes the Section 5 PDK dealership beat (per the craft rules, a deliberate variation — lighter and more domestic: everyone picks their "house"), and it foreshadows the **TruckHouse BCR** (a camper on a truck) and the Italy convoy.
-
-**Fit to the requirements (§5):** R1 off-grid ✓ (with fuel and propane supply); R2 comfortable ✓ (private rooms, kitchens, showers); R3 sky ✓; R4 a couple of months ⚠ (**winter**: RVs are largely 3-season; the peninsula's mild coastal winter helps; four-season/heated-tank packages exist `[VERIFY]`); R5 ✓; R6 ✓ (the harbor, the runway, the pier, the clinic are on site); R7 ✓; R8 ✓ (level ground, few steps).
-
-**Practicalities and known holes to solve before "launching" (`don't launch with known holes`):**
-
-| Issue | Notes `[DERIVED]` |
-|---|---|
-| **Drivers and licenses** | 3 drivers (John, Sam, Catherine, or Grace once cleared); motorhomes under ~26,000 lb GVWR need no CDL. A fifth wheel or trailer needs a tow vehicle (a truck from the lot or from town) — motorhomes avoid that |
-| **Keys and batteries** | Dealer key cabinet or lockbox (as with the PDK dealer); chassis and house batteries may need a jump/charge after ~10 days (the grid was dark from Day ~1) |
-| **Fuel** | Dealership units usually carry partial tanks; the ~16-mi drive needs little. Station or town fuel for the generators and for refills; hand-pump if no power `[VERIFY]` |
-| **Propane** | A typical motorhome carries 20–30 gal; winter heating uses ~1–2 gal/day per unit → resupply weekly to monthly. Sources: propane tanks at the dealer, homes, and businesses |
-| **Fresh water** | 40–100 gal per RV; refill from the station's water (pressure may be lost), barrels from the *Pacific Tender*'s water-maker, or a tank truck |
-| **Sewage** | Black/grey tanks fill in days; dump into the station's sewer (gravity) if it works, or a dug latrine/soak pit. **The real chore** `[VERIFY]` |
-| **Wind and surge** | The Hook's elevation is ~13 ft; a tall box in a winter gale is a sail; king tides and storm surge in Nov–Jan `[VERIFY]`. Park in the lee of buildings; move to a mainland lot for a big storm |
-| **Odor** | Prevailing winds are westerly in the Strait `[VERIFY]` — park **west (upwind)** of the station buildings, not east near the light |
-| **Power** | Onboard gensets plus salvaged solar; Grace and Yohan can build a small shared microgrid from the station's standby generators |
-
-**How many:** for John, Sam, Tyler, Catherine, Grace, plus Dan (and Yohan if ashore): **2–3 units** — e.g., one large Class A/Super C as the kitchen-and-living hub, one Class C for Catherine and Grace (ground-level access, medical supplies), one for John, Sam and Tyler. The author picks; 3 units also gives room for a guest or two.
-
-### 8.6 Other places considered, and how the bodies change the ranking
-
-| Candidate | Comfort / off-grid | ISS sky | Bodies | Verdict |
-|---|---|---|---|---|
-| **RV camp on the Hook** (§8.5) | Good (self-contained units) | Excellent | **None in the living spaces**; the station's dead stay in sealed buildings | ★ **Recommended.** Comfort without entering the dead |
-| **New Dungeness Light Station** (Dungeness Spit, 48.1817°N, 123.1103°W) | **Keepers' quarters: 4 bedrooms (queen, queen, queen + twin, 2 twins), sleeps up to 9; 2 full baths; full kitchen; dining, living and reading rooms; washer/dryer; Wi-Fi** `[SRC]` newdungenesslighthouse.com. Solar-powered systems `[SRC]` (the keeper packet; details unreadable); an artesian well since 1930 `[SRC]` USLHS | Excellent — 5-mile flat sand spit | **0–9** (a volunteer keeper party may have been in residence — author's choice); no one else on the spit | ★ **The best "retreat."** Best comfort per body. Drawbacks: **reached by a 5-mile walk on the spit**, or by boat — bad for Grace's boot, fine with the Coast Guard's 41-ft boat (12 nm from the Hook `[DERIVED]`); distance from the clinic and the ship; exposed in winter; heating/power specifics unverified |
-| **Coast Guard station buildings** (§8.2) | Adequate after conversion | Excellent | **17 (author), in the buildings — moved to the hospital morgue (§8.8)** | Now usable for infrastructure; the group lives in the RVs |
-| **Ramblewood Retreat Center**, Sequim Bay State Park (57 Dawley Rd) | 3 heated cabins (sleep 18), 5 Adirondack shelters (36), a lodge loft (6), a full kitchen with a fireplace; capacity 60 `[SRC]` parks.wa.gov. Power/water/showers not stated | **Poor** — "surrounded by old growth cedar and hemlock" | Unknown; probably few (retreat groups) | ✗ Fails the sky requirement |
-| **Bluff B&Bs** (10-acre estates east of Port Angeles and Dungeness) | Luxurious; off-grid unknown | Good | **Owners and Labor Day guests (~5–15 each)** | Comfortable, but bodies in the rooms |
-| **Olympic Medical Center** | Real beds and a real generator plant `[DERIVED]` | Fair | **~100–200** | ✗ Worst body load; use for medicine only |
-| **A private house** | Varies | Varies | 1–5 in the house | Every home has its own dead |
-
-**Recommendation `[DERIVED]`:** the **RV camp on the Hook** (upwind of the station buildings) as home, with the runway, radios, pier, boats and clinic as the working base and the buildings opened only when the group is ready; the **New Dungeness Light Station** as an optional retreat or a "what if we need out" move, and Yohan's ship as his own home and the winter power/radio fallback.
-
-### 8.7 Where to park the four Super Cs: alternatives, judged by independent power and water
-
-The question (author, 2026-09-20): are there other places to park the RVs where **off-grid power and water are the infrastructure**? With the grid dead, "infrastructure" means things that still work by **gravity, stored energy, a site's own generator or well, or the RVs' own systems**. Facts below are tagged; the ranking is `[DERIVED]`.
-
-**Two facts that shape everything:**
-
-1. **The municipal water is not independent.** Port Angeles draws from a **60-ft Ranney collector well** beside the Elwha River, **3 mi upstream from the river mouth** (capacity up to 10.2 million gal/day), plus the Lower Elwha Water Treatment Plant (transferred to the city in 2011) `[SRC]` (City of Port Angeles; NPS; Peninsula Daily News). It needs pumps and treatment, so it is dead within about a day, and any gravity-fed reservoir storage is empty within days `[DERIVED]`. **It is in the same valley as Grace's house and the crash** — a possible fuel-contamination question for the city's water source, and one more reason not to count on the tap.
-2. **Every campground and RV park was full on Labor Day night.** Sept 4 was Labor Day, so the county parks and commercial parks around Port Angeles and Sequim held holiday campers — **each one is effectively a cemetery** (§8.4). This makes them a poor place to *park* the RVs no matter how good their hookups look.
-
-**What the group actually has, off-grid:**
-
-| Resource | Source | Notes |
-|---|---|---|
-| **Power** | Each Super C's diesel generator; the station's standby generators (`[VERIFY]`); salvaged solar; potentially the *Pacific Tender*'s generators | Run one generator at good load through a small shared microgrid, not four at idle (§8.5). Diesel is the common fuel |
-| **Water — rain** | The hangar's or the station's roofs | 1 inch of rain on 1 sq ft yields ~0.62 gal. A 20,000-sq-ft roof collects ~12,000 gal per inch `[DERIVED]`; Port Angeles gets low-20s inches a year (Peninsula Daily News `[SRC]`), with the wet season starting about October `[VERIFY]`. Six people at ~15 gal/day use ~2,700 gal a month — **one roof covers it many times over**; needs filtration and chlorination, with Catherine overseeing |
-| **Water — the ship** | The *Pacific Tender*'s fresh-water tanks and water-maker | A container ship carries hundreds of tonnes of fresh water and can make more; 0.65 nm from the Hook, reachable by the station's boats `[DERIVED; VERIFY]` |
-| **Water — creeks and wells** | Local creeks (upstream of town), private wells (need a pump and 240 V) | Filter and treat; upstream of houses `[DERIVED]` |
-| **Sewage** | The station's sewer if it works by gravity; otherwise trench latrines and a soak pit | The real chore, 5+ days per RV tank cycle `[DERIVED]` |
-| **Fuel** | The station's diesel and JP-8; the ship's marine diesel | Hand-pump if the pumps have no power `[VERIFY]` |
-| **Propane** | Tanks at the dealership, homes, and businesses | A weekly-to-monthly chore in winter |
-
-**Candidate parking sites:**
-
-| Site | Independent power/water? | Bodies | ISS sky | Verdict |
-|---|---|---|---|---|
-| **The Hook (Coast Guard station)** | Best: on-site generators and fuel (`[VERIFY]`), roofs for rainwater, boats to the ship, a pier | The station's 17, moved to the hospital morgue | Excellent | ★ **Best.** The infrastructure that matters (fuel, generators, roofs, boats) is there. Park upwind of the buildings |
-| **The RV dealership lot** (261293 US-101, Sequim) | The lot itself: paved, level, a **service shop** with tools, likely propane, maybe a wash bay `[VERIFY]`; no water or power once the grid dies | ~0 | Good (flat prairie) | ★ **Ideal staging area** for prepping the four units (charge batteries, fill propane, stock supplies) — not a home |
-| **Coast Guard's KNOW airfield / KCLM apron** | Apron and hangars; wells or city water `[VERIFY]`; airport fuel farms | ~0 | Excellent | Fine for parking; the Hook already includes KNOW |
-| **A private farm in the Dungeness Valley** | A well (pump needs 240 V), a barn, often solar; the Sequim area's old gravity **irrigation ditches** carry river water without power (non-potable) `[VERIFY]` | The household, 1–4 | Excellent | Good, comfortable, with clean farm water. Costs distance from the harbor and station (~15–25 mi) |
-| **A marina** (Port Angeles Boat Haven; John Wayne Marina in Sequim Bay) | Fuel docks (diesel and gasoline; pumps need power), boat power via a generator, live-aboard boats with their own generators and water; harbor water | A few live-aboards | Good | Reasonable; boat living is an alternative to RVs; the fuel dock is a resource |
-| **County campground — Salt Creek Recreation Area** (~12 mi west, Joyce) | 90 sites; **39 RV sites with water/electric hookups**, hot showers, a dump station, on a terraced bluff over the Strait `[SRC]` Clallam County/Dyrt; hookups are dead without power; water source unknown | **Labor Day campers** (dozens) | Good (bluff over water; hills south `[VERIFY]`) | ✗ A cemetery; only if the group clears a corner |
-| **County campground — Dungeness Recreation Area** (Carlsborg/Sequim; the gateway to the light station) | 66 sites, **no hookups**; drinking water, hot showers, a dump station; sites to 45 ft `[SRC]` | **Labor Day campers** | Good | ✗ Same |
-| **Commercial RV parks** (RV@Olympic; Elwha Dam RV Park; Crescent Beach & RV Park; KOA; others) | Full hookups — **grid-dependent** — big-rig pull-throughs `[SRC]` Hipcamp/Dyrt; Elwha Dam RV Park is ~6 mi west of town, in the Elwha valley | **Labor Day guests** | Varies | ✗ Hookups are dead; the dead are not |
-| **State park / retreat centre** (Sequim Bay State Park/Ramblewood) | Own water system; heated cabins; grid-dependent power `[SRC]` | Unknown | **Poor** (old-growth forest) | ✗ Sky |
-
-**Recommendation `[DERIVED]`:** stay on the Hook. The infrastructure that is genuinely independent of the grid — generators and fuel, large roofs for rainwater, boats to the ship, and the ship's own water and power — is all there or within a boat ride, and the RVs bring their own beds and kitchens. Use the **dealership lot as a staging area** for prep. A **private Dungeness Valley farm** is the best off-Hook alternative (clean well water, solar, open sky) if the group wants to move for winter. **Avoid campgrounds and RV parks** — Labor Day makes them the most body-heavy places outside the town, and their hookups are dead.
-
-**Open (Q-30):** how the group gets water and power *reliably*, and how much of that infrastructure work is on the page? A rainwater system built by Grace and Yohan on the hangar roof is a strong, concrete scene for two underused characters.
-
-### 8.8 The plan as decided: the Hook, four Super Cs, and the 17 (author, 2026-09-20)
-
-**The decisions:** the base is the Hook. The RVs have big house-battery banks and recharge off the engine on auto mode. The group finds four Super Cs like the Inception 38DX in the area and brings them in. The station has **17 Coast Guard dead**; the group finds body bags and moves all 17 to the mainland, to the hospital morgue. (`CLAUDE.md` amendment 12.)
-
-**The RVs' power `[DERIVED]`, author's mechanism:** the "auto mode" is best read as **automatic start of the engine or generator when the house bank runs low**, so power is unattended and the group never has to babysit it. The Inception listing does not state the bank size (`[VERIFY]`); a high-end unit with a lithium option might carry a bank on the order of 400–800 Ah at 12 V (roughly 5–10 kWh) `[VERIFY]`. A comfortable household uses ~8–12 kWh/day (§7.2), so the generator runs a few hours a day. Idling the chassis engine to charge is much less efficient than the generator (a running diesel engine burns roughly a gallon an hour `[VERIFY]`), so the practical pattern is generator-on-demand. Diesel supply is ample (§8.7).
+**The decisions (current):** the group's base is Ediz Hook — living aboard the cutter *Active* for berths, galley, power, water, and the freezer, while using the station ashore for the clinic, hangar, airfield, and radios (`CLAUDE.md`'s Grace/Port Angeles retcon). The station has **17 Coast Guard dead**; the group finds body bags and moves all 17 to **the lumber buildings at the entrance to the Hook** — mill/log-yard structures at the landward end of the spit — clearing the station itself for use. *Active* herself has **5 dead aboard** (a small duty section, separate from the 17), dealt with the same way before the group moves aboard.
 
 **The 17 — a plan that works, and where it needs care:**
 
@@ -423,18 +289,20 @@ The question (author, 2026-09-20): are there other places to park the RVs where 
 | **Body bags** | Hospital supply (Olympic Medical Center); ambulances (fire-department EMS carry remains pouches `[VERIFY]`); funeral homes; the station's own clinic/first-aid stores `[VERIFY]` |
 | **PPE** | N95/P100 respirators, gloves, gowns, and eye protection from the hospital. At Day 3–9 the dead are in **active decay** with heavy odor and flies (§8.4); the health risk from the bodies themselves is small (PAHO/WHO/ICRC `[SRC]`) — the burden is smell, flies and grief |
 | **Identification and record** | Name tapes, ID cards, the watch bill and duty roster; a ledger with each person's name and where they were found; personal effects bagged and labeled. This is the book's motif made literal: **a name, a number, a voice** — the group refuses to let them be numbers |
-| **Transport** | The hospital is ~3–4 mi by road from the Hook `[DERIVED]`: an ambulance, a hearse or van from a funeral home, or a station vehicle; about 3–4 trips for 17 |
-| **The morgue** | A hospital morgue is small — typically a handful of refrigerated spaces `[VERIFY]` — so 17 may not fit; overflow can go to the hospital's walk-in coolers or a cool basement room. **Refrigeration needs power:** by the grid doc, backup-generator reserves last ~3–7 days; **if the move happens by about Day 5–6, the cooler may still run — and the group can top up the hospital's generator with diesel to keep it running** while they decide about burial. After that it is a cool room, not cold storage: still a dignified place, not preservation |
-| **The hospital's own dead** | Patients and night staff (~100–200, §8.4) remain where they died; the group does not handle them. Working around them is its own tone-setting beat |
-| **What next** | The morgue is a **holding step**: eventual burial on high ground on the mainland, or sea burial (§8.4); Q-31 |
+| **Transport** | Short — the lumber/mill buildings are at the landward end of Ediz Hook itself, at or near the station's own access road; a station vehicle or handcart covers it in one trip or a few, no boat or mainland drive needed |
+| **The lumber buildings** | Industrial mill/log-yard sheds, unrefrigerated but cool, dry, and out of the group's living space — a **holding step**, not preservation. No generator-fuel or morgue-capacity question (Q-31 is moot); in cool coastal weather most soft tissue is gone by about November regardless |
+| **The hospital's own dead** | Patients and night staff at Olympic Medical Center (~100–200, §8.4) remain where they died; the group does not handle them there. Working around them is its own tone-setting beat, separate from the station's 17 |
+| **What next** | The lumber buildings are a **holding step**: eventual burial on high ground on the mainland, or sea burial (§8.4); Q-28 |
 
-**Who does it `[DERIVED]`:** Catherine leads the process; John and Sam do the lifting (Sam's Air Force background suggests a small honors moment — the station's flag, a silence); **Grace's boot keeps her on lighter tasks** (the ledger, the RVs); **Tyler stays away** with Dan; Yohan is still at sea. The moving of the dead also clears the station's buildings for showers, kitchens, workshops, and the radios.
+**Who does it `[DERIVED]`:** Catherine leads the process; John and Sam do the lifting (Sam's Air Force background suggests a small honors moment — the station's flag, a silence); **Grace's boot keeps her on lighter tasks** (the ledger) — and this is also where her coworker-level connection to the 17 lands, per `CLAUDE.md`; **Tyler stays away** with Dan; Yohan is still at sea. The moving of the dead clears the station for the clinic, hangar, radios, and airfield use; *Active*'s own 5 dead are handled the same way before the group moves aboard.
 
-**The week `[DERIVED]`:** the group reaches the Peninsula about **Day 2–3**; Yohan's ship anchors about **Day 9–10** (§2). Between them: find and bring in the four RVs; identify and move the 17; set up the camp on the Hook; get the Coast Guard's radios and, if the power allows, the VTS tower working; rest and check Grace's cast at the station clinic. When the *Pacific Tender* comes into the harbor, the group is **already on the Hook, 0.65 nm away, with the radios** — so John can hail her on VHF ch 16 (§9) and the first contact with Yohan is by radio.
+**The week `[DERIVED]`:** the group reaches the Peninsula about **Day 2–3**; Yohan's ship anchors about **Day 9–10** (§2). Between them: identify and move the 17 (and *Active*'s 5) to the lumber buildings; move aboard the cutter; get the Coast Guard's radios and, if the power allows, the VTS tower working; rest and check Grace's cast at the station clinic. When the *Pacific Tender* comes into the harbor, the group is **already on the Hook, 0.65 nm away, with the radios** — so John can hail her on VHF ch 16 (§9) and the first contact with Yohan is by radio.
 
-**Unresolved:** **where the group sleeps and stays between Grace's rescue (Day ~3) and the RVs arriving** — their first nights on the Peninsula (Q-32); the morgue's capacity and power (Q-31); how long the RV work and the 17 take.
+**Unresolved:** **where the group sleeps between Grace's rescue (Day ~3) and the station/cutter being cleared** — their first nights on the Peninsula (Q-32, leading candidate: Olympic Medical Center); how long clearing the 22 dead (17 + 5) and securing the cutter takes.
 
-### 8.9 An expedition yacht at the Hook — the author's proposal (2026-09-20)
+### 8.9 An expedition yacht at the Hook — confirmed, with a real purpose (2026-09-20, endgame confirmed 2026-09-21)
+
+> **Confirmed 2026-09-21 (author):** the yacht is being pursued, and not for comfort — lodging is already solved by *Active*. Her real purpose: **she eventually recovers a SpaceX Dragon capsule off the California coast**, bringing at least one ISS crew member (presumed Tyler's mother, per her mission timeline) home with no ground-based recovery fleet. See `CLAUDE.md`'s ISS contact channel section and Grace/Port Angeles retcon. This reframes everything below — small-crew capability and genuine sea-keeping range matter more than dockside comfort.
 
 **Update (author, later 2026-09-20): a larger yacht — about 100–120 ft.** The 60–80 ft boats discussed below are the earlier draft; the author wants more yacht. What that changes:
 
@@ -484,7 +352,7 @@ The question (author, 2026-09-20): are there other places to park the RVs where 
 
 **Bodies `[DERIVED]`:** a brokerage dock's for-sale yachts have nobody aboard; a marina's slips hold Labor Day boaters and live-aboards (a handful per marina). Choose a brokerage boat or a clean private boat.
 
-**Open:** Q-34 (do they want the yacht, and what is it for — comfort, mobility, a Victoria crossing, a Yohan storyline?); Q-35 (the container ship's fate).
+**Open:** Q-34 (yacht acquisition specifics — class, source, timing); Q-35 (the container ship's fate); and the Dragon-recovery logistics themselves are unresearched — real Dragon capsules carry hypergolic thruster propellant residue (MMH/NTO) on the exterior, normally handled by a trained recovery team in protective gear from a purpose-built recovery ship (e.g., GO Navigator-class), not a general-purpose yacht crew `[VERIFY]`. Worth a dedicated research pass before that scene is written — "don't launch with known holes."
 
 ### 8.10 The abandoned container ship: the worst case, and does it matter? (author: "the container ship is abandoned")
 
@@ -519,8 +387,6 @@ The question (author, 2026-09-20): are there other places to park the RVs where 
 ## 9. Story hooks (none are canon)
 
 - **Radio first contact, again.** Yohan hails the Coast Guard (VHF ch 16) and the pilots (ch 13) as he approaches; John, at the Coast Guard station's radios on Ediz Hook, answers — the book's "a name, a number, a voice" motif, echoing the Signature FBO radio scene with Sam. `[DERIVED]`
-- **An uncrewed airliner flies its programmed route and holds** at its last fix until fuel runs out. Seattle arrivals from the west come in over the Olympic Peninsula/Strait, so a crash near Port Angeles is realistic and can happen **hours after 2:00 AM ET**, giving Grace time to be awake. The Port Angeles VORTAC (CVV) is a real navigation fix nearby `[VERIFY]`.
-- **Grace going back for her gear** with someone beside her: the house is where she can no longer live but can salvage.
 - **Yohan's anchoring scene:** engines stopped, the walk forward, the windlass, the harbor silent around him — with the VTS tower dark on the Hook.
 - **The dragging-anchor clock:** an east-wind storm in November threatens the ship — a reason for the group to act, or to move Yohan ashore.
 - **The Elwha Klallam tribal community** lives near the Elwha River (Lower Elwha Klallam Tribe, west of Port Angeles) `[VERIFY]`. Any deaths among them, or any homes used, would want author-level care and a sensitivity read; scarcity (a few survivors in the country) means the group will have "found" no living neighbors.
@@ -529,28 +395,28 @@ The question (author, 2026-09-20): are there other places to park the RVs where 
 
 ## 10. Open questions
 
-- **Q-16 — "the accident."** Confirmed reading: the airliner crash near her home? How near, how bad (fuel/fire/smell/well), and can Grace go back for her equipment?
-- **Q-17 — Rescue site.** OK to move it from the Strait shoreline to the Elwha River near the crash (§4.3)?
-- **Q-18 — Which lodging?** **Resolved 2026-09-20: the Coast Guard station on Ediz Hook (Option C, §8.2).** Still open: should Yohan live aboard the ship or ashore at the station (Q-24)?
+- **Q-16 — "the accident."** *Resolved 2026-09-21:* not an airliner — a car crash driving home from the Hook (§4 banner). No well/air contamination; Grace's equipment/house are simply not part of the story going forward.
+- **Q-17 — Rescue site.** *Resolved 2026-09-21 (supersedes the 2026-09-21-earlier note above):* under the Highway 101 Elwha River bridge itself — the crash happens on the bridge, so no travel to a separate site is needed (§4.3 banner). 911 location comes from Grace reading her own map-app coordinates to the AI triage agent.
+- **Q-18 — Which lodging?** *Resolved:* the Coast Guard station (clinic/hangar/airfield/radios) plus living aboard the cutter *Active* (berths/power/water/freezer). Yohan lives ashore with the group, not aboard a ship (resolves the "aboard vs. ashore" half of Q-24 too).
 - **Q-19 — Section 9's "three days from Seattle."** Change to "more than a week" (§2.2)?
 - **Q-20 — Section 10 date.** Now that Yohan anchors ~Day 9–10, does John's AIS discovery happen ~Day 8–9 (a deliberate slowdown or turn into the Strait), with the group meeting Yohan ~Day 10?
 - **Q-21 — Grace's healing.** "Start Grace's healing" — physical (fibula, ~6–8 weeks), emotional (her home, the crash, the 911 call nobody answered), or both?
 - **Q-22 — Winter power.** Generator fuel (gasoline vs diesel vs propane) and how they get it with no grid — links to the Amarillo fueling question (D-10).
-- **Q-24 — Living at the station.** Does the group live entirely at the station (converted quarters) or also use homes in Port Angeles? Who converts what, and how comfortable is "comfortable" — e.g., the alert-forces facility as the main dormitory, the hangar as workshop and PC-12 shelter (the PC-12 can use the Hook's 4,500-ft runway), the clinic as Catherine's base?
+- **Q-24 — Living at the station.** *Resolved:* living quarters are aboard the cutter *Active*; the station ashore is the working base (hangar/workshop and PC-12 shelter, the clinic as Catherine's base, radios). No conversion of the alert-forces facility into a dormitory is needed.
 - **Q-25 — The station's dead.** How many and where (watch floor, alert rooms, hangar, boats/cutters, the escort facility)? Who does the work of laying them to rest, and how much of it is on the page? Should Tyler be kept away from it, and by whom?
-- **Q-27 — The RV plan.** *Decided:* four Super C motorhomes from the dealer at 261293 US-101, Sequim. *Still open:* does the Sequim lot stock four Super Cs (unverified — see the reference-unit note in §8.5; the author may simply decide it does)? Who lives in which? How does Grace's boot manage the entry steps? Where do they park (upwind of the buildings, in the lee)? How is the winter handled (four-season units, storm plan, moving the camp for a gale)? Should the PDK-dealership echo be a light, domestic scene?
-- **Q-28 — The bodies.** The approach for the station's dead (seal, bury, sea burial, or leave) and how much of it is on the page; who does it; how Tyler is protected; and — for continuity — **what Yohan did with his ship's 22 crew** (not stated in Section 9).
+- **Q-27 — The RV plan.** *Withdrawn (author, 2026-09-21):* the four-Super-C-motorhome plan is scratched — a self-contained vehicle fleet this early undercuts TruckHouse, the story's actual self-contained-vehicle goal. The group instead converts the station's own buildings (§8.2, Option C's original plan). Not to be re-added without the author.
+- **Q-28 — The bodies.** *Partly resolved (author, 2026-09-21):* the 17 station dead are body-bagged and moved to the lumber/mill buildings at the entrance to the Hook, clearing the station itself. *Still open:* final disposition from there (burial, sea burial, or left in place) and how much is on the page; who does the work; how Tyler is protected; and — for continuity — **what Yohan did with his ship's 22 crew** (not stated in Section 9).
 - **Q-29 — The light station.** Keep it as an optional retreat? If so, was a volunteer keeper party in residence that week (0–9 dead)? How does Grace get there (boat)?
-- **Q-30 — Water and power infrastructure.** Rainwater from the hangar roof, the ship's water, filtered creeks; the station's generators or the RVs' own; where the ship's crew's 22 dead fit; and whether the Elwha-valley crash contaminated the city's Ranney collector source (§8.7).
-- **Q-31 — The morgue.** How big is Olympic Medical Center's morgue, and does its cooler still run when the 17 arrive (hospital-generator fuel and timing)? Does the group refuel the generator to keep it running? What is the eventual disposition — burial on the mainland or at sea?
-- **Q-32 — The interim.** Where does the group sleep between Grace's rescue (Day ~3) and the RVs arriving? (The PC-12; a hotel; the hospital; the station's own rooms before they are cleared — the choice affects tone.)
+- **Q-30 — Water and power infrastructure.** *Mostly resolved:* the cutter *Active*'s own reverse-osmosis water plant and generators cover the group's living needs, so the RV-era rainwater/well/creek research is no longer needed. Still open: where the *Pacific Tender*'s 22 dead fit, and whether anything upstream of the city's Ranney collector well was affected by Grace's crash (a car crash at the bridge, not the old airliner scenario, makes this less likely to matter).
+- **Q-31 — The morgue.** *Moot (author, 2026-09-21):* the 17 go to the lumber buildings at the entrance to the Hook, not Olympic Medical Center's morgue — no morgue-capacity or generator-fuel question to resolve.
+- **Q-32 — The interim.** *Resolved 2026-09-21 (author): a cleared corner of a hotel/motel in Port Angeles.* Catherine treats Grace at Olympic Medical Center for the acute visit only — no extended hospital stay, since nobody wants days surrounded by its own ~100–200 dead. For the days between the rescue and the station/cutter being cleared, the group picks a hotel/motel and clears a handful of rooms — a real, contained body-clearing scene distinct from (and smaller than) the station-clearing effort to come, before moving to *Active*'s medical bay and berths once the cutter is ready. (This doesn't contradict Q-33's Chito Beach Resort withdrawal — that was one specific resort judged a poor fit, not a blanket rule against all lodging.)
 - **Q-33 — Withdrawn.** Chito Beach Resort was proposed and then removed by the author (2026-09-20): too many bodies. Not to be re-added without the author.
-- **Q-34 — The yacht.** Do they get one, and why: a comfortable floating home at the pier, mobility around the Salish Sea (a Victoria, BC crossing?), a sea-going Yohan storyline? Which class (Kadey-Krogen 64/68 or Nordhavn 60/80 are two-person boats) and from where (Port Townsend, Anacortes)? When — after Yohan settles in (Day ~10+)?
+- **Q-34 — The yacht.** *Purpose resolved 2026-09-21:* eventual Dragon-capsule recovery off California, not comfort (§8.9 banner). Still open: which class (Kadey-Krogen 64/68 or Nordhavn 60/80 are two-person boats), from where (Port Townsend, Anacortes), and when — after Yohan settles in (Day ~10+)? Also unresearched: real-world Dragon recovery handles hypergolic thruster residue with trained crews and specialized ships — how much of that the story engages with is open.
 - **Q-35 — The *Pacific Tender*.** *Decided (author): abandoned.* *Still open:* a set piece (she drags in a November east gale) or quiet background? A last visit and burial at sea for the 22? What is her cargo, and is it ever used?
 - **Q-36 — Before Yohan leaves her.** Does he secure her (second anchor, shutdown, manifest), and does anyone open her containers later? Is she allowed to break up in a storm, and what does that do to the harbor and the yacht's mooring?
 - **Q-37 — The larger yacht.** Confirm 100–120 ft; which dock (saltwater, not behind the Ballard Locks); the crew roles (Yohan captain, Sam first officer, Grace engineer, John comms, Catherine medic and galley, Tyler deckhand); and how long "learning the boat" takes.
 - **Q-26 — Station facts to verify.** Standby generators, fuel storage, galley, showers/laundry, beds, whether the alert-forces facility has sleeping quarters, and the clinic's equipment.
-- **Q-23 — BCRs and the Italy excursion.** What does "BCR" mean in the book, and how many are needed? How do they get from Reno to Italy — by sea (the *Pacific Tender*? a container ship needs shore cranes unless it is geared, and Yohan is alone), or by air (the PC-12's range is 1,568–1,803 nm; a transatlantic ferry needs stops and extra fuel; Sam's A350 is a passenger aircraft with a small cargo door)? Or are the BCRs driven from Reno to a port and shipped? Also how the group gets *to* Italy, and whether the excursion happens before winter closes the Sierra passes (Reno is ~4,500 ft) — "don't launch with known holes" applies.
+- **Q-23 — BCRs and the Italy excursion.** *Largely resolved 2026-09-21 (author):* a **C-17 from McChord Field/JBLM** carries the group and **4 BCRs** to Italy — a C-17's ramp and cargo hold are built for driving vehicles on/off, which is why it solves this cleanly (and pays off Sam's C-17 background). See `CLAUDE.md`'s Italy/Milan excursion retcon. Still open: what "BCR" means exactly; the cause of the C-17's later damage; whether the excursion timing clears the Sierra passes before winter (Reno is ~4,500 ft) on the way to McChord — "don't launch with known holes" still applies to that leg.
 - **Verify before writing:** the mountain-horizon angles (§6.2); the Coast Guard station's standby power and fuel; whether the *Pacific Tender*-class ship has an elevator and what boats it carries; walk-back vs let-go guidance at ~27 m; the 5-fathom rock coordinate in the Coast Pilot (§3.1).
 
 ---
