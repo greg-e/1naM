@@ -38,7 +38,7 @@ He logged in to his 8:30am online standing sync meeting — his group at Google,
 
 He started calling people — his brother Mark first, then down the mental list of everyone he talked to in an ordinary week. Voicemail mostly; he left a few messages. Some numbers just rang and rang, no busy signal anywhere. 
 
-He set the phone down. The house was very quiet. Dan lifted his head off the floor and watched him, and John scooted back from the table and Dan stood and John held Dan's head in his hands rubbing his ears, "What are we going to do dog?". 
+He set the phone down. The house was very quiet. Dan lifted his head off the floor and watched him. 
 
 "Harry" he said outloud. He left Dan in the house and went next door, Harry had been a friend for 20 years... not just that guy over the fence always giving advice about the lawn, a real friend who had helped John through many tough times.  Rang the door bell, waited a minute, nothing... knocked... nothing.  Tried the door and it was open, stepping in "Hello? Harry? are you here?" nothing. Walking through the living room to the kitchen, no Harry... down the hall to the master bedroom, "Harry?" There he was in bed, check pulse, his friend was dead.
 
