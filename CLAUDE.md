@@ -88,7 +88,7 @@ Each entry runs: who they are, appearance, temperament, background, and their ro
 - Her brother owns TruckHouse, the overland-vehicle shop near Reno/Sparks, NV. She doesn't know whether he or the shop survived.
 
 **In the story.**
-- **Found in Section 7** as the Phoenix hit. John never had her identity; she finds the group, driving through Sky Harbor's perimeter fence.
+- **Found in Section 7** as the Phoenix hit. John never had her identity; she finds the group, driving through Sky Harbor's perimeter fence. Since Day 0 she'd been waiting in an empty office building near the airport, listening for aircraft.
 - Treats Grace's fracture in Section 8, her first on-page moment of medical usefulness.
 - Her brother and TruckHouse drive the Reno arc.
 
@@ -217,7 +217,7 @@ This is the single source of truth for chronology: timed beats, day order, who i
 | Day | Beat |
 | --- | --- |
 | 1 | The three leads reviewed; the PC-12 PRO from PDK; launch to Huntsville at dusk; Tyler rescued; the Waffle House night. |
-| 2 | 08:40 CDT (09:40 EDT) wheels up KHSV. ~11:45 CDT land KAMA; wheels up 12:25 CDT. ~12:30 MST (15:30 EDT) land KPHX; Catherine finds the group on the ramp. Phoenix → KCLM; Grace rescued and treated at Olympic Medical Center. |
+| 2 | 08:40 CDT (09:40 EDT) wheels up KHSV. ~11:45 CDT land KAMA; wheels up 12:25 CDT. ~12:30 MST (15:30 EDT) land KPHX; ~12:40 MST Catherine comes through the fence. Phoenix → KCLM; Grace rescued and treated at Olympic Medical Center. |
 | ~2–3 onward | Interim lodging in a cleared corner of a Port Angeles hotel, then the group moves to the Coast Guard station on Ediz Hook and aboard *Active*. |
 | ≈9–10 | Johan anchors the *Pacific Tender* in Port Angeles Harbor; John spots it on AIS. |
 | Through early/mid November at least | The Port Angeles stay. |
@@ -276,12 +276,12 @@ Covered by the Timeline and John's entry. John's first 911 call, answered by the
 
 ### Section 7: Huntsville to Phoenix, and Catherine
 
-- **The fuel math is worked on-page before departure.** Route HSV–MEM–LIT–OKC–AMA–Tucumcari–PHX, ~1,285 nm at FL280, ~5h05m against an assumed 30-kt headwind. With no winds-aloft uplink or forecast, Sam plans off climatology and carries his own 90-minute reserve (no one to confirm the destination runway or weather). The total comes to ~3,100 lbs against the PC-12 PRO's 2,704 lbs (402 gal) usable. **One stop at Amarillo, TX solves it**: ~735 nm to Amarillo, ~520 nm on to Phoenix, both legs landing with more than 90 minutes' fuel.
+- **The Amarillo stop is caution, not necessity.** On paper the PC-12 makes Huntsville→Phoenix in one hop (five hours and change at FL280), but there has been no winds forecast since Monday night and nobody to say what's on the runway at Sky Harbor. Amarillo sits on the route, so Sam stops there to land in Phoenix with the tanks half full. Keep the fuel talk short; the point is Sam's caution, not the arithmetic.
 - **John's mentorship advances.** Sam disconnects the autopilot and gives him the airplane for the cruise segment of the Huntsville–Amarillo leg (positive exchange of controls; heading 270, FL280, yaw damper on). John overcorrects at first; high-altitude pitch sensitivity is new to a 182 pilot. Sam coaches him to fly the flight path marker and trim, and he settles to ±40 ft. At Amarillo **John works the fuel nozzle himself** while Sam sumps the tanks and runs the second leg's numbers.
-- **Amarillo (Rick Husband Amarillo International) is routine**, ~40 minutes on the ground, no crisis. The self-serve kiosk is dead with the grid, so they use the FBO's Jet-A refueler truck: keys in it, pump driven by the truck's own engine. John bonds the static cable first and uplifts ~190 gal (~1,300 lbs); Sam makes him swap his flip-flops for boots before he climbs the ladder. Tyler walks Dan. Tyler reads the airport's name aloud and notes that Husband commanded *Columbia*; nobody answers.
+- **Amarillo (Rick Husband Amarillo International) is routine**, ~40 minutes on the ground, no crisis. They fuel from the FBO's Jet-A truck (keys in it, starts first try). John bonds the static cable first; Sam makes him swap his flip-flops for boots before he climbs the ladder, then sumps the tanks. Tyler walks Dan. Tyler reads the airport's name aloud and notes that Husband commanded *Columbia*; nobody answers.
 - **Tyler asks Sam whether the ISS is visible from altitude.** It isn't, not from a PC-12's ceiling or in daylight, and Sam promises to help him find it in the night sky at a later stop. Tyler's ISS-tracking app needs the network; John tells him cached orbital elements may still predict passes for a few days.
-- **At Sky Harbor (KPHX)** Sam still makes his low pass down Runway 26, even at a Class B international field, and lands on 26 in 106°F heat (density altitude ~4,500 ft).
-- **Catherine finds them.** She'd stayed at the hospital since Day 0 "because it was the only thing left that made sense to do." She heard the PC-12's engine from the hospital, three miles away, the first working engine besides her own car in three days, and **drove her gray Subaru through the perimeter fence** onto the ramp while they were taxiing. Sam holds the airplane at ground idle until she's clear of the propeller, then shuts down. The hospital is running on its own generators; John notices iced coffee in her cup holder. She introduces herself as Catherine Navarro. John tells her the group found her through her 911 call ("I argued with it. For a while.").
+- **At Sky Harbor (KPHX)** Sam still makes his low pass down Runway 26, even at a Class B international field, then lands on 26 in 106°F heat, taxis to the GA ramp, and shuts down. John is on the airstair working out the drive to the address from her 911 call (a house on the east side) when she arrives.
+- **Catherine finds them, about ten minutes after they land.** Since Day 0 she has stayed in an office building two miles off the airport's north fence. It was closed at the time of the event, so nobody died in it, and she chose it for being close enough to hear anything that flew in: "sitting and listening for them was the only thing left that made sense to do." She heard the low pass, the first working engine besides her own car in three days, drove the perimeter road without finding an open gate, and **drove her gray Subaru through the fence** onto the ramp. She introduces herself as Catherine Navarro. John tells her the group found her through her 911 call ("I argued with it. For a while.").
 - The section ends on the ramp at Sky Harbor, with no plan yet for the next leg.
 
 ### Section 8: Grace's rescue and TruckHouse's first mention
