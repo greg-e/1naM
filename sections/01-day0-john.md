@@ -54,7 +54,7 @@ He opened a chat window on the laptop. His job at Google gave it reach into a lo
 
 7700... general emergency. John knew the code the way any pilot does, four digits somebody has to key in by hand on the transponder, it was not automatic. Someone had turned that airplane around, and someone had changed the squawk, and someone was still flying it. Every other airplane on the map was just holding a heading. This one was making decisions. That didn't add up, not with everything he'd walked through since 7:00 this morning.
 
-He did the math in his head: departed a little after eleven the night before, turned back sometime around three thirty, so it had been flying home for over five hours already and was somewhere over the Great Lakes now. If they were coming back to Atlanta it would be here in an hour and a half, two at the most.
+He did the math in his head: departed a little after eight the night before, turned back sometime around three thirty, so it had been flying home for over five hours already and was somewhere over the Great Lakes now. If they were coming back to Atlanta it would be here in an hour and a half, two at the most.
 
 John grabbed Dan's leash off the hook, "Come on buddy, we're going for a ride," Dan was already at the door. He had the car running before he'd really decided if driving to Hartsfield made any more sense than calling people had... it did. It was the first thing all morning that felt like doing something.
 
@@ -72,7 +72,8 @@ A sound behind him made him jump out of his skin, a flat, cheerful voice from th
 
 He found her on the floor behind the counter, wedged between the register and the cigarette rack. Twenties, maybe younger, in a QuickTrip polo a size too big for her. He checked anyway. Cold, like everyone else that morning. "So sorry" John found himself saying outloud.
 
-Back on 400 every stalled car he passed was a life gone... the firehouse, the girl on the floor, the two at the pumps, the man in the ditch, Harry, all of it stacking up behind him the same way the traffic wasn't. He checked FlightAware again, DAL27 still on course for Atlanta, over Kentucky now, forty minutes out, maybe less. John was close to an hour from Hartsfield. He didn't have much time.
+Back on 400 every stalled car he passed was a life gone... the firehouse, the girl on the floor, the two at the pumps, the man in the ditch, Harry, all of it stacking up behind him the same way the traffic wasn't. He checked FlightAware again, DAL27 still on course for Atlanta, over Kentucky now, an hour out, maybe less. John was thirty-five minutes from Hartsfield on an empty road, and this road was not empty. He didn't have much time.
 
+South of the Perimeter the stalled cars thinned out, and he stopped stopping for them. Seventy, eighty, swinging wide around a minivan nosed into the median, a box truck on its side across the right two lanes. The Connector through downtown was a slalom. Twice he took the shoulder, gravel rattling in the wheel wells, Dan braced on the back seat with his nails dug into the upholstery.
 
-
+Getting to the runway through the terminal gave him the shivers, and it would take too long anyway: parking decks, a mile of concourse, and no idea what he'd find at the end of it. He needed a place with easy access to the ramp. He remembered a trip a few years back when he'd flown in on one of the Google corporate jets and been dropped off at a fixed-base operator on the north side of the airport, near that weird stair-step hotel. He pulled onto the shoulder, looked it up on the phone, and found the place he was looking for: Signature Aviation. 

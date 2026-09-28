@@ -64,7 +64,7 @@ Forty minutes on the ground, and at 12:25 local they were rolling again.
 
 They picked up the desert a little over an hour later, the ground turning red and folded under them. When Sky Harbor came up out of the heat shimmer, the outside air temperature on the display read 41 degrees Celsius, a hundred and six Fahrenheit, and Sam added a few knots to the approach for the gusts coming off the baked concrete.
 
-He flew the low pass anyway, down Runway 26 at a couple of hundred feet. It was eleven thousand feet of runway at a real international field, wide enough that the PC-12 felt small over it. It was clear end to end. The airliners sat at their gates where they'd been parked on Monday night, and nothing on the field was moving. He called his turn to final on the tower frequency out of habit. Nobody answered, and Guard stayed silent.
+He flew the low pass anyway, down Runway 26 at a couple of hundred feet. It was eleven thousand feet of runway at a real international field, wide enough that the PC-12 felt small over it. It was clear end to end. The airliners sat at their gates where they'd been parked on Monday night, and nothing on the field was moving. He called his turn to final on the tower frequency out of habit. Nobody answered, and 121.5 stayed silent.
 
 He put them down on 26, taxied to the GA ramp, and shut down. The propeller wound down to feather, and the heat came through the airframe within a minute. John opened the door and let Dan out onto the concrete, then sat on the airstair with the address from the 911 trace on his phone: a house on the east side, eleven miles by road. He was working out whether the rental lot was closer than the long-term parking garage when Dan's head came up.
 
