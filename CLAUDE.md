@@ -54,7 +54,9 @@ If you enjoyed *The Good Shepherd* for its tight focus and relentless tactical t
 
 - The event happens at 2:00 a.m. Eastern, September 5, 2028. Fast-acting, airborne, near-total in lethality.
 - About 1 in a million survive: roughly 350 in the continental US, with no concentration anywhere. Survivor density is higher in Canada, South America, Europe, and Asia (exact ratios not yet set).
-- Most survivors don't know they're immune until they wake into the silence. Death was instantaneous and symptom-free for almost everyone, with nothing to distinguish one death from another.
+- **Survival isn't clean immunity. Every survivor has symptoms**, present from the first waking hours. They vary from person to person: a scratchy chest like a chest cold, a cough, nosebleeds, trouble taking a deep breath. They improve with time, but unevenly: some clear in days, others are still short of breath months on, into the fall. Catherine treats and tracks them. Show them through physical action (a cough, blood on a sleeve, stopping on a stair to get a breath), not as a recurring complaint. Each character's symptoms are decided in the prose and recorded in their entry when they appear.
+- **The symptoms are evidence about what killed everyone, never about why anyone lived.** Catherine and later Marchetti can read them as clues to the killing mechanism (route of exposure, what tissue it hit). They never point to why these people survived.
+- Most survivors don't know they've survived anything until they wake into the silence. Death came within moments. Most people were asleep and died without waking. Those who were awake show it: eyes open, mouths open as if gasping for air, some with dried blood under the nose. These signs echo the survivors' symptoms and, like them, are clues to the killing mechanism.
 - **Why some people survive is a deliberate mystery**, and it's the emotional and thematic core of the title. Never resolve it: no genetic or hereditary theory, no antibody theory, no exposure-survivor case study. **What killed everyone else is a separate, answerable question**, and the Italy excursion researches it and may reach real findings. The research can explain the killing mechanism, never the immunity.
 - September 5, 2028 is a **Tuesday, the day after Labor Day**. Section 1 uses this (John rules out "must be a holiday" because he'd just had Monday off). It's the first normal work and school day after a long weekend, so no character has an "everyone's off" explanation.
 
@@ -68,7 +70,7 @@ Each character entry has five fields: Demographics; Physical Appearance & Presen
  Age 61 | Alpharetta, GA (subdivision off Old Milton Pkwy near GA-400) | Widower (wife Naomi died 16 years ago) | Brother Mark is his only close family | Principal Applied AI Architect, Public Sector at Google (D.C.-based, hybrid metro Atlanta).
 
 #### Physical Appearance & Presence:
- 6'1", 195 lbs ("tall and lanky"). Broad-boned, rawboned frame. Thick brown beard peppered with white patches, thick brown hair streaked with white/gray. Deep tan, ruddy complexion, dark brown eyes behind black Wayfarer glasses. (Looks like Grizzly Adams/Jeremiah Johnson).
+ 6'1", 195 lbs ("tall and lanky"). Broad-boned, rawboned frame. Thick brown beard peppered with white patches, thick brown hair streaked with white/gray. Deep tan, ruddy complexion, dark brown eyes behind black Wayfarer glasses. (Looks like Grizzly Adams/Jeremiah Johnson). Active and outdoors: long walks and trails with Dan, and the tan is earned. **But underneath the mountain man he's a real nerd**, and it shows the moment a system interests him: he talks in architectures and data flows, builds a model before he trusts a hunch, and will happily go too deep on telemetry, radios, or avionics for anyone still listening. Play the contrast; people who judge him by the beard are surprised.
 
 #### Attire:
  T-shirts, worn olive drab BDU cargo pants, flip-flops, baseball cap outside.
@@ -90,21 +92,21 @@ Each character entry has five fields: Demographics; Physical Appearance & Presen
 ### Sam (Samuel Reyes)
 
 #### Demographics:
- Age 43 | Marietta, GA | Married to Elena | Daughter Rosa (12) | Captain, Delta Air Lines, Airbus A350-900.
+ Age 43 | Dunwoody, GA (an established, affluent neighborhood ~4 mi north of PDK) | Married to Elena | Daughter Rosa (12) | First Officer, Delta Air Lines, Airbus A350-900.
 
 #### Physical Appearance & Presence:
  5'11", 175 lbs, athletic, with broad shoulders tapering to a trim waist. Stands upright with the relaxed confidence of someone used to command. Hispanic, with warm olive skin, short black hair going salt-and-pepper at the temples, and warm brown eyes. Always clean-shaven and neat. A smooth, authoritative voice, pitched to sound calm on a PA.
 
 #### Attire:
- In uniform, a tailored four-stripe Delta jacket and cap. Off duty: crisp polo shirts, tailored chinos, leather loafers or clean white sneakers, and a classic aviator chronograph.
+ In uniform, a tailored three-stripe Delta first officer's jacket and cap. Off duty: crisp polo shirts, tailored chinos, leather loafers or clean white sneakers, and a classic aviator chronograph.
 
 #### Background:
- Built up through gliders and Cessnas as a teenager and earned a flight instructor rating to help pay his way through college. Right out of college he flew an earlier-generation PC-12 on night runs for a medical test company and logged ~800 hours in the type, which is why he can check John out in one. Then 8 years flying C-17 Globemasters in the Air Force, two years flying corporate/charter jets out of Atlanta, and a decade at Delta. Earned his rotorcraft rating in 2027, about a year before the event, so he's a current but low-time helicopter pilot. At home his days revolve around Elena and Rosa, both of whom die in the event; he lifts, swims, and runs to offset long-haul fatigue.
+ Built up through gliders and Cessnas as a teenager and earned a flight instructor rating to help pay his way through college. Right out of college he flew an earlier-generation PC-12 on night runs for a medical test company and logged ~800 hours in the type, which is why he can take a strange one off the ramp at Edmonton on Day 0 and later check John out in it. Then 8 years flying C-17 Globemasters in the Air Force, the last of them as an aircraft commander, two years flying corporate/charter jets out of Atlanta, and a decade at Delta, where seniority has kept him in the right seat of the A350. Earned his rotorcraft rating in 2027, about a year before the event, so he's a current but low-time helicopter pilot. At home his days revolve around Elena and Rosa, both of whom die in the event; he lifts, swims, and runs to offset long-haul fatigue.
 
 #### Friction & Flaws:
-- The Captain's Composure: Twenty years of being the calmest voice on the flight deck have made steadiness a job he performs for whoever is watching. 
+- The Steady Voice: Twenty years of being the calmest voice on the flight deck have made steadiness a job he performs for whoever is watching. 
 
-- Default Command: Used to being pilot-in-command.
+- Command He Gave Up: He commanded C-17s, then traded the left seat for Delta seniority and spent a decade as the second voice on the flight deck. Day 0 puts command back on him, and he takes it up faster than he'd admit.
 
 - Circadian Rhythm: After years of long-haul flying, he has a hard time sleeping and adapting to regular days.
 
@@ -120,7 +122,7 @@ Each character entry has five fields: Demographics; Physical Appearance & Presen
  NASA, rocket, or constellation T-shirts (one NASA shirt gone soft from washing), athletic shorts or jeans, and worn sneakers.
 
 #### Background:
- His mother has been aboard the ISS since March; her first name is withheld on-page (don't name her without author direction). Carl was due to stay through the fall. Growing up in Rocket City with a parent in orbit, he follows the ISS on tracking apps, watches for scheduled calls from his mother, and keeps one eye on the sky. He doesn't remember his father; it's old, settled grief, part of his story rather than a raw wound ("it's always kind of just been me and Mom"). He knows space history cold (Rick Husband commanded *Columbia*). On Day 0 he found Carl dead on the living room couch, locked himself in his bedroom, and stayed there ~1.5 days until the group arrived in Section 6. Give him real presence, not cargo status, and be deliberate about how much danger he faces on-page.
+ His mother has been aboard the ISS since March; her first name is withheld on-page (don't name her without author direction). Carl was due to stay through the fall. Growing up in Rocket City with a parent in orbit, he follows the ISS on tracking apps, watches for scheduled calls from his mother, and keeps one eye on the sky. He doesn't remember his father; it's old, settled grief, part of his story rather than a raw wound ("it's always kind of just been me and Mom"). He knows space history cold (Rick Husband commanded *Columbia*). On Day 0 he found Carl dead on the living room couch, locked himself in his bedroom, and stayed there ~1.5 days until the group arrived in Section 7. Give him real presence, not cargo status, and be deliberate about how much danger he faces on-page.
 
 #### Friction & Flaws:
 - Half-Asked Questions: He starts sentences and stops when they head somewhere he isn't sure the adults can handle, so the question that matters most often goes unasked until someone draws it out.
@@ -137,7 +139,7 @@ Each character entry has five fields: Demographics; Physical Appearance & Presen
  Off duty: structured linen shirts, dark denim, supportive leather loafers. On shift, tailored scrubs.
 
 #### Background:
- A career attending in emergency medicine, decades in Phoenix trauma bays. They gave her an unflappable exterior, precise and economical speech, total focus the moment an alert sounds, and a dry sense of humor she saves for close colleagues. Since Day 0 she'd been waiting in an empty office building near Sky Harbor, listening for aircraft, until the group landed in Section 7. She doesn't know whether Rafael or the shop survived; her brother and TruckHouse drive the Reno arc.
+ A career attending in emergency medicine, decades in Phoenix trauma bays. They gave her an unflappable exterior, precise and economical speech, total focus the moment an alert sounds, and a dry sense of humor she saves for close colleagues. Since Day 0 she'd been waiting in an empty office building near Sky Harbor, listening for aircraft, until the group landed in Section 8. She doesn't know whether Rafael or the shop survived; her brother and TruckHouse drive the Reno arc.
 
 #### Friction & Flaws:
 - Physical Tax: Decades on concrete ER floors have left her with chronic lower-back pain. She takes anti-inflammatories at doses she'd lecture a patient about, and she knows exactly what they're doing to her stomach and kidneys.
@@ -158,7 +160,7 @@ Each character entry has five fields: Demographics; Physical Appearance & Presen
  Dressed for work and Peninsula weather: heavy canvas work pants, oil-resistant steel-toe boots, dark flannel or thermal shirts, and on shift a high-visibility civilian support vest worn soft by grease and tool belts. A pocket notebook full of wiring diagrams and torque specs; a thermos of strong black coffee on duty.
 
 #### Background:
- Six years in the US Army out of high school as a heavy-wheel mechanic, making staff sergeant. Trade diesel mechanics plus a formal electrical engineering degree earned while in the Army, so she thinks in systems and schematics. She commutes east on Highway 101 from the Elwha to Ediz Hook, where her shifts go to diagnosing marine diesels, wiring marine electronics, and troubleshooting cutter and small-boat systems on the docks. She knows the station's generators, pumps, and boats before the group moves in, and she knew the station's 17 dead as coworkers. Rescued in Section 8; her crash and survival are backstory (see "Grace's backstory").
+ Six years in the US Army out of high school as a heavy-wheel mechanic, making staff sergeant. Trade diesel mechanics plus a formal electrical engineering degree earned while in the Army, so she thinks in systems and schematics. She commutes east on Highway 101 from the Elwha to Ediz Hook, where her shifts go to diagnosing marine diesels, wiring marine electronics, and troubleshooting cutter and small-boat systems on the docks. She knows the station's generators, pumps, and boats before the group moves in, and she knew the station's 17 dead as coworkers. Rescued in Section 9; her crash and survival are backstory (see "Grace's backstory").
 
 #### Friction & Flaws:
 - Can't Sit Still: Hurt or not, she has to be fixing something. She works on a broken leg sooner than Catherine would like, and idle time is harder on her than pain.
@@ -183,7 +185,7 @@ Each character entry has five fields: Demographics; Physical Appearance & Presen
  On duty: a dark blue boiler suit or flame-resistant coveralls with a leather tool sheath, oil-resistant safety boots, and an insulated jacket. Off watch: plain dark wool sweaters, heavy denim or canvas pants, and a thick watch cap. Always a compact multimeter and a heavy-duty pocket knife.
 
 #### Background:
- His name is spelled Johan and pronounced "YO-hahn"; the English speakers around him hear it as Yohan. When the event hits, the *Pacific Tender* is bound Yokohama to Seattle, and all ~22 of her other crew die. Twenty-six years of sea watches and shipboard maintenance cycles, including two typhoons and a cargo-hold fire off Vladivostok. Off watch he's usually in the engine room, the generator spaces, or out on the bridge wing, working through conduits, high-voltage switchboards, and navigation systems, checking seals and emergency panels as he walks the passageways. His coffee is black and very strong. Section 9 is his Day 0; he brings the ship to Port Angeles Harbor alone and anchors her ≈Day 9–10. Once ashore he lives with the group ("he would not go back and forth to the ship... no thanks") and operates their ham link to the ISS from the Hook. Not yet met on-page.
+ His name is spelled Johan and pronounced "YO-hahn"; the English speakers around him hear it as Yohan. When the event hits, the *Pacific Tender* is bound Yokohama to Seattle, and all ~22 of her other crew die. Twenty-six years of sea watches and shipboard maintenance cycles, including two typhoons and a cargo-hold fire off Vladivostok. Off watch he's usually in the engine room, the generator spaces, or out on the bridge wing, working through conduits, high-voltage switchboards, and navigation systems, checking seals and emergency panels as he walks the passageways. His coffee is black and very strong. Section 10 is his Day 0; he brings the ship to Port Angeles Harbor alone and anchors her ≈Day 9–10. Once ashore he lives with the group ("he would not go back and forth to the ship... no thanks") and operates their ham link to the ISS from the Hook. Not yet met on-page.
 
 #### Friction & Flaws:
 - No Cut Corners: He carries a deck officer's authority and an electrical engineer's precision and has no tolerance for sloppy safety practice. In a group that improvises to survive, he'll stop work to do it right.
@@ -241,14 +243,14 @@ Each character entry has five fields: Demographics; Physical Appearance & Presen
 
 - **Arrival airport: KCLM** (William R. Fairchild International), 1402 Fairchild Airport Road, on the west side of Port Angeles. Non-towered `[verify]`.
   - **FBO: Citizen Air**, in the terminal. Full-service Jet-A and 100LL (self-serve 100LL too); the fuel tanks sit next to the West Parking Apron, so the PC-12 can refuel on arrival after the long Phoenix leg. Also runs maintenance, charter, scenic tours, and a flight school, so the FBO has aircraft and a shop on the field.
-  - **No rental lot.** Car rentals are arranged through Citizen Air's desk, and the FBO keeps a **pilot crew car**. The Section 8 car comes from there: keys on the FBO's key board or in the crew car, not a lot of cars with keys in the consoles. The "rental car lot" rule still holds in spirit (starts first try, full tank); only the pickup point differs.
+  - **No rental lot.** Car rentals are arranged through Citizen Air's desk, and the FBO keeps a **pilot crew car**. The Section 9 car comes from there: keys on the FBO's key board or in the crew car, not a lot of cars with keys in the consoles. The "rental car lot" rule still holds in spirit (starts first try, full tank); only the pickup point differs.
   - **Terminal:** a 672 sq ft pilot lounge with couches, tables, vending machines, and floor-to-ceiling windows on the runway; public restrooms; short-term lot by the terminal.
   - **Other tenants:** a CBP office (it's an international port of entry, hence the name), a FedEx station, Angeles Communication, and a **Life Flight Network** base. Life Flight runs 24 hours, so a duty crew was likely on base at 23:00 PDT; apply the 2:00 a.m. rule before writing the ramp or hangars `[verify base staffing and aircraft type]`. The FBO and CBP offices would have been closed and empty.
   - **Hangars:** 48 T-hangars, 15 open-air hangars, six large private hangars, tie-downs on the East, Center, and West aprons. A new four-bay, 17,500 sq ft box hangar was under construction in 2026, so plausibly finished by 2028.
 - **Hospital: Olympic Medical Center (OMC)**, 939 Caroline St., Port Angeles, WA 98362. The group uses it for Grace's acute treatment only and doesn't linger among its ~100–200 dead.
   - **Olympic Memorial Hospital** is the flagship: a **67-bed acute-care hospital** with an emergency department, a **Level III Trauma Center**, an Acute Stroke Ready Center, and a birth center. Also on the service list: imaging and radiology, laboratory, general surgery, orthopedics, anesthesiology, and a cancer center (medical and radiation oncology, infusion).
   - **Rural safety-net role:** a Sole Community Hospital and Rural Referral Center, the medical anchor for Clallam County. Locally owned, governed by a seven-member elected board. The county's largest employer (1,550+ staff), but most of them work days and in the clinic division (Olympic Medical Physicians), so at 23:00 PDT only the inpatient units, ED, and support night shift were in the building.
-  - **For the page:** a Level III center has everything Section 8 needs (X-ray, ortho casting supplies, a stocked ED) and is a step down from the Phoenix trauma bays Catherine knows, which she'd register at a glance. The backup generator plant is `[verify]`; hospitals are required to have one, but don't quote capacity or fuel days without a source.
+  - **For the page:** a Level III center has everything Section 9 needs (X-ray, ortho casting supplies, a stocked ED) and is a step down from the Phoenix trauma bays Catherine knows, which she'd register at a glance. The backup generator plant is `[verify]`; hospitals are required to have one, but don't quote capacity or fuel days without a source.
 - **Interim lodging:** a cleared corner of a Port Angeles hotel or motel, between Grace's rescue and the station and cutter being ready. Play it as a small, partial version of the clearing at the Hook.
 - **The Coast Guard Air Station/Sector Field Office on Ediz Hook** (48.1408°N, 123.4108°W) has a hangar for three MH-65E helicopters, an exchange, a medical/dental clinic, a pier for vessels up to 400 ft, a 41-ft utility boat, the patrol boats *Adelie* and *Cuttyhunk*, a 170-ft VTS radar tower and radio station, and its own airfield (**KNOW**, runway 8/26, 4,500×150 ft, ample for the PC-12; KCLM ~5 mi west is the alternate). There's no on-base housing; crews normally rent in town.
 - **The cutter *Active*, where the group lives.** An Argus-class Offshore Patrol Cutter carrying the name of the 1966 Reliance-class WMEC-618 *Active* she replaced; the 2028 hull assignment is an authorial choice. She is ~360 ft (fits the pier), with a reverse-osmosis water plant, a large freezer and provisions for 60+ day patrols, modern generators, real berthing, a flight deck, and **her own medical bay**, where Grace's ongoing care happens. She was provisioned for an extended Alaska/Bering Sea fisheries patrol when the event hit. The group uses *Active* for berths, galley, power, water, and the freezer, and the station ashore for the clinic, hangar, airfield, and radios.
@@ -274,35 +276,38 @@ This is the single source of truth for chronology: timed beats, day order, who i
 
 | Time (EDT) | Beat |
 | --- | --- |
-| 20:10 | Delta 27 pushes back at KATL for Seoul-Incheon; wheels up ~20:25. |
+| 23:35 | Delta 27 wheels up off 27L at KATL for Seoul-Incheon, on the great-circle track north-northwest over the Midwest and Manitoba (initial course ~335°). |
 
 **Day 0: Tuesday, September 5, 2028**
 
 | Time (EDT) | Beat |
 | --- | --- |
-| 00:30 | Delta 27: Sam and Ruth's rest block begins (the second block of the rotation; Jack and Theresa took the first). |
-| 02:00 | The event. |
+| ~00:30 | Delta 27: Jack and Sam begin the first break in the crew rest; Theresa and Ruth take the seats. |
+| 02:00 | The event. Delta 27 is ~1,090 nm out over southeast Manitoba, just north of the Minnesota line (~49.6°N 96.0°W). Theresa and Ruth die at the controls, Jack in his bunk. The autopilot holds the route. |
 | 02:05 | John is woken by a thud. |
-| 03:00 | Delta 27: Sam's rest block ends; he finds the flight deck crew, Ruth in her bunk, and all passengers dead. |
-| 03:30 | Delta 27: Sam turns back toward Atlanta over the western North Slope of Alaska (~69.5°N 160.5°W, ~3,240 nm from KATL). |
+| ~03:30 | Delta 27: Sam's break ends. No call from the flight deck; Jack dead in his bunk. Sam gets through the flight deck door on the emergency access code. The airplane is ~1,800 nm out over northern Saskatchewan near Lake Athabasca (~59.0°N 108.3°W). |
+| ~03:31–04:00 | Sam turns the airplane south toward the en route alternates and works every frequency and channel on the way before declaring; then MAYDAY in the blind, squawk 7700, and direct Edmonton (CYEG), ~235 nm southwest. |
+| ~04:36 (02:36 MDT) | Sam lands Delta 27 overweight at Edmonton, at night, under the overweight-landing checklist. |
+| ~04:45–05:30 | Sam walks the cabin on the ground: 306 passengers and 13 cabin crew, all dead. |
 | 06:00 | John wakes up. |
+| ~07:00 (05:00 MDT) | Sam departs Edmonton alone in a PC-12, in the dark, southeast for Minneapolis. |
 | 07:05 | John takes Dan for a walk. |
 | 07:20 | John finds stopped vehicles and the dead on the Parkway. |
 | 07:28 | John's first 911 call, answered by the AI triage agent. |
-| ~07:40 | Delta 27: sunrise over Manitoba, near Lake Winnipeg, on the way home. |
 | 08:10 | John back home; a first glance at news sites, DOT cameras, and FlightAware, enough to see something is wrong. |
 | 08:30 | John's work meeting; nobody connects. |
 | 08:45 | John checks on his neighbor Harry and finds him dead. |
-| 09:00 | John sees Delta 27's track is still moving. |
-| 09:10 | John leaves for Hartsfield-Jackson (KATL). |
-| 10:05 | John arrives at KATL and gets into the Signature FBO. It takes him until 10:14 to get the ops-desk radio out of its channel presets; he tries Atlanta Approach and Center, then dials 121.5, the emergency frequency, at 10:19. |
-| ~10:20 | Sam's MAYDAY comes in on 121.5 (twenty miles east, descending through 7,000); John answers. Sam lands ~8 minutes later. |
-| 10:30 | Sam lands Delta 27 on Runway 26R and taxis to Signature. |
-| 11:00 | John and Sam meet in person on the ramp. |
-| 11:30 | Back through Signature; they leave for Sam's house in Marietta in John's car. |
-| 12:35 | Sam finds Elena and Rosa. |
-| 13:00 | John and Sam leave for John's house. |
-| 13:40 | Arrive at John's house in Alpharetta. John starts the detailed search (global flights, nationwide traffic cameras, maritime AIS, the power grid) and builds a data model to surface patterns and exceptions. |
+| ~09:00 | John finds Delta 27 on FlightAware: a turn south over northern Saskatchewan, squawk 7700, landed at Edmonton, stopped. Then a new ident departing that same field at ~07:00, the only takeoff he can find anywhere since 02:00, southeast-bound. |
+| ~10:20 | Sam lands at Minneapolis-St. Paul (KMSP) to refuel. |
+| ~11:05 | Sam departs KMSP; the track settles southeast toward Atlanta. |
+| ~12:45 | John leaves for DeKalb-Peachtree (PDK), his home field, ~25 min down GA-400 and I-285. |
+| ~13:10 | John arrives at PDK, gets into an FBO `[verify which; Epps Aviation is the long-standing PDK FBO]`, gets the ops-desk radio out of its channel presets, tries Peachtree Tower, Atlanta Approach, and Center, then monitors 121.5, the emergency frequency. |
+| ~13:50 | Sam's call comes in on 121.5; John answers. |
+| ~14:00 | Sam lands the PC-12 at PDK and taxis to the FBO; John and Sam meet on the ramp. |
+| ~14:25 | They leave for Sam's house in Dunwoody in John's car (~15 min). |
+| ~14:45 | Sam finds Elena and Rosa. |
+| ~15:20 | John and Sam leave for John's house. |
+| ~15:45 | Arrive at John's house in Alpharetta. John starts the detailed search (global flights, nationwide traffic cameras, maritime AIS, the power grid) and builds a data model to surface patterns and exceptions. |
 | ~17:00 | John starts the hourly capture archive of every live feed, backfilled to 02:00 where history exists. |
 | Evening | The nationwide 911 search is seeded and runs overnight. |
 | ~00:50 (Sept 6) | The grid goes dark at John's house; his generator picks up the load. |
@@ -313,7 +318,7 @@ This is the single source of truth for chronology: timed beats, day order, who i
 
 | Day | Beat |
 | --- | --- |
-| 1 | The three leads reviewed; the PC-12 PRO from PDK; launch to Huntsville at dusk; Tyler rescued; the Waffle House night. |
+| 1 | The three leads reviewed; the PC-12 Sam brought from Edmonton readied at PDK; launch to Huntsville at dusk; Tyler rescued; the Waffle House night. |
 | 2 | 08:40 CDT (09:40 EDT) wheels up KHSV. ~11:45 CDT land KAMA; wheels up 12:25 CDT. ~12:30 MST (15:30 EDT) land KPHX; ~12:40 MST Catherine comes through the fence. Phoenix → KCLM; Grace rescued and treated at Olympic Medical Center. |
 | ~2–3 onward | Interim lodging in a cleared corner of a Port Angeles hotel, then the group moves to the Coast Guard station on Ediz Hook and aboard *Active*. |
 | ≈9–10 | Johan anchors the *Pacific Tender* in Port Angeles Harbor; John spots it on AIS. |
@@ -328,42 +333,54 @@ Keep these entries to plot facts that later scenes depend on. The prose holds th
 
 - John wakes into the silence, walks Dan, finds the dead, and calls 911; an AI triage agent answers. That call later seeds the nationwide search.
 - He breaks down privately, alone with the dog: a cry to God.
-- The section ends mid-drive to KATL, with who is flying Delta 27 still an open question.
+- John finds Delta 27 diverted and stopped at Edmonton, then a new ident leaving that same field and heading southeast, and connects the two.
+- The section ends mid-drive to PDK, with who is flying the airplane out of Edmonton still an open question.
 
 ### Section 2: Sam's flight
 
-- **Delta 27**, KATL to Seoul-Incheon, **Airbus A350-900**, with an augmented **four-pilot** crew: Sam (Captain), Theresa Foreman (First Officer), Jack Sommers and Ruth Gunn (Relief Pilots). The pilots rest in pairs; Sam and Ruth are in the crew-rest bunks at 2:00.
-- Sam wakes to find Theresa and Jack dead at the controls and Ruth dead in the bunk beside his. The cabin is full: **306 passengers and 13 cabin crew**, all dead; **323 aboard**. He moves Theresa and Jack to the forward cabin and leaves Ruth in her bunk.
-- He tries every radio and datalink channel and gets no answer. He calls Elena on the SATCOM and gets her voicemail.
-- **Turning for Atlanta is a choice.** Closer fields (Kotzebue, Deadhorse, Nome, Fairbanks) can't help anyone aboard; his family is in Marietta. He turns back over Alaska's North Slope at ~03:30 and flies seven hours home, transmitting in the blind.
-- The section ends as Atlanta rises out of the haze, before any contact.
-- Mechanics reference: `reference/DAL27_Emergency_Turnback_Dossier.pdf` (ATC, telemetry, and timing only; its crew scenario isn't canon). A350-900 MLW 207 t / ~456,000 lb, OEW 142.4 t (aircraftinvestigation.info).
+- **Delta 27**, KATL to Seoul-Incheon, **Airbus A350-900**, with an augmented **four-pilot** crew in two pairs: **Jack Sommers** (Captain, 63) and **Sam** (First Officer) are the primary pair; **Theresa Foreman** (relief captain) and **Ruth Gunn** (relief first officer) are the other. The pairs trade **breaks** (never "rest blocks"). Jack and Sam take the first break; at 2:00 they're in the crew rest bunks, and Theresa and Ruth are in the seats.
+- **The A350's flight crew rest is outside the flight deck door**, in the crown above the forward cabin, reached from the door 1 area `[verify Delta's configuration: stairs or ladder, its own keypad]`. Getting back in takes the flight deck door keypad: a normal request buzzes the pilots inside; with no answer, the emergency access code unlocks the door after a timed delay `[verify Delta's delay setting]`.
+- Sam's alarm wakes him ~03:15. Nobody called the bunk. He dresses and leaves without disturbing Jack's curtain; a first officer doesn't wake his captain on a break. The flight deck doesn't answer the keypad; Sam gets in on the emergency access code. Theresa and Ruth are dead in the seats, in **lap belts only, no shoulder harnesses**. He speaks to them and checks them first, then reads the airplane and turns it south toward the en route alternates, then calls the captain on the crew rest interphone. No answer. He goes back up and finds Jack dead in his bunk, comes back in on the code, moves Theresa to the observer seat, leaves Ruth belted in the right seat, and takes the left seat.
+- **He checks and double-checks every channel before he declares**: the frequency in use and the adjacent sector, 121.5, 123.45, CPDLC, ACARS to Delta's operations center, SATCOM to dispatch and to the STAT-MD medical line, and the interphone to the cabin (all-call, then emergency call). Every piece of equipment checks good and nothing answers. Only then: MAYDAY in the blind, 7700, and a MAYDAY over CPDLC. He calls Elena on the SATCOM and gets her voicemail.
+- **He does what his training says: lands at the nearest suitable runway.** He turns south over northern Saskatchewan while he works the radios, then weighs Fort McMurray (~115 nm, ~7,500 ft) against Edmonton (CYEG, ~235 nm, 11,000 ft) and takes the longer runway: nearest *suitable*, not nearest. He lands overweight under the overweight-landing checklist, no fuel jettison, ~04:36 EDT (02:36 MDT), at night.
+- He doesn't leave his seat in the air. On the ground he walks the cabin: **306 passengers and 13 cabin crew**, all dead; **323 aboard**.
+- The section ends on the ground at Edmonton, after the cabin walk, with Sam alone in a dead airplane at a silent airport. The decision to go home belongs to Section 3.
+- Mechanics reference: `reference/DAL27_Diversion_Edmonton.md` (route, positions, door and comms sequence, diversion options, weights, the PC-12 legs, and what John sees). It supersedes `DAL27_Diversion_Val_dOr.md` and `reference/DAL27_Emergency_Turnback_Dossier.pdf`. A350-900 MLW 207 t / ~456,000 lb, OEW 142.4 t (aircraftinvestigation.info).
 
-### Section 3: the ramp meeting, Marietta, and the drive home
+### Section 3: Sam's return, Edmonton to Atlanta
 
-- John reaches the Signature FBO, can't raise anyone on the Approach and Center frequencies, and dials 121.5 just as Sam's MAYDAY comes in. Sam learns John's name on the radio and lands on 26R ~10:30.
-- They meet on the ramp ~11:00. Sam comes down the emergency slide; Dan reaches him first.
-- John and Sam drive to Sam's house in Marietta (~11:30–12:35) and find Elena and Rosa dead.
-- They drive back to John's, arriving ~13:40.
+- With nobody left aboard to save, the land-fast logic is spent; Elena and Rosa are in Dunwoody. **Going home is the choice.**
+- He leaves the A350 at Edmonton and takes a **PC-12/47E** in a charter interior from an FBO on the field (operator `[decide]`); it must have passenger seats (Tyler later sleeps across the back row). His ~800 hours in the type make it his airplane. **This PC-12 becomes the group's airplane.**
+- Departs ~07:00 EDT (05:00 MDT), in the dark. **Fuel stop at Minneapolis-St. Paul (KMSP)** ~10:20–11:05; a dead hub airport. Edmonton to PDK direct (~1,700 nm) is past the airplane's practical range, so the stop is necessary. Then southeast to Atlanta, transmitting on 121.5 the whole way.
+- He's bound for PDK, ~4 mi from his house.
+- The section ends as Atlanta comes up ahead, before any contact.
 
-### Section 4: John's house, the telemetry sweep, and seeding the nationwide search
+### Section 4: the ramp meeting, Dunwoody, and the drive home
+
+- **Both men pick PDK for their own reasons**: for Sam it's the field nearest home; for John it's his home field, where he knows the FBO and the radios, and the obvious place for a PC-12 to land. Neither knows the other's choice until the radio.
+- John reaches the PDK FBO, can't raise anyone on the Tower, Approach, or Center frequencies, and monitors 121.5 until Sam's call comes in. Sam learns John's name on the radio and lands the PC-12 ~14:00.
+- They meet on the ramp. Sam climbs down the PC-12's airstair door; Dan reaches him first.
+- John and Sam drive to Sam's house in Dunwoody (~14:25–14:45) and find Elena and Rosa dead.
+- They drive back to John's, arriving ~15:45.
+
+### Section 5: John's house, the telemetry sweep, and seeding the nationwide search
 
 - **John explains his work to Sam here for the first time** (systems architect, 30 years, Google public-sector; his team's model with authenticated read-access to the federal agencies' live feeds). Sam wasn't present for Section 1, where this was established for the reader, so it's new to him.
-- **Finding other survivors is the stated primary mission**, and John and Sam reason out the method together, step by step: passive observation (cameras, AIS, ADS-B, beacons) can't catch a living person and shows only dead machinery still running → a survivor reveals themselves only by *acting* (reaching for a phone or radio) → the one action that leaves a durable, nationwide, reachable trace is a 911 call, because the AI triage agent answered and logged every one. Sam (who worked a radio for seven hours) drives the "what lasts?" step.
+- **Finding other survivors is the stated primary mission**, and John and Sam reason out the method together, step by step: passive observation (cameras, AIS, ADS-B, beacons) can't catch a living person and shows only dead machinery still running → a survivor reveals themselves only by *acting* (reaching for a phone or radio) → the one action that leaves a durable, nationwide, reachable trace is a 911 call, because the AI triage agent answered and logged every one. Sam (who worked a radio from Saskatchewan to Atlanta) drives the "what lasts?" step.
 - The feeds survey doubles as the scope-of-event beat and as step one of the survivor logic (ruling out passive observation).
 - The grid model puts a date on Georgia (John writes *Sept 16* on his pad, the early end of the window). John explains the Vogtle spent-fuel-pool risk (10–21 days) and says "we need to head west" for the first time.
-- **The hourly capture archive.** Every feed John reaches through the model (DOT camera frames, AIS, ADS-B, distress beacons, grid readings) is live, point-in-time data that lasts only while the internet is up and the data centers behind the feeds have power. John sets the model to snapshot every feed hourly onto the workstation's local drives, backfilled to 02:00 EDT wherever the source kept history (flight tracking, AIS, EIA grid tables, beacon logs). DOT cameras keep no history, so their record starts ~17:00. Hourly is "fine enough to catch anything that moves on purpose." The archive goes with the group and is the record later scenes search (e.g. spotting the *Pacific Tender* on AIS in Section 10). Fewer feeds answer each hour as the grid and networks fail.
+- **The hourly capture archive.** Every feed John reaches through the model (DOT camera frames, AIS, ADS-B, distress beacons, grid readings) is live, point-in-time data that lasts only while the internet is up and the data centers behind the feeds have power. John sets the model to snapshot every feed hourly onto the workstation's local drives, backfilled to 02:00 EDT wherever the source kept history (flight tracking, AIS, EIA grid tables, beacon logs). DOT cameras keep no history, so their record starts ~17:00. Hourly is "fine enough to catch anything that moves on purpose." The archive goes with the group and is the record later scenes search (e.g. spotting the *Pacific Tender* on AIS in Section 11). Fewer feeds answer each hour as the grid and networks fail.
 - **The safety layer comes off exactly once, in front of Sam**, so John can reach county dispatch systems he has no authorization for. The nationwide 911 search is seeded to run overnight.
 - John takes Naomi's Bible from her desk. The grid goes dark ~00:50 and his generator picks up the load.
 
-### Section 5: the three leads, the PC-12 PRO, and the launch
+### Section 6: the three leads, the PC-12, and the launch
 
 - The search yields **three leads: Huntsville AL, Phoenix AZ, and Elwha WA**, each an address, a dead callback number, and a transcript fragment.
-- The A350 is too big for the job. They take a brand-new **PC-12 PRO** from the Pilatus dealer at PDK.
+- They take the **PC-12 Sam flew in from Edmonton**, refueled at PDK, and launch from there.
 - John is an instrument-rated 182 pilot with no turbine time; Sam will check him out as they go.
 - They launch for Huntsville at dusk.
 
-### Section 6: Huntsville and Tyler
+### Section 7: Huntsville and Tyler
 
 - They find **Tyler** (see his entry) and get a car from the airport rental lot.
 - A few blocks of Huntsville still have power by accident. They eat and sleep at a Waffle House whose two staff died in their cars outside on break; **use this as the template for 24-hour locations.**
@@ -371,14 +388,14 @@ Keep these entries to plot facts that later scenes depend on. The prose holds th
 - **John's composure breaks in front of another person for the first time**, over Tyler's grief; Sam sits with him without speaking.
 - **Tyler joins the group.**
 
-### Section 7: Huntsville to Phoenix, and Catherine
+### Section 8: Huntsville to Phoenix, and Catherine
 
 - **A cautionary fuel stop at Amarillo** (Rick Husband Amarillo International). John flies the cruise segment of the first leg under Sam's coaching and works the fuel nozzle at Amarillo.
 - Sam promises to help Tyler find the ISS in the night sky at a later stop.
 - At Sky Harbor, Sam makes a low pass before landing.
 - **Catherine finds them** about ten minutes after landing. She'd been waiting in an empty office building off the airport's north fence, listening for aircraft, and drives her gray Subaru through the fence onto the ramp.
 
-### Section 8: Grace's rescue and TruckHouse's first mention
+### Section 9: Grace's rescue and TruckHouse's first mention
 
 - Catherine commits to the group at once.
 - They fly Phoenix→KCLM (Port Angeles) nonstop and take a car from the Citizen Air FBO to the Elwha River bridge.
@@ -386,20 +403,20 @@ Keep these entries to plot facts that later scenes depend on. The prose holds th
 - John cooks pasta for the group. Catherine first mentions TruckHouse, her brother's shop near Reno; the group agrees on "Eventually."
 - The three-lead mission is complete.
 
-### Grace's backstory (told within Section 8, not its own scene)
+### Grace's backstory (told within Section 9, not its own scene)
 
 - Driving home on Highway 101 at ~23:00 PDT Sept 4, she's hit on the Elwha River bridge by an oncoming driver who died at the wheel. The crash breaks her fibula.
 - She shelters under the bridge, reads her coordinates to the 911 agent, splints her leg, and lasts three days on river water.
 - Tell it after the fact, not as a moment-by-moment scene.
 
-### Section 9: Johan's Day 0
+### Section 10: Johan's Day 0
 
 - A parallel thread back on September 5. The *Pacific Tender* is three days out of Yokohama, bound for Seattle. Named dead: **Okafor** (officer of the watch) and **Second Engineer Alvarez**.
 - Johan oversleeps because nobody survived to wake him for his watch. The ship is running on autopilot.
 - His AIS shows a ghost fleet still under way. He tries VHF, SSB, and the satellite terminal, which gives a few fragments ("the eastern seaboard," "Europe") before it fails.
 - He decides to bring the ship in alone.
 
-### Section 10: the week at the Hook, and John spots the ship
+### Section 11: the week at the Hook, and John spots the ship
 
 - A multi-day time skip at the station and aboard *Active*.
 - Grace fixes pump wiring and a generator and rigs an antenna for John's satellite hotspot. Sam helps Tyler spot the ISS. John witnesses a private grief beat of Catherine's.
@@ -426,12 +443,12 @@ Technical detail: `reference/power-grid-shutdown-timelines.md` (researched but s
 
 - **North America runs on four separately synchronized interconnections** (Eastern, Western, ERCOT, Quebec), and each fails on its own clock. The first ~2 hours are an automated silent window: streetlights, card-reading gas pumps, and municipal water pressure all still work. From hour ~2, thermal plants (coal, then gas) trip one at a time as fuel and fault limits catch up. Then frequency sags past the relay threshold and the whole interconnection cascades down within minutes. **Full lights-out for a region comes at hours 8–24.**
 - **Hydro goes down with its interconnection** like everything else, through the same protective relaying. Power more than a day out comes only from:
-  - **a small accidental pocket** where generation and load happen to balance, as in Huntsville (Section 6); small and temporary;
+  - **a small accidental pocket** where generation and load happen to balance, as in Huntsville (Section 7); small and temporary;
   - **a building's own backup generator** with days of fuel, like Olympic Medical Center's; hospitals and certified airports are required to have one;
   - **a property's own islanding-capable solar+battery system.**
 - **Nuclear plants SCRAM safely within hours**, then run on backup diesel and batteries for ~3 days. The danger window is **~10–21 days after the trip**, when an uncooled spent fuel pool can boil dry and expose fuel rods: a regional, Fukushima-scale contamination event with a years-to-decades exclusion zone.
 - **Location matters for nuclear exposure**, not for whose grid lasts longest. John's region (Alpharetta / Plant Vogtle) has the highest nuclear share and second-closest reactor of the locations profiled, the worst on the list. Reno and Port Angeles are both very low risk `[derived; general meteorology]`: the only Pacific Northwest plant, Columbia Generating Station, is ~220 mi east across the Cascades, and prevailing winds carry any release away. Verify Naval Base Kitsap's naval reactors (passive decay-heat removal, not the spent-fuel-pool scenario) and Hanford's legacy waste tanks before putting this on the page.
-- **Power at the group's own base is never jeopardy.** The subplot's pressure is a date on a calendar. Any in-house power beat follows the Section 4 model: preparedness confirmed working. Don't write a backup failure or outage-driven tension unless the author asks.
+- **Power at the group's own base is never jeopardy.** The subplot's pressure is a date on a calendar. Any in-house power beat follows the Section 5 model: preparedness confirmed working. Don't write a backup failure or outage-driven tension unless the author asks.
 - **Build real scenes on this**: characters reasoning about which regions to avoid, a supply run routed around a danger window, a character with direct plant knowledge.
 
 ## Future arcs
@@ -453,7 +470,7 @@ Technical detail: `reference/power-grid-shutdown-timelines.md` (researched but s
 
 ## Aircraft
 
-- **The group flies a brand-new PC-12 PRO** from the Pilatus dealer at PDK, with the full ACE avionics suite. Sam's A350 stays on the ramp at KATL. Whether the PC-12 is the group's permanent type is open; don't switch aircraft without a reason, and ask the author before adding another type.
+- **The group flies the PC-12/47E Sam takes off the field at Edmonton** on Day 0 and flies to Atlanta (Section 3). It's a working charter airplane with passenger seats, not a new one; operator and registration `[decide]`, avionics `[verify]`. Sam's A350 stays on the ramp at Edmonton. Whether the PC-12 is the group's permanent type is open; don't switch aircraft without a reason, and ask the author before adding another type.
 - **A C-17 for the Italy excursion**, flown by Sam.
 - **The station's three MH-65E Dolphins**, for Sam's rotorcraft arc at the Hook: rated in 2027 but low-time, he transitions to the type and builds hours.
 
@@ -507,28 +524,32 @@ Write every scene, new or revised, with procedural accuracy, correct domain term
 **Audit pass:** before finishing any prose, search for "quickly," "suddenly," "dangerous," "massive," "intense," and similar words, and replace them with measurements, instrument readings, or procedural steps.
 
 **How this fits the rest of this file:**
-- **Specifics must be real.** The PC-12 PRO, A350-900, MH-65E, C-17, Argus-class OPC, container ship, and ER and orthopedic procedures all have real specs. Check them against `reference/` or research, and flag anything unverified with `[verify]` rather than inventing a number. A confident wrong figure is worse than a vague one.
+- **Specifics must be real.** The PC-12, A350-900, MH-65E, C-17, Argus-class OPC, container ship, and ER and orthopedic procedures all have real specs. Check them against `reference/` or research, and flag anything unverified with `[verify]` rather than inventing a number. A confident wrong figure is worse than a vague one.
 - **Canon still wins.** Added precision never overrides a settled beat or the order of events. It can move a clock time in the Timeline when the real-world math says it's wrong.
-- **Not every scene needs friction.** Deliberately easy beats (the PDK lockbox, the Amarillo stop, the Phoenix→KCLM leg, rental cars) get the same concrete detail without manufactured trouble.
+- **Not every scene needs friction.** Deliberately easy beats (the Minneapolis fuel stop, the Amarillo stop, the Phoenix→KCLM leg, rental cars) get the same concrete detail without manufactured trouble.
 - **Grief beats stay.** The ban on emotional adjectives applies to them too: carry John's, Sam's, Catherine's, and Grace's grief through physical action and observed detail, but keep the emotional core.
 - **Character descriptions are reference, not copy.** Use the appearance and habit details in the Characters entries through observed action on the page; don't paste them in as descriptive blocks.
 - Write units as plain text in prose ("120 lbs/hr," "FL280," "121.5"), not LaTeX.
 - **Radio phraseology follows the FAA AIM** (Ch. 6 §3 for distress and urgency; Ch. 4 §2 for general phraseology). 121.5 is "121.5" or "the emergency frequency," **never "Guard."** MAYDAY (or PAN-PAN) is said three times, then the message elements in AIM order: station addressed, aircraft ID and type, nature of distress, weather, intentions, position and heading, altitude, fuel remaining in minutes, people on board. Try the frequency in use or the controlling facility first, then any station and 121.5; squawk 7700 when unable to establish contact. Airline callsigns are spoken in group form, with "Heavy" for heavy aircraft in US airspace ("Delta Twenty-Seven Heavy"). With nobody on the ground, calls are "transmitting in the blind."
+- **Airline terminology.** On airliners and the C-17 it's always the **flight deck**, never the cockpit; the PC-12 and the MH-65Es can be a cockpit. Pilots on an augmented crew take **breaks**, not rest blocks or rest periods. Airline pilots in cruise wear lap belts, not shoulder harnesses. Crew hierarchy holds: a first officer doesn't call out to or wake a captain on his break.
 
 ## What's next and what's open
 
 **Next to write:**
 - The *Pacific Tender* at anchor and first in-person contact with Johan, reached by boat from the Hook.
 - Reaching and converting the station, clearing its dead, and moving aboard *Active* (with the interim hotel before it).
+- **The Edmonton diversion pass:** rewrite Section 2 from `reference/DAL27_Diversion_Edmonton.md`; draft the new Section 3 (Sam's return); rename `sections/03`–`10` to `04`–`11` and their headers; update the Delta 27 beats in Section 1, the arrival in Section 4 (PDK, not KATL/Signature; PC-12, not the A350 and its slide; FO's three stripes; the MAYDAY and its figures; Marietta → Dunwoody), and the PDK acquisition in Section 6. Check later sections for "PC-12 PRO" and "cockpit" on the A350.
+- **Signs on the dead:** bodies of people who were awake at 2:00 show open eyes, open mouths, and some nosebleeds (Section 2 has them). Check the bodies already on the page in Section 1 and later sections against this.
+- **Survivor symptoms:** existing prose (Sections 1–11) shows nobody with symptoms. Seed them as scenes are revised, starting with Sam in Section 2 and John in Section 1, and record each character's symptoms in their entry as they're set.
 
 **Threads to keep developing:**
 - John's pilot mentorship. A short hop such as Port Angeles–Seattle (~60 nm, about half an hour) is a plausible next step.
 - Sam's rotorcraft arc with the MH-65Es (already rated; a transition to a new type, not a checkride).
-- Concrete tasks for Tyler and Catherine, the way Grace got hers in Section 10. Stay deliberate about Tyler's exposure to danger.
+- Concrete tasks for Tyler and Catherine, the way Grace got hers in Section 11. Stay deliberate about Tyler's exposure to danger.
 - More grid-subplot scenes: the reasoning that names Reno and ties it to Catherine's brother, and a supply run shaped by a danger window.
 
 **Open decisions (flag to the author rather than inventing):**
-- The setting of John's Section 8 dinner; the interim hotel is the natural candidate.
+- The setting of John's Section 9 dinner; the interim hotel is the natural candidate.
 - Whether the PC-12 stays the group's permanent aircraft.
 - Who runs the ham link at the IRB (Marchetti, or someone from the group who learns from her), and how first ISS contact plays out relative to Tyler joining the group.
 - The mechanics of the C-17 landing accident.
