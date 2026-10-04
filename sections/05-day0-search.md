@@ -1,4 +1,4 @@
-# 4 — John, Day 0
+# 5 — John, Day 0
 
 Sam stood a moment in the front hall, taking in the framed photos on the wall.
 

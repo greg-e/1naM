@@ -1,47 +1,97 @@
 # 8 — John, Day 2
 
-They gave Catherine ten minutes to grab what she could carry from the hospital, and she used every one of them — coming back across the torn stretch of fence with a duffel of supplies over one shoulder and a hard, decided look on her face that told John she'd already made up her mind about something before he'd even asked the question.
+John didn't have an answer for him, and said so. "Get him through today. Then figure out how you talk to a space station."
 
-"There's one more stop," he said anyway, because she deserved to hear it plainly. "Portland. A woman named Grace — injured, alone, called 911 three days ago and read out her coordinates to a machine. We never got her on a line, never told her anyone was coming. We're flying there on faith that she's still where she said she was. If you'd rather stay here, set up somewhere safe, we'd understand completely."
+"That's about where I landed too." Sam pulled the high-altitude enroute chart out of the side pocket, the one he'd taken off the rack in the Pilatus dealer's lobby at PDK, and folded it open across his kneeboard. The route was already keyed into the touchscreen controller on the pedestal: Memphis, Little Rock, Oklahoma City, Amarillo, then southwest across New Mexico into Phoenix. "On paper we make it in one hop. Five hours and change, if the wind does what it usually does this time of year."
 
-Catherine looked at him like the question itself was slightly insulting. "I've spent three days in an empty hospital hoping somebody would eventually walk through the door needing a doctor," she said. "You're telling me there's an injured woman waiting on one, six hundred miles from here, and asking if I want to come *help her*?" She hefted the duffel higher onto her shoulder. "Absolutely. Let's go."
+"But."
 
-Sam had the chart out again before they'd finished strapping in, and for once his finger traced a route with nothing complicated sitting underneath it. "Nine hundred twenty-five nautical the long way the airways actually run it — nothing like the leg we just flew. Same altitude, but this one we do non-stop, real fuel to spare on the other end even fighting a headwind the whole way. First genuinely easy one we've had." He said it like he still didn't quite trust it, the way John was starting to recognize he distrusted anything that came easy after a week like this one.
+"But I don't know what the wind's doing. Nobody's published a forecast since Monday night. I don't know what's sitting on the runway at Sky Harbor, and there's nobody to ask." He tapped the chart where the line crossed the Texas Panhandle. "Amarillo's right on the way. We stop, top off, stretch our legs, and land in Phoenix with the tanks half full instead of hoping. I told you probably two stops last night. One's plenty."
 
-"Then let's not waste the good luck," John said, and Sam laughed, short and real, and pushed the throttle forward.
+"Don't launch with known holes," John said, half to himself. He'd heard Sam say it often enough that it was starting to come out in his own voice.
 
-The desert gave way to mountains and then, hours later, to green — a green so sudden and total after a week of brown and gray that Tyler pressed his whole face to the window without saying anything, and Catherine, seeing it, reached over and squeezed his shoulder once, doctor's hands finding the exact right amount of pressure without being asked. Portland's runways came up out of a low ceiling looking almost ordinary, lights burning along the approach path. "Not the grid," Sam said, before John could ask. "Can't be, three days on — that whole zone's long dark by now. A field certified for this much traffic keeps its approach lighting on its own generator plant, fuel enough for a week or better with nothing else pulling on it." First working airport lighting either of them had seen since the world stopped.
+Sam glanced over. "Now you're flying it right."
 
-They found the rental lot at the edge of the field, same as always — keys in the consoles, a full tank waiting, no drama in it at all — and pointed the car west, toward the coast and the coordinates John had been carrying folded in his jacket pocket since that first gray morning at PDK, in a shut-down restaurant that felt like a different lifetime now.
+---
 
-The overlook, when they found it, was a scrubby pull-off above a stretch of gray Pacific with cliffs dropping away on either side, a place somebody would only ever stop for the view. Grace was sitting against a boulder a few yards off the trail, a makeshift splint of driftwood and what looked like a torn jacket sleeve lashed around one leg, a half-empty water bottle beside her and an expression that shifted from wary to something close to disbelief as all four of them came into view at once.
+They lifted off Runway 18L at 8:40 local with the sun behind them and Huntsville falling away gray-green and quiet under the right wing. Dan had claimed the aft cabin floor between the last two seats before the door was latched. Tyler was asleep again inside of ten minutes, curled against the window in a NASA T-shirt gone soft from washing, his curls flattened on the side he'd slept on.
 
-"You actually came," she said, voice rough from three days of mostly not talking to anyone. "I called 911. Got that — recording, that computer voice, whatever it was. Read it these coordinates off my phone about six times and never got a person. By day two I'd pretty much decided nothing on the other end had heard me."
+Sam leveled them at FL280, let the autothrottle settle, and watched the engine page for a full minute before he looked across the pedestal.
 
-"Something heard you," John said, crouching down to her level the same way Sam had crouched for Tyler in Huntsville. "It logged the call. That's how we found the spot — I've been reading those logs for two days." He let that sit a second. "This is Catherine. She's a doctor. We're going to get you looked at properly."
+"Hand-flying. You want it?"
 
-Catherine was already moving, gentle and fast at once, fingers working down the splint with the particular unhurried competence of someone who'd done this ten thousand times and knew panic never helped a fracture heal straighter. "Tib-fib, most likely," she said after a minute, mostly to herself. "You did a decent job stabilizing it — better than most people would manage alone on a cliff." To Grace: "It's going to hurt getting you into the car. I'm not going to pretend otherwise."
+John's hands were already on the yoke. "I've got it."
 
-It did hurt, Grace's jaw going tight and her breath coming sharp through her teeth as Sam and John lifted her between them, but she didn't make a sound beyond that, and by the time they had her settled across the back seat with her leg propped up on a rolled jacket, something in her face had already started to unclench.
+Sam pressed the red disconnect button on his yoke, and the autopilot-off tone chirped once. "Your airplane."
 
-Catherine had them backtrack toward Seaside, a fifteen-minute drive along the coast highway to a low brick building with **PROVIDENCE SEASIDE** on a sign out front, doors unlocked, power still humming through it. A hospital's own plant, John figured, standing in the doorway a second — the kind of backup generator every ER in the country was required to keep on hand for exactly this, sized for days, not hours, and nothing in the building left to draw it down but the lights. It was eerie moving through an ER that had every light on and not another living soul in it, but Catherine moved through it like she owned the place, finding a portable X-ray unit still charged, gloves and splinting supplies still sealed in their wrappers, everything waiting for a patient that had almost certainly never come. The films confirmed what she'd guessed on the cliff — a clean fibula fracture, nothing displaced badly enough to need more than she could give it herself — and she had Grace properly casted and resting within the hour, moving the whole time with the specific, quiet joy of someone doing the one thing she'd been built to do for the first time in days.
+"My airplane."
 
-"Best patient I've had all week," Catherine told her, taping off the last of it.
+"Heading two-seven-zero, hold two-eight-zero. Yaw damper stays on. That's all you're doing."
 
-"Lowest bar you've ever cleared," Grace said, and the laugh that came out of her was small and cracked but entirely real.
+It should have been easy. John had flown plenty of hard IFR out of PDK in his 182, but the 182 had never been above fourteen thousand feet. The first time he pressed on the yoke to fix a hundred-foot climb, the vertical speed tape jumped past eight hundred feet a minute down. He pulled back, overshot, and gained sixty feet the other way. Up here, in thin air, with a heavy airplane carrying a lot of momentum, every input came back bigger than he'd put it in.
 
-Grace's house turned out to be less than ten minutes further down the coast road, a small weathered place with a deck facing the water and, when John flipped the switch out of habit more than hope, actual working lights. "Panels and a battery wall out back," Grace said, from the couch, before anyone could ask. "Islands itself off the grid automatically the second it sees a fault — I put it in myself after the third winter storm outage in a row. Told everyone I knew it was overkill." Hot water too, when Sam checked it, off the same system. They took turns, longest showers any of them had had since the world stopped, and came back downstairs into a kitchen that smelled, for the first time all week, like someone was actually trying.
+"Fingertips," Sam said. "Don't chase the altimeter. Put the flight path marker on the horizon and trim off the pressure. The altitude follows."
 
-John had found a little market two doors down still stocked with everything a market stocks — no owner, no register running, just shelves waiting — and came back with enough for a real dinner: pasta, garlic, tomatoes going soft but not gone, a bottle of decent olive oil, a loaf of bread he toasted over the stove because there was no time to wait on anything fancier. He'd never once cooked for six people in his life, had barely cooked for one most weeks, but there was something steadying in doing it with his hands while everyone else finally, finally sat still — Sam at the table with Dan's head in his lap, Tyler half-asleep against the window with the ocean going dark outside it, Grace propped up with her cast elevated on a stack of couch cushions, Catherine pouring water for everyone like it was the most natural thing in the world.
+John found the marker on the synthetic-vision display, parked it on the horizon line, and held it there with pressure he could barely feel, thumbing the trim until even that went away. Somewhere over the brown seam where Arkansas gave way to Oklahoma he realized he'd held twenty-eight thousand within forty feet for ten minutes without looking at the numbers. A while after that he stopped thinking about his hands. Sam watched, reached over once or twice to tap the heading readout when it drifted a couple of degrees, and otherwise let him fly.
 
-"This is genuinely good," Sam said, around a mouthful, sounding almost offended by it. "How do you have two people on this trip who can suddenly cook."
+Tyler woke somewhere past Oklahoma City. After a while he unbuckled and came forward to kneel in the aisle behind the front seats, chin on his folded arms, looking down at wheat stubble and dry creek beds more than four miles below. "Is that Texas?"
 
-"Google keeps decent knives in the office kitchen," John said. "Never actually stopped to notice how much I'd absorbed just watching other people use them."
+"Panhandle," Sam said. "We start down in about ten minutes."
 
-It was over the second helping that Catherine set her fork down and looked around the table like she was deciding whether now was the moment. "There's something I should tell all of you," she said. "My brother runs a shop outside Reno — TruckHouse. Overland vehicles, built for exactly this kind of thing. Off-grid capable, the works. I don't know if he's alive. I don't know if any of it's still standing. But if we're going to keep doing this — finding people, moving people — eventually a plane isn't going to be enough, and that's the only place I know of that was built for what's coming next."
+"Do you think—" Tyler started, then stopped, the way he did whenever a sentence was headed somewhere he wasn't sure about. His face gave the rest of it away first. He tried again, smaller. "If you went up high enough, could you see the space station? For real, not just a dot."
 
-Nobody answered right away. Outside, the tide kept working at the rocks below the deck, steady and indifferent, the way it had every night for longer than any of them had been alive and would keep doing long after whatever came next for the six of them at this table.
+"Not from here," Sam said. "This airplane tops out at thirty thousand feet. She's two hundred and fifty miles up. And you can't see her in daylight from anywhere. You need the ground dark and the station still in the sun, about an hour after sunset or before sunrise." He glanced back over his shoulder. "If the sky's clear tonight, wherever we end up, I'll help you find her. She moves fast once you know where to look."
 
-"Reno, then," Sam said finally, not quite a decision yet, but close enough to one that everybody at the table heard it that way. "Eventually."
+"I had an app," Tyler said. "It told you when she was coming over. It doesn't work without the internet."
 
-"Eventually," Catherine agreed, and let it sit there, unhurried, the first plan any of them had made all week that didn't need to happen tonight.
+John kept his eyes on the flight path marker. "It might still work. If it saved the orbit data before the network went down, it can keep predicting passes for a few days. Let me look at it when we land."
+
+Tyler nodded like that was a fair trade for now, and stayed kneeling there a while longer, watching Texas slide by underneath him.
+
+---
+
+Sam flew his low pass at Amarillo anyway, down Runway 22 at two hundred feet, looking for debris, vehicles, anything on the surface. There was nothing, just a wide, empty field under a hot, flat sky. He came around and landed, and as they taxied in the terminal slid past with the airport's full name across the front in tall letters. Tyler read it aloud: "Rick Husband." Then, to nobody in particular: "He was the commander on Columbia." Nobody answered. Sam's hand stayed on the power lever a beat longer than it needed to.
+
+The FBO's Jet-A truck was parked along the ramp fence with the keys in the ignition, and it started on the first try. John took the nozzle. Sam made him clip the static bonding cable to the airframe before anything else ("Always first. Jet fuel and a spark is a short conversation"), then stopped him at the foot of the stepladder.
+
+"Not on my wing in those."
+
+John looked down at his flip-flops, went back to the cabin for the one pair of boots he'd packed, and climbed up with his cap pulled low against the glare. He braced the overwing nozzle against his hip and watched the meter on the truck roll while Sam sumped both tanks and held each sample tube up to the light. Tyler walked Dan along the grass by the fence and waited while Dan inspected every post twice.
+
+Forty minutes on the ground, and at 12:25 local they were rolling again.
+
+---
+
+They picked up the desert a little over an hour later, the ground turning red and folded under them. When Sky Harbor came up out of the heat shimmer, the outside air temperature on the display read 41 degrees Celsius, a hundred and six Fahrenheit, and Sam added a few knots to the approach for the gusts coming off the baked concrete.
+
+He flew the low pass anyway, down Runway 26 at a couple of hundred feet. It was eleven thousand feet of runway at a real international field, wide enough that the PC-12 felt small over it. It was clear end to end. The airliners sat at their gates where they'd been parked on Monday night, and nothing on the field was moving. He called his turn to final on the tower frequency out of habit. Nobody answered, and 121.5 stayed silent.
+
+He put them down on 26, taxied to the GA ramp, and shut down. The propeller wound down to feather, and the heat came through the airframe within a minute. John opened the door and let Dan out onto the concrete, then sat on the airstair with the address from the 911 trace on his phone: a house on the east side, eleven miles by road. He was working out whether the rental lot was closer than the long-term parking garage when Dan's head came up.
+
+John heard it a second later: an engine, coming fast from the north. A gray Subaru came across the dirt infield from the perimeter road, trailing a plume of dust and aimed at a stretch of fence. It hit the chain-link at forty miles an hour and went through, dragging a folded panel of fence across its hood for twenty feet before it shook loose. The car fishtailed once on the ramp and stopped broadside a hundred feet off the wingtip. It was ten minutes since their wheels had touched.
+
+"Well," Sam said, from under the wing. "Somebody heard us."
+
+The woman who got out was tall and straight-backed, with silver-streaked dark hair pinned up in a twist that had held for more than one day, thin titanium glasses, a linen shirt, and dark jeans. She didn't run at the airplane. She walked at it fast and level, the walk of someone who had spent thirty years going toward emergencies instead of away from them.
+
+"I heard you fly over," she called. "Low. I'm in an office building two miles off the north fence. It was closed when it happened, so there's nobody dead in it. I picked it because it's close to the airport. If anyone was still flying, this is where they'd come, and sitting and listening for them was the only thing left that made sense to do." She glanced back at the torn fence. "There's no open gate on that side. I drove half the fence line looking for one. Then I stopped looking."
+
+She stopped a few feet off the wingtip and took in the airplane, the two men, and the boy peering out of the door behind them, and then Dan shoved past everyone to get to her first. For a second her face came open. Then she put it back.
+
+"Catherine Navarro," she said. "ER doctor. Or I was." She let Dan push his head into her hand. "Yours is the first engine I've heard in three days that wasn't my own car. I'm extremely glad to see you."
+
+"John," he said. "This is Sam. And this is Tyler. We found him in Huntsville yesterday."
+
+Catherine looked at Tyler longer than at either of the men. "Huntsville to here in a day," she said. "You've been busy."
+
+"We came a long way to find you," Sam said.
+
+"Find me how? I haven't told anyone where I am. There isn't anyone to tell."
+
+John held up his phone with the address on it. "You called 911 Tuesday. Something answered, and it kept a record. We were about to drive to your house."
+
+She looked at the address for a long moment. "I argued with it," she said. "For a while."
+
+"That's how we found you."
+
+Catherine looked at the torn fence behind her, then back at the three of them and the dog, and laughed once, short and disbelieving. It was the first real laugh any of them had heard in days. "Well," she said. "You found me."

@@ -1,4 +1,4 @@
-# 5 — John, Day 1
+# 6 — John, Day 1
 
 John woke a little after six, Sam was already up — sitting at the kitchen counter with two mugs of coffee poured, one of them clearly meant for John.
 

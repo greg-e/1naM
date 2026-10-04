@@ -1,4 +1,4 @@
-# 3 — John and Sam meet, Day 0
+# 4 — John and Sam meet, Day 0
 
 John pulled into the Signature lot at five past ten. The glass doors were unlocked, and he went through the lobby, Dan's leash in hand — back toward the ops counter, where line crews would have coordinated fuel trucks and inbound traffic on any ordinary morning. The radio was there, the display read CH 1 over the FBO's own frequency, and the channel knob stepped through presets: the FBO, ground, the fuel farm. It took him three tries and the manual from the drawer under the counter to find the button that let him dial a frequency by hand. He checked the clock over the counter. 10:14.
 
