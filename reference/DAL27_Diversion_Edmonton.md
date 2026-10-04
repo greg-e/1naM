@@ -7,7 +7,7 @@
 **Flight:** Delta Air Lines 27 (DAL27), KATL → RKSI (Seoul-Incheon)
 **Aircraft:** Airbus A350-900, 2 × Rolls-Royce Trent XWB-84
 **Diversion field:** Edmonton International (CYEG)
-**Return:** Sam alone in a Pilatus PC-12/47E, CYEG → KMSP → KPDK
+**Return:** Sam alone in a Pilatus PC-12 NGX, CYEG → KMSP → KPDK
 
 ---
 
@@ -136,16 +136,17 @@ Autoland vs. hand-flown: autoland on an ILS is approved in good weather with the
 
 ## 8. Sam's return: PC-12, CYEG → KMSP → KPDK
 
-**The airplane:** a Pilatus PC-12/47E in a charter interior with passenger seats, transient in an FBO hangar or on the ramp at CYEG. Operator and registration are `[verify / decide]`; the group flies it from Section 6 on, so it must have a back row Tyler can sleep across (Section 7). Sam has ~800 hours in an earlier PC-12.
+**The airplane:** a Pilatus PC-12 NGX, Canadian-registered, six-seat charter interior, nose-out in an open FBO hangar at CYEG with half tanks (last journey-log entry Fort McMurray–Edmonton the afternoon before). Honeywell Primus Apex avionics, autothrottle, PT6A-67P `[verify]`. Fuel 2,704 lb (402 US gal) full; max range ~1,800 nm `[verify]`. Operator and registration are `[verify / decide]`; the group flies it from Section 6 on, so it must have a back row Tyler can sleep across (Section 7). Sam has ~800 hours in an earlier PC-12.
 
 | Leg | Distance | Time (EDT) | Notes |
 | --- | --- | --- | --- |
-| CYEG → KMSP | ~940 nm | dep ~07:00 (05:00 MDT, dark) → arr ~10:20 (09:20 CDT) | ~3 hr 20 min at ~280 KTAS with a westerly tailwind component `[verify]`. Inside the 47E's range with reserves. |
-| KMSP ground | | ~10:20–11:05 | Fuel. A dead hub airport in daylight. |
-| KMSP → KPDK | ~780 nm | dep ~11:05 → arr ~14:00 | ~2 hr 55 min. 121.5 the whole way. |
+| CYEG → KMSP | ~940 nm | dep ~07:30 (05:30 MDT, dark) → arr ~10:45 (09:45 CDT) | ~3 hr 15 min at ~280 KTAS with a westerly tailwind component `[verify]`. Inside the 47E's range with reserves. |
+| KMSP ground | | ~10:45–11:30 | Low pass over 30L, land, fuel from an FBO truck. A dead hub airport in daylight. |
+| KMSP → KPDK | ~780 nm | dep ~11:30 → arr ~14:15 | ~2 hr 45 min. 121.5 and center frequencies on the hour and half hour. |
 
-- PC-12/47E range, fuel capacity, and burn: `[verify against the POH; ~2,700 lb usable fuel]`.
-- From Edmonton to PDK direct is ~1,700 nm. That's past the 47E's practical range, so the Minneapolis stop is necessary, not optional.
+- **Flight ID:** before engine start Sam replaces the registration in the transponder's Flight ID field with **DAL27PDK** (letters and digits, 8 max). With no flight plan filed, trackers would otherwise show an unknown Canadian PC-12 going nowhere; the ID tells any watcher which airplane he came off of and where he's going. Exact entry on the Apex avionics `[verify]`. (From the author's `pc-12 to atl.md`; its hyphenated examples like `TO-KATL` likely can't be entered.)
+- Range, fuel capacity, and burn: `[verify against the POH]`.
+- From Edmonton to PDK direct is ~1,700 nm. That's past the NGX's practical range with reserves, so the Minneapolis stop is necessary, not optional.
 
 ---
 
@@ -154,20 +155,20 @@ Autoland vs. hand-flown: autoland on an ILS is approved in good weather with the
 All from FlightAware's ADS-B data on John's screens:
 
 - **~09:00:** DAL27's track: north-northwest out of Atlanta, steady to northern Saskatchewan, then a deliberate turn south, squawk 7700, a turn direct Edmonton, a descent, landed CYEG ~04:36. Stopped.
-- **~09:00:** one new target that departed CYEG at ~07:00, the only takeoff he can find anywhere since 02:00. A PC-12, southeast-bound.
-- **~10:20:** it lands at Minneapolis. **~11:05:** it leaves Minneapolis, still southeast-bound, toward Atlanta.
+- **~09:00:** one new target that departed CYEG at ~07:30, the only takeoff he can find anywhere since 02:00. A PC-12, southeast-bound, Flight ID **DAL27PDK**.
+- **~10:45:** it lands at Minneapolis. **~11:30:** it leaves Minneapolis, still southeast-bound, toward Atlanta.
 - John's inference: the same pilot. Nobody else on the continent is moving.
 
 Revised Day 0 times after the Edmonton change (working values):
 
 | EDT | Beat |
 | --- | --- |
-| ~12:45 | John leaves for PDK. |
-| ~13:10 | John at the PDK FBO, on the radio, monitoring 121.5. |
-| ~13:50 | Sam's call on 121.5; John answers. |
-| ~14:00 | Sam lands at PDK; they meet on the ramp. |
-| ~14:25 | Leave for Dunwoody. |
-| ~14:45 | Sam finds Elena and Rosa. |
-| ~15:20 | Leave for John's. |
-| ~15:45 | Arrive at John's in Alpharetta. |
+| ~13:00 | John leaves for PDK. |
+| ~13:25 | John at the PDK FBO, on the radio, monitoring 121.5. |
+| ~14:05 | Sam's call on 121.5; John answers. |
+| ~14:15 | Sam lands at PDK; they meet on the ramp. |
+| ~14:40 | Leave for Dunwoody. |
+| ~15:00 | Sam finds Elena and Rosa. |
+| ~15:35 | Leave for John's. |
+| ~16:00 | Arrive at John's in Alpharetta. |
 | ~17:00 | Hourly capture archive starts. |

@@ -290,24 +290,24 @@ This is the single source of truth for chronology: timed beats, day order, who i
 | ~04:36 (02:36 MDT) | Sam lands Delta 27 overweight at Edmonton, at night, under the overweight-landing checklist. |
 | ~04:45–05:30 | Sam walks the cabin on the ground: 306 passengers and 13 cabin crew, all dead. |
 | 06:00 | John wakes up. |
-| ~07:00 (05:00 MDT) | Sam departs Edmonton alone in a PC-12, in the dark, southeast for Minneapolis. |
+| ~07:30 (05:30 MDT) | Sam departs Edmonton alone in a PC-12 NGX, in the dark, southeast for Minneapolis, its transponder Flight ID reset to **DAL27PDK**. |
 | 07:05 | John takes Dan for a walk. |
 | 07:20 | John finds stopped vehicles and the dead on the Parkway. |
 | 07:28 | John's first 911 call, answered by the AI triage agent. |
 | 08:10 | John back home; a first glance at news sites, DOT cameras, and FlightAware, enough to see something is wrong. |
 | 08:30 | John's work meeting; nobody connects. |
 | 08:45 | John checks on his neighbor Harry and finds him dead. |
-| ~09:00 | John finds Delta 27 on FlightAware: a turn south over northern Saskatchewan, squawk 7700, landed at Edmonton, stopped. Then a new ident departing that same field at ~07:00, the only takeoff he can find anywhere since 02:00, southeast-bound. |
-| ~10:20 | Sam lands at Minneapolis-St. Paul (KMSP) to refuel. |
-| ~11:05 | Sam departs KMSP; the track settles southeast toward Atlanta. |
-| ~12:45 | John leaves for DeKalb-Peachtree (PDK), his home field, ~25 min down GA-400 and I-285. |
-| ~13:10 | John arrives at PDK, gets into an FBO `[verify which; Epps Aviation is the long-standing PDK FBO]`, gets the ops-desk radio out of its channel presets, tries Peachtree Tower, Atlanta Approach, and Center, then monitors 121.5, the emergency frequency. |
-| ~13:50 | Sam's call comes in on 121.5; John answers. |
-| ~14:00 | Sam lands the PC-12 at PDK and taxis to the FBO; John and Sam meet on the ramp. |
-| ~14:25 | They leave for Sam's house in Dunwoody in John's car (~15 min). |
-| ~14:45 | Sam finds Elena and Rosa. |
-| ~15:20 | John and Sam leave for John's house. |
-| ~15:45 | Arrive at John's house in Alpharetta. John starts the detailed search (global flights, nationwide traffic cameras, maritime AIS, the power grid) and builds a data model to surface patterns and exceptions. |
+| ~09:00 | John finds Delta 27 on FlightAware: a turn south over northern Saskatchewan, squawk 7700, landed at Edmonton, stopped. Then a new target departing that same field at ~07:30, the only takeoff he can find anywhere since 02:00, southeast-bound, broadcasting the Flight ID **DAL27PDK**: Delta 27's pilot, bound for John's own field. |
+| ~10:45 (09:45 CDT) | Sam lands at Minneapolis-St. Paul (KMSP) to refuel. |
+| ~11:30 (10:30 CDT) | Sam departs KMSP; the track settles southeast toward Atlanta. |
+| ~13:00 | John leaves for DeKalb-Peachtree (PDK), his home field, ~25 min down GA-400 and I-285. |
+| ~13:25 | John arrives at PDK, gets into an FBO `[verify which; Epps Aviation is the long-standing PDK FBO]`, gets the ops-desk radio out of its channel presets, tries Peachtree Tower, Atlanta Approach, and Center, then monitors 121.5, the emergency frequency. |
+| ~14:05 | Sam's call comes in on 121.5; John answers. |
+| ~14:15 | Sam lands the PC-12 at PDK and taxis to the FBO; John and Sam meet on the ramp. |
+| ~14:40 | They leave for Sam's house in Dunwoody in John's car (~15 min). |
+| ~15:00 | Sam finds Elena and Rosa. |
+| ~15:35 | John and Sam leave for John's house. |
+| ~16:00 | Arrive at John's house in Alpharetta. John starts the detailed search (global flights, nationwide traffic cameras, maritime AIS, the power grid) and builds a data model to surface patterns and exceptions. |
 | ~17:00 | John starts the hourly capture archive of every live feed, backfilled to 02:00 where history exists. |
 | Evening | The nationwide 911 search is seeded and runs overnight. |
 | ~00:50 (Sept 6) | The grid goes dark at John's house; his generator picks up the load. |
@@ -333,7 +333,7 @@ Keep these entries to plot facts that later scenes depend on. The prose holds th
 
 - John wakes into the silence, walks Dan, finds the dead, and calls 911; an AI triage agent answers. That call later seeds the nationwide search.
 - He breaks down privately, alone with the dog: a cry to God.
-- John finds Delta 27 diverted and stopped at Edmonton, then a new ident leaving that same field and heading southeast, and connects the two.
+- John finds Delta 27 diverted and stopped at Edmonton, then a new target leaving that same field with the Flight ID DAL27PDK, and connects the two.
 - The section ends mid-drive to PDK, with who is flying the airplane out of Edmonton still an open question.
 
 ### Section 2: Sam's flight
@@ -350,18 +350,20 @@ Keep these entries to plot facts that later scenes depend on. The prose holds th
 ### Section 3: Sam's return, Edmonton to Atlanta
 
 - With nobody left aboard to save, the land-fast logic is spent; Elena and Rosa are in Dunwoody. **Going home is the choice.**
-- He leaves the A350 at Edmonton and takes a **PC-12/47E** in a charter interior from an FBO on the field (operator `[decide]`); it must have passenger seats (Tyler later sleeps across the back row). His ~800 hours in the type make it his airplane. **This PC-12 becomes the group's airplane.**
-- Departs ~07:00 EDT (05:00 MDT), in the dark. **Fuel stop at Minneapolis-St. Paul (KMSP)** ~10:20–11:05; a dead hub airport. Edmonton to PDK direct (~1,700 nm) is past the airplane's practical range, so the stop is necessary. Then southeast to Atlanta, transmitting on 121.5 the whole way.
+- He leaves the A350 at Edmonton and takes a **PC-12 NGX** (Canadian-registered, six-seat charter interior, half tanks per its journey log) from an open FBO hangar on the field (operator `[decide]`); it must have passenger seats (Tyler later sleeps across the back row). His ~800 hours in the type make it his airplane. **This PC-12 becomes the group's airplane.**
+- On the ground at Edmonton he reads FlightAware and the frozen news sites on his phone and draws his own conclusions: nothing has taken off or landed anywhere since just before 02:00 Eastern except Delta 27. He finds the FBO's line tech and a fuel truck driver dead, waits, walks the ramp, and only then plans for home. He reads the NGX's handbook in the cockpit before he flies it.
+- **He resets the transponder Flight ID to DAL27PDK** so anyone watching a tracker knows which airplane he came off of and where he's going. This is how John knows.
+- Departs ~07:30 EDT (05:30 MDT), in the dark. **Fuel stop at Minneapolis-St. Paul (KMSP)** ~09:45–10:30 CDT; a dead hub airport. Edmonton to PDK direct (~1,700 nm) is past the airplane's practical range, so the stop is necessary. Then southeast to Atlanta, transmitting on 121.5 the whole way.
 - He's bound for PDK, ~4 mi from his house.
 - The section ends as Atlanta comes up ahead, before any contact.
 
 ### Section 4: the ramp meeting, Dunwoody, and the drive home
 
 - **Both men pick PDK for their own reasons**: for Sam it's the field nearest home; for John it's his home field, where he knows the FBO and the radios, and the obvious place for a PC-12 to land. Neither knows the other's choice until the radio.
-- John reaches the PDK FBO, can't raise anyone on the Tower, Approach, or Center frequencies, and monitors 121.5 until Sam's call comes in. Sam learns John's name on the radio and lands the PC-12 ~14:00.
+- John reaches the PDK FBO, can't raise anyone on the Tower, Approach, or Center frequencies, and monitors 121.5 until Sam's call comes in. Sam learns John's name on the radio and lands the PC-12 ~14:15.
 - They meet on the ramp. Sam climbs down the PC-12's airstair door; Dan reaches him first.
-- John and Sam drive to Sam's house in Dunwoody (~14:25–14:45) and find Elena and Rosa dead.
-- They drive back to John's, arriving ~15:45.
+- John and Sam drive to Sam's house in Dunwoody (~14:40–15:00) and find Elena and Rosa dead.
+- They drive back to John's, arriving ~16:00.
 
 ### Section 5: John's house, the telemetry sweep, and seeding the nationwide search
 
@@ -470,7 +472,7 @@ Technical detail: `reference/power-grid-shutdown-timelines.md` (researched but s
 
 ## Aircraft
 
-- **The group flies the PC-12/47E Sam takes off the field at Edmonton** on Day 0 and flies to Atlanta (Section 3). It's a working charter airplane with passenger seats, not a new one; operator and registration `[decide]`, avionics `[verify]`. Sam's A350 stays on the ramp at Edmonton. Whether the PC-12 is the group's permanent type is open; don't switch aircraft without a reason, and ask the author before adding another type.
+- **The group flies the PC-12 NGX Sam takes off the field at Edmonton** on Day 0 and flies to Atlanta (Section 3). It's a working charter airplane with passenger seats, not a new one; operator and registration `[decide]`, avionics `[verify]`. Sam's A350 stays on the ramp at Edmonton. Whether the PC-12 is the group's permanent type is open; don't switch aircraft without a reason, and ask the author before adding another type.
 - **A C-17 for the Italy excursion**, flown by Sam.
 - **The station's three MH-65E Dolphins**, for Sam's rotorcraft arc at the Hook: rated in 2027 but low-time, he transitions to the type and builds hours.
 
