@@ -4,7 +4,7 @@ A novel-in-progress (Book One of a planned series). Each scene lives in its own 
 
 ## Premise
 
-A fast-acting biological event kills nearly everyone on Earth in a single night. Survival rate is roughly one in a million — around 350 people in the continental US, scattered with no concentration anywhere. Most survivors don't know they're immune until they wake up into the silence. The book follows the handful who find each other and start rebuilding some kind of shared life, without ever learning *why* they were the ones who lived.
+A fast-acting biological event kills nearly everyone on Earth in a single night. Survival rate is roughly one in a million — around 350 people in the continental US, scattered with no concentration anywhere. Survivors don't know they're immune until they wake up or live through people dying around them. The book follows the handful of survivors.
 
 ## Repository contents
 
