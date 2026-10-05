@@ -163,12 +163,12 @@ Revised Day 0 times after the Edmonton change (working values):
 
 | EDT | Beat |
 | --- | --- |
-| 09:10 | John leaves for PDK, five hours early. |
-| ~10:00 | John at the PDK FBO, on the radio, monitoring 121.5, watching the track. |
+| 09:10–12:41 | John stays home collecting data while power and connection hold; watches the Minneapolis stop from his desk. |
+| 12:41 | John leaves for PDK, later than planned. |
+| ~13:40 | John at the PDK FBO, on the radio, watching the track. |
 | ~14:05 | Sam's call on 121.5; John answers. |
 | ~14:15 | Sam lands at PDK; they meet on the ramp. |
 | ~14:40 | Leave for Dunwoody. |
 | ~15:00 | Sam finds Elena and Rosa. |
 | ~15:35 | Leave for John's. |
 | ~16:00 | Arrive at John's in Alpharetta. |
-| ~17:00 | Hourly capture archive starts. |

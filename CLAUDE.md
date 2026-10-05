@@ -76,7 +76,7 @@ Each character entry has five fields: Demographics; Physical Appearance & Presen
  T-shirts, worn olive drab BDU cargo pants, flip-flops, baseball cap outside.
 
 #### Background:
- Georgia Tech (BS ECE) / Johns Hopkins (MS Systems Engineering). Put himself through school working late nights at a Waffle House; early youth vulnerability-research episode led to a federal consulting offer instead of prosecution. 30-year systems architect leading Gemini deployments for federal civilian agencies (DOT/FAA, DHS, USCG, NOAA, FEMA). Instrument-rated private pilot (Cessna 182 out of PDK) as a weekend hobby. Keeps Naomi's study untouched.
+ Georgia Tech (BS ECE) / Johns Hopkins (MS Systems Engineering). Put himself through school working late nights at a Waffle House; early youth vulnerability-research episode led to a federal consulting offer instead of prosecution. 30-year systems architect leading Gemini deployments for federal civilian agencies (DOT/FAA, DHS, USCG, NOAA, FEMA). Instrument-rated private pilot (Cessna 182 out of PDK) as a weekend hobby. Keeps Naomi's study untouched. Has sat in years of federal emergency exercises with the agencies (FEMA tabletops in Crystal City, a GridEx round, a Coast Guard continuity drill); his lesson from them, which he's taught from the front of the room: collect first while the pipes are open, analyze later, because by day three you work from whatever somebody saved.
 
 #### Friction & Flaws:
 - The Safety Architect's Agony: Deeply respects protocols and safety layers because he helped build them. Overriding or stripping a safety filter causes him real internal agony, a moral dilemma of sorts: what is right, what is wrong, what he got caught doing, knowing the implications.
@@ -302,17 +302,21 @@ This is the single source of truth for chronology: timed beats, day order, who i
 | 08:30 | John's work meeting; nobody connects. |
 | 08:45 | John checks on his neighbor Harry and finds him dead. |
 | ~09:00 | John finds Delta 27 on FlightAware: a turn south over northern Saskatchewan, squawk 7700, landed at Edmonton, stopped. Then a new target departing that same field at ~07:30, the only takeoff he can find anywhere since 02:00, southeast-bound, broadcasting the Flight ID **DAL27PDK**: Delta 27's pilot, bound for John's own field. |
-| 09:10 | John leaves for DeKalb-Peachtree (PDK), his home field, five hours early: GA-400 south to I-285 east, stopping at the firehouse and the QuickTrip at exit 8. |
-| ~10:00 | John arrives at PDK, gets into Epps Aviation `[verify]`, gets the ops-desk radio out of its channel presets, tries Peachtree Tower, Atlanta Approach, and Center, then monitors 121.5, the emergency frequency, for four hours, watching DAL27PDK land at Minneapolis and leave. |
-| ~10:45 (09:45 CDT) | Sam lands at Minneapolis-St. Paul (KMSP) to refuel. |
-| ~11:30 (10:30 CDT) | Sam departs KMSP; the track settles southeast toward Atlanta. |
+| 09:10 | John estimates the PC-12 at PDK ~14:00. He has Dan's leash in hand, stops, and stays home to collect while power and connection hold. |
+| ~09:15 | At the workstation, working a numbered list on his legal pad. Calls the federal ops centers he knows from exercises (FEMA, the FAA Command Center in Warrenton, Coast Guard HQ): no answer. Pings every feed his credentials reach. |
+| ~09:15–09:40 | Starts the hourly capture archive, backfilled to 02:00 where history exists. First full pass takes 22 min; the DOT camera record starts ~09:40. |
+| ~09:40–12:00 | Pulls static data while servers are up: FAA current-cycle charts, a North America OpenStreetMap extract, manuals and how-tos (generator, 182, Army field manuals, EPA water guides, radios), and authorized agency data (DHS infrastructure datasets, NOAA forecasts, EIA plant tables; grid still near 60 Hz, "generator" goes on the pad). Copies to two external drives, one into his flight bag. Then, almost as an afterthought, his and Naomi's photos from the cloud. Stays within his authorized access throughout. |
+| ~10:45 (09:45 CDT) | Sam lands at Minneapolis-St. Paul (KMSP) to refuel; John watches it from home. |
+| ~11:30 (10:30 CDT) | Sam departs KMSP; the track settles southeast toward Atlanta. John puts the ETA at ~14:15 and writes "leave 12:15." |
+| ~12:00 | Headache back; two more ibuprofen. First scheduled hourly snapshot; John spot-checks it, then goes deep rewiring connectors for state camera networks still timing out, and loses track of time. |
+| 12:41 | He looks up at the clock and leaves for DeKalb-Peachtree (PDK), his home field: GA-400 south to I-285 east, stopping only at the QuickTrip at exit 8 for gas. |
+| ~13:40 | John arrives at PDK, gets into Epps Aviation `[verify]`, gets the ops-desk radio out of its channel presets (13:49), tries Peachtree Tower, Atlanta Approach, and Center, and leaves it on Approach. |
 | ~14:08 | Sam's call comes in on 121.5; John answers. |
 | ~14:15 | Sam lands the PC-12 at PDK and taxis to the FBO; John and Sam meet on the ramp. |
 | ~14:40 | They leave for Sam's house in Dunwoody in John's car (~15 min). |
 | ~15:00 | Sam finds Elena and Rosa. |
 | ~15:35 | John and Sam leave for John's house. |
-| ~16:00 | Arrive at John's house in Alpharetta. John starts the detailed search (global flights, nationwide traffic cameras, maritime AIS, the power grid) and builds a data model to surface patterns and exceptions. |
-| ~17:00 | John starts the hourly capture archive of every live feed, backfilled to 02:00 where history exists. |
+| ~16:00 | Arrive at John's house in Alpharetta. John walks Sam through the feeds and the morning's archive (global flights, nationwide traffic cameras, maritime AIS, the power grid) and builds a data model to surface patterns and exceptions. |
 | Evening | The nationwide 911 search is seeded and runs overnight. |
 | ~00:50 (Sept 6) | The grid goes dark at John's house; his generator picks up the load. |
 
@@ -338,6 +342,8 @@ Keep these entries to plot facts that later scenes depend on. The prose holds th
 - John wakes into the silence, walks Dan, finds the dead, and calls 911; an AI triage agent answers. That call later seeds the nationwide search.
 - He breaks down privately, alone with the dog: a cry to God.
 - John finds Delta 27 diverted and stopped at Edmonton, then a new target leaving that same field with the Flight ID DAL27PDK, and connects the two.
+- **He doesn't leave for PDK right away.** With ~5 hours before the airplane can arrive, he stops with Dan's leash in hand and stays home to collect while the power and connection hold. He works a numbered list on his legal pad (who's answering, what's answering, save it, everything else, DAL27PDK). **The federal exercises he's sat in surface in pieces as he works each item, never as a backstory block**: the Coast Guard continuity drill behind the feed inventory, the GridEx round ("collect first, while the pipes are still open; analyze later") behind the capture archive, the FEMA tabletop hurricane behind the offline maps. The federal ops centers don't answer. He starts the hourly capture archive (see Section 5) and pulls charts, maps, manuals, and authorized agency data to drives, and last, almost as an afterthought, his and Naomi's photos. He deliberately doesn't dig into what the feeds show; the deep look belongs to Section 5 with Sam. Everything stays inside his authorized access; the safety layer still comes off only in Section 5.
+- He watches DAL27PDK stop at Minneapolis and leave from his desk and plans to leave at 12:15, then goes deep fixing camera connectors, loses track of time, and leaves at 12:41. The firehouse stop is cut from the drive; only the QuickTrip stop remains. He pushes the car (a near miss with a stalled sedan on 285) and, at the end of the section, runs a red light for the first time in his life, a small first rule broken ahead of the safety layer in Section 5.
 - The section ends mid-drive to PDK, with who is flying the airplane out of Edmonton still an open question.
 
 ### Section 2: Sam's flight
@@ -363,9 +369,9 @@ Keep these entries to plot facts that later scenes depend on. The prose holds th
 
 ### Section 4: the ramp meeting, Dunwoody, and the drive home
 
-- John has been at the PDK FBO since ~10:00, four hours on the radio and the tracker.
+- John reaches the PDK FBO at ~13:40, about half an hour before Sam's call.
 - **Both men pick PDK for their own reasons**: for Sam it's the field nearest home; for John it's his home field, where he knows the FBO and the radios, and the obvious place for a PC-12 to land. Neither knows the other's choice until the radio.
-- John reaches the PDK FBO (Epps), can't raise anyone on the Tower, Approach, or Center frequencies, and leaves the radio on Approach, expecting an inbound pilot to call there. He watches DAL27PDK stop at Minneapolis and leave, and sits in his own 182 in its hangar for a while. Only as the track comes down past Chattanooga does he reason his way to 121.5, at ~14:08, which is why they don't connect until Sam is ~10 minutes out.
+- John reaches the PDK FBO (Epps), can't raise anyone on the Tower, Approach, or Center frequencies, and leaves the radio on Approach, expecting an inbound pilot to call there. He checks from his phone that the 13:00 snapshot wrote at home. Only as the track comes down past Chattanooga does he reason his way to 121.5, at ~14:08, which is why they don't connect until Sam is ~10 minutes out.
 - Sam's call is a blind position report, not a MAYDAY: nothing is wrong with the PC-12. Sam learns John's name on the radio, gets the wind from John's windsock, and lands on 21L ~14:15.
 - They meet on the ramp. Sam climbs down the PC-12's airstair door in his three-stripe jacket; Dan reaches him first.
 - John and Sam drive to Sam's house in Dunwoody (~14:40–15:00) and find Elena and Rosa dead.
@@ -377,7 +383,7 @@ Keep these entries to plot facts that later scenes depend on. The prose holds th
 - **Finding other survivors is the stated primary mission**, and John and Sam reason out the method together, step by step: passive observation (cameras, AIS, ADS-B, beacons) can't catch a living person and shows only dead machinery still running → a survivor reveals themselves only by *acting* (reaching for a phone or radio) → the one action that leaves a durable, nationwide, reachable trace is a 911 call, because the AI triage agent answered and logged every one. Sam (who worked a radio from Saskatchewan to Atlanta) drives the "what lasts?" step.
 - The feeds survey doubles as the scope-of-event beat and as step one of the survivor logic (ruling out passive observation).
 - The grid model puts a date on Georgia (John writes *Sept 16* on his pad, the early end of the window). John explains the Vogtle spent-fuel-pool risk (10–21 days) and says "we need to head west" for the first time.
-- **The hourly capture archive.** Every feed John reaches through the model (DOT camera frames, AIS, ADS-B, distress beacons, grid readings) is live, point-in-time data that lasts only while the internet is up and the data centers behind the feeds have power. John sets the model to snapshot every feed hourly onto the workstation's local drives, backfilled to 02:00 EDT wherever the source kept history (flight tracking, AIS, EIA grid tables, beacon logs). DOT cameras keep no history, so their record starts ~17:00. Hourly is "fine enough to catch anything that moves on purpose." The archive goes with the group and is the record later scenes search (e.g. spotting the *Pacific Tender* on AIS in Section 11). Fewer feeds answer each hour as the grid and networks fail.
+- **The hourly capture archive.** Every feed John reaches through the model (DOT camera frames, AIS, ADS-B, distress beacons, grid readings) is live, point-in-time data that lasts only while the internet is up and the data centers behind the feeds have power. John set the model to snapshot every feed hourly onto the workstation's local drives **that morning, in Section 1** (~09:15–09:40), backfilled to 02:00 EDT wherever the source kept history (flight tracking, AIS, EIA grid tables, beacon logs). DOT cameras keep no history, so their record starts ~09:40. A full pass takes ~22 min, hence hourly: "fine enough to catch anything that moves on purpose." Drives hold years at a few GB/hour. In Section 5 he shows Sam the archive already running rather than setting it up. The archive goes with the group and is the record later scenes search (e.g. spotting the *Pacific Tender* on AIS in Section 11). Fewer feeds answer each hour as the grid and networks fail.
 - **The safety layer comes off exactly once, in front of Sam**, so John can reach county dispatch systems he has no authorization for. The nationwide 911 search is seeded to run overnight.
 - John takes Naomi's Bible from her desk. The grid goes dark ~00:50 and his generator picks up the load.
 
@@ -547,6 +553,7 @@ Write every scene, new or revised, with procedural accuracy, correct domain term
 - The *Pacific Tender* at anchor and first in-person contact with Johan, reached by boat from the Hook.
 - Reaching and converting the station, clearing its dead, and moving aboard *Active* (with the interim hotel before it).
 - **The Edmonton diversion pass:** rewrite Section 2 from `reference/DAL27_Diversion_Edmonton.md`; draft the new Section 3 (Sam's return); rename `sections/03`–`10` to `04`–`11` and their headers; update the Delta 27 beats in Section 1, the arrival in Section 4 (PDK, not KATL/Signature; PC-12, not the A350 and its slide; FO's three stripes; the MAYDAY and its figures; Marietta → Dunwoody), and the PDK acquisition in Section 6. Check later sections for "PC-12 PRO" and "cockpit" on the A350.
+- **Align Section 5 with John's Day 0 morning collection:** the capture archive now starts in Section 1 (~09:40). Rewrite Section 5's capture setup (the "He set up the capture" passage, the 0200/0300 directory list, "the record would start at five that afternoon," and "Why hourly?") as John showing Sam an archive already running; trim the workstation introduction, which Section 1 now gives the reader first.
 - **Signs on the dead:** bodies of people who were awake at 2:00 show open eyes, open mouths, and some nosebleeds (Section 2 has them). Check the bodies already on the page in Section 1 and later sections against this.
 - **Survivor symptoms:** Sam (Sections 2–3) and John (Section 1) have theirs on the page. Sections 4–11 show nobody with symptoms yet; seed them as scenes are revised, and record each character's in their entry.
 
