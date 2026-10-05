@@ -1,6 +1,6 @@
 # Port Angeles Base — Research Dossier
 
-The Port Angeles / Elwha phase of the book: Johan's anchorage in Port Angeles Harbor, the timeline, what happened to Grace's house, and how the group finds off-grid, comfortable, ISS-capable lodging for a stay of a couple of months. Companion to [research-compendium.md](research-compendium.md); canon lives in [CLAUDE.md](CLAUDE.md) (2026-09-20 retcon).
+The Port Angeles / Elwha phase of the book: Johan's anchorage in Port Angeles Harbor, the timeline, what happened to Grace's house, and how the group finds off-grid, comfortable, ISS-capable lodging for a stay of a couple of months. Companion to [research-compendium.md](research-compendium.md); canon lives in [CLAUDE.md](../CLAUDE.md) (2026-09-20 retcon).
 
 **Status:** v0.1, 2026-09-20. Same tags as the compendium: `[SRC]` sourced (source named), `[CANON]` established, `[DERIVED]` my inference or arithmetic, `[VERIFY]` general knowledge not confirmed against a source. Web sources were consulted on 2026-09-20; several were search-result summaries, not full-document reads — noted where it matters.
 
