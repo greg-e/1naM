@@ -12,13 +12,13 @@ A little before two he pulled the phone out again. DAL27PDK was past Chattanooga
 
 He looked at the card again. One line for Approach. But Atlanta Approach worked the sky around the city in slices, a frequency for each, and the card only gave him the one the ramp here used. He had no way to know which slice the airplane was in, or which frequency its pilot had dialed. There was only one frequency every airplane was supposed to be listening to.
 
-2:04. He dialed in 121.5, the emergency frequency, turned the volume all the way up, and got his thumb on the transmit button.
+2:08. He dialed in 121.5, the emergency frequency, turned the volume all the way up, and got his thumb on the transmit button.
 
 Before he could press it, the speaker came alive, and John's stomach jumped as a voice filled the empty room.
 
 ---
 
-Twenty miles northwest of the field, Sam had Atlanta Approach on one radio and 121.5 on the other, and on the descent he keyed 121.5 the way he had on the hour and the half hour since Edmonton, the words worn smooth by now.
+Twenty miles northwest of the field, Sam had Atlanta Approach on one radio and 121.5 on the other, and on the descent he keyed 121.5 again, the same call he'd made on the hour and the half hour since Edmonton, the words worn smooth by now.
 
 "Any station, Delta Twenty-Seven, Pilatus PC-12, transmitting in the blind. Twenty miles northwest of Peachtree-DeKalb, descending through eight thousand, landing Peachtree-DeKalb."
 
@@ -28,7 +28,7 @@ Then a voice in his headset, on 121.5. A man, unsteady, no callsign. "Delta Twen
 
 For a second Sam's voice wouldn't work at all. "Say again," he finally got out, rougher than he'd sounded once in ten hours of talking to dead air. "Say again. Who is this?"
 
-Nothing came back for several seconds. Then John's voice again, steadier. "John Lauer. I live up in Alpharetta. I watched your airliner land in Edmonton on a map this morning, and then this airplane leave with your flight number on it. I'm at Epps. At the ops desk."
+Nothing came back for several seconds. Then John's voice again, steadier. "John Lauer. I live up in Alpharetta. I saw on a map this morning where your airliner landed in Edmonton, and then this airplane leave there with your flight number on it. I'm at Epps. At the ops desk."
 
 "Epps," Sam said. He knew that ramp. He lived four miles from it, and he'd been in and out of that FBO more times than he could count in his charter years. "John, you're the first voice I've heard since last night. Is there anybody else there with you? Anybody at all?"
 
@@ -80,7 +80,7 @@ Sam went in through the front door at a near run, calling their names, and John 
 
 It didn't take long. From a bedroom down the hall came a sound John had never heard a grown man make, lower and more ruined than crying. John followed it.
 
-Elena was in their bed, on her side, one arm still reaching toward the nightstand. No mark on her, nothing disturbed, the same gentle, terrible peace John had seen enough times that day to recognize from the door. Farther down the hall, through a door standing half open, in a room with fairy lights strung along one wall, Rosa lay curled the way kids sleep.
+Elena was in their bed, on her side, the blanket up at her shoulder. No mark on her, nothing disturbed, the same gentle, terrible peace John had seen enough times that day to recognize from the door. Farther down the hall, through a door standing half open, in a room with fairy lights strung along one wall, Rosa lay curled the way kids sleep.
 
 Sam was on his knees at the foot of Elena's bed when John reached the doorway, both hands pressed flat against the mattress as if he could hold something down by will alone. John stopped there, the way he'd stopped on the porch.
 

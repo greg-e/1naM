@@ -306,7 +306,7 @@ This is the single source of truth for chronology: timed beats, day order, who i
 | ~10:00 | John arrives at PDK, gets into Epps Aviation `[verify]`, gets the ops-desk radio out of its channel presets, tries Peachtree Tower, Atlanta Approach, and Center, then monitors 121.5, the emergency frequency, for four hours, watching DAL27PDK land at Minneapolis and leave. |
 | ~10:45 (09:45 CDT) | Sam lands at Minneapolis-St. Paul (KMSP) to refuel. |
 | ~11:30 (10:30 CDT) | Sam departs KMSP; the track settles southeast toward Atlanta. |
-| ~14:05 | Sam's call comes in on 121.5; John answers. |
+| ~14:08 | Sam's call comes in on 121.5; John answers. |
 | ~14:15 | Sam lands the PC-12 at PDK and taxis to the FBO; John and Sam meet on the ramp. |
 | ~14:40 | They leave for Sam's house in Dunwoody in John's car (~15 min). |
 | ~15:00 | Sam finds Elena and Rosa. |
@@ -365,7 +365,7 @@ Keep these entries to plot facts that later scenes depend on. The prose holds th
 
 - John has been at the PDK FBO since ~10:00, four hours on the radio and the tracker.
 - **Both men pick PDK for their own reasons**: for Sam it's the field nearest home; for John it's his home field, where he knows the FBO and the radios, and the obvious place for a PC-12 to land. Neither knows the other's choice until the radio.
-- John reaches the PDK FBO (Epps), can't raise anyone on the Tower, Approach, or Center frequencies, and leaves the radio on Approach, expecting an inbound pilot to call there. He watches DAL27PDK stop at Minneapolis and leave, and sits in his own 182 in its hangar for a while. Only as the track comes down past Chattanooga does he reason his way to 121.5, at ~14:04, which is why they don't connect until Sam is ~10 minutes out.
+- John reaches the PDK FBO (Epps), can't raise anyone on the Tower, Approach, or Center frequencies, and leaves the radio on Approach, expecting an inbound pilot to call there. He watches DAL27PDK stop at Minneapolis and leave, and sits in his own 182 in its hangar for a while. Only as the track comes down past Chattanooga does he reason his way to 121.5, at ~14:08, which is why they don't connect until Sam is ~10 minutes out.
 - Sam's call is a blind position report, not a MAYDAY: nothing is wrong with the PC-12. Sam learns John's name on the radio, gets the wind from John's windsock, and lands on 21L ~14:15.
 - They meet on the ramp. Sam climbs down the PC-12's airstair door in his three-stripe jacket; Dan reaches him first.
 - John and Sam drive to Sam's house in Dunwoody (~14:40–15:00) and find Elena and Rosa dead.
