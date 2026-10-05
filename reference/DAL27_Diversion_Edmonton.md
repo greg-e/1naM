@@ -136,7 +136,7 @@ Autoland vs. hand-flown: autoland on an ILS is approved in good weather with the
 
 ## 8. Sam's return: PC-12, CYEG → KMSP → KPDK
 
-**The airplane:** a Pilatus PC-12 NGX, Canadian-registered, six-seat charter interior, nose-out in an open FBO hangar at CYEG with half tanks (last journey-log entry Fort McMurray–Edmonton the afternoon before). Honeywell Primus Apex avionics, autothrottle, PT6A-67P `[verify]`. Fuel 2,704 lb (402 US gal) full; max range ~1,800 nm `[verify]`. Operator and registration are `[verify / decide]`; the group flies it from Section 6 on, so it must have a back row Tyler can sleep across (Section 7). Sam has ~800 hours in an earlier PC-12.
+**The airplane:** a Pilatus PC-12 NGX, registration C-GKPX `[verify not a real airframe]` (radio callsign "Charlie Golf Kilo Papa X-ray"; Sam never uses the Flight ID on the radio), six-seat charter interior, nose-out in an open FBO hangar at CYEG with half tanks (last journey-log entry Fort McMurray–Edmonton the afternoon before). Honeywell Primus Apex avionics, autothrottle, PT6A-67P `[verify]`. Fuel 2,704 lb (402 US gal) full; max range ~1,800 nm `[verify]`. Operator and registration are `[verify / decide]`; the group flies it from Section 6 on, so it must have a back row Tyler can sleep across (Section 7). Sam has ~800 hours in an earlier PC-12.
 
 | Leg | Distance | Time (EDT) | Notes |
 | --- | --- | --- | --- |
@@ -163,8 +163,8 @@ Revised Day 0 times after the Edmonton change (working values):
 
 | EDT | Beat |
 | --- | --- |
-| ~13:00 | John leaves for PDK. |
-| ~13:25 | John at the PDK FBO, on the radio, monitoring 121.5. |
+| 09:10 | John leaves for PDK, five hours early. |
+| ~10:00 | John at the PDK FBO, on the radio, monitoring 121.5, watching the track. |
 | ~14:05 | Sam's call on 121.5; John answers. |
 | ~14:15 | Sam lands at PDK; they meet on the ramp. |
 | ~14:40 | Leave for Dunwoody. |
