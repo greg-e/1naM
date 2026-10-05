@@ -54,7 +54,7 @@ If you enjoyed *The Good Shepherd* for its tight focus and relentless tactical t
 
 - The event happens at 2:00 a.m. Eastern, September 5, 2028. Fast-acting, airborne, near-total in lethality.
 - About 1 in a million survive: roughly 350 in the continental US, with no concentration anywhere. Survivor density is higher in Canada, South America, Europe, and Asia (exact ratios not yet set).
-- **Survival isn't clean immunity. Every survivor has symptoms**, present from the first waking hours. They vary from person to person: a scratchy chest like a chest cold, a cough, nosebleeds, trouble taking a deep breath. They improve with time, but unevenly: some clear in days, others are still short of breath months on, into the fall. Catherine treats and tracks them. Show them through physical action (a cough, blood on a sleeve, stopping on a stair to get a breath), not as a recurring complaint. Each character's symptoms are decided in the prose and recorded in their entry when they appear.
+- **Survival isn't clean immunity. Every survivor has symptoms**, present from the first waking hours. They vary from person to person: a scratchy chest like a chest cold, a cough, nosebleeds, trouble taking a deep breath, headaches. They improve with time, but unevenly: some clear in days, others are still short of breath months on, into the fall. Catherine treats and tracks them. Show them through physical action (a cough, blood on a sleeve, stopping on a stair to get a breath), not as a recurring complaint. Each character's symptoms are decided in the prose and recorded in their entry when they appear.
 - **The symptoms are evidence about what killed everyone, never about why anyone lived.** Catherine and later Marchetti can read them as clues to the killing mechanism (route of exposure, what tissue it hit). They never point to why these people survived.
 - Most survivors don't know they've survived anything until they wake into the silence. Death came within moments. Most people were asleep and died without waking. Those who were awake show it: eyes open, mouths open as if gasping for air, some with dried blood under the nose. These signs echo the survivors' symptoms and, like them, are clues to the killing mechanism.
 - **Why some people survive is a deliberate mystery**, and it's the emotional and thematic core of the title. Never resolve it: no genetic or hereditary theory, no antibody theory, no exposure-survivor case study. **What killed everyone else is a separate, answerable question**, and the Italy excursion researches it and may reach real findings. The research can explain the killing mechanism, never the immunity.
@@ -87,6 +87,8 @@ Each character entry has five fields: Demographics; Physical Appearance & Presen
 
 - Not Corporate: Will wear his everyday attire to meetings in DC, most comfortable in the background solving problems.
 
+- Survivor symptoms (Day 0 on): a dull headache he wakes with, and shortness of breath; he can't get a full breath on a hill.
+
 - Borrowed Faith: Naomi had a deep faith in God, and John thought he did too until she died and he found it was just her faith; he had none of his own. This is a spiritual journey for John toward the light of life he never thought he would ever need or want.
 
 ### Sam (Samuel Reyes)
@@ -107,6 +109,8 @@ Each character entry has five fields: Demographics; Physical Appearance & Presen
 - The Steady Voice: Twenty years of being the calmest voice on the flight deck have made steadiness a job he performs for whoever is watching. 
 
 - Command He Gave Up: He commanded C-17s, then traded the left seat for Delta seniority and spent a decade as the second voice on the flight deck. Day 0 puts command back on him, and he takes it up faster than he'd admit.
+
+- Survivor symptoms (Day 0 on): a scratchy chest like a cold coming on, and a cough that doesn't clear.
 
 - Circadian Rhythm: After years of long-haul flying, he has a hard time sleeping and adapting to regular days.
 
@@ -290,18 +294,18 @@ This is the single source of truth for chronology: timed beats, day order, who i
 | ~04:36 (02:36 MDT) | Sam lands Delta 27 overweight at Edmonton, at night, under the overweight-landing checklist. |
 | ~04:45–05:30 | Sam walks the cabin on the ground: 306 passengers and 13 cabin crew, all dead. |
 | 06:00 | John wakes up. |
-| ~07:30 (05:30 MDT) | Sam departs Edmonton alone in a PC-12 NGX, in the dark, southeast for Minneapolis, its transponder Flight ID reset to **DAL27PDK**. |
 | 07:05 | John takes Dan for a walk. |
 | 07:20 | John finds stopped vehicles and the dead on the Parkway. |
 | 07:28 | John's first 911 call, answered by the AI triage agent. |
+| ~07:30 (05:30 MDT) | Sam departs Edmonton alone in a PC-12 NGX, in the dark, southeast for Minneapolis, its transponder Flight ID reset to **DAL27PDK**. |
 | 08:10 | John back home; a first glance at news sites, DOT cameras, and FlightAware, enough to see something is wrong. |
 | 08:30 | John's work meeting; nobody connects. |
 | 08:45 | John checks on his neighbor Harry and finds him dead. |
 | ~09:00 | John finds Delta 27 on FlightAware: a turn south over northern Saskatchewan, squawk 7700, landed at Edmonton, stopped. Then a new target departing that same field at ~07:30, the only takeoff he can find anywhere since 02:00, southeast-bound, broadcasting the Flight ID **DAL27PDK**: Delta 27's pilot, bound for John's own field. |
+| 09:10 | John leaves for DeKalb-Peachtree (PDK), his home field, five hours early: GA-400 south to I-285 east, stopping at the firehouse and the QuickTrip at exit 8. |
+| ~10:00 | John arrives at PDK, gets into Epps Aviation `[verify]`, gets the ops-desk radio out of its channel presets, tries Peachtree Tower, Atlanta Approach, and Center, then monitors 121.5, the emergency frequency, for four hours, watching DAL27PDK land at Minneapolis and leave. |
 | ~10:45 (09:45 CDT) | Sam lands at Minneapolis-St. Paul (KMSP) to refuel. |
 | ~11:30 (10:30 CDT) | Sam departs KMSP; the track settles southeast toward Atlanta. |
-| ~13:00 | John leaves for DeKalb-Peachtree (PDK), his home field, ~25 min down GA-400 and I-285. |
-| ~13:25 | John arrives at PDK, gets into an FBO `[verify which; Epps Aviation is the long-standing PDK FBO]`, gets the ops-desk radio out of its channel presets, tries Peachtree Tower, Atlanta Approach, and Center, then monitors 121.5, the emergency frequency. |
 | ~14:05 | Sam's call comes in on 121.5; John answers. |
 | ~14:15 | Sam lands the PC-12 at PDK and taxis to the FBO; John and Sam meet on the ramp. |
 | ~14:40 | They leave for Sam's house in Dunwoody in John's car (~15 min). |
@@ -359,9 +363,11 @@ Keep these entries to plot facts that later scenes depend on. The prose holds th
 
 ### Section 4: the ramp meeting, Dunwoody, and the drive home
 
+- John has been at the PDK FBO since ~10:00, four hours on the radio and the tracker.
 - **Both men pick PDK for their own reasons**: for Sam it's the field nearest home; for John it's his home field, where he knows the FBO and the radios, and the obvious place for a PC-12 to land. Neither knows the other's choice until the radio.
-- John reaches the PDK FBO, can't raise anyone on the Tower, Approach, or Center frequencies, and monitors 121.5 until Sam's call comes in. Sam learns John's name on the radio and lands the PC-12 ~14:15.
-- They meet on the ramp. Sam climbs down the PC-12's airstair door; Dan reaches him first.
+- John reaches the PDK FBO (Epps), can't raise anyone on the Tower, Approach, or Center frequencies, and leaves the radio on Approach, expecting an inbound pilot to call there. He watches DAL27PDK stop at Minneapolis and leave, and sits in his own 182 in its hangar for a while. Only as the track comes down past Chattanooga does he reason his way to 121.5, at ~14:04, which is why they don't connect until Sam is ~10 minutes out.
+- Sam's call is a blind position report, not a MAYDAY: nothing is wrong with the PC-12. Sam learns John's name on the radio, gets the wind from John's windsock, and lands on 21L ~14:15.
+- They meet on the ramp. Sam climbs down the PC-12's airstair door in his three-stripe jacket; Dan reaches him first.
 - John and Sam drive to Sam's house in Dunwoody (~14:40–15:00) and find Elena and Rosa dead.
 - They drive back to John's, arriving ~16:00.
 
@@ -542,7 +548,7 @@ Write every scene, new or revised, with procedural accuracy, correct domain term
 - Reaching and converting the station, clearing its dead, and moving aboard *Active* (with the interim hotel before it).
 - **The Edmonton diversion pass:** rewrite Section 2 from `reference/DAL27_Diversion_Edmonton.md`; draft the new Section 3 (Sam's return); rename `sections/03`–`10` to `04`–`11` and their headers; update the Delta 27 beats in Section 1, the arrival in Section 4 (PDK, not KATL/Signature; PC-12, not the A350 and its slide; FO's three stripes; the MAYDAY and its figures; Marietta → Dunwoody), and the PDK acquisition in Section 6. Check later sections for "PC-12 PRO" and "cockpit" on the A350.
 - **Signs on the dead:** bodies of people who were awake at 2:00 show open eyes, open mouths, and some nosebleeds (Section 2 has them). Check the bodies already on the page in Section 1 and later sections against this.
-- **Survivor symptoms:** existing prose (Sections 1–11) shows nobody with symptoms. Seed them as scenes are revised, starting with Sam in Section 2 and John in Section 1, and record each character's symptoms in their entry as they're set.
+- **Survivor symptoms:** Sam (Sections 2–3) and John (Section 1) have theirs on the page. Sections 4–11 show nobody with symptoms yet; seed them as scenes are revised, and record each character's in their entry.
 
 **Threads to keep developing:**
 - John's pilot mentorship. A short hop such as Port Angeles–Seattle (~60 nm, about half an hour) is a plausible next step.

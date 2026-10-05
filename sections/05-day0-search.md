@@ -18,7 +18,7 @@ John's office was the last room down the hall. Against the far wall, under its o
 
 "It's an AI model that's authenticated into restricted data," John said.
 
-Sam looked at the case, at the single amber light on its front, then back at John. "How do you find one person alive in all of that?" Sam wasn't asking it to be answered easily. He'd spent seven hours over Canada working the same problem with a radio and come home with one voice for it.
+Sam looked at the case, at the single amber light on its front, then back at John. "How do you find one person alive in all of that?" Sam wasn't asking it to be answered easily. He'd spent ten hours from Saskatchewan to Atlanta working the same problem with a radio and come home with one voice for it.
 
 "Start with what we can throw out." John sat and woke the screens. "We can't just go looking for them. I've got eyes on half the country through these feeds and not one of them is going to catch a live person standing in a doorway at the right second. But I want to see it before I say it. I want to know how much of what we're looking at is alive, and how much is just still running."
 
@@ -50,7 +50,7 @@ So they came back to the question the feeds couldn't answer. Not what was still 
 
 "None of that showed a person," John said. "Not one. A live hand doesn't leave a mark on a camera or a transponder that a dead ship doesn't leave too. So we quit looking for people and start looking for the one thing only a living person does this morning." He turned it over out loud and Sam turned it with him. A survivor waking into the silence would do what the two of them had done: reach for someone. Pick up a phone. Get on a radio. Try to raise help.
 
-"I worked a radio for seven hours," Sam said. "That dies the minute the towers lose power, and nobody's on the other end anyway. What sticks around?"
+"I worked a radio for ten hours," Sam said. "That dies the minute the towers lose power, and nobody's on the other end anyway. What sticks around?"
 
 "A log." John had it now. He told Sam about the first 911 call, that morning on the Parkway, the calm synthetic voice reciting call volume and hold times while a dead man sat slumped in the seat ahead of him and no one human sat anywhere in the loop, every dispatcher in every center as gone as everyone else. He'd hung up and written it off as a dead end. It wasn't. That agent had answered him, and it had answered everybody, every person anywhere in the country frightened enough this morning to dial three digits, and every one of those calls was sitting in a log at whatever county center took it, a callback number, a location, a recording, on a server nobody was watching.
 
@@ -68,11 +68,11 @@ He stripped it that evening at the desk, with Sam in the recliner in the office 
 
 They ate again around eight, simpler this time, and didn't talk much. Somewhere in the quiet after, John found himself in the hallway outside Naomi's study, and went in the way he sometimes did without quite deciding to. Sixteen years and he'd never made it into anything else. Her books shelved the way she'd shelved them, the reading chair, the rolltop desk he'd bought her their second year in the house. Her Bible sat where it always sat, soft at the corners, the ribbon still marking where she'd left off. He opened it there. Isaiah, a verse underlined in pencil and gone over again in yellow, the way she used to mark the ones she kept coming back to. *Fear not, for I am with you; be not dismayed, for I am your God. I will strengthen you, I will help you.* He read it twice, closed the book, and carried it to the office and set it next to the other things he wanted to remember to take with him.
 
-Sam was on the couch when he came back, Dan sprawled half across his lap like he'd already decided this one belonged to him too. "We're going to need an airplane," Sam said, before John had sat down.
+Sam was on the couch when he came back, Dan sprawled half across his lap like he'd already decided this one belonged to him too. "We've got an airplane," Sam said, before John had sat down. "Sitting on the ramp at Epps."
 
 "I fly a 182 out of PDK." John sat down heavily in the chair across from him. "Instrument-rated. I've never touched a turbine."
 
-Sam raised his eyebrows. "Then PDK's where we find the right plane, once we've got something worth flying to." He looked toward the hallway, toward the low steady hum of the machine still working. "How long's it going to take?"
+Sam raised his eyebrows. "Then you're about to learn one, once we've got something worth flying to." He looked toward the hallway, toward the low steady hum of the machine still working. "How long's it going to take?"
 
 "All night, probably. It's not fast. The systems it's accessing will put up a fight, and some of them are from last century, which means we might not get anything. Half of them are already going dark on their own."
 
