@@ -40,11 +40,11 @@ He drove the hangar tug. He got the tow bar on the nose gear, opened the hangar 
 
 It was still full dark when he climbed in. He set up the avionics the way the handbook said and then set up the flight plan: CYEG, direct KMSP, direct KPDK. He checked the weather on his phone, the last forecasts the sites had, already hours old. Clear across the prairies. Some haze in the Southeast.
 
-Then he went into the transponder page on the display and found the field for the flight ID. It held the airplane's Canadian registration. The trackers would show it as a Canadian PC-12 going somewhere unknown. He deleted the registration and typed, one letter at a time on the keypad, D-A-L-2-7-P-D-K. If anyone was looking, they would know what airplane he'd come off of and where he was going.
+Then he went into the transponder page on the display and found the field for the flight ID. It held the airplane's registration, C-GKPX. The trackers would show it as a Canadian PC-12 going somewhere unknown. He deleted the registration and typed, one letter at a time on the keypad, D-A-L-2-7-P-D-K. If anyone was looking, they would know what airplane he'd come off of and where he was going.
 
 He started the engine with the battery and the checklist, and the starter wound up the PT6 to light-off, and the temperature came up and peaked inside the limit and settled. He taxied out to runway 30 without a clearance and stopped short of it.
 
-"Edmonton Tower, Delta Twenty-Seven, Pilatus PC-12, holding short runway three-zero." He waited. "Any station, Delta Twenty-Seven, departing Edmonton, runway three-zero, southeast-bound for Minneapolis."
+"Edmonton Tower, Charlie Golf Kilo Papa X-ray, Pilatus PC-12, holding short runway three-zero." He waited. "Any station, Charlie Golf Kilo Papa X-ray, departing Edmonton, runway three-zero, southeast-bound for Minneapolis."
 
 He lined up and pushed the power lever up, and the airplane went down the runway and lifted off in about a quarter of it. 05:31 local. He climbed out over the city, and there were lights in the houses, streetlights along the avenues, traffic signals changing over empty intersections. On the freeway south of the airport a semi was stopped in the right lane with its lights on and its trailer lights on, and nothing else was moving on the road. He turned southeast and kept climbing.
 

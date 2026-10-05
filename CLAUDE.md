@@ -354,9 +354,9 @@ Keep these entries to plot facts that later scenes depend on. The prose holds th
 ### Section 3: Sam's return, Edmonton to Atlanta
 
 - With nobody left aboard to save, the land-fast logic is spent; Elena and Rosa are in Dunwoody. **Going home is the choice.**
-- He leaves the A350 at Edmonton and takes a **PC-12 NGX** (Canadian-registered, six-seat charter interior, half tanks per its journey log) from an open FBO hangar on the field (operator `[decide]`); it must have passenger seats (Tyler later sleeps across the back row). His ~800 hours in the type make it his airplane. **This PC-12 becomes the group's airplane.**
+- He leaves the A350 at Edmonton and takes a **PC-12 NGX** (Canadian registration **C-GKPX** `[verify it isn't a real airplane]`, six-seat charter interior, half tanks per its journey log) from an open FBO hangar on the field (operator `[decide]`); it must have passenger seats (Tyler later sleeps across the back row). His ~800 hours in the type make it his airplane. **This PC-12 becomes the group's airplane.**
 - On the ground at Edmonton he reads FlightAware and the frozen news sites on his phone and draws his own conclusions: nothing has taken off or landed anywhere since just before 02:00 Eastern except Delta 27. He finds the FBO's line tech and a fuel truck driver dead, waits, walks the ramp, and only then plans for home. He reads the NGX's handbook in the cockpit before he flies it.
-- **He resets the transponder Flight ID to DAL27PDK** so anyone watching a tracker knows which airplane he came off of and where he's going. This is how John knows.
+- **He resets the transponder Flight ID to DAL27PDK** so anyone watching a tracker knows which airplane he came off of and where he's going. This is how John knows. On the radio he uses the airplane's own callsign, never the Flight ID: "Charlie Golf Kilo Papa X-ray," shortened to "Kilo Papa X-ray" or "Papa X-ray" once in contact.
 - Departs ~07:30 EDT (05:30 MDT), in the dark. **Fuel stop at Minneapolis-St. Paul (KMSP)** ~09:45–10:30 CDT; a dead hub airport. Edmonton to PDK direct (~1,700 nm) is past the airplane's practical range, so the stop is necessary. Then southeast to Atlanta, transmitting on 121.5 the whole way.
 - He's bound for PDK, ~4 mi from his house.
 - The section ends as Atlanta comes up ahead, before any contact.

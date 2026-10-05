@@ -2,7 +2,7 @@
 
 John pulled into the Epps lot just before ten. The glass doors were unlocked, and he went through the lobby, Dan's leash in hand. The night line tech was in the break room in a chair in front of the TV, the TV still on. John checked him and went back out to the ops counter, where the line crew would have coordinated fuel trucks and inbound traffic on any ordinary morning. The radio was there, the display read CH 1 over the FBO's own frequency, and the channel knob stepped through presets: the FBO, ground, the fuel farm. It took him three tries and the manual from the drawer under the counter to find the button that let him dial a frequency by hand. He checked the clock over the counter. 10:09.
 
-A laminated card was taped to the counter beside the radio, the frequencies written in marker: Clearance, Ground, Peachtree Tower, one line for Atlanta Approach, one for Atlanta Center. He dialed the Tower frequency and keyed the mic. "Peachtree Tower, anybody on this frequency?" Nothing. He dialed Approach. "Atlanta Approach, anybody?" Nothing. He dialed Center. "Atlanta Center, Delta Twenty-Seven, anybody?" Nothing. He went back to Approach, figured that was who a pilot coming into Atlanta would call, and turned the volume up.
+A laminated card was taped to the counter beside the radio, the frequencies written in marker: Clearance, Ground, Peachtree Tower, one line for Atlanta Approach, one for Atlanta Center. He dialed the Tower frequency and keyed the mic. "Peachtree Tower, anybody on this frequency?" Nothing. He dialed Approach. "Atlanta Approach, anybody?" Nothing. He dialed Center. "Atlanta Center, anybody?" Nothing. He went back to Approach, figured that was who a pilot coming into Atlanta would call, and turned the volume up.
 
 Then he waited. He watched DAL27PDK on his phone, a little airplane icon crawling southeast across Minnesota. At a quarter to eleven it slowed down and stopped at Minneapolis-St. Paul, and John sat there looking at it for forty-five minutes, until it moved again and climbed out southeast. Whoever it was had stopped for fuel, just like he'd figured. Still coming.
 
@@ -20,11 +20,11 @@ Before he could press it, the speaker came alive, and John's stomach jumped as a
 
 Twenty miles northwest of the field, Sam had Atlanta Approach on one radio and 121.5 on the other, and on the descent he keyed 121.5 again, the same call he'd made on the hour and the half hour since Edmonton, the words worn smooth by now.
 
-"Any station, Delta Twenty-Seven, Pilatus PC-12, transmitting in the blind. Twenty miles northwest of Peachtree-DeKalb, descending through eight thousand, landing Peachtree-DeKalb."
+"Any station, Charlie Golf Kilo Papa X-ray, Pilatus PC-12, transmitting in the blind. Twenty miles northwest of Peachtree-DeKalb, descending through eight thousand, landing Peachtree-DeKalb."
 
 He let the key up. Then he pressed it again, and nothing that came out was in the book. "Is there anybody on this frequency."
 
-Then a voice in his headset, on 121.5. A man, unsteady, no callsign. "Delta Twenty-Seven, this is — this is John Lauer. I'm on the ground at PDK. I can hear you."
+Then a voice in his headset, on 121.5. A man, unsteady, no callsign. "Kilo Papa X-ray, this is — this is John Lauer. I'm on the ground at PDK. I can hear you."
 
 For a second Sam's voice wouldn't work at all. "Say again," he finally got out, rougher than he'd sounded once in ten hours of talking to dead air. "Say again. Who is this?"
 
@@ -36,9 +36,9 @@ John took a moment to answer. "There's nobody," he said. "It's me. Just me and m
 
 The frequency went quiet. Sam heard his own breathing in the headset, and the cough under it. "Copy," he said, flatter than he meant it. "Ten minutes out. I'll bring it to Epps. See you on the ground."
 
-Fly the airplane. Out of habit he called Peachtree Tower on its published frequency: "Peachtree Tower, Delta Twenty-Seven, ten miles northwest, landing PDK." Nothing. There was nobody in the tower to give him the wind. He went back to 121.5.
+Fly the airplane. Out of habit he called Peachtree Tower on its published frequency: "Peachtree Tower, Kilo Papa X-ray, ten miles northwest, landing PDK." Nothing. There was nobody in the tower to give him the wind. He went back to 121.5.
 
-"John, Delta Twenty-Seven. Can you see a windsock from where you are? Or a flag?"
+"John, Papa X-ray. Can you see a windsock from where you are? Or a flag?"
 
 A few seconds, then John's voice. "Flag out front's hanging almost straight down. There's a windsock out past the hangars. It's lifting a little, pointing northeast."
 
@@ -50,7 +50,7 @@ He put the gear down and felt it lock, ran the flaps out to full, and let the sp
 
 John was standing outside the glass doors with Dan at his side when it came out of the haze low and steady, gear down, flaps out. He watched it touch down on 21L, heard the propeller roar in reverse and fade across the field.
 
-The airplane taxied up and stopped on the ramp in front of the building, the propeller winding down to a stop. John stood outside the doors, looking at the windshield of a white-and-gray PC-12 with Canadian letters on its side, and let himself believe for the first time all day that he was not alone.
+The airplane taxied up and stopped on the ramp in front of the building, the propeller winding down to a stop. John stood outside the doors, looking at the windshield of a white-and-gray PC-12 with C-GKPX in black letters on its side, and let himself believe for the first time all day that he was not alone.
 
 Then the door behind the wing unlatched and swung down, the steps unfolding out of it to the concrete. A man came down them. He wore a Delta first officer's dark jacket, three gold stripes on each sleeve catching the afternoon sun, the cap in one fist. He looked the way he would have standing at the flight deck door seeing three hundred people off at the gate. At the bottom of the steps he stopped and looked around the ramp.
 
