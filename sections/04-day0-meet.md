@@ -14,7 +14,7 @@ Before he could press it, the speaker came alive, and John's stomach jumped as a
 
 ---
 
-Twenty miles northwest of the field, Sam had Atlanta Approach on one radio and 121.5 on the other, and on the descent he keyed 121.5 again, the same call he'd made on the hour and the half hour since Edmonton, the words worn smooth by now.
+Twenty miles northwest of the field, Sam had Atlanta Approach on one radio and 121.5 on the other, and on the descent he keyed 121.5 again, the same call he'd made on the hour and the half hour since Edmonton.
 
 "Any station, Charlie Golf Kilo Papa X-ray, Pilatus PC-12, transmitting in the blind. Twenty miles northwest of Peachtree-DeKalb, descending through eight thousand, landing Peachtree-DeKalb."
 
@@ -32,7 +32,7 @@ John took a moment to answer. "There's nobody," he said. "It's me. Just me and m
 
 The frequency went quiet. Sam heard his own breathing in the headset, and the cough under it. "Copy," he said, flatter than he meant it. "Ten minutes out. I'll bring it to Epps. See you on the ground."
 
-Fly the airplane. Out of habit he called Peachtree Tower on its published frequency: "Peachtree Tower, Kilo Papa X-ray, ten miles northwest, landing PDK." Nothing. There was nobody in the tower to give him the wind. He went back to 121.5.
+Out of habit he called Peachtree Tower on its published frequency: "Peachtree Tower, Kilo Papa X-ray, ten miles northwest, landing PDK." Nothing. There was nobody in the tower to give him the wind. He went back to 121.5.
 
 "John, Papa X-ray. Can you see a windsock from where you are? Or a flag?"
 
@@ -60,31 +60,31 @@ Dan got there first, pressing himself against Sam's legs the way he pressed hims
 
 John held out his hand. "John."
 
-Sam took it, and laughed — a short, broken sound that wasn't really a laugh. "Right! my name is Samuel Reyes. Everybody calls me Sam." He held on a second longer than a handshake needed. "Everybody on my airplane is dead. Three hundred and — " Choking, he stopped there, and coughed, and didn't try to finish it.
+Sam took it and laughed, a short, broken sound. "Right! My name is Samuel Reyes. Everybody calls me Sam." He held on a second longer than a handshake needed. "Everybody on my airplane is dead. Three hundred and — " Choking, he stopped there, and coughed, and didn't try to finish it.
 
-For the next twenty minutes they stood on the ramp beside the PC-12. Sam gave him the outline — Jack, Theresa, Ruth, the cabin, the turn south over Saskatchewan and the landing at Edmonton, the man in the fuel truck, the line tech at the desk, the airplane in the hangar, Minneapolis. John gave his own outline back — the thud at 2:05, the man in the ditch, Harry, the frozen feeds, the empty sky, the drive to the field. Somewhere in it Sam said the name Elena, and then Rosa.
+For the next twenty minutes they stood on the ramp beside the PC-12. Sam gave him the outline: Jack, Theresa, Ruth, the cabin, the turn south over Saskatchewan and the landing at Edmonton, the man in the fuel truck, the line tech at the desk, the airplane in the hangar, Minneapolis. John gave his own outline back: the thud at 2:05, the man in the ditch, Harry, the frozen feeds, the empty sky, the drive to the field. Somewhere in it Sam said the name Elena, and then Rosa.
 
 "Dunwoody," Sam said. "Ten minutes from here. I need — " His voice caught and he pushed through it. "I need to go."
 
 "I'll drive," John said. "Let's go."
 
-They left the airplane sitting on the ramp and took John's car north a little before quarter to three. Sam sat rigid in the passenger seat the whole way, watching streets he knew by heart go by in the same wrong stillness John had already spent a day learning to expect — the cars stopped at their odd angles, the intersections holding a red light for no one, a strip mall with its lot empty and not one person crossing it. Twice he had John pull over — once at a sedan folded around a light pole, once at a landscaping truck nosed into a ditch with its trailer jackknifed across the lane — and got out both times without a word of explanation, crossed to the wreck, and checked it himself. John understood exactly what it was: not disbelief, not procedure, the need to put his own hands on the thing before he'd let himself believe. Sam came back to the car each time a little more hollowed out than he'd left it, and didn't talk much. Twice Sam tried Elena's number and only got voicemail.
+They left the airplane sitting on the ramp and took John's car north a little before quarter to three. Sam sat rigid in the passenger seat the whole way, watching streets he knew by heart go by in the same stillness John had been driving through all day: the cars stopped at their odd angles, the intersections holding a red light for no one, a strip mall with its lot empty and not one person crossing it. Twice he had John pull over, once at a sedan folded around a light pole, once at a landscaping truck nosed into a ditch with its trailer jackknifed across the lane, and got out both times without a word of explanation, crossed to the wreck, and checked it himself. John understood. Sam needed to put his own hands on it before he'd believe it. He came back to the car each time quieter than he'd left it. Twice Sam tried Elena's number and only got voicemail.
 
-The house looked like every other house John had already stood in front of that day — ordinary, undisturbed, a minivan in the driveway parked the way you park it when you expect to need it again in the morning, a kid's bike against the garage door. Sam was out of the car before John had it fully stopped.
+The house looked like every other house John had stood in front of that day, ordinary, undisturbed, a minivan in the driveway parked the way you park it when you expect to need it again in the morning, a kid's bike against the garage door. Sam was out of the car before John had it fully stopped.
 
 Sam went in through the front door at a near run, calling their names, and John came up the walk slower, leaving Dan in the car, and stopped on the front porch. He stood in the open doorway.
 
 It didn't take long. From a bedroom down the hall came a sound John had never heard a grown man make, lower and more ruined than crying. John followed it.
 
-Elena was in their bed, on her side, the blanket up at her shoulder. No mark on her, nothing disturbed, the same gentle, terrible peace John had seen enough times that day to recognize from the door. Farther down the hall, through a door standing half open, in a room with fairy lights strung along one wall, Rosa lay curled the way kids sleep.
+Elena was in their bed, on her side, the blanket up at her shoulder. No mark on her, nothing disturbed. Farther down the hall, through a door standing half open, in a room with fairy lights strung along one wall, Rosa lay curled the way kids sleep.
 
-Sam was on his knees at the foot of Elena's bed when John reached the doorway, both hands pressed flat against the mattress as if he could hold something down by will alone. John stopped there, the way he'd stopped on the porch.
+Sam was on his knees at the foot of Elena's bed when John reached the doorway, both hands pressed flat against the mattress. John stopped there, the way he'd stopped on the porch.
 
-After a while it eased. It didn't pass; John already understood that grief like this never passed, only loosened its grip for a while. Sam got slowly to his feet and went to Rosa's room. He slid his arms under her, and she came up off the mattress all at once, still curled on her side. Thirteen hours had set her in the shape she'd fallen asleep in. Sam held her against his chest like that, the way he must have carried her to bed a thousand times when she was small. John stepped back from the doorway to let him through. Sam turned sideways so her feet wouldn't touch the frame and laid her on the bed beside her mother, on her side, facing Elena, close enough that her forehead nearly touched Elena's shoulder. He pulled the blanket up over both of them and stood there.
+After a while it eased. Sam got slowly to his feet and went to Rosa's room. He slid his arms under her, and she came up off the mattress all at once, still curled on her side. Thirteen hours had set her in the shape she'd fallen asleep in. Sam held her against his chest like that, the way he must have carried her to bed a thousand times when she was small. John stepped back from the doorway to let him through. Sam turned sideways so her feet wouldn't touch the frame and laid her on the bed beside her mother, on her side, facing Elena, close enough that her forehead nearly touched Elena's shoulder. He pulled the blanket up over both of them and stood there.
 
 John left Sam alone and went back outside. He got Dan and they walked down the street a few blocks, they came back to Sam's house 30 or so minutes later and John sat down on the steps of the front porch, Dan laid down next to him.
 
-When Sam came outside his eyes were dull and empty and his olive skin was ashened.
+When Sam came outside his eyes were dull and empty and his olive skin was ashen.
 
 "Come back to my place," John said. "We can figure out what's next."
 

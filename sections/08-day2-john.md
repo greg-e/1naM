@@ -50,7 +50,7 @@ Tyler nodded like that was a fair trade for now, and stayed kneeling there a whi
 
 ---
 
-Sam flew his low pass at Amarillo anyway, down Runway 22 at two hundred feet, looking for debris, vehicles, anything on the surface. There was nothing, just a wide, empty field under a hot, flat sky. He came around and landed, and as they taxied in the terminal slid past with the airport's full name across the front in tall letters. Tyler read it aloud: "Rick Husband." Then, to nobody in particular: "He was the commander on Columbia." Nobody answered. Sam's hand stayed on the power lever a beat longer than it needed to.
+Sam flew his low pass at Amarillo anyway, down Runway 22 at two hundred feet, looking for debris, vehicles, anything on the surface. There was nothing, just a wide, empty field under a hot, flat sky. He came around and landed, and as they taxied in the terminal slid past with the airport's full name across the front in tall letters. Tyler read it aloud: "Rick Husband." Then, to nobody in particular: "He was the commander on Columbia." Nobody answered.
 
 The FBO's Jet-A truck was parked along the ramp fence with the keys in the ignition, and it started on the first try. John took the nozzle. Sam made him clip the static bonding cable to the airframe before anything else ("Always first. Jet fuel and a spark is a short conversation"), then stopped him at the foot of the stepladder.
 
@@ -72,7 +72,7 @@ John heard it a second later: an engine, coming fast from the north. A gray Suba
 
 "Well," Sam said, from under the wing. "Somebody heard us."
 
-The woman who got out was tall and straight-backed, with silver-streaked dark hair pinned up in a twist that had held for more than one day, thin titanium glasses, a linen shirt, and dark jeans. She didn't run at the airplane. She walked at it fast and level, the walk of someone who had spent thirty years going toward emergencies instead of away from them.
+The woman who got out was tall and straight-backed, with silver-streaked dark hair pinned up in a twist that had held for more than one day, thin titanium glasses, a linen shirt, and dark jeans. She didn't run at the airplane. She walked at it fast and level.
 
 "I heard you fly over," she called. "Low. I'm in an office building two miles off the north fence. It was closed when it happened, so there's nobody dead in it. I picked it because it's close to the airport. If anyone was still flying, this is where they'd come, and sitting and listening for them was the only thing left that made sense to do." She glanced back at the torn fence. "There's no open gate on that side. I drove half the fence line looking for one. Then I stopped looking."
 
@@ -94,4 +94,4 @@ She looked at the address for a long moment. "I argued with it," she said. "For 
 
 "That's how we found you."
 
-Catherine looked at the torn fence behind her, then back at the three of them and the dog, and laughed once, short and disbelieving. It was the first real laugh any of them had heard in days. "Well," she said. "You found me."
+Catherine looked at the torn fence behind her, then back at the three of them and the dog, and laughed once, short and disbelieving. "Well," she said. "You found me."
