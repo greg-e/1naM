@@ -361,7 +361,8 @@ Keep these entries to plot facts that later scenes depend on. The prose holds th
 
 - With nobody left aboard to save, the land-fast logic is spent; Elena and Rosa are in Dunwoody. **Going home is the choice.**
 - He leaves the A350 at Edmonton and takes a **PC-12 NGX** (Canadian registration **C-GKPX** `[verify it isn't a real airplane]`, six-seat charter interior, half tanks per its journey log) from an open FBO hangar on the field (operator `[decide]`); it must have passenger seats (Tyler later sleeps across the back row). His ~800 hours in the type make it his airplane. **This PC-12 becomes the group's airplane.**
-- On the ground at Edmonton he reads FlightAware and the frozen news sites on his phone and draws his own conclusions: nothing has taken off or landed anywhere since just before 02:00 Eastern except Delta 27. He finds the FBO's line tech and a fuel truck driver dead, waits, walks the ramp, and only then plans for home. He reads the NGX's handbook in the cockpit before he flies it.
+- **He goes to the main terminal first**, through a propped ramp door under a jet bridge, and finds its overnight dead (a baggage handler, a cleaner, a sleeping passenger). From a gate he makes his calls (Elena, the house, Rosa, Delta crew scheduling and ops, NAV CANADA's Edmonton Area Control Centre, airport operations, the last also from the gate podium's landline): nothing answers. There he reads FlightAware and the frozen news sites and draws his own conclusions: nothing has taken off or landed anywhere since just before 02:00 Eastern except Delta 27.
+- **Only then does he decide to go home.** He rules out the A350 (too much airplane for one pilot with no ground crew, and too much for PDK's 6,000-ft runway), finds the general aviation side on the airport diagram, and drives an airside pickup there. He finds a fuel truck driver and the FBO's line tech dead, then searches the hangars. He reads the NGX's handbook in the cockpit before he flies it.
 - **He resets the transponder Flight ID to DAL27PDK** so anyone watching a tracker knows which airplane he came off of and where he's going. This is how John knows. On the radio he uses the airplane's own callsign, never the Flight ID: "Charlie Golf Kilo Papa X-ray," shortened to "Kilo Papa X-ray" or "Papa X-ray" once in contact.
 - Departs ~07:30 EDT (05:30 MDT), in the dark. **Fuel stop at Minneapolis-St. Paul (KMSP)** ~09:45–10:30 CDT; a dead hub airport. Edmonton to PDK direct (~1,700 nm) is past the airplane's practical range, so the stop is necessary. Then southeast to Atlanta, transmitting on 121.5 the whole way.
 - He's bound for PDK, ~4 mi from his house.
@@ -392,6 +393,7 @@ Keep these entries to plot facts that later scenes depend on. The prose holds th
 - The search yields **three leads: Huntsville AL, Phoenix AZ, and Elwha WA**, each an address, a dead callback number, and a transcript fragment.
 - They take the **PC-12 Sam flew in from Edmonton**, refueled at PDK, and launch from there.
 - John is an instrument-rated 182 pilot with no turbine time; Sam will check him out as they go.
+- The grid has been down since ~00:50, so nothing on the walk or at REI runs on mains power. The restaurant above the Epps hangar at PDK is a small accidental pocket of power, and John cooks lunch there.
 - They launch for Huntsville at dusk.
 
 ### Section 7: Huntsville and Tyler
@@ -457,7 +459,7 @@ Technical detail: `reference/power-grid-shutdown-timelines.md` (researched but s
 
 - **North America runs on four separately synchronized interconnections** (Eastern, Western, ERCOT, Quebec), and each fails on its own clock. The first ~2 hours are an automated silent window: streetlights, card-reading gas pumps, and municipal water pressure all still work. From hour ~2, thermal plants (coal, then gas) trip one at a time as fuel and fault limits catch up. Then frequency sags past the relay threshold and the whole interconnection cascades down within minutes. **Full lights-out for a region comes at hours 8–24.**
 - **Hydro goes down with its interconnection** like everything else, through the same protective relaying. Power more than a day out comes only from:
-  - **a small accidental pocket** where generation and load happen to balance, as in Huntsville (Section 7); small and temporary;
+  - **a small accidental pocket** where generation and load happen to balance, as at the PDK restaurant above Epps (Section 6) and in Huntsville (Section 7); small and temporary;
   - **a building's own backup generator** with days of fuel, like Olympic Medical Center's; hospitals and certified airports are required to have one;
   - **a property's own islanding-capable solar+battery system.**
 - **Nuclear plants SCRAM safely within hours**, then run on backup diesel and batteries for ~3 days. The danger window is **~10–21 days after the trip**, when an uncooled spent fuel pool can boil dry and expose fuel rods: a regional, Fukushima-scale contamination event with a years-to-decades exclusion zone.

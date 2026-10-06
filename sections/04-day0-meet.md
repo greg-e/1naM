@@ -4,7 +4,7 @@ John pulled into the Epps lot at twenty to two. The glass doors were unlocked, a
 
 A laminated card was taped to the counter beside the radio, the frequencies written in marker: Clearance, Ground, Peachtree Tower, one line for Atlanta Approach, one for Atlanta Center. He dialed the Tower frequency and keyed the mic. "Peachtree Tower, anybody on this frequency?" Nothing. He dialed Approach. "Atlanta Approach, anybody?" Nothing. He dialed Center. "Atlanta Center, anybody?" Nothing. He went back to Approach, figured that was who a pilot coming into Atlanta would call, and turned the volume up.
 
-Then he waited, Dan lying on the cool tile under the counter. He checked the capture folder at home from his phone, and the one o'clock snapshot had written on schedule. He pulled up DAL27PDK. It was past Chattanooga, coming down out of the high twenties, close enough now on the map to tell which way it was pointed. His doubts caught up with him while he watched it. Maybe whoever was flying it wasn't listening to anything. Maybe it wasn't coming here at all, and PDK on the flight ID meant something else. Maybe whatever had killed everyone else had just taken longer with him, and John was about to watch the only moving airplane in the country fly into the ground.
+Then he waited, Dan lying on the cool tile under the counter. He pulled up DAL27PDK. It was past Chattanooga, coming down out of the high twenties. His doubts caught up with him while he watched it. Maybe whoever was flying it wasn't listening to anything. Maybe it wasn't coming here at all, and PDK on the flight ID meant something else. Maybe whatever had killed everyone else had just taken longer with whoever that was, and John was about to watch the only moving airplane in the country fly into the ground.
 
 He looked at the card again. One line for Approach. But Atlanta Approach worked the sky around the city in slices, a frequency for each, and the card only gave him the one the ramp here used. He had no way to know which slice the airplane was in, or which frequency its pilot had dialed. There was only one frequency every airplane was supposed to be listening to.
 
@@ -16,7 +16,7 @@ Before he could press it, the speaker came alive, and John's stomach jumped as a
 
 Twenty miles northwest of the field, Sam had Atlanta Approach on one radio and 121.5 on the other, and on the descent he keyed 121.5 again, the same call he'd made on the hour and the half hour since Edmonton.
 
-"Any station, Charlie Golf Kilo Papa X-ray, Pilatus PC-12, transmitting in the blind. Twenty miles northwest of Peachtree-DeKalb, descending through eight thousand, landing Peachtree-DeKalb."
+"Any station, Pilatus Charlie Golf Kilo Papa X-ray, transmitting in the blind. Twenty miles northwest of Peachtree-DeKalb, descending through eight thousand, landing Peachtree-DeKalb."
 
 He let the key up. Then he pressed it again, and nothing that came out was in the book. "Is there anybody on this frequency."
 
@@ -26,13 +26,13 @@ For a second Sam's voice wouldn't work at all. "Say again," he finally got out, 
 
 Nothing came back for several seconds. Then John's voice again, steadier. "John Lauer. I live up in Alpharetta. I saw on a map this morning where your airliner landed in Edmonton, and then this airplane leave there with your flight number on it. I'm at Epps. At the ops desk."
 
-"Epps," Sam said. He knew that ramp. He lived four miles from it, and he'd been in and out of that FBO more times than he could count in his charter years. "John, you're the first voice I've heard since last night. Is there anybody else there with you? Anybody at all?"
+"John, you're the first voice I've heard since last night. Is there anybody else there with you? Anybody at all?"
 
 John took a moment to answer. "There's nobody," he said. "It's me. Just me and my dog."
 
-The frequency went quiet. Sam heard his own breathing in the headset, and the cough under it. "Copy," he said, flatter than he meant it. "Ten minutes out. I'll bring it to Epps. See you on the ground."
+The frequency went quiet. Sam heard his own breathing in the headset, and the cough under it. "Copy," he said, flatter than he meant it. "Ten minutes out. See you on the ground."
 
-Out of habit he called Peachtree Tower on its published frequency: "Peachtree Tower, Kilo Papa X-ray, ten miles northwest, landing PDK." Nothing. There was nobody in the tower to give him the wind. He went back to 121.5.
+Out of habit he called Peachtree Tower on its published frequency: "Peachtree Tower, Pilatus Kilo Papa X-ray, ten miles northwest, landing PDK." Nothing. There was nobody in the tower to give him the wind. He went back to 121.5.
 
 "John, Papa X-ray. Can you see a windsock from where you are? Or a flag?"
 
@@ -40,7 +40,7 @@ A few seconds, then John's voice. "Flag out front's hanging almost straight down
 
 A light breeze out of the southwest, then. Runway two-one-left. "Copy. Thanks."
 
-He put the gear down and felt it lock, ran the flaps out to full, and let the speed come back to eighty-five knots. The four lights beside the runway showed two white and two red: right on the glide path. At a thousand feet he clicked off the autopilot, and the airplane was his. He searched the runway ahead for anything sitting on it, a fuel truck, a tug, an airplane that had rolled to a stop in the night with nobody to move it. Six thousand feet of concrete, empty end to end. He held it off and let the mains settle on, lowered the nose, pulled the power lever back into reverse, and the propeller roared and the airplane slowed to a walk in a fraction of the runway. He turned off at the next taxiway and followed it to the Epps ramp.
+He put the gear down and felt it lock, ran the flaps out to full, and let the speed come back to eighty-five knots. The four lights beside the runway showed two white and two red: right on the glide path. At a thousand feet he clicked off the autopilot, and the airplane was his. He searched the runway ahead to make sure it was clear. Six thousand feet of concrete, empty end to end. He held it off and let the mains settle on, lowered the nose, pulled the power lever back into reverse, and the propeller roared and the airplane slowed to a walk in a fraction of the runway. He turned off at the next taxiway and followed it to the Epps ramp.
 
 ---
 
@@ -48,19 +48,19 @@ John was standing outside the glass doors with Dan at his side when it came out 
 
 The airplane taxied up and stopped on the ramp in front of the building, the propeller winding down to a stop. John stood outside the doors, looking at the windshield of a white-and-gray PC-12 with C-GKPX in black letters on its side, and let himself believe for the first time all day that he was not alone.
 
-Then the door behind the wing unlatched and swung down, the steps unfolding out of it to the concrete. A man came down them. He wore a Delta first officer's dark jacket, three gold stripes on each sleeve catching the afternoon sun, the cap in one fist. He looked the way he would have standing at the flight deck door seeing three hundred people off at the gate. At the bottom of the steps he stopped and looked around the ramp.
+Then the door behind the wing unlatched and swung down, the steps unfolding out of it to the concrete. A man came down them. He wore a Delta first officer's dark jacket, three gold stripes on each sleeve catching the afternoon sun, the cap in one fist. He looked the way he would have standing at the flight deck door seeing people off at the gate. At the bottom of the steps he stopped and looked around the ramp.
 
-There was John, thirty yards off next to the FBO, a dog already running toward him: a tall, rangy man in a ball cap and black-framed glasses, a thick brown beard shot through with white, olive drab cargo pants and flip-flops on an airport ramp.
+There was John, thirty yards off next to the FBO, a dog already running toward him: a tall, rangy man in a ball cap and black-framed glasses, a thick brown beard shot through with white, olive drab cargo pants and flip-flops.
 
 "Should I be concerned?" Sam called out, eyes on the dog.
 
 John was already moving too. "Not at all," John called back. "He's excited to see you, his name's Dan."
 
-Dan got there first, pressing himself against Sam's legs the way he pressed himself against anyone in the family. Sam went down on one knee, patting the dog's side and scruffing his head and ears. John got there, flip-flops slapping the concrete, and Sam got back up to his feet, straight-backed even now. John stood there a second, looking at a face of another living person: clean-shaven, short black hair gone salt-and-pepper at the temples, olive skin, brown eyes rimmed red.
+Dan got there first, pressing himself against Sam's legs same as he did with anyone in the family. Sam went down on one knee, patting the dog's side and scruffing his head and ears. John got there, flip-flops slapping the concrete, and Sam got back up to his feet, straight-backed even now. John stood there a second, looking at a face of another living person: clean-shaven, short black hair gone salt-and-pepper at the temples, olive skin, brown eyes rimmed red.
 
 John held out his hand. "John."
 
-Sam took it and laughed, a short, broken sound. "Right! My name is Samuel Reyes. Everybody calls me Sam." He held on a second longer than a handshake needed. "Everybody on my airplane is dead. Three hundred and — " Choking, he stopped there, and coughed, and didn't try to finish it.
+Sam took it and laughed, a short, broken sound. "Right! My name is Samuel Reyes. Everybody calls me Sam." He held on a second longer than a handshake needed. "Everybody on Delta 27 was dead. Three hundred and — " Choking, he stopped there, and coughed, and didn't try to finish it.
 
 For the next twenty minutes they stood on the ramp beside the PC-12. Sam gave him the outline: Jack, Theresa, Ruth, the cabin, the turn south over Saskatchewan and the landing at Edmonton, the man in the fuel truck, the line tech at the desk, the airplane in the hangar, Minneapolis. John gave his own outline back: the thud at 2:05, the man in the ditch, Harry, the frozen feeds, the empty sky, the drive to the field. Somewhere in it Sam said the name Elena, and then Rosa.
 

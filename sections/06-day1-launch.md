@@ -6,13 +6,13 @@ John showered and made the same brain shake he made every morning, blueberry, av
 
 Dan was already at the door with his leash in his mouth by the time John reached for it, tail going hard enough to knock a hole in the wall. Two miles, same as every morning, and nobody had explained the new rules to him. "You coming?" John asked. Sam was already reaching for his shoes.
 
-They walked together in the same low gold light John had watched come up over this street for sixteen years, Dan ranging out to the end of his leash and back the way he always did, and for the first quarter mile neither man said much. Driveways still full, a lawn sprinkler ticking through its cycle on a timer, a porch light still burning against the morning. Sam was quiet.
+They walked together in the same low gold light John had watched come up over this street for sixteen years, Dan ranging out to the end of his leash and back the way he always did, and for the first quarter mile neither man said much. Driveways still full. Sam was quiet.
 
 Back at the house, they went into the office together. The machine had finished. The agents had spent the night reaching into county and regional dispatch systems across the country, filtering out the systems that never had the AI layer and the ones that had gone dark overnight and taken their logs with them. The model put the calls nationwide that matched the pattern at somewhere over four thousand, with heavy caveats. Three had survived every filter John had set.
 
 A repeat caller in Huntsville, Alabama, who'd called 16 times. Another in Phoenix, Arizona, who'd called four times. And a single call, with coordinates somewhere on the Olympic Peninsula.
 
-"No names," John said, reading it off the screen. "Three locations, three phone numbers that still belong to live accounts, as far as the model can tell."
+"No names," John said, reading it off the screen. "Three locations, three phone numbers that still belong to live accounts, according to the data."
 
 He dialed Huntsville first. No ring, no busy tone, just a flat failure notice, the sound a call makes when there's no tower to carry it.
 
@@ -28,7 +28,7 @@ The parking lot was as empty as every other lot they'd passed that morning, and 
 
 Sam came back from the other side of the store with an armful: headlamps, a water filter, a first-aid kit heavier than anything most people kept in a car, a folding knife, thermal layers in both their sizes. "Figured you're not the type to think about socks until your feet are already wet," he said, dropping it all on a checkout counter. John didn't argue. He added his own armful to the pile, they filled two hiking packs, and they carried it all out to the car and left the store's doors standing open.
 
-DeKalb-Peachtree Airport was completely deserted, like a ghost town abandoned for 10 years. They found what they were looking for behind the training center John had been to hundreds of times over the years. In the hangar opposite Epps sat a PC-12.
+DeKalb-Peachtree Airport was completely deserted, like a ghost town abandoned for 10 years. They found what they were looking for behind the training center John had been to hundreds of times over the years. In the hangar opposite Epps sat another PC-12.
 
 "Brand new," Sam said, "6 or 7 million, do you think they will be ok if we borrow it?" He found the office door around the side, tried the handle out of habit, and moved to the small gray lockbox beside it. The box popped open to a single key fob on its hook, tagged with the tail number NE 538.
 
