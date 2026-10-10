@@ -74,7 +74,7 @@ Each character entry has five fields: Demographics; Physical Appearance & Presen
  6'1", 195 lbs ("tall and lanky"). Broad-boned, rawboned frame. Thick brown beard peppered with white patches, thick brown hair streaked with white/gray. Deep tan, ruddy complexion, dark brown eyes behind black Wayfarer glasses. (Looks like Grizzly Adams/Jeremiah Johnson). Active and outdoors: long walks and trails with Dan, and the tan is earned. **But underneath the mountain man he's a real nerd**, and it shows the moment a system interests him: he talks in architectures and data flows, builds a model before he trusts a hunch, and will happily go too deep on telemetry, radios, or avionics for anyone still listening. Play the contrast; people who judge him by the beard are surprised.
 
 #### Attire:
- T-shirts, worn olive drab BDU cargo pants, flip-flops, baseball cap outside.
+ T-shirts, worn olive drab BDU cargo pants, flip-flops, baseball cap outside. Boots for long walks and work (the Day 0 walk; Sam won't let him on a wing in flip-flops).
 
 #### Background:
  Georgia Tech (BS ECE) / Johns Hopkins (MS Systems Engineering). Put himself through school working late nights at a Waffle House; early youth vulnerability-research episode led to a federal consulting offer instead of prosecution. 30-year systems architect leading Gemini deployments for federal civilian agencies (DOT/FAA, DHS, USCG, NOAA, FEMA). Instrument-rated private pilot (Cessna 182 out of PDK) as a weekend hobby. Keeps Naomi's study untouched. Has sat in years of federal emergency exercises with the agencies (FEMA tabletops in Crystal City, a GridEx round, a Coast Guard continuity drill); his lesson from them, which he's taught from the front of the room: collect first while the pipes are open, analyze later, because by day three you work from whatever somebody saved.
@@ -152,6 +152,8 @@ Each character entry has five fields: Demographics; Physical Appearance & Presen
 - Physical Tax: Decades on concrete ER floors have left her with chronic lower-back pain. She takes anti-inflammatories at doses she'd lecture a patient about, and she knows exactly what they're doing to her stomach and kidneys.
 
 - Clinical Triage to Personal Life: She treats personal relationships like an ER board. If an interpersonal issue can't be resolved quickly, she loses patience and comes across as emotionally clinical and overly abrupt.
+
+- Survivor symptoms (Day 0 on): air hunger; she breathes through her mouth, a little fast, after a short walk.
 
 - Grief on Her Own Clock: She puts her face back the instant anyone might see it. Her grief comes out alone, after midnight, and she won't ask for company even when she wants it.
 

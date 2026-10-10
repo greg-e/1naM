@@ -2,7 +2,7 @@
 
 John didn't have an answer for him, and said so. "Get him through today. Then figure out how you talk to a space station."
 
-"That's about where I landed too." Sam pulled the high-altitude enroute chart out of the side pocket, the one he'd taken off the rack in the Pilatus dealer's lobby at PDK, and folded it open across his kneeboard. The route was already keyed into the touchscreen controller on the pedestal: Memphis, Little Rock, Oklahoma City, Amarillo, then southwest across New Mexico into Phoenix. "On paper we make it in one hop. Five hours and change, if the wind does what it usually does this time of year."
+"That's about where I landed too." Sam pulled the high-altitude enroute chart out of the side pocket, the one he'd taken off the rack in the Epps lobby at PDK, and folded it open across his kneeboard. The route was already keyed into the touchscreen controller on the pedestal: Memphis, Little Rock, Oklahoma City, Amarillo, then southwest across New Mexico into Phoenix. "On paper we make it in one hop. Five hours and change, if the wind does what it usually does this time of year."
 
 "But."
 
@@ -52,7 +52,7 @@ Tyler nodded like that was a fair trade for now, and stayed kneeling there a whi
 
 Sam flew his low pass at Amarillo anyway, down Runway 22 at two hundred feet, looking for debris, vehicles, anything on the surface. There was nothing, just a wide, empty field under a hot, flat sky. He came around and landed, and as they taxied in the terminal slid past with the airport's full name across the front in tall letters. Tyler read it aloud: "Rick Husband." Then, to nobody in particular: "He was the commander on Columbia." Nobody answered.
 
-The FBO's Jet-A truck was parked along the ramp fence with the keys in the ignition, and it started on the first try. John took the nozzle. Sam made him clip the static bonding cable to the airframe before anything else ("Always first. Jet fuel and a spark is a short conversation"), then stopped him at the foot of the stepladder.
+The FBO's Jet-A truck was parked along the ramp fence with the keys in the ignition, and it started on the first try. John took the nozzle. He clipped the static bonding cable to the airframe before he touched anything else, the way Sam had shown him at PDK, and Sam stopped him at the foot of the stepladder.
 
 "Not on my wing in those."
 
@@ -68,7 +68,7 @@ He flew the low pass anyway, down Runway 26 at a couple of hundred feet. It was 
 
 He put them down on 26, taxied to the GA ramp, and shut down. The propeller wound down to feather, and the heat came through the airframe within a minute. John opened the door and let Dan out onto the concrete, then sat on the airstair with the address from the 911 trace on his phone: a house on the east side, eleven miles by road. He was working out whether the rental lot was closer than the long-term parking garage when Dan's head came up.
 
-John heard it a second later: an engine, coming fast from the north. A gray Subaru came across the dirt infield from the perimeter road, trailing a plume of dust and aimed at a stretch of fence. It hit the chain-link at forty miles an hour and went through, dragging a folded panel of fence across its hood for twenty feet before it shook loose. The car fishtailed once on the ramp and stopped broadside a hundred feet off the wingtip. It was ten minutes since their wheels had touched.
+John heard it a second later: an engine, coming fast from the north. A gray Subaru came along the perimeter road outside the fence, trailing a plume of dust, then swung off it straight at the chain-link. It hit the fence at forty miles an hour and went through, dragging a folded panel of fence across its hood for twenty feet before it shook loose. The car fishtailed once on the ramp and stopped broadside a hundred feet off the wingtip. It was ten minutes since their wheels had touched.
 
 "Well," Sam said, from under the wing. "Somebody heard us."
 
@@ -76,7 +76,7 @@ The woman who got out was tall and straight-backed, with silver-streaked dark ha
 
 "I heard you fly over," she called. "Low. I'm in an office building two miles off the north fence. It was closed when it happened, so there's nobody dead in it. I picked it because it's close to the airport. If anyone was still flying, this is where they'd come, and sitting and listening for them was the only thing left that made sense to do." She glanced back at the torn fence. "There's no open gate on that side. I drove half the fence line looking for one. Then I stopped looking."
 
-She stopped a few feet off the wingtip and took in the airplane, the two men, and the boy peering out of the door behind them, and then Dan shoved past everyone to get to her first. For a second her face came open. Then she put it back.
+She stopped a few feet off the wingtip and took in the airplane, the two men, and the boy peering out of the door behind them, and then Dan shoved past everyone to get to her first. For a second her face came open. Then she put it back. She was breathing through her mouth, a little fast for someone who'd only walked a hundred feet, and her eyes went from Sam's cough to John's chest and stayed there a second longer than politeness allowed.
 
 "Catherine Navarro," she said. "ER doctor. Or I was." She let Dan push his head into her hand. "Yours is the first engine I've heard in three days that wasn't my own car. I'm extremely glad to see you."
 
