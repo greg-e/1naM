@@ -75,5 +75,3 @@ Nobody answered right away. Out past the harbor a buoy bell rang, once and then 
 "Reno, then," Sam said finally. "Eventually."
 
 "Eventually," Catherine agreed.
-
-John looked down the walkway at the five of them and the dog. Three addresses off a 911 log, and they had all three.

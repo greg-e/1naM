@@ -54,7 +54,7 @@ There was John, thirty yards off next to the FBO, a dog already running toward h
 
 "Should I be concerned?" Sam called out, eyes on the dog.
 
-John was already moving too. "Not at all," John called back. "He's excited to see you. His name's Dan."
+"Not at all," John called back, already moving. "He's excited to see you. His name's Dan."
 
 Dan got there first, pressing himself against Sam's legs same as he did with anyone in the family. Sam went down on one knee, patting the dog's side and scruffing his head and ears. John got there, flip-flops slapping the concrete, and Sam got back up to his feet, straight-backed even now. John stood there a second, looking at the face of another living person: clean-shaven, short black hair gone salt-and-pepper at the temples, olive skin, brown eyes rimmed red.
 
@@ -68,7 +68,7 @@ For the next twenty minutes they stood on the ramp beside the PC-12. Sam gave hi
 
 "I'll drive," John said. "Let's go."
 
-They left the airplane sitting on the ramp and took John's car north a little before quarter to three. Sam sat rigid in the passenger seat the whole way, watching streets he knew by heart go by in the same stillness John had been driving through all day: the cars stopped at their odd angles, the intersections holding a red light for no one, a strip mall with its lot empty and not one person crossing it. Twice he had John pull over, once at a sedan folded around a light pole, once at a landscaping truck nosed into a ditch with its trailer jackknifed across the lane, and got out both times without a word of explanation, crossed to the wreck, and checked it himself. John understood. Sam needed to put his own hands on it before he'd believe it. He came back to the car each time quieter than he'd left it. Twice Sam tried Elena's number and only got voicemail.
+They left the airplane sitting on the ramp and took John's car north a little before quarter to three. Sam sat rigid in the passenger seat the whole way, watching streets he knew by heart go by in the same stillness John had been driving through all day: the cars stopped at their odd angles, the intersections holding a red light for no one, a strip mall with its lot empty and not one person crossing it. Twice he had John pull over, once at a sedan folded around a light pole, once at a landscaping truck nosed into a ditch with its trailer jackknifed across the lane, and got out both times without a word of explanation, crossed to the wreck, and checked it himself. Sam needed to put his own hands on it before he'd believe it. He came back to the car each time quieter than he'd left it. Twice Sam tried Elena's number and only got voicemail.
 
 The house looked like every other house John had stood in front of that day, ordinary, undisturbed, a minivan in the driveway parked the way you park it when you expect to need it again in the morning, a kid's bike against the garage door. Sam was out of the car before John had it fully stopped.
 
