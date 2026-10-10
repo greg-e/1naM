@@ -280,6 +280,7 @@ This is the single source of truth for chronology: timed beats, day order, who i
 - **Sequence is canon; clock times are working values.** When operational realism (see the Writing directive) shows a time is wrong, such as a real drive time, taxi time, fuel burn, or checklist length, refine it here and in the prose in the same change.
 - **Add new timed beats here** as scenes establish them.
 - Times are Eastern (EDT) unless marked. West Coast beats give local time with the EDT conversion.
+- **The event in local time:** 02:00 EDT = 01:00 CDT (Huntsville, Minneapolis) = 00:00 MDT (Edmonton) = 23:00 Monday MST (Phoenix; Arizona keeps no daylight time) = 23:00 Monday PDT (Port Angeles). Any "after two in the morning" outside the Eastern zone is wrong.
 
 **Day 0 minus 1: Monday, September 4, 2028 (Labor Day)**
 
@@ -422,16 +423,19 @@ Keep these entries to plot facts that later scenes depend on. The prose holds th
 ### Section 9: Grace's rescue and TruckHouse's first mention
 
 - Catherine commits to the group at once.
-- They fly Phoenix→KCLM (Port Angeles) nonstop and take a car from the Citizen Air FBO to the Elwha River bridge.
-- **Grace is found under the bridge** through the coordinates she gave the 911 agent. At Olympic Medical Center, Catherine confirms a non-displaced fibula fracture and casts it.
-- John cooks pasta for the group. Catherine first mentions TruckHouse, her brother's shop near Reno; the group agrees on "Eventually."
+- They fly Phoenix→KCLM (Port Angeles) nonstop (~1,000 nm, wheels up ~13:30, down ~17:20 PDT) and take the Citizen Air crew car to the Elwha River bridge.
+- **At the bridge Catherine names the color for the first time**: on the dead pickup driver, "Cherry red. That's cyanide. Or carbon monoxide," with no source for either, "the same as every one I've looked at since Tuesday." She draws no conclusion.
+- **Grace is found under the bridge** through the coordinates she gave the 911 agent. At Olympic Medical Center, Catherine confirms a non-displaced distal fibula fracture and casts it.
+- **The pulse-ox clue, unexplained:** Grace 98 while breathing fast at rest, Sam 98, John 97, Catherine 99. She writes them on tape on her hand; "Nothing yet." The venous blood gas and the histotoxic-hypoxia conclusion are saved for a later scene at the Hook.
+- They spend the night in four empty end rooms of a two-story harbor-side motel (night clerk dead at the desk; two occupied rooms closed and logged). John cooks pasta on the REI camp stove on the walkway. Grace asks whether the bar's closed. Catherine first mentions TruckHouse, her brother's shop near Reno; the group agrees on "Eventually."
 - The three-lead mission is complete.
 
 ### Grace's backstory (told within Section 9, not its own scene)
 
-- Driving home on Highway 101 at ~23:00 PDT Sept 4, she's hit on the Elwha River bridge by an oncoming driver who died at the wheel. The crash breaks her fibula.
-- She shelters under the bridge, reads her coordinates to the 911 agent, splints her leg, and lasts three days on river water.
-- Tell it after the fact, not as a moment-by-moment scene.
+- Driving home westbound on Highway 101 from a late shift on the Hook at ~23:00 PDT Sept 4, she's hit on the Elwha River bridge by an oncoming pickup whose driver died at the wheel. The crash breaks her fibula.
+- **She was awake at the event and felt it**: "Right before he came over the line I couldn't get a breath. Like somebody sat on my chest." She assumes it was panic or the airbag. She's the only survivor witness to the moment itself; Catherine goes still at it and doesn't follow up yet.
+- She calls 911 from the asphalt, reads her coordinates off her map app, then crawls down the bank to shelter under the first span by the water, splints her leg with alder and flannel, and lasts three days on river water.
+- Told by Grace at dinner, after the fact, flat and in order.
 
 ### Section 10: Johan's Day 0
 
@@ -578,7 +582,7 @@ Write every scene, new or revised, with procedural accuracy, correct domain term
 - **Signs on the dead:** bodies of people who were awake at 2:00 show open eyes, open mouths, and some injury nosebleeds; all show cherry-red lividity. Add the lividity where a body is seen up close: the Parkway driver and the QuickTrip clerk (Section 1), Jack and the flight attendants (Section 2), the Edmonton line tech (Section 3). Done in Sections 1–3; Harry, Elena, and Rosa are deliberately left without it. Nobody names it until Catherine does.
 - **Event-evidence hooks (from the mechanism change):**
   - Done: the SNEWS/GCN alerts are in Section 1's feed inventory and hourly archive, unnoticed; the social-media exchange is in Section 5.
-  - Catherine's first read of the dead and of a survivor's normal pulse-ox (Section 8 or 9; OMC has the blood gas analyzer).
+  - Catherine's first read of the dead and the pulse-ox numbers are in Section 9. Still to write: her venous blood gas and the "cells can't use oxygen" conclusion, at the Hook.
 - **Survivor symptoms:** Sam (Sections 2–3) and John (Section 1) have theirs on the page. Sections 4–11 show nobody with symptoms yet; seed them as scenes are revised, and record each character's in their entry.
 
 **Threads to keep developing:**
@@ -588,7 +592,6 @@ Write every scene, new or revised, with procedural accuracy, correct domain term
 - More grid-subplot scenes: the reasoning that names Reno and ties it to Catherine's brother, and a supply run shaped by a danger window.
 
 **Open decisions (flag to the author rather than inventing):**
-- The setting of John's Section 9 dinner; the interim hotel is the natural candidate.
 - Whether the PC-12 stays the group's permanent aircraft.
 - Who runs the ham link at the IRB (Marchetti, or someone from the group who learns from her), and how first ISS contact plays out relative to Tyler joining the group.
 - The mechanics of the C-17 landing accident.
