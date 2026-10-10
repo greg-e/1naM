@@ -130,6 +130,8 @@ Each character entry has five fields: Demographics; Physical Appearance & Presen
  His mother has been aboard the ISS since March; her first name is withheld on-page (don't name her without author direction). Carl was due to stay through the fall. Growing up in Rocket City with a parent in orbit, he follows the ISS on tracking apps, watches for scheduled calls from his mother, and keeps one eye on the sky. He doesn't remember his father; it's old, settled grief, part of his story rather than a raw wound ("it's always kind of just been me and Mom"). He knows space history cold (Rick Husband commanded *Columbia*). On Day 0 he found Carl dead on the living room couch, locked himself in his bedroom, and stayed there ~1.5 days until the group arrived in Section 7. Give him real presence, not cargo status, and be deliberate about how much danger he faces on-page.
 
 #### Friction & Flaws:
+- Survivor symptoms (Day 0 on): headaches; he presses the heel of his hand to his forehead.
+
 - Half-Asked Questions: He starts sentences and stops when they head somewhere he isn't sure the adults can handle, so the question that matters most often goes unasked until someone draws it out.
 
 ### Catherine Navarro
@@ -327,7 +329,7 @@ This is the single source of truth for chronology: timed beats, day order, who i
 
 | Day | Beat |
 | --- | --- |
-| 1 | The three leads reviewed; John loads his car and leaves the house for good (generator off, door locked); REI; the PC-12 Sam brought from Edmonton refueled, loaded, and weighed at PDK, John's ground school through the afternoon; ~19:15 EDT wheels up for Huntsville, ~18:55 CDT on the ground there before sunset; Tyler rescued; the Waffle House night. |
+| 1 | The three leads reviewed; John loads his car and leaves the house for good (generator off, door locked); REI; the PC-12 Sam brought from Edmonton refueled, loaded, and weighed at PDK, John's ground school through the afternoon; ~19:15 EDT wheels up for Huntsville, ~18:55 CDT on the ground there before sunset; Tyler rescued; dinner at the Waffle House, the night in two motorhomes across the highway. |
 | 2 | 08:40 CDT (09:40 EDT) wheels up KHSV. ~11:45 CDT land KAMA; wheels up 12:25 CDT. ~12:30 MST (15:30 EDT) land KPHX; ~12:40 MST Catherine comes through the fence. Phoenix → KCLM; Grace rescued and treated at Olympic Medical Center. |
 | ~2–3 onward | Interim lodging in a cleared corner of a Port Angeles hotel, then the group moves to the Coast Guard station on Ediz Hook and aboard *Active*. |
 | ≈9–10 | Johan anchors the *Pacific Tender* in Port Angeles Harbor; John spots it on AIS. |
@@ -402,9 +404,10 @@ Keep these entries to plot facts that later scenes depend on. The prose holds th
 ### Section 7: Huntsville and Tyler
 
 - They find **Tyler** (see his entry) and get a car from the airport rental lot.
-- A few blocks of Huntsville still have power by accident. They eat and sleep at a Waffle House whose two staff died in their cars outside on break; **use this as the template for 24-hour locations.**
+- A few blocks of Huntsville still have power by accident (until ~midnight). They eat at a Waffle House whose two staff died in their cars outside on break; the grill was still on, the last order burned to black; **use this as the template for 24-hour locations.**
+- They sleep in two motorhomes from an RV dealer's lot across the divided highway (Sam breaks the sales-office glass for the key cabinet): Sam and Tyler in a Class C, John and Dan in a Class A. The PC-12's cabin is full of cargo.
 - John cooks. Tyler tells them about Carl and his mother on the ISS.
-- **John's composure breaks in front of another person for the first time**, over Tyler's grief; Sam sits with him without speaking.
+- **John's composure breaks in front of another person for the first time**, over Tyler's grief, at the Class C's dinette after Tyler is asleep; Sam sits with him without speaking.
 - **Tyler joins the group.**
 
 ### Section 8: Huntsville to Phoenix, and Catherine
