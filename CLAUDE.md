@@ -205,6 +205,8 @@ Each character entry has five fields: Demographics; Physical Appearance & Presen
 
 - Lost two fingers on his left hand early in his career.
 
+- Survivor symptoms (Day 0 on): fatigue on ladders and stairs; he stops on the second ladder to the bridge to get a full breath.
+
 ### Dr. Elise Marchetti
 
 #### Demographics:
@@ -280,7 +282,7 @@ This is the single source of truth for chronology: timed beats, day order, who i
 - **Sequence is canon; clock times are working values.** When operational realism (see the Writing directive) shows a time is wrong, such as a real drive time, taxi time, fuel burn, or checklist length, refine it here and in the prose in the same change.
 - **Add new timed beats here** as scenes establish them.
 - Times are Eastern (EDT) unless marked. West Coast beats give local time with the EDT conversion.
-- **The event in local time:** 02:00 EDT = 01:00 CDT (Huntsville, Minneapolis) = 00:00 MDT (Edmonton) = 23:00 Monday MST (Phoenix; Arizona keeps no daylight time) = 23:00 Monday PDT (Port Angeles). Any "after two in the morning" outside the Eastern zone is wrong.
+- **The event in local time:** 02:00 EDT = 01:00 CDT (Huntsville, Minneapolis) = 00:00 MDT (Edmonton) = 23:00 Monday MST (Phoenix; Arizona keeps no daylight time) = 23:00 Monday PDT (Port Angeles) = 19:00 Monday ship's time (*Pacific Tender*, UTC-11). Any "after two in the morning" outside the Eastern zone is wrong.
 
 **Day 0 minus 1: Monday, September 4, 2028 (Labor Day)**
 
@@ -439,7 +441,7 @@ Keep these entries to plot facts that later scenes depend on. The prose holds th
 
 ### Section 10: Johan's Day 0
 
-- A parallel thread back on September 5. The *Pacific Tender* is three days out of Yokohama, bound for Seattle. Named dead: **Okafor** (officer of the watch) and **Second Engineer Alvarez**.
+- A parallel thread back on Day 0. The *Pacific Tender* is ~5 days out of Yokohama, bound for Seattle, just east of the date line (~50°N 176°W, south of the Aleutians), keeping UTC-11. The event hits at **19:00 Monday Sept 4, ship's time**; Johan stands the 12–4 and had turned in after supper. Nobody calls him at 23:40; he wakes at first light Tuesday (~17:00Z, ~13:00 EDT). ~1,900 nm and about seven days to the Strait at the speed one man can manage. Named dead: **Okafor** (officer of the watch) and **Second Engineer Alvarez**.
 - Johan oversleeps because nobody survived to wake him for his watch. The ship is running on autopilot.
 - His AIS shows a ghost fleet still under way. He tries VHF, SSB, and the satellite terminal, which gives a few fragments ("the eastern seaboard," "Europe") before it fails.
 - He decides to bring the ship in alone.
@@ -578,12 +580,9 @@ Write every scene, new or revised, with procedural accuracy, correct domain term
 **Next to write:**
 - The *Pacific Tender* at anchor and first in-person contact with Johan, reached by boat from the Hook.
 - Reaching and converting the station, clearing its dead, and moving aboard *Active* (with the interim hotel before it).
-- **The Edmonton diversion pass:** rewrite Section 2 from `reference/DAL27_Diversion_Edmonton.md`; draft the new Section 3 (Sam's return); rename `sections/03`–`10` to `04`–`11` and their headers; update the Delta 27 beats in Section 1, the arrival in Section 4 (PDK, not KATL/Signature; PC-12, not the A350 and its slide; FO's three stripes; the MAYDAY and its figures; Marietta → Dunwoody), and the PDK acquisition in Section 6. Check later sections for "PC-12 PRO" and "cockpit" on the A350.
-- **Signs on the dead:** bodies of people who were awake at 2:00 show open eyes, open mouths, and some injury nosebleeds; all show cherry-red lividity. Add the lividity where a body is seen up close: the Parkway driver and the QuickTrip clerk (Section 1), Jack and the flight attendants (Section 2), the Edmonton line tech (Section 3). Done in Sections 1–3; Harry, Elena, and Rosa are deliberately left without it. Nobody names it until Catherine does.
-- **Event-evidence hooks (from the mechanism change):**
-  - Done: the SNEWS/GCN alerts are in Section 1's feed inventory and hourly archive, unnoticed; the social-media exchange is in Section 5.
-  - Catherine's first read of the dead and the pulse-ox numbers are in Section 9. Still to write: her venous blood gas and the "cells can't use oxygen" conclusion, at the Hook.
-- **Survivor symptoms:** Sam (Sections 2–3) and John (Section 1) have theirs on the page. Sections 4–11 show nobody with symptoms yet; seed them as scenes are revised, and record each character's in their entry.
+- **Section 11 (deleted) needs redrafting** from its canon entry: the week at the Hook and spotting the *Pacific Tender*.
+- Catherine's venous blood gas and the "cells can't use oxygen" conclusion, at the Hook (her bridge read and the pulse-ox numbers are in Section 9).
+- **Done in the October rewrite pass (Sections 1–10):** the Edmonton diversion carried through; lividity on the Parkway driver, the clerk, Jack, a flight attendant, and the Edmonton line tech (Harry, Elena, and Rosa deliberately without it); Catherine names it at the Elwha bridge; the SNEWS/GCN alerts in Section 1's archive, unnoticed; the social-media exchange in Section 5; survivor symptoms on the page for John, Sam, Tyler, Catherine, Grace (air hunger at the moment of the event), and Johan.
 
 **Threads to keep developing:**
 - John's pilot mentorship. A short hop such as Port Angeles–Seattle (~60 nm, about half an hour) is a plausible next step.
