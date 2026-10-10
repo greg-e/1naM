@@ -19,7 +19,7 @@ Tags: `[fiction]` = invented physics or biology, keep internally consistent; `[v
 ## 2. Cause of death
 
 - **Target:** cytochrome c oxidase (Complex IV), the last enzyme of the mitochondrial respiratory chain, at its oxygen-binding heme a3–CuB center. `[fiction]` The wave's energy resonates with that site's geometry and flips it into a state that no longer binds oxygen, permanently for that enzyme molecule.
-- **Why only people (and other primates):** the catalytic core is conserved across animals, but the subunits that shape its geometry evolved unusually fast in the anthropoid primates (humans, apes, monkeys) `[verify: accelerated evolution of COX subunits in anthropoid primates, Grossman/Goodman et al.]`. The resonance only matches the primate geometry `[fiction]`. **Dogs, birds, livestock, and wildlife live. Zoo apes and monkeys die.** Dan is fine.
+- **Why only people:** the wave's resonance matches the human form of the enzyme, period `[fiction]`. Every animal lives: dogs, cats, birds, livestock, wildlife, zoo animals. Dan is fine. No explanation of why the human enzyme differs from an animal's goes on the page or in reference; this book doesn't take up evolution. The characters only observe that people died and animals didn't.
 - **Physiology: histotoxic hypoxia.** The lungs still work and the blood stays saturated, but the cells can't use the oxygen. Same end state as massive cyanide poisoning, with no cyanide.
   - Unconsciousness in ~10 seconds; death in minutes.
   - People asleep never wake. People awake show air hunger: **eyes open, mouth open as if gasping**, sometimes a brief seizure.
@@ -41,7 +41,7 @@ Survivors take a partial hit: some fraction of their Complex IV is knocked out, 
 
 ## 4. HIDDEN CANON: why ground survivors lived
 
-- About 1 in a million people carry a rare variant (an archaic-lineage inheritance `[fiction]`) that shifts the geometry of the oxygen-binding site by a fraction of a nanometer. The enzyme works normally, but its resonance sits just outside the wave's lethal band. **Same principle as the ISS crew: detuning.** The ISS crew were detuned by velocity, survivors by structure.
+- About 1 in a million people have a rare structural difference in their enzyme `[fiction]` that shifts the geometry of the oxygen-binding site by a fraction of a nanometer. The enzyme works normally, but its resonance sits just outside the wave's lethal band. **Same principle as the ISS crew: detuning.** The ISS crew were detuned by velocity, survivors by structure.
 - Partial detuning explains why survivors still have symptoms: they sit near the edge of the band, so a minority of their enzyme flips.
 - **On the page:** Marchetti can measure that survivors' Complex IV took less damage than the dead's. She can't find the cause, can't sequence enough survivors to prove a variant, and won't say what she suspects (her *No Premature Conclusions* flaw). The question stays open in the text. Never use the words "gene," "variant," or "inherited" as a confirmed finding.
 
