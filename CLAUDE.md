@@ -309,7 +309,7 @@ This is the single source of truth for chronology: timed beats, day order, who i
 | ~09:40–12:00 | Pulls static data while servers are up: FAA current-cycle charts, a North America OpenStreetMap extract, manuals and how-tos (generator, 182, Army field manuals, EPA water guides, radios), and authorized agency data (DHS infrastructure datasets, NOAA forecasts, EIA plant tables; grid still near 60 Hz, "generator" goes on the pad). Copies to two external drives, one into his flight bag. Then, almost as an afterthought, his and Naomi's photos from the cloud. Stays within his authorized access throughout. |
 | ~10:45 (09:45 CDT) | Sam lands at Minneapolis-St. Paul (KMSP) to refuel; John watches it from home. |
 | ~11:30 (10:30 CDT) | Sam departs KMSP; the track settles southeast toward Atlanta. John puts the ETA at ~14:15 and writes "leave 12:15." |
-| ~12:00 | Headache back; two more ibuprofen. First scheduled hourly snapshot; John spot-checks it, then goes deep rewiring connectors for state camera networks still timing out, and loses track of time. |
+| ~12:00 | Headache back; two more ibuprofen. The noon hourly snapshot (scheduled runs began at 10:00); John spot-checks it, then goes deep rewiring connectors for state camera networks still timing out, and loses track of time. |
 | 12:41 | He looks up at the clock and leaves for DeKalb-Peachtree (PDK), his home field: GA-400 south to I-285 east, stopping only at the QuickTrip at exit 8 for gas. |
 | ~13:40 | John arrives at PDK, gets into Epps Aviation `[verify]`, gets the ops-desk radio out of its channel presets (13:49), tries Peachtree Tower, Atlanta Approach, and Center, and leaves it on Approach. |
 | ~14:08 | Sam's call comes in on 121.5; John answers. |
@@ -341,7 +341,6 @@ Keep these entries to plot facts that later scenes depend on. The prose holds th
 ### Section 1: John's Day 0 morning
 
 - John wakes into the silence, walks Dan, finds the dead, and calls 911; an AI triage agent answers. That call later seeds the nationwide search.
-- He breaks down privately, alone with the dog: a cry to God.
 - John finds Delta 27 diverted and stopped at Edmonton, then a new target leaving that same field with the Flight ID DAL27PDK, and connects the two.
 - **He doesn't leave for PDK right away.** With ~5 hours before the airplane can arrive, he stops with Dan's leash in hand and stays home to collect while the power and connection hold. He works a numbered list on his legal pad (who's answering, what's answering, save it, everything else, DAL27PDK). **The federal exercises he's sat in surface in pieces as he works each item, never as a backstory block**: the Coast Guard continuity drill behind the feed inventory, the GridEx round ("collect first, while the pipes are still open; analyze later") behind the capture archive, the FEMA tabletop hurricane behind the offline maps. The federal ops centers don't answer. He starts the hourly capture archive (see Section 5) and pulls charts, maps, manuals, and authorized agency data to drives, and last, almost as an afterthought, his and Naomi's photos. He deliberately doesn't dig into what the feeds show; the deep look belongs to Section 5 with Sam. Everything stays inside his authorized access; the safety layer still comes off only in Section 5.
 - He watches DAL27PDK stop at Minneapolis and leave from his desk and plans to leave at 12:15, then goes deep fixing camera connectors, loses track of time, and leaves at 12:41. The firehouse stop is cut from the drive; only the QuickTrip stop remains. He pushes the car (a near miss with a stalled sedan on 285) and, at the end of the section, runs a red light for the first time in his life, a small first rule broken ahead of the safety layer in Section 5.
@@ -470,6 +469,16 @@ Technical detail: `reference/power-grid-shutdown-timelines.md` (researched but s
 - **Power at the group's own base is never jeopardy.** The subplot's pressure is a date on a calendar. Any in-house power beat follows the Section 5 model: preparedness confirmed working. Don't write a backup failure or outage-driven tension unless the author asks.
 - **Build real scenes on this**: characters reasoning about which regions to avoid, a supply run routed around a danger window, a character with direct plant knowledge.
 
+### Unattended-world hazards
+
+Danger from what nobody is tending, never from antagonists. Source notes: `reference/more_to_think_about_unattended_world_hazards.md`; where it differs from this entry (its "ghost lineage" opening, its scale, its GPS mechanism), this entry wins.
+
+- **Dogs.** Animals are unaffected, so every pet outlives its owner. Day 0: dogs bark behind closed doors and fences all over a suburb at dawn; a neighborhood is never silent. Most pets shut indoors die of thirst within days. Those that get out roam singly and in loose groups by week two; hungry packs are a real hazard months on (Reno in winter, Italy), not "apex predators in a week." Keep Dan leashed.
+- **Fire.** Crash fires, gas leaks, and anything left on burn unchecked until the grid drops (8–24 hours), which removes most ignition sources. Scale it as smoke columns on the horizon and burned-out blocks seen from the PC-12, not citywide firestorms. Later, lightning and a fire season nobody fights.
+- **GPS drift.** The satellites' relativity correction is built into the clocks. What stops is the daily ground upload of clock and orbit corrections, so position accuracy degrades over weeks to months `[verify rate; Block IIR/IIF autonomous mode]`. It matters for the C-17 crossing and the yacht; Johan's celestial navigation earns its place.
+- **Certificate and token expiry.** TLS certificates and John's federal access tokens expire with nobody to renew them, so feeds that still have power lock him out one by one. Another clock on "collect while the pipes are open."
+- **The Dragon hatch.** With no recovery ship to lift the capsule, opening the side hatch in a seaway risks swamping it. The yacht and small boat have to solve this on the page.
+
 ## Future arcs
 
 ### The Italy excursion
@@ -580,5 +589,6 @@ Write every scene, new or revised, with procedural accuracy, correct domain term
 - What the IRB research finds (without ever explaining survival). Mechanism and evidence chain are now set; open: who assembles which link, and when the group first suspects a physical event rather than a disease.
 - Whether to name a real magnetar (XTE J1810-197 is a candidate at about the right distance) or keep the source unnamed.
 - Whether the ISS crew had mild symptoms.
+- Whether a Russian crew is aboard the ISS with a Soyuz, and if so, what happens to them.
 - How the group gets from Switzerland back to the US West Coast.
 - Acquiring the yacht, and learning the splashdown timing and location.
