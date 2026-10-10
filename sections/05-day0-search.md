@@ -32,7 +32,7 @@ Everything they'd looked at was a moment in time pulled off someone else's serve
 
 So they came back to the question the feeds couldn't answer, who was still alive.
 
-"None of that showed a person," John said. "Not one. A live hand doesn't leave a mark on a camera or a transponder that a dead ship doesn't leave too. So we quit looking for people and start looking for the one thing only a living person does this morning." He turned it over out loud and Sam turned it with him. A survivor waking into the silence would do what the two of them had done: reach for someone. Pick up a phone. Get on a radio. Try to raise help.
+"None of that showed a person," John said. "Not one. A live hand doesn't leave a mark on a camera or a transponder that a dead ship doesn't leave too. So we quit looking for people and start looking for the one thing only a living person did today." He turned it over out loud and Sam turned it with him. A survivor waking into the silence would do what the two of them had done: reach for someone. Pick up a phone. Get on a radio. Try to raise help.
 
 Or post something. John pulled the social platforms back up and had the model sort everything since two a.m. by time. That morning they'd been frozen. Now there was something. Eleven posts, across every platform he could reach. *is anyone there.* A photo of an empty street, no caption. A man asking in Portuguese whether anyone could hear him. Sam read them over his shoulder. John opened the first one and looked for where it had come from. Nothing. The platforms had quit attaching locations to posts years ago, and the accounts were strangers with nothing in their profiles but a name.
 
@@ -42,7 +42,7 @@ Or post something. John pulled the social platforms back up and had the model so
 
 "I worked a radio for ten hours," Sam said. "That dies the minute the towers lose power, and nobody's on the other end anyway. What sticks around?"
 
-"A log." John had it now. He told Sam about the first 911 call, that morning on the Parkway, the calm synthetic voice reciting call volume and hold times while a dead man sat slumped in the seat ahead of him and no one human sat anywhere in the loop, every dispatcher in every center as gone as everyone else. He'd hung up and written it off as a dead end. But that agent had answered him, and it had answered everybody, every person anywhere in the country frightened enough this morning to dial three digits, and every one of those calls was sitting in a log at whatever county center took it, a callback number, a location, a recording, on a server nobody was watching.
+"A log." John had it now. He told Sam about the first 911 call, that morning on the Parkway, the calm synthetic voice reciting call volume and hold times while a dead man sat slumped in a car a few yards from him and no one human sat anywhere in the loop, every dispatcher in every center as gone as everyone else. He'd hung up and written it off as a dead end. But that agent had answered him, and it had answered everybody, every person anywhere in the country frightened enough this morning to dial three digits, and every one of those calls was sitting in a log at whatever county center took it, a callback number, a location, a recording, on a server nobody was watching.
 
 "I wasn't the only one who tried," John said. "If the agent logged mine, it logged all of them."
 
@@ -64,7 +64,7 @@ John put his glasses back on and didn't answer.
 
 Sam leaned forward, elbows on his knees. "Ninety-one point three. You know it."
 
-"Pilot in command." John knew it the way every pilot knew it, from the written and from the checkride. "In an emergency requiring immediate action, he may deviate from any rule of this part to the extent required to meet that emergency."
+"Pilot in command." John knew it the way every pilot knew it, from the written and from the checkride. "In an in-flight emergency requiring immediate action, the pilot in command may deviate from any rule of this part to the extent required to meet that emergency."
 
 "I went through it about three-thirty this morning. I turned an airliner off its route with no clearance from anybody, landed it heavy at Edmonton, and took an airplane off a ramp there that belongs to somebody I've never met. None of that's legal on a normal day. I'd do every bit of it again."
 

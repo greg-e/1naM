@@ -58,7 +58,7 @@ John came around the counter a few minutes later with a plate in each hand: hash
 
 "Where'd you learn to do that?" Sam asked John.
 
-"Told you. Worked the grill line through school." John didn't say the rest of it, that everyone he'd worked the line with thirty-some years back was probably gone now, and here he was doing it again for one scared kid instead of a full counter.
+"Told you. Worked the grill line through school." John didn't say the rest of it, that everyone he'd worked the line with forty years back was probably gone now, and here he was doing it again for one scared kid instead of a full counter.
 
 Tyler ate like someone who hadn't in a while, careful and then not careful at all, and the three of them let the rest of the meal go quiet.
 

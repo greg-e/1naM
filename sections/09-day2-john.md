@@ -46,7 +46,7 @@ Catherine was already on her knees beside the splint, her fingers working along 
 
 Catherine nodded. "It's going to hurt getting you up that bank. I'm not going to pretend otherwise."
 
-It took the three men half an hour, Tyler holding the flashlight and carrying the water bottles, John and Sam with Grace's arms over their shoulders and Catherine below her steering the leg, a few feet at a time up through the brush. Grace didn't make a sound beyond her breath coming sharp through her teeth. At the top she sat on the guardrail with her face gray and her mouth open, breathing hard and fast, and stayed there a full minute before she would let them move her to the car.
+It took them half an hour, Tyler holding the flashlight and carrying the water bottles, John and Sam with Grace's arms over their shoulders and Catherine below her steering the leg, a few feet at a time up through the brush. Grace didn't make a sound beyond her breath coming sharp through her teeth. At the top she sat on the guardrail with her face gray and her mouth open, breathing hard and fast, and stayed there a full minute before she would let them move her to the car.
 
 Olympic Medical Center was on the east side of town, a low hospital on a hill above the harbor, the main building lit while every street around it was dark. Its own plant, John figured, the backup generator every hospital in the country had to keep, with fuel for days and nothing in the building left to draw it down but the lights `[verify OMC generator]`. The ambulance doors opened for them. The emergency department was small, smaller than Catherine was used to; John watched her take in the bay count and the single trauma room at a glance. The night shift was where they'd been at eleven o'clock Monday night: a nurse slumped at the station, a tech on the floor of the hall beside a supply cart. Catherine looked at each of them once and went on past.
 
@@ -60,9 +60,9 @@ There was a grocery three blocks up with its doors unlocked and its coolers dark
 
 Grace looked down the walkway toward the motel's dark bar sign. "Bar's closed, I guess," she said, and nobody answered, and she let it go.
 
-"This is good," Sam said, around a mouthful of pasta, sounding almost offended. "How'd you learn to cook like this?"
+"This is good," Catherine said, around a mouthful of pasta, sounding almost offended. "Where did you learn to cook like this?"
 
-"Waffle House, then thirty years of living alone and getting bored of my own cooking," John said.
+"Waffle House, then sixteen years of living alone and getting bored of my own cooking," John said.
 
 They ate. Afterward, with the plates on the walkway and the harbor going dark below them, Grace told it, flat and in order, the way she'd have written up a fault. She'd been driving home from a late shift. She was a civilian mechanic at the Coast Guard air station out on the Hook, diesels and electrical, and she'd stayed late on a generator. Westbound on 101, a little before eleven. "Right before he came over the line I couldn't get a breath. Like somebody sat on my chest. I remember thinking I was having a heart attack at thirty-two. Then his lights were in my lane." She'd figured afterward it was panic, or the airbag. She'd come to in the SUV with her leg broken and the pickup's engine still running, and the man in it hadn't answered. Her door had taken her shoulder to open. She'd called 911 from the asphalt and gotten the voice, and read it her coordinates off her map app, and it had told her help was being dispatched. Then she'd looked at the sky and decided she wasn't waiting on the bridge in the open for help to come, and she'd gone down the bank to the water. She'd cut the splints with her pocketknife. Three days. She'd heard no cars and no airplanes until theirs, and when she'd heard it, she'd heard it go over low and come back around, and she'd known it was landing at Fairchild.
 

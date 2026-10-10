@@ -1,6 +1,6 @@
 # 9/5/2028 — John Lauer, AI Engineer & Researcher, Day 0
 
-A thud woke him. Distant and heavy, enough to rattle the bedroom window in its frame, and gone before he was fully awake. The clock read 2:05. He lay in the dark and waited for whatever came next: a siren, a second thud, anything that would tell him what he'd heard. Nothing came. The house ticked around him, and down the hall Dan's tags shifted as the dog resettled. John rolled over and went back to sleep.
+A thud woke him. Distant and heavy, enough to rattle the bedroom window in its frame, and gone before he was fully awake. The clock read 2:05. He lay in the dark and waited: a siren, a second thud, anything that would tell him what he'd heard. Nothing came. The regular sounds of the house, and down the hall Dan's tags shifted as the dog resettled. John rolled over and went back to sleep.
 
 He woke again at six, same as every morning. Sixty-one years old and alone for sixteen of them, though not really alone. There had always been a dog, and it had always been a Mountain Cur.
 
@@ -28,11 +28,11 @@ Old Milton passed under 400. An eighteen-wheeler had jackknifed across the south
 
 "Hmm," he said again, and pulled up the news on his phone. The headline feed hadn't moved. The top story was six hours old with no update. He switched apps: the same frozen feed. A third. The local station's live page held a single paused frame, an anchor caught mid-word. Dan leaned hard into his leg and whined. John turned for home and walked fast, leash short, not quite running.
 
-Back in the subdivision he heard the dogs. He'd walked past them on the way out and never heard them. A big dog behind the Morrisons' front door, barking steady and hoarse. Another one farther down, behind a fence. A small one, high and frantic, inside a house with the blinds still down. Nobody yelling at any of them to knock it off. Dan pulled toward the Morrisons' door, and John shortened the leash and kept him moving.
+Back in the subdivision he heard a dog behind the Morrisons' front door, barking steady and hoarse. Another one farther down, behind a fence. A small one, high and frantic, inside a house with the blinds still down. Nobody yelling at any of them to knock it off. Dan pulled toward the Morrisons' door, and John shortened the leash and kept him moving.
 
 Back at the house Dan went under the kitchen table and stayed there. John opened the laptop. The same frozen feed, wider: the national wires, the overseas outlets, the social platforms that should have been a roar of overnight noise. Every one of them sat still, the newest timestamps all from a few minutes before two in the morning. Nothing anywhere had posted since.
 
-He opened FlightAware. At this hour on a weekday there should have been thousands of airplanes on the map. The country was nearly empty. The whole world was down to a scatter of targets, most of them long tracks over open ocean, and a few were wrong in a way he couldn't place. He clicked into one: an Air India 777, Delhi to Newark `[verify]`, two hundred miles past Newark at thirty-nine thousand feet and still heading west over Pennsylvania. He checked another. The same: a flight that had reached its destination and kept going.
+He opened FlightAware. At this hour on a weekday there should have been thousands of airplanes on the map. The country was nearly empty. The whole world was down to a scatter of targets, most of them long tracks over open ocean, and a few were wrong in a way he couldn't place. He clicked into one: an Air India 777, Delhi to Newark `[verify]`, two hundred miles past Newark at thirty-nine thousand feet and still heading west over Pennsylvania. He checked another, and it had done the same thing, reached its destination and kept going.
 
 He pulled up a handful of state DOT traffic cameras: the interchange where 400 met the Perimeter, then a few in other cities. Every one showed what he'd walked through that morning. Open lanes at what should have been solid rush hour, a scatter of stopped vehicles, nothing moving.
 
@@ -44,13 +44,13 @@ He set the phone down. Through the kitchen window he could hear the Morrisons' d
 
 "Harry," he said out loud.
 
-He left Dan in the house and went next door. Harry had been his friend for twenty years. Not just the guy over the fence with advice about the lawn: a real friend, who had gotten John through the worst of it after Naomi. He rang the bell and waited. Nothing. He knocked. Nothing. The front door was locked. He went around to the garage and tried the code Harry had given him a few months back, and the door went up. "Harry? You here?" Nothing. Through the kitchen, the living room, down the hall to the master bedroom. "Harry?"
+He left Dan in the house and went next door. Harry had been his friend for twenty years. He had opinions about John's lawn, and he had gotten John through the worst of it after Naomi. He rang the bell and waited. Nothing. He knocked. Nothing. The front door was locked. He went around to the garage and tried the code Harry had given him a few months back, and the door went up. "Harry? You here?" Nothing. Through the kitchen, the living room, down the hall to the master bedroom. "Harry?"
 
 Harry was in bed, on his side, the blanket at his waist. John checked for a pulse anyway. His friend was dead.
 
 He stood a minute in the doorway of a dead man's bedroom, the house around him exactly as tidy as Harry always kept it. He pulled the blanket up over Harry's shoulder and let himself back out through the kitchen and across the strip of grass between the two driveways.
 
-Dan met him at the door like it had been a week. John went back to the laptop and pulled FlightAware up again, wider this time, clicking through the targets one at a time for origin and destination. The map was still down to a scatter, most of it the long-haul tracks over open ocean he'd half-noticed at eight, each icon crawling forward on a heading that never varied, never corrected, never slowed. He was ready to write the whole screen off when one track stopped him.
+Dan met him at the door like it had been a week. John went back to the laptop and pulled FlightAware up again, wider this time, clicking through the targets one at a time for origin and destination. The map was still down to a scatter, most of it the long-haul tracks over open ocean he'd half-noticed at eight, each icon crawling forward on a heading that never changed. He was ready to write the whole screen off when one track stopped him.
 
 An airplane doing something different. He clicked into it. **DAL27**, an Airbus A350-900 out of Atlanta at 11:35 the night before, filed for Seoul. The track ran north-northwest out of Atlanta, over the Midwest and Manitoba and up into northern Saskatchewan, as straight as all the others. Then at 3:30 in the morning it turned. A clean turn to the south, and twenty-five minutes later a second turn, onto a line that ran straight for Edmonton, Alberta, and then a descent. The track ended on the ground at Edmonton International at 4:36 Eastern. It hadn't moved since.
 
@@ -60,7 +60,7 @@ He zoomed in on Edmonton, then out again, looking at everything around it, and f
 
 He read it three times. DAL27, the airplane on the ground at Edmonton. PDK, DeKalb-Peachtree, his own home field, where his 182 had been sitting in its hangar since Sunday afternoon.
 
-FlightAware wasn't the real source, it was a patchwork. A lot of its ground coverage came from hobbyists, thousands of people with a thirty dollar ADS-B receiver and a little antenna in a window or an attic, feeding it over their home internet. Not many of them had antennas in northern Saskatchewan. So some of what he was looking at was coming from a satellite, or an airline feed, or FlightAware filling a gap with its best guess. John had spent his career taking apart pipelines like that, and he knew a line on a map could just as easily be a caching bug as a real airplane.
+FlightAware was a patchwork. A lot of its ground coverage came from hobbyists, thousands of people with a thirty dollar ADS-B receiver and a little antenna in a window or an attic, feeding it over their home internet. Not many of them had antennas in northern Saskatchewan. So some of what he was looking at was coming from a satellite, or an airline feed, or FlightAware filling a gap with its best guess. John had spent his career taking apart pipelines like that, and he knew a line on a map could just as easily be a caching bug as a real airplane.
 
 He opened a chat window on the laptop. His job at Google gave it reach into a lot of things. For years his team had built Gemini deployments for the agencies that run the systems under all those maps... the FAA, DOT, Coast Guard, NOAA, Homeland Security, FEMA. That meant read-only access to their live feeds same as the DOT cameras he'd pulled up earlier. He asked the model to check both tracks against the FAA's own surveillance data. It came back in a few seconds. The A350 was real: Delta's airframe, the transponder address matched, squawking 7700 from the second turn onward. The PC-12 was real too, and it was a different airplane, its transponder address registered in Canada to a PC-12 NGX. Its flight ID had been changed from the registration about the time it started its engine.
 
@@ -106,7 +106,7 @@ He kept FlightAware open on the second screen the whole time. At a quarter to el
 
 At noon the capture job wrote its noon snapshot, on time. The headache had come back behind his eyes, and he took two more ibuprofen with the last of his coffee while he spot-checked a few cameras in the folder against the live feed to make sure they matched. They did. But three of the state camera networks that had timed out that morning were still timing out, and that bothered him. He dug into the first one and found the state had moved its cameras behind a new address sometime in the last year and never updated the old one, so he rewired the connector and watched the frames start to come in. The second one was the same problem with a different fix. He was halfway into the third when he looked up at the clock in the corner of the screen. 12:41.
 
-He left the workstation running with the office door open so it wouldn't get warm in there, grabbed the flight bag, and took Dan's leash off the hook. "Come on buddy, we're going for a ride." Dan was at the door before he was. 
+He left the workstation running with the office door open so it wouldn't get warm in there, grabbed the flight bag, and took Dan's leash off the hook. "Come on, buddy, we're going for a ride." Dan was at the door before he was. 
 
 Back out on Old Milton Parkway he headed south toward 400. The eighteen-wheeler still hung off the bridge exactly as he'd left it, and he drove under it slowly, not liking what was over his head.
 

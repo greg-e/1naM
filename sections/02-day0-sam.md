@@ -50,11 +50,11 @@ Twenty-five minutes after he'd first come through the door, every channel he had
 
 He sent it again on 121.5. He set 7700 in the transponder, the code that would light the airplane up as an emergency on every radar screen that could see it, and sent a MAYDAY downlink on CPDLC. Then he pulled up the nearest airports page.
 
-Fort McMurray was closest, a hundred and fifteen miles southwest. He brought up the airport on the EFB: seventy-five hundred feet of runway. Then he looked at the weights. They'd left Atlanta near maximum takeoff weight for a fifteen-hour flight, and the airplane had burned barely four hours of it. He was some thirty-five tons over maximum landing weight. An overweight A350, at night, alone, on seventy-five hundred feet, possibly no fire truck he could count on. Edmonton was two hundred thirty-five miles, eleven thousand feet of runway, an ILS, a major international airport. Fifteen minutes farther.
+Fort McMurray was closest, a hundred and fifteen miles west-northwest, already behind his right wing. He brought up the airport on the EFB: seventy-five hundred feet of runway. Then he looked at the weights. They'd left Atlanta near maximum takeoff weight for a fifteen-hour flight, and the airplane had burned barely four hours of it. He was some thirty-five tons over maximum landing weight. An overweight A350, at night, alone, on seventy-five hundred feet, possibly no fire truck he could count on. Edmonton was two hundred thirty-five miles, eleven thousand feet of runway, an ILS, a major international airport. Fifteen minutes farther.
 
 The checklists said nearest *suitable* airport, not nearest. If anyone behind that door was alive, they needed him on the ground in one piece more than they needed him there fifteen minutes sooner.
 
-He entered CYEG (Edmonton) as the new destination, selected direct, and pushed the heading knob to hand navigation back to the FMS. The airplane swung right onto the new magenta line, heading two-one-five.
+He entered CYEG as the new destination, selected direct, and pushed the heading knob to hand navigation back to the FMS. The airplane swung right onto the new magenta line, heading two-one-five.
 
 On the emergency frequency, he keyed the mic, "Delta Twenty-Seven Heavy, transmitting in the blind. Diverting Edmonton, direct. Leaving flight level three-six-zero in one-five minutes."
 

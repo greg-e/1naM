@@ -94,4 +94,4 @@ Sam came back a few minutes later with a backpack and locked the front door behi
 
 They pulled out of the driveway a little after three thirty, Sam quiet in the passenger seat, Dan's chin resting on the console between them. The drive up to Alpharetta took twenty-five minutes, through the stopped, silent world, and neither of them said much until John pulled into his own driveway just before four and into the garage, and cut the engine. They sat there a minute before either of them moved.
 
-John broke the silence, "Come on. I'll make something to eat."
+John broke the silence. "Come on. I'll make something to eat."
