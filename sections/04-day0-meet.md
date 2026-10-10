@@ -16,7 +16,7 @@ Before he could press it, the speaker came alive, and John's stomach jumped as a
 
 Twenty miles northwest of the field, Sam had Atlanta Approach on one radio and 121.5 on the other, and on the descent he keyed 121.5 again, the same call he'd made on the hour and the half hour since Edmonton.
 
-"Any station, Pilatus Charlie Golf Kilo Papa X-ray, transmitting in the blind. Twenty miles northwest of Peachtree-DeKalb, descending through eight thousand, landing Peachtree-DeKalb."
+"Any station, Pilatus Charlie Golf Kilo Papa X-ray, transmitting in the blind. Twenty miles northwest of DeKalb-Peachtree, descending through eight thousand, landing DeKalb-Peachtree."
 
 He let the key up. Then he pressed it again, and nothing that came out was in the book. "Is there anybody on this frequency."
 
@@ -54,13 +54,13 @@ There was John, thirty yards off next to the FBO, a dog already running toward h
 
 "Should I be concerned?" Sam called out, eyes on the dog.
 
-John was already moving too. "Not at all," John called back. "He's excited to see you, his name's Dan."
+John was already moving too. "Not at all," John called back. "He's excited to see you. His name's Dan."
 
-Dan got there first, pressing himself against Sam's legs same as he did with anyone in the family. Sam went down on one knee, patting the dog's side and scruffing his head and ears. John got there, flip-flops slapping the concrete, and Sam got back up to his feet, straight-backed even now. John stood there a second, looking at a face of another living person: clean-shaven, short black hair gone salt-and-pepper at the temples, olive skin, brown eyes rimmed red.
+Dan got there first, pressing himself against Sam's legs same as he did with anyone in the family. Sam went down on one knee, patting the dog's side and scruffing his head and ears. John got there, flip-flops slapping the concrete, and Sam got back up to his feet, straight-backed even now. John stood there a second, looking at the face of another living person: clean-shaven, short black hair gone salt-and-pepper at the temples, olive skin, brown eyes rimmed red.
 
 John held out his hand. "John."
 
-Sam took it and laughed, a short, broken sound. "Right! My name is Samuel Reyes. Everybody calls me Sam." He held on a second longer than a handshake needed. "Everybody on Delta 27 was dead. Three hundred and — " Choking, he stopped there, and coughed, and didn't try to finish it.
+Sam took it and laughed, a short, broken sound. "Sam. Samuel Reyes." He held on a second longer than a handshake needed. "Everybody on Delta 27 was dead. Three hundred and — " Choking, he stopped there, and coughed, and didn't try to finish it.
 
 For the next twenty minutes they stood on the ramp beside the PC-12. Sam gave him the outline: Jack, Theresa, Ruth, the cabin, the turn south over Saskatchewan and the landing at Edmonton, the man in the fuel truck, the line tech at the desk, the airplane in the hangar, Minneapolis. John gave his own outline back: the thud at 2:05, the man in the ditch, Harry, the frozen feeds, the empty sky, the drive to the field. Somewhere in it Sam said the name Elena, and then Rosa.
 
@@ -82,9 +82,9 @@ Sam was on his knees at the foot of Elena's bed when John reached the doorway, b
 
 After a while it eased. Sam got slowly to his feet and went to Rosa's room. He slid his arms under her, and she came up off the mattress all at once, still curled on her side. Thirteen hours had set her in the shape she'd fallen asleep in. Sam held her against his chest like that, the way he must have carried her to bed a thousand times when she was small. John stepped back from the doorway to let him through. Sam turned sideways so her feet wouldn't touch the frame and laid her on the bed beside her mother, on her side, facing Elena, close enough that her forehead nearly touched Elena's shoulder. He pulled the blanket up over both of them and stood there.
 
-John left Sam alone and went back outside. He got Dan and they walked down the street a few blocks, they came back to Sam's house 30 or so minutes later and John sat down on the steps of the front porch, Dan laid down next to him.
+John left Sam alone and went back outside. He got Dan out of the car and walked him down the street a few blocks. Behind the closed doors the dogs had been at it all day, and some of them had gone hoarse. At the top of the rise on the way back John had to stop and stand with his hands on his hips until he could get a breath. Half an hour later he sat down on Sam's front steps, and Dan lay down next to him.
 
-When Sam came outside his eyes were dull and empty and his olive skin was ashen.
+When Sam came outside he'd taken the jacket off, and his face had no color in it.
 
 "Come back to my place," John said. "We can figure out what's next."
 
@@ -92,6 +92,6 @@ Sam looked at him a long moment. "Okay," he said. "Yeah. Okay. I'll grab some of
 
 Sam came back a few minutes later with a backpack and locked the front door behind them.
 
-They pulled out of the driveway a little after three thirty, Sam quiet in the passenger seat, Dan's chin resting on the console between them. The drive up to Alpharetta took twenty-five minutes, through the stopped, silent world, and neither of them said much until John pulled into his own driveway just before four, pulled into the garage and cut the engine. They sat there a minute before either of them moved.
+They pulled out of the driveway a little after three thirty, Sam quiet in the passenger seat, Dan's chin resting on the console between them. The drive up to Alpharetta took twenty-five minutes, through the stopped, silent world, and neither of them said much until John pulled into his own driveway just before four and into the garage, and cut the engine. They sat there a minute before either of them moved.
 
 John broke the silence, "Come on. I'll make something to eat."
