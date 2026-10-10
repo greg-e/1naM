@@ -327,7 +327,7 @@ This is the single source of truth for chronology: timed beats, day order, who i
 
 | Day | Beat |
 | --- | --- |
-| 1 | The three leads reviewed; the PC-12 Sam brought from Edmonton readied at PDK; launch to Huntsville at dusk; Tyler rescued; the Waffle House night. |
+| 1 | The three leads reviewed; John loads his car and leaves the house for good (generator off, door locked); REI; the PC-12 Sam brought from Edmonton refueled, loaded, and weighed at PDK, John's ground school through the afternoon; ~19:15 EDT wheels up for Huntsville, ~18:55 CDT on the ground there before sunset; Tyler rescued; the Waffle House night. |
 | 2 | 08:40 CDT (09:40 EDT) wheels up KHSV. ~11:45 CDT land KAMA; wheels up 12:25 CDT. ~12:30 MST (15:30 EDT) land KPHX; ~12:40 MST Catherine comes through the fence. Phoenix → KCLM; Grace rescued and treated at Olympic Medical Center. |
 | ~2–3 onward | Interim lodging in a cleared corner of a Port Angeles hotel, then the group moves to the Coast Guard station on Ediz Hook and aboard *Active*. |
 | ≈9–10 | Johan anchors the *Pacific Tender* in Port Angeles Harbor; John spots it on AIS. |
@@ -394,6 +394,7 @@ Keep these entries to plot facts that later scenes depend on. The prose holds th
 
 - The search yields **three leads: Huntsville AL, Phoenix AZ, and Elwha WA**, each an address, a dead callback number, and a transcript fragment.
 - They take the **PC-12 Sam flew in from Edmonton**, refueled at PDK, and launch from there.
+- John leaves his house for good that morning (Vogtle's date makes it final): the workstation, drives, Naomi's Bible and photo; he closes her study door, turns the generator to OFF, and locks up. REI is shopped dark by headlamp; no satellite messengers.
 - John is an instrument-rated 182 pilot with no turbine time; Sam will check him out as they go.
 - The grid has been down since ~00:50, so nothing on the walk or at REI runs on mains power. The restaurant above the Epps hangar at PDK is a small accidental pocket of power, and John cooks lunch there.
 - They launch for Huntsville at dusk.

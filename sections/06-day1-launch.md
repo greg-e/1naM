@@ -1,49 +1,47 @@
 # 6 — John, Day 1
 
-John woke a little after six. Sam was already up, sitting at the kitchen counter with two mugs of coffee poured, one of them meant for John.
+John woke a little after six to the generator running in the side yard, a steady drone under the window that hadn't been there the night before. Sam was already up, at the kitchen counter with two mugs of coffee poured, one of them meant for John.
 
-John showered and made the same brain shake he made every morning, blueberry, avocado, beet, spinach. Sam watched him blend it. "Every day?" "Every day." "Huh." Sam declined John's offer to share.
+John showered and made the brain shake, blueberry, avocado, beet, spinach. Sam watched him run the blender. "Every day?" "Every day." "Huh." Sam passed on the offer of a glass.
 
-Dan was already at the door with his leash in his mouth by the time John reached for it, tail going hard enough to knock a hole in the wall. Two miles, same as every morning, and nobody had explained the new rules to him. "You coming?" John asked. Sam was already reaching for his shoes.
+Dan was at the door with his leash in his mouth before John reached for it. Two miles, same as every morning; nobody had explained the new rules to him. "You coming?" John asked. Sam was already reaching for his shoes.
 
-They walked together in the same low gold light John had watched come up over this street for sixteen years, Dan ranging out to the end of his leash and back the way he always did, and for the first quarter mile neither man said much. Driveways still full. Sam was quiet.
+They walked in the same low gold light John had watched come up over this street for sixteen years, Dan ranging out to the end of the leash and back. The driveways were still full. The streetlights were out. There were fewer dogs behind the doors than yesterday, a bark here and there, and nothing at all from the Morrisons' house. At the top of the hill on Old Milton John stopped to get his breath, and Sam stopped beside him and coughed into his elbow, and neither of them mentioned it.
 
-Back at the house, they went into the office together. The machine had finished. The agents had spent the night reaching into county and regional dispatch systems across the country, filtering out the systems that never had the AI layer and the ones that had gone dark overnight and taken their logs with them. The model put the calls nationwide that matched the pattern at somewhere over four thousand, with heavy caveats. Three had survived every filter John had set.
+Back at the house they went into the office. The machine had finished. Its instances had spent the night working county and regional dispatch systems across the country, and a lot of those systems had dropped off before morning when their own power failed, taking their logs with them. Across the ones it had reached, the model put the calls placed after two a.m. at somewhere over four thousand, most of them alarm panels and crash sensors and phones calling on their own. Three had survived every filter John had set.
 
-A repeat caller in Huntsville, Alabama, who'd called 16 times. Another in Phoenix, Arizona, who'd called four times. And a single call, with coordinates somewhere on the Olympic Peninsula.
+A repeat caller in Huntsville, Alabama, sixteen calls. Another in Phoenix, Arizona, four calls. And a single call from a cell phone whose location record put it at the Elwha River bridge on Highway 101, west of Port Angeles, Washington, out on the Olympic Peninsula.
 
-"No names," John said, reading it off the screen. "Three locations, three phone numbers that still belong to live accounts, according to the data."
+"No names," John said, reading off the screen. "Three locations, three callback numbers, and the carriers still show all three as live accounts."
 
-He dialed Huntsville first. No ring, no busy tone, just a flat failure notice, the sound a call makes when there's no tower to carry it.
+He dialed Huntsville first. No ring, no busy tone, just a flat recorded failure, the sound a call made when there was nothing to carry it.
 
-He set the phone down. "Systems are failing. Cell towers can run a while on backup, but it looks like that one's dead," John said finally. "There may be no network left in any of those three places to carry a call. The cascading power failure has started."
+He set the phone down. "The towers run on batteries when the grid goes. Four hours, eight, depending on the site `[verify]`. Huntsville's are done." He looked at the other two numbers and didn't dial them. "So is everybody's, by now, or close to it. If we want to talk to these people, we go to them."
 
-"Huntsville, Phoenix, Portland," Sam said.
+"Huntsville, Phoenix, Port Angeles," Sam said.
 
-They loaded what needed loading into John's car: the workstation, a hundred-odd pounds of compute in a case built to sit still, its power supply, and the little battery station he kept for storms. The drive took 40 minutes south with the sun still low through the trees.
+They spent the rest of the morning loading John's car. They'd worked it out on the pad the night before: whatever they found in three places that far apart, they weren't coming back to this house ahead of the date at the bottom of the page. The workstation went first, a two-man lift, a hundred-odd pounds of compute in a case built to sit still, then its power supply and the battery station John kept for storms. The external drives. His flight bag, logbook, and headset. Clothes for a week. Dan's food, all of it. Naomi's Bible from the office desk, and the photo of her from his nightstand. He stood a minute in the doorway of her study, and then he closed the door.
 
-As they pulled out of the neighborhood John had a last-minute thought: satellite phones. Cell towers were failing one by one, and if the three leads they'd pulled out of the 911 logs went dark the way Huntsville had, plain phones weren't going to be worth carrying past today. "There's an REI on the way," he said, already changing lanes. "Perimeter Mall, ten minutes off our route. If anybody stocks the real thing, it's them."
+Before they left he went out to the side yard and turned the generator's controller from AUTO to OFF. The engine ran down and stopped, and the house behind him went dark. He locked the front door and put the key on his ring with the others.
 
-The parking lot was as empty as every other lot they'd passed that morning, and the automatic doors pried open easily. Inside, the lights were still on, motion-sensor fixtures flickering awake overhead as they walked the aisles, the air conditioning still running cold. John found the electronics wall past the tents and the kayaks: Garmin inReach Minis hanging in rows, two-way satellite messengers, no voice, but a text channel and an SOS button that ran through a satellite constellation with no need for a cell tower or a power grid. He pulled four off their pegs, then a fifth, and a fistful of the little solar chargers racked beside them.
+Sam asked for one stop on the way. "We've got an airplane and a computer. We don't have a first-aid kit worth the name or a way to make water safe." There was an REI off Perimeter Center, ten minutes off the route.
 
-Sam came back from the other side of the store with an armful: headlamps, a water filter, a first-aid kit heavier than anything most people kept in a car, a folding knife, thermal layers in both their sizes. "Figured you're not the type to think about socks until your feet are already wet," he said, dropping it all on a checkout counter. John didn't argue. He added his own armful to the pile, they filled two hiking packs, and they carried it all out to the car and left the store's doors standing open.
+The parking lot was as empty as every lot they'd passed. The automatic doors didn't move. Sam found the seam between the panels, got his fingers into it, and walked one panel back along its track by hand. Past the first few yards of daylight from the front windows the store was dark, and warm, the air conditioning off since the night before. They took headlamps off the rack by the registers and went down the aisles with them.
 
-DeKalb-Peachtree Airport was completely deserted, like a ghost town abandoned for 10 years. They found what they were looking for behind the training center John had been to hundreds of times over the years. In the hangar opposite Epps sat another PC-12.
+Sam came back with an armful: a water filter, a first-aid kit heavier than anything most people kept in a car, a folding knife, thermal layers in both their sizes, wool socks. "Figured you're not the type to think about socks until your feet are already wet," he said, and dropped it all on the checkout counter. John didn't argue. He added his own armful, a camp stove and a case of fuel canisters, a tarp, two more headlamps and a box of batteries, and they filled two hiking packs and carried them out to the car. They left the door standing open behind them.
 
-"Brand new," Sam said, "6 or 7 million, do you think they will be ok if we borrow it?" He found the office door around the side, tried the handle out of habit, and moved to the small gray lockbox beside it. The box popped open to a single key fob on its hook, tagged with the tail number NE 538.
+The PC-12 sat on the Epps ramp where Sam had shut it down the afternoon before, C-GKPX in black on the white fuselage. Nothing else on the field had moved.
 
-"That's it? That easy?" said John.
+The restaurant upstairs over the Epps hangar still had power, the only building on the field that did. Sam asked how. "Some piece of the grid around here came through the collapse in balance," John said. "Whatever's still generating is matched to whatever's still drawing, so nothing tripped. It's an island. It won't last, and there's no telling when it goes." The walk-in freezer was still holding temperature. John made burgers in the kitchen and a stack of sandwiches for later, and fed Dan the trimmings, while Sam spread a chart across a table by the window. "Huntsville's a hundred and fifty miles, give or take," Sam said. "Forty minutes."
 
-"Guess they say it's ok," Sam said with a smile, and for the first time since the ramp at Hartsfield, he laughed.
+Then the work. Epps's Jet-A truck sat in its spot by the fuel farm with the keys in it. Sam drove it around to the airplane and talked John through the fueling: the bonding cable clipped on first, John on the ladder with the nozzle, one wing and then the other, Sam watching the meter. The airplane had come in from Minneapolis with about 1,400 pounds aboard. It took a little under two hundred gallons to bring it back to full `[verify burn]`. Sam drained a sample from each sump into a clear cup and held it up to the light. Clear and bright, no water.
 
-Sam ran a full walkaround as thorough as he'd have given the Airbus, then took John through the panel, three generations past the gauges in his 182: systems, speeds, the numbers he'd need to start memorizing. Sam had flown an earlier version of the PC-12 on night flights for a medical supply company right out of college, before the Air Force, and had logged 800 hours in the type.
+They moved the workstation out of John's car and up through the PC-12's cargo door, a two-man lift again, and strapped it to the floor rings forward of the aft bulkhead, its power supply and the storm battery after it. Then the packs, John's bags, the dog food. Sam did the weight and balance on the legal pad from the numbers in the airplane's own handbook: two pilots, the cargo, a forty-five-pound dog on the cabin floor, full fuel. It came out inside the envelope with room to spare `[verify: PC-12 NGX useful load with full fuel]`. He did it a second time anyway.
 
-They moved the workstation, a two-man lift, out of John's car and up through the PC-12's cargo door, and strapped it down hard against the aft bulkhead, its power supply and the storm battery after it.
+The rest of the afternoon they spent in the cockpit with the doors open for the air. Sam took John through the panel, three generations past the round gauges in his 182: the big displays, the autopilot, the single power lever and the condition lever beside it, the speeds he'd need to start memorizing. He walked him through the engine start twice with the battery off, hands only, calling each step, until John could say it back without the card.
 
-John made burgers for lunch in the kitchen of the restaurant on the second floor above the Epps hangar, which still had power. Sam finished the preflight outside.
+At a quarter past seven Sam looked at the sun over the hangars and said it was time. Forty minutes to Huntsville, an hour back on the clock going west, and they'd be on the ground there with the sun still up.
 
-Sam came up the steps and joined John at a table, spreading a chart across it while he ate his burger. "Huntsville's close," he said. "Hundred and fifty miles, give or take. Half hour, thirty-five minutes in this thing. Wow, that's a good burger, thanks, John." Dan looked up at John. "Hey buddy, did you like it too?" John said. John made some sandwiches for later and they packed up and headed down to the plane.
+Dan settled on the cabin floor behind the cockpit. Sam ran the checklist aloud with John following on the card. The engine lit and spun up into a turbine whine John had only ever heard from a passenger seat. Without thinking Sam keyed the mic. "Peachtree Tower, Pilatus Kilo Papa X-ray at Epps, taxi for departure." Then he looked over at John with a wry grin. "Habit."
 
-Dan settled in on the floor directly behind the cockpit. Sam ran the checklist with John following along. The engine lit and spun up into a turbine whine John had only ever heard from a passenger seat, and the PC-12 rolled forward past its own showroom window. Without thinking Sam keyed the mic, "Peachtree Tower, November Echo 538 at Pilatus," then looked over at John with a wry grin. "Habit."
-
-Sam taxied out and checked the windsock, gentle out of the north, and turned toward runway 3 Right. He still checked traffic and announced his departure on the tower frequency, lined up facing north, and pushed the power lever forward.
+The windsock out past the hangars was lifting gently out of the north. Sam taxied to runway 3 Right, still announcing on the tower frequency, lined up, and pushed the power lever forward.
