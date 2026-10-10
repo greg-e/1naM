@@ -281,7 +281,7 @@ This is the single source of truth for chronology: timed beats, day order, who i
 
 | Time (EDT) | Beat |
 | --- | --- |
-| 23:35 | Delta 27 wheels up off 27L at KATL for Seoul-Incheon, on the great-circle track north-northwest over the Midwest and Manitoba (initial course ~335°). |
+| 23:35 | Delta 27 wheels up off 26L at KATL for Seoul-Incheon, on the great-circle track north-northwest over the Midwest and Manitoba (initial course ~335°). |
 
 **Day 0: Tuesday, September 5, 2028**
 
@@ -559,7 +559,7 @@ Write every scene, new or revised, with procedural accuracy, correct domain term
 - **Grief beats stay.** The ban on emotional adjectives applies to them too: carry John's, Sam's, Catherine's, and Grace's grief through physical action and observed detail, but keep the emotional core.
 - **Character descriptions are reference, not copy.** Use the appearance and habit details in the Characters entries through observed action on the page; don't paste them in as descriptive blocks.
 - Write units as plain text in prose ("120 lbs/hr," "FL280," "121.5"), not LaTeX.
-- **Radio phraseology follows the FAA AIM** (Ch. 6 §3 for distress and urgency; Ch. 4 §2 for general phraseology). 121.5 is "121.5" or "the emergency frequency," **never "Guard."** MAYDAY (or PAN-PAN) is said three times, then the message elements in AIM order: station addressed, aircraft ID and type, nature of distress, weather, intentions, position and heading, altitude, fuel remaining in minutes, people on board. Try the frequency in use or the controlling facility first, then any station and 121.5; squawk 7700 when unable to establish contact. Airline callsigns are spoken in group form, with "Heavy" for heavy aircraft in US airspace ("Delta Twenty-Seven Heavy"). With nobody on the ground, calls are "transmitting in the blind."
+- **Radio phraseology follows the FAA AIM** (Ch. 6 §3 for distress and urgency; Ch. 4 §2 for general phraseology). 121.5 is "121.5" or "the emergency frequency," **never "Guard."** MAYDAY (or PAN-PAN) is said three times, then the message elements in AIM order: station addressed, aircraft ID and type, nature of distress, weather, intentions, position and heading, altitude, fuel remaining (the AIM says minutes; on this book's radios, hours read more naturally and are fine), people on board. Try the frequency in use or the controlling facility first, then any station and 121.5; squawk 7700 when unable to establish contact. Airline callsigns are spoken in group form, with "Heavy" for heavy aircraft in US airspace ("Delta Twenty-Seven Heavy"). With nobody on the ground, calls are "transmitting in the blind."
 - **Airline terminology.** On airliners and the C-17 it's always the **flight deck**, never the cockpit; the PC-12 and the MH-65Es can be a cockpit. Pilots on an augmented crew take **breaks**, not rest blocks or rest periods. Airline pilots in cruise wear lap belts, not shoulder harnesses. Crew hierarchy holds: a first officer doesn't call out to or wake a captain on his break.
 
 ## What's next and what's open
