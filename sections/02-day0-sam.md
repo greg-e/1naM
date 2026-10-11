@@ -1,4 +1,4 @@
-# 2 — Samuel Reyes, Professional Pilot, Day 0
+# 2 — Samuel Reyes, Pilot, Day 1
 
 Delta 27 pushed back from Atlanta a little after eleven, wheels up off 26L at twenty-five minutes to midnight, on a track that would carry them north-northwest over the Midwest and Manitoba, across the Canadian Arctic and northern Alaska and down the Bering Sea into Seoul fifteen hours later. It was an ultra-long-haul flight, flown by an augmented four-pilot crew to stay inside federal duty-time limits. First Officer Sam Reyes had the right seat. Forty-three years old, a decade at Delta after two years flying corporate and charter jets out of Atlanta and eight years before that in C-17s for the Air Force.
 

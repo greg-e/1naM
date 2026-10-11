@@ -21,7 +21,7 @@ A working research layer for the book: the real-world and reference material beh
 
 ## 1. Delta 27 (DAL27)
 
-Sources: `reference/DAL27_Emergency_Turnback_Dossier.pdf` (the "dossier"), `CLAUDE.md` Timeline and "Section 2: Sam's flight", `sections/02-day0-sam.md`, `sections/03-day0-john-sam.md`, `reference/global-flight-traffic-model.md`.
+Sources: `reference/DAL27_Emergency_Turnback_Dossier.pdf` (the "dossier"), `CLAUDE.md` Timeline and "Section 2: Sam's flight", `sections/02-day0-sam.md`, `sections/03-day0-sam-return.md`, `reference/global-flight-traffic-model.md`.
 
 > **2026-09-23 re-geometry (author, Q-01):** departure moved from 23:35 to a **20:10 pushback**, so the 03:30 turn happens ~3,240 nm out over **Alaska's western North Slope**, not James/Hudson Bay, and the 7-hour return is real flying time at normal cruise. The slow-cruise and racetrack beats are gone. Everything in §1 below reflects that.
 
@@ -72,25 +72,25 @@ Snapshot as of 2026-09-24. **The CLAUDE.md Timeline section is the source of tru
 | 9/4 20:10 | Delta 27 pushes back at KATL; wheels up ~20:25 |
 | 9/5 00:30 | Sam's rest block begins |
 | 02:00 | The event (Tuesday Sept 5, 2028, the day after Labor Day) |
-| 02:05 | John woken by a thud |
+| 02:05 | Will woken by a thud |
 | 03:00 | Sam's rest ends; finds the flight deck crew and all passengers dead |
 | 03:30 | Sam turns back over the western North Slope (~3,240 nm from KATL) |
-| 06:00 / 07:05 | John wakes / walks Dan |
-| 07:20 / 07:28 | John finds the dead on the Parkway / first 911 call (AI triage agent) |
+| 06:00 / 07:05 | Will wakes / walks Dan |
+| 07:20 / 07:28 | Will finds the dead on the Parkway / first 911 call (AI triage agent) |
 | ~07:40 | Delta 27: sunrise over Manitoba, near Lake Winnipeg |
-| 08:10 / 08:30 | John home, first look at news, DOT cameras, FlightAware / work meeting, nobody connects |
-| 08:45 | John finds Harry dead |
-| 09:00 | John sees Delta 27's track still moving |
-| 09:10 | John leaves for KATL |
-| 10:05 | John into Signature; sets 121.5 (the emergency frequency) on the ops-desk radio and waits |
-| ~10:20 | Sam's MAYDAY on 121.5; John answers |
+| 08:10 / 08:30 | Will home, first look at news, DOT cameras, FlightAware / work meeting, nobody connects |
+| 08:45 | Will finds Harry dead |
+| 09:00 | Will sees Delta 27's track still moving |
+| 09:10 | Will leaves for KATL |
+| 10:05 | Will into Signature; sets 121.5 (the emergency frequency) on the ops-desk radio and waits |
+| ~10:20 | Sam's MAYDAY on 121.5; Will answers |
 | 10:30 | Sam lands on 26R, taxis to Signature |
-| 11:00 | John and Sam meet on the ramp |
-| 11:30 | Leave for Sam's house in John's car |
+| 11:00 | Will and Sam meet on the ramp |
+| 11:30 | Leave for Sam's house in Will's car |
 | 12:35 | Sam finds Elena and Rosa |
-| 13:00 / 13:40 | Leave for / arrive at John's house; the detailed search starts |
+| 13:00 / 13:40 | Leave for / arrive at Will's house; the detailed search starts |
 | Evening | Nationwide 911 search seeded, runs overnight |
-| ~00:50 Sept 6 | Grid goes dark at John's house; generator picks up the load |
+| ~00:50 Sept 6 | Grid goes dark at Will's house; generator picks up the load |
 
 Intervals `[DERIVED]`: wheels up → event ≈ 5 h 35 m; event → Sam's discovery = 1 h; Sam wakes → turn = 30 min; turn → landing = 7 h (see §1.5); landing → handshake = 30 min; Sam's family discovery ≈ 10.5 h post-event; grid dark ≈ 22.8 h post-event.
 
@@ -121,22 +121,22 @@ Airframe figures below are from general knowledge unless marked `[CANON]` — ve
 
 The dossier states FAR Part 117 requires an augmented **4-pilot** crew above 12 h. My recollection of Part 117 Table C is that a **3-pilot** augmented crew tops out around a 15 h flight-duty period even with the best (Class 1) rest facility, and a 15 h 20 m block plus pre-departure duty would exceed it; 4 pilots extends the limit to roughly 17 h. If that's right, a 3-pilot ATL–ICN is not legal, and an airline-pilot reader (Sam's exact readership) may notice. Prose only says "augmented three-pilot crew to comply with federal duty-time regulations on a sector too long for two." See Q-02 for options.
 
-### 1.7 Telemetry signature (why John finds it) `[CANON]`
+### 1.7 Telemetry signature (why Will finds it) `[CANON]`
 
-Delta 27's ADS-B track is the only one still *moving* on the morning of Day 0: transponder 7700, a reversal over Alaska's North Slope, inbound to KATL — the same "deliberate diversion" signature John later recognizes on the *Pacific Tender*'s AIS track in Section 10 (Sam: "Same as mine. Same as yours, that first day."). The `reference/global-flight-traffic-model.md` tool computes any flight's position at exactly 02:00 EDT / 06:00Z and includes a Delta 27 preset flagged as straight-through-to-Seoul for reference only (Sam's real flight turns back).
+Delta 27's ADS-B track is the only one still *moving* on the morning of Day 0: transponder 7700, a reversal over Alaska's North Slope, inbound to KATL — the same "deliberate diversion" signature Will later recognizes on the *Pacific Tender*'s AIS track in Section 10 (Sam: "Same as mine. Same as yours, that first day."). The `reference/global-flight-traffic-model.md` tool computes any flight's position at exactly 02:00 EDT / 06:00Z and includes a Delta 27 preset flagged as straight-through-to-Seoul for reference only (Sam's real flight turns back).
 
 ### 1.8 First contact and landing (as settled) `[CANON]`
 
-- Sam transmits the MAYDAY on **121.5** "every twenty minutes since the North Slope" and John answers from the Signature FBO ops-desk transceiver — first contact is radio, before they meet. John's name is exchanged by radio; **Sam's own name lands at the handshake** on the ramp (2026-09-19 clarification).
+- Sam transmits the MAYDAY on **121.5** "every twenty minutes since the North Slope" and Will answers from the Signature FBO ops-desk transceiver — first contact is radio, before they meet. Will's name is exchanged by radio; **Sam's own name lands at the handshake** on the ramp (2026-09-19 clarification).
 - Sam lands on a plain, hand-flown daylight visual approach, no tower, and taxis to Signature — a ramp he knows from two years of charter flying. No fuel truck, no FBO break-in for keys. Sam rides the emergency slide down; Dan (the dog) reaches him first.
 - Prose lines that don't quite match the rest: Section 4 has Sam say he flew "three hundred people most of the way to **Europe**" (the flight is to Seoul, over the Arctic — D-06). The Section 3 north-side/south-field conflict (D-05) is gone from the current prose.
-- **Section 2 ends as Atlanta rises out of the haze**, before any radio contact `[CANON]`. Section 3 carries the final MAYDAY, John's answer and the landing (Sam's POV block between two John blocks). His own empty airport disorients him more than a strange one would.
+- **Section 2 ends as Atlanta rises out of the haze**, before any radio contact `[CANON]`. Section 3 carries the final MAYDAY, Will's answer and the landing (Sam's POV block between two Will blocks). His own empty airport disorients him more than a strange one would.
 
 ---
 
 ## 2. Personas
 
-Sources: `CLAUDE.md` Characters section (authoritative; each entry now runs Demographics · Physical Appearance & Presence · Attire · Background · Friction & Flaws), the retired `john_lauer_persona.md` (professional detail; deleted 2026-09-20, in git history), settled `sections/`. Group roster as of the end of Section 10: **John, Sam, Tyler, Catherine, Grace, and Dan the dog.** Johan is not yet met on-page.
+Sources: `CLAUDE.md` Characters section (authoritative; each entry now runs Demographics · Physical Appearance & Presence · Attire · Background · Friction & Flaws), the retired `john_lauer_persona.md` (professional detail; deleted 2026-09-20, in git history), settled `sections/`. Group roster as of the end of Section 10: **Will, Sam, Tyler, Catherine, Grace, and Dan the dog.** Johan is not yet met on-page.
 
 `CLAUDE.md` rule: the appearance and habit details are **reference, not copy** — use them through observed action, never pasted in as descriptive blocks. This section summarizes the story-relevant facts and the flaws; see `CLAUDE.md` for full physical and attire detail.
 
@@ -144,18 +144,18 @@ Sources: `CLAUDE.md` Characters section (authoritative; each entry now runs Demo
 
 | Character | Age | Home base / location on Day 0 | Role / craft | Status as of §10 | Enters the group |
 |---|---|---|---|---|---|
-| **John Lauer** | **61** | Alpharetta, GA | Principal Applied AI Architect, Public Sector (Google); telemetry specialist; instrument-rated private pilot (Cessna 182, PDK); ex-Waffle House grill cook | Group's search/tech lead | Day 0 |
-| **Sam (Samuel Reyes)** | 43 | Marietta, GA (in flight at 2:00) | Delta A350-900 Captain; ex-C-17 (USAF); ex-corporate/charter; ~800 h in an earlier PC-12; rotorcraft-rated 2027 (low-time) | Group's pilot-in-command; John's mentor | Day 0, 11:00 |
+| **William Lauer (Will)** | **61** | Alpharetta, GA | Principal Applied AI Architect, Public Sector (Google); telemetry specialist; instrument-rated private pilot (Cessna 182, PDK); ex-Waffle House grill cook | Group's search/tech lead | Day 0 |
+| **Sam (Samuel Reyes)** | 43 | Marietta, GA (in flight at 2:00) | Delta A350-900 Captain; ex-C-17 (USAF); ex-corporate/charter; ~800 h in an earlier PC-12; rotorcraft-rated 2027 (low-time) | Group's pilot-in-command; Will's mentor | Day 0, 11:00 |
 | **Tyler Vance** | 10 | Huntsville, AL | Fifth grader; son of a NASA astronaut on the ISS | Full member | Rescued §6 |
 | **Catherine Navarro** | 52 | Phoenix, AZ | Senior ER attending; brother Rafael owns TruckHouse (Reno/Sparks) | Full member | Found §7 |
 | **Grace** | 32 | Near the Elwha River, Port Angeles, WA — *prose still says Portland/Oregon coast (D-15)* | Diesel mechanic + electrical engineer; civilian maritime support mechanic, USCG Air Station Port Angeles; ex-Army staff sergeant | Full member (fibula in cast) | Rescued §8 |
 | **Johan Brandt** | 48 | At sea, *Pacific Tender* (Yokohama → Seattle); home Bremerhaven | Senior mate + electrical engineer, 26 years at sea | Solo aboard; anchors in Port Angeles Harbor ≈Day 9–10; **not met** | Pending (§11+) |
 | **Dr. Elise Marchetti** | ~50 | Bellinzona, Ticino, Switzerland | Professor of Pathology and Infectious Disease, IRB; ham operator | Known only via ISS channel; **not met** | Italy excursion |
-| **Dan** | 6 | Alpharetta | John's Mountain Cur (the third Dan) | With the group | Day 0 |
+| **Dan** | 6 | Alpharetta | Will's Mountain Cur (the third Dan) | With the group | Day 0 |
 
 **Not canon** (do not carry forward without the author): Marcus, Elena Voss (ISS commander), and any other pre-2026-09-05 character. The old Tyler/Voss connection is not canon.
 
-### 2.2 John Lauer `[CANON]` unless tagged
+### 2.2 William Lauer (Will) `[CANON]` unless tagged
 
 - **Age/place:** 61, Alpharetta subdivision off Old Milton Pkwy, near the GA-400 interchange. 6'1", rawboned, white-streaked brown beard and hair, black Wayfarers; T-shirts, olive drab BDU cargo pants, flip-flops (paid off at Amarillo, where Sam makes him swap for boots).
 - **Family:** Widower. Wife **Naomi** died 16 years before the event. No children. Brother Mark is his only living close family. Naomi's study is kept unchanged (books, reading chair, rolltop desk). **In Section 4 he takes her Bible off that desk** — a physical object carried through his spiritual arc; don't drop it.
@@ -172,13 +172,13 @@ Sources: `CLAUDE.md` Characters section (authoritative; each entry now runs Demo
 
 ### 2.3 Sam (Samuel Reyes) `[CANON]`
 
-- **Age/place:** 43, Marietta, GA. Wife **Elena**, daughter **Rosa (12)**. Both found dead by Sam himself at ~12:35 on Day 0, with John at the threshold.
-- **Career arc:** gliders and Cessnas as a teenager → flight-instructor rating through college → **right out of college, night runs for a medical test company in an earlier-generation PC-12, ~800 h in type** (why he can check John out in one) → **8 years C-17 Globemasters, USAF** → **2 years corporate/charter jets out of Atlanta** (why he knows the Signature ramp) → **~10 years at Delta**, now **Captain, Airbus A350-900**.
+- **Age/place:** 43, Marietta, GA. Wife **Elena**, daughter **Rosa (12)**. Both found dead by Sam himself at ~12:35 on Day 0, with Will at the threshold.
+- **Career arc:** gliders and Cessnas as a teenager → flight-instructor rating through college → **right out of college, night runs for a medical test company in an earlier-generation PC-12, ~800 h in type** (why he can check Will out in one) → **8 years C-17 Globemasters, USAF** → **2 years corporate/charter jets out of Atlanta** (why he knows the Signature ramp) → **~10 years at Delta**, now **Captain, Airbus A350-900**.
 - **Rotorcraft:** earned his rotorcraft rating in **2027**, about a year before the event — a **current but low-time** helicopter pilot. At the Hook he transitions to the station's MH-65E Dolphins and builds hours (a type transition, not a checkride). The old §2 "not rotary-rated" line is gone from the prose.
 - **C-17:** his USAF background now pays off directly — **Sam flies the C-17 to Italy** (§4.5).
 - **Character:** The defining decision is the turnback: a deliberate choice to fly past Kotzebue, Deadhorse, Nome, and Fairbanks toward home. Composed and procedural under pressure — a low pass or visual check before landing anywhere without a tower is his habit, kept even at KPHX.
 - **Flaws (from `CLAUDE.md`):** the Captain's Composure (steadiness as a performance for whoever's watching); Default Command (used to being PIC); Circadian Rhythm (long-haul years wrecked his sleep).
-- **Roles in the group:** Pilot-in-command; John's PC-12 mentor; in §6 carries the conversation and the primary reaction to the ISS reveal at the Waffle House while John cooks; **promises Tyler he'll help him spot the ISS** (§7) and pays it off in §10.
+- **Roles in the group:** Pilot-in-command; Will's PC-12 mentor; in §6 carries the conversation and the primary reaction to the ISS reveal at the Waffle House while Will cooks; **promises Tyler he'll help him spot the ISS** (§7) and pays it off in §10.
 - **Naming:** His surname (**Reyes**, established in the §2 header and the §3 handshake) used to collide with Catherine's; **hers changed to Navarro on 2026-09-20** (D-08, resolved).
 
 ### 2.4 Tyler Vance `[CANON]`
@@ -186,14 +186,14 @@ Sources: `CLAUDE.md` Characters section (authoritative; each entry now runs Demo
 - **Age/place:** 10, Huntsville, AL; fifth grader. Knows space history cold (Rick Husband commanded *Columbia*, said aloud at Amarillo in §7). Flaw: **Half-Asked Questions** — he stops sentences that head somewhere he isn't sure the adults can handle.
 - **Family:** Mother is a serving NASA astronaut aboard the ISS **since March** (first name deliberately withheld — don't name her without author direction). Father died in a car accident when Tyler was four; old settled grief. **Uncle Carl** (mother's younger brother) had been staying as his guardian since March, only through the fall; Carl's body was in the living room. Do **not** refer to the body as Tyler's father or as "David" anywhere.
 - **Rescue:** Locked himself in his bedroom ~1.5 days after finding Carl. Found via the 911 search (Huntsville hit).
-- **Function:** The emotional key that makes John's first witnessed break happen (§6). Asks whether the ISS is visible from altitude (§7); gets the promise. Asked whether boats "fly themselves" like planes, which widened John's search to AIS (§10). Keep him present as a person, not cargo, and be thoughtful about danger exposure.
+- **Function:** The emotional key that makes Will's first witnessed break happen (§6). Asks whether the ISS is visible from altitude (§7); gets the promise. Asked whether boats "fly themselves" like planes, which widened Will's search to AIS (§10). Keep him present as a person, not cargo, and be thoughtful about danger exposure.
 
 ### 2.5 Catherine Navarro `[CANON]`
 
 - **Age/place:** 52, Phoenix, AZ. Senior ER attending, decades in Phoenix trauma bays.
 - **Family:** Divorced 11 years from **Michael**, an orthopedic surgeon; no children. Parents emigrated from **Peru** in the 1950s, both deceased. Younger brother **Rafael** owns **TruckHouse**, the overland-vehicle shop in Reno/Sparks, NV. She doesn't know whether he or the shop survived.
-- **Introduction (§7):** John never had her identity beforehand. Since Day 0 she'd waited in an **office building two miles off Sky Harbor's north fence** — closed at 2:00 a.m., so nobody died in it, and close enough to hear anything that flew in. She heard Sam's low pass, found no open gate on the perimeter road, and **drove her gray Subaru through the fence** onto the ramp, ~12:40 MST, about ten minutes after they landed. John tells her the group found her through her 911 call ("I argued with it. For a while."). Says "Absolutely" when offered the choice to stay behind (§8).
-- **Function:** Medical lead — casts Grace's fibula at Olympic Medical Center (§8; prose still says Providence Seaside, D-15); private grief beat witnessed by John (§10), mirroring what Sam did for him in §6. She raises TruckHouse over dinner in §8 ("Eventually").
+- **Introduction (§7):** Will never had her identity beforehand. Since Day 0 she'd waited in an **office building two miles off Sky Harbor's north fence** — closed at 2:00 a.m., so nobody died in it, and close enough to hear anything that flew in. She heard Sam's low pass, found no open gate on the perimeter road, and **drove her gray Subaru through the fence** onto the ramp, ~12:40 MST, about ten minutes after they landed. Will tells her the group found her through her 911 call ("I argued with it. For a while."). Says "Absolutely" when offered the choice to stay behind (§8).
+- **Function:** Medical lead — casts Grace's fibula at Olympic Medical Center (§8; prose still says Providence Seaside, D-15); private grief beat witnessed by Will (§10), mirroring what Sam did for him in §6. She raises TruckHouse over dinner in §8 ("Eventually").
 - **Flaws (from `CLAUDE.md`):** Physical Tax (chronic lower-back pain; anti-inflammatories at doses she'd lecture a patient about); Clinical Triage applied to personal life; Grief on Her Own Clock (alone, after midnight).
 
 ### 2.6 Grace `[CANON]`
@@ -203,15 +203,15 @@ Sources: `CLAUDE.md` Characters section (authoritative; each entry now runs Demo
 - **Craft:** **six years US Army** out of high school as a heavy-wheel mechanic, making **staff sergeant**; electrical engineering degree earned while serving. **Civilian maritime support mechanic at USCG Air Station Port Angeles (Ediz Hook)** — marine diesels, marine electronics, cutter and small-boat systems. Knows the station's generators, pumps, and boats before the group moves in, and **knew its 17 dead as coworkers**.
 - **Injury (backstory, told within §8):** driving home on Highway 101 at ~23:00 PDT Sept 4, an oncoming dead-at-the-wheel driver forces a glancing, offset head-on collision **on the Highway 101 Elwha River bridge**. Footwell intrusion: clean, non-displaced fibula fracture. She calls out to the other driver, gets no answer, is too hurt to check.
 - **Discovery:** reads her coordinates off her phone's map app to the 911 AI agent. Nobody ever called back, so she doesn't know if anything but a machine heard her. Shelters under the bridge deck by the abutment (river for water, the truck cab as fallback), splints with driftwood and a torn jacket sleeve, lasts three days.
-- **Function:** her grief beat for the 17 belongs at the station-clearing scene. In §10 she fixes tripping pump wiring, rebuilds a generator carburetor, and rigs a directional antenna that improves John's satellite hotspot signal. Her solar+battery house material is retired.
+- **Function:** her grief beat for the 17 belongs at the station-clearing scene. In §10 she fixes tripping pump wiring, rebuilds a generator carburetor, and rigs a directional antenna that improves Will's satellite hotspot signal. Her solar+battery house material is retired.
 - **Flaws (from `CLAUDE.md`):** Can't Sit Still (works on the broken leg sooner than Catherine likes); Fixes Instead of Feels; Plainspoken to a Fault; **borderline alcoholic**; no deep friendship since the Army.
 
 ### 2.7 Johan Brandt `[CANON]`
 
 - **Name:** spelled Johan, pronounced "YO-hahn"; English speakers hear it as Yohan. (`sections/09-day0-yohan.md` was renamed `09-day0-johan.md` on 2026-09-23.)
 - **Age/place:** 48, home port Bremerhaven, Germany. Divorced (ex-wife **Katrin**); daughter **Lena** (22), a university student in Hamburg. Senior mate and electrical engineer aboard the container ship ***Pacific Tender***, Yokohama → Seattle, three days out of Yokohama, ~9–10 days from Port Angeles; ~22 other crew, all lost. 26 years at sea, including two typhoons and a cargo-hold fire off Vladivostok. **Two fingers missing from his left hand**, lost early in his career.
-- **Day 0 (§9):** Oversleeps because no one lived to wake him for his watch; finds officer of the watch **Okafor** dead at the bridge console, ship holding course on autopilot; **Second Engineer Alvarez** dead in the engine control room, logbook open mid-entry. Escalating comms check (VHF → SSB → AIS → satellite terminal); AIS shows a **"ghost fleet"** of other vessels still steaming and answering nothing; a few dying satellite fragments ("the eastern seaboard," "Europe"). **Decides to bring the ship in himself, alone** — grief processed in scene, a contrast to John and Sam. Briefly takes the helm by hand, then resumes course.
-- **Convergence (§10):** John spots the ship anchoring in Port Angeles Harbor (prose still says Elliott Bay — D-17) — a controlled slowdown and careful anchoring no autopilot does. Sam: "Same as mine. Same as yours, that first day." The group decides to go out to her the next morning; **not yet met**.
+- **Day 0 (§9):** Oversleeps because no one lived to wake him for his watch; finds officer of the watch **Okafor** dead at the bridge console, ship holding course on autopilot; **Second Engineer Alvarez** dead in the engine control room, logbook open mid-entry. Escalating comms check (VHF → SSB → AIS → satellite terminal); AIS shows a **"ghost fleet"** of other vessels still steaming and answering nothing; a few dying satellite fragments ("the eastern seaboard," "Europe"). **Decides to bring the ship in himself, alone** — grief processed in scene, a contrast to Will and Sam. Briefly takes the helm by hand, then resumes course.
+- **Convergence (§10):** Will spots the ship anchoring in Port Angeles Harbor (prose still says Elliott Bay — D-17) — a controlled slowdown and careful anchoring no autopilot does. Sam: "Same as mine. Same as yours, that first day." The group decides to go out to her the next morning; **not yet met**.
 - **Lives ashore, not aboard:** "he would not go back and forth to the ship... no thanks." The *Pacific Tender* stays abandoned at anchor; before leaving he secures her and gives his 22 crew burial at sea (`port-angeles-base-research.md` Q-35).
 - **Function:** Operates the group's ISS ham link from the Hook.
 - **Flaws (from `CLAUDE.md`):** No Cut Corners (he'll stop work to do it right); Ships Before People (he had to check the manifest for the cook's name, and the shame stays with him); a loner who struggles to empathize.
@@ -244,7 +244,7 @@ Sources: `CLAUDE.md` Characters section (authoritative; each entry now runs Demo
 | **Unsuitable spots** | The charted "best anchorage" off the wharves (7–12 fm) is too shallow for a loaded ship; log booming grounds (north part, west side); the non-anchorage area in the east part (33 CFR 110.230 — a small box at the harbor's southeast corner, resolved; see `port-angeles-base-research.md` §3.1); submerged deadheads inside the Hook `[SRC]` |
 | **Lone-operator issue** | Anchoring is normally done at the bow, and (as I understand it) most windlass brakes are worked from the forecastle, not the bridge. Johan would have to stop the engines, set the rudder, walk forward, and let go the anchor himself. Doable and a strong scene — but `[VERIFY]` with a marine engineer whether the *Pacific Tender*-class ships have bridge-remote anchor release. Also he can't berth without tugs or line handlers, which is why anchoring is the only endpoint anywhere |
 
-**The AIS signature John sees:** a controlled slowdown, then navigation status "at anchor," speed over ground ≈ 0, and the heading swinging slowly around the anchor with wind and tide — behavior no autopilot produces. The group is already on the Hook, ~0.65 nm away. (An earlier note measured the anchorage from Grace's 217 Wapiti Way pin, ~8.9 nm NE; moot now that the house is never visited and the address has left `CLAUDE.md`, D-20.)
+**The AIS signature Will sees:** a controlled slowdown, then navigation status "at anchor," speed over ground ≈ 0, and the heading swinging slowly around the anchor with wind and tide — behavior no autopilot produces. The group is already on the Hook, ~0.65 nm away. (An earlier note measured the anchorage from Grace's 217 Wapiti Way pin, ~8.9 nm NE; moot now that the house is never visited and the address has left `CLAUDE.md`, D-20.)
 
 ### 2.8 Dr. Elise Marchetti `[CANON]`
 
@@ -254,9 +254,9 @@ Sources: `CLAUDE.md` Characters section (authoritative; each entry now runs Demo
 
 | Name | Who | Status / note |
 |---|---|---|
-| **Naomi** | John's late wife | Died 16 years before; her study and Bible carry forward |
-| **Mark** | John's brother | Only living close family; whereabouts not on-page |
-| **Harry** | John's neighbor | Found dead 08:45 on Day 0 (§1) |
+| **Naomi** | Will's late wife | Died 16 years before; her study and Bible carry forward |
+| **Mark** | Will's brother | Only living close family; whereabouts not on-page |
+| **Harry** | Will's neighbor | Found dead 08:45 on Day 0 (§1) |
 | **Elena / Rosa** | Sam's wife / daughter | Found by Sam (§3) |
 | **Theresa Foreman / Jack Sommers / Ruth Gunn** | Sam's FO / relief pilots | Theresa and Jack dead on the flight deck; Ruth dead in the crew-rest bunk (§2) |
 | **Okafor / Alvarez** | *Pacific Tender* OOW / Second Engineer | Dead (§9) |
@@ -267,7 +267,7 @@ Sources: `CLAUDE.md` Characters section (authoritative; each entry now runs Demo
 | **Grace's grandmother** | Raised Grace | Died of COVID, 2020 |
 | **Katrin / Lena** | Johan's ex-wife / daughter (22, Hamburg) | Status unknown |
 | **Paolo / Matteo** | Elise Marchetti's husband (architect, Lugano) / son (19, ETH Zurich) | Status unknown |
-| **Dan** | John's dog: 6-year-old male Mountain Cur, ~45 lb brindle, the third Dan from the same breeder | With the group; reaches Sam first on the ramp and Catherine first at Sky Harbor; rides the PC-12's aft cabin floor. Prey drive: keep him leashed around wildlife |
+| **Dan** | Will's dog: 6-year-old male Mountain Cur, ~45 lb brindle, the third Dan from the same breeder | With the group; reaches Sam first on the ramp and Catherine first at Sky Harbor; rides the PC-12's aft cabin floor. Prey drive: keep him leashed around wildlife |
 | Two Waffle House employees (Huntsville) | Dead outside on break | Template for 24-hour locations |
 
 ### 2.10 Persona craft rules that bear on writing them `[CANON]`
@@ -404,7 +404,7 @@ Values cross-checked against the metric column of the same row. Two cells in the
 - **Short/rough-field:** 2,485 ft takeoff at max gross; operates on grass, gravel, dirt — opens thousands of small fields, and the entire TruckHouse/off-grid-arc logic depends on this.
 - **Pallet-size cargo door** + flat floor; seating for up to **8–9 passengers** (the group of six + dog + workstation fits).
 - **Emergency Autoland** and **Emergency Descent Mode**: selects an airport, lands, and stops on the runway when the pilot is incapacitated — with everyone dead it never triggers (nobody pressed it), but a *sole* pilot with a health problem is now a survivable plot beat. Story hook, not canon.
-- **Single-pilot certified:** relevant to John's checkout — he could legally and practically fly as a single pilot once type-rated (the story hasn't said whether he's flown the type solo).
+- **Single-pilot certified:** relevant to Will's checkout — he could legally and practically fly as a single pilot once type-rated (the story hasn't said whether he's flown the type solo).
 - **Turbine:** burns **Jet-A**, not avgas — relevant to fueling on the road (see §4.5).
 
 ### 4.4 Brochure text-layer errors to know about `[VERIFY]`
@@ -418,8 +418,8 @@ Values cross-checked against the metric column of the same row. Two cells in the
 | Section | Use |
 |---|---|
 | §5 | Brand-new **demo aircraft taken from the Pilatus dealer at PDK** (behind glass, service-door lockbox popped in under a minute, fuel topped off): "Not everything gets to be hard." Rationale for the swap: the A350 is too big and pointless for reaching a handful of survivors. The A350 stays dead on a runway at KATL. |
-| §5 | Sam starts checking John out ("you fly?"). Launch to Huntsville at dusk, two men "twenty-nine hours" after being strangers. |
-| §7 | **Huntsville → Phoenix, stop at Amarillo for caution, not necessity** (rewritten 2026-09-23). On paper the PC-12 makes it in one hop (five hours and change at FL280), but there's been no winds forecast since Monday night and nobody to say what's on the runway at Sky Harbor, so Sam stops at Amarillo to land at Phoenix with the tanks half full. Keep the fuel talk short. Clock: 08:40 CDT wheels up KHSV; ~11:45 CDT land KAMA (low pass down Runway 22 first); ~40 min on the ground; 12:25 CDT wheels up; ~12:30 MST land KPHX on 26 after a low pass, 106°F. **John hand-flies the cruise segment** (autopilot off, positive exchange of controls, heading 270, FL280, yaw damper on; overcorrects, then settles to ±40 ft flying the flight path marker and trim). At Amarillo, fuel comes from the **FBO's Jet-A truck** (keys in it, first-try start); John bonds the static cable and works the nozzle, after Sam makes him swap flip-flops for boots; Sam sumps the tanks. |
+| §5 | Sam starts checking Will out ("you fly?"). Launch to Huntsville at dusk, two men "twenty-nine hours" after being strangers. |
+| §7 | **Huntsville → Phoenix, stop at Amarillo for caution, not necessity** (rewritten 2026-09-23). On paper the PC-12 makes it in one hop (five hours and change at FL280), but there's been no winds forecast since Monday night and nobody to say what's on the runway at Sky Harbor, so Sam stops at Amarillo to land at Phoenix with the tanks half full. Keep the fuel talk short. Clock: 08:40 CDT wheels up KHSV; ~11:45 CDT land KAMA (low pass down Runway 22 first); ~40 min on the ground; 12:25 CDT wheels up; ~12:30 MST land KPHX on 26 after a low pass, 106°F. **Will hand-flies the cruise segment** (autopilot off, positive exchange of controls, heading 270, FL280, yaw damper on; overcorrects, then settles to ±40 ft flying the flight path marker and trim). At Amarillo, fuel comes from the **FBO's Jet-A truck** (keys in it, first-try start); Will bonds the static cable and works the nozzle, after Sam makes him swap flip-flops for boots; Sam sumps the tanks. |
 | §8 | **Phoenix → Port Angeles (KCLM)**: ~1,020 nm great-circle / ~1,080 nm by airway, inside range with thin margin; an easy contrast beat with no fuel stop and no crisis `[CANON]`. **Fuel and ETE still `[verify]` before writing it (Q-13).** Prose still flies Phoenix → Portland (~925 nm airway, D-15). Jet-A is on the field at KCLM (Citizen Air) for a refuel on arrival. |
 | §10 | Next mentorship step: **Port Angeles → Seattle, ~60 nm, about half an hour** (prose still says "Seattle's nothing from Portland. Forty minutes" — D-17). |
 
@@ -483,12 +483,12 @@ The 2026-09-14 revision **overturns the "hydro-heavy regions stay up" rule** the
 
 | Story beat | Hours after 02:00 Sept 5 | Grid phase | Consistent? |
 |---|---|---|---|
-| John's walk / first 911 call (07:20–07:28) | ~5.5 | Phase 2; grid still up | Yes — internet, DOT cameras, FlightAware still live |
-| John's 08:30 work meeting; Day 0 search (13:40+) | ~6.5 / ~11.7 | Phase 2 → early Phase 3 | Yes — data feeds still work through the afternoon sweep |
-| Grid dark at John's house, ~00:50 Sept 6 (§4) | ~22.8 | Phase 3, inside the 8–24 h window | Yes |
+| Will's walk / first 911 call (07:20–07:28) | ~5.5 | Phase 2; grid still up | Yes — internet, DOT cameras, FlightAware still live |
+| Will's 08:30 work meeting; Day 0 search (13:40+) | ~6.5 / ~11.7 | Phase 2 → early Phase 3 | Yes — data feeds still work through the afternoon sweep |
+| Grid dark at Will's house, ~00:50 Sept 6 (§4) | ~22.8 | Phase 3, inside the 8–24 h window | Yes |
 | Launch to Huntsville at dusk Sept 6 (§5) | ~40 | Post-collapse | Yes |
 | Huntsville pocket: sign dark ~midnight Sept 6→7 (§6) | ~46 | An accidental pocket | Yes, but it is at the far end of "days" — author's call whether this pocket is believable that long |
-| Nuclear danger window for Alpharetta | Trip ~+8–24 h → **~Sept 15–27, 2028** | Phase 4c | Section 4 has John write his date down — check the exact figure against §4 prose |
+| Nuclear danger window for Alpharetta | Trip ~+8–24 h → **~Sept 15–27, 2028** | Phase 4c | Section 4 has Will write his date down — check the exact figure against §4 prose |
 
 ### 5.6 Nuclear regional concentration (US) `[SRC]`
 
@@ -511,10 +511,10 @@ Reno's zero-nuclear status once gave the eventual TruckHouse trip a safety reaso
 
 ### 5.8 How the story uses it `[CANON]`
 
-- **§4:** John has the model run the collapse forward; his own Georgia dot comes back a bad color with a date on it; Sam witnesses. Later, at the desk, John voices the reasoning aloud (Vogtle, scram-then-pool, 10–21 days) — which is also where "we need to head west" is first said on-page. The **grid actually goes dark at his house ~12:50 a.m.** and his generator carries the load — **deliberately not a scare.** That's the model for any future in-house power beat: preparedness confirmed, not jeopardy. Don't write a version where the backup fails or the outage creates tension without the author asking.
+- **§4:** Will has the model run the collapse forward; his own Georgia dot comes back a bad color with a date on it; Sam witnesses. Later, at the desk, Will voices the reasoning aloud (Vogtle, scram-then-pool, 10–21 days) — which is also where "we need to head west" is first said on-page. The **grid actually goes dark at his house ~12:50 a.m.** and his generator carries the load — **deliberately not a scare.** That's the model for any future in-house power beat: preparedness confirmed, not jeopardy. Don't write a version where the backup fails or the outage creates tension without the author asking.
 - **§6:** Huntsville pocket, accidental, temporary.
 - **§8:** Olympic Medical Center's generator plant. (Grace's solar+battery house and the PDX approach-lighting beat are both dropped.)
-- **Pressure on John is a date on a calendar** (his region's danger window), not a personal power crisis — it is what sent the group west.
+- **Pressure on Will is a date on a calendar** (his region's danger window), not a personal power crisis — it is what sent the group west.
 - Still wanted by the author: more dedicated grid scenes (characters reasoning about regions to avoid, a supply run routed around a danger window, a character with direct plant knowledge), and **the reasoning that names Reno and ties it to Catherine's brother**.
 
 ### 5.9 Nuclear exposure at Port Angeles and the Hook — added 2026-09-20
@@ -543,12 +543,12 @@ Exact SCADA alarm/watchdog intervals; which nuclear/hydro plants can auto-island
 
 ## 6. Cross-links: how the five topics interlock
 
-- **DAL27 ↔ Personas:** Sam's whole persona is defined by the turnback choice; John's persona is what lets him *notice* the track (ADS-B fluency) and *reach* Sam (own IFR rating, FBO ops desk).
-- **DAL27 ↔ Grid:** John sees Delta 27's track and the DOT cameras only because the grid is still in Phase 2 (hour ~7). Had he waited until the evening, the data feeds would be dying.
+- **DAL27 ↔ Personas:** Sam's whole persona is defined by the turnback choice; Will's persona is what lets him *notice* the track (ADS-B fluency) and *reach* Sam (own IFR rating, FBO ops desk).
+- **DAL27 ↔ Grid:** Will sees Delta 27's track and the DOT cameras only because the grid is still in Phase 2 (hour ~7). Had he waited until the evening, the data feeds would be dying.
 - **Personas ↔ ISS:** Tyler's mother is the human stake; Sam's promise and its §10 payoff; Johan (electrical engineer, maritime radio) is the presumed ham operator; Elise is the far end of the ISS channel.
-- **ISS ↔ Grid:** The ham link's premise *is* the grid failing: no TLE websites, so the group needs stored orbital data or naked-eye tracking (John's point in §7 that cached orbital elements may predict passes for a few days). The Hook's station runs on *Active*'s and the station's own power, and Grace's antenna work in §10 is the on-page proof the cast can build radio gear.
+- **ISS ↔ Grid:** The ham link's premise *is* the grid failing: no TLE websites, so the group needs stored orbital data or naked-eye tracking (Will's point in §7 that cached orbital elements may predict passes for a few days). The Hook's station runs on *Active*'s and the station's own power, and Grace's antenna work in §10 is the on-page proof the cast can build radio gear.
 - **PC-12 ↔ Grid:** Jet-A logistics after the grid dies (Amarillo's self-powered fuel truck is the template); the PC-12's unpaved-field ability matters for TruckHouse/Reno.
-- **Grid ↔ Personas:** John's home region is the *worst* nuclear risk on the list, which is why they went west. Reno and Port Angeles are both very low risk, so Reno is about Catherine's brother and the BCRs, not safety.
+- **Grid ↔ Personas:** Will's home region is the *worst* nuclear risk on the list, which is why they went west. Reno and Port Angeles are both very low risk, so Reno is about Catherine's brother and the BCRs, not safety.
 - **C-17 ↔ Personas ↔ ISS:** Sam's USAF C-17 years make the Italy flight possible; the C-17's damage in Europe strands the group while the ISS crew's consumables clock runs down ("we know, and we can't do anything yet").
 
 ---
@@ -566,15 +566,15 @@ Nothing below has been changed in the manuscript or canon. Each line is for the 
 | **D-05** | §3 prose | **Resolved:** the "north side" / "south field" conflict is no longer in the Section 3 prose | None needed; `[VERIFY]` the real Signature ATL side if it's ever named |
 | **D-06** | §4 prose | Sam says he flew "three hundred people most of the way to **Europe**" — the route is over the Arctic to Seoul | Change to "most of the way to Asia" / "up to the Arctic" — or leave if Sam is speaking loosely |
 | **D-07** | `john_lauer_persona.md` vs canon | **Resolved 2026-09-20:** file retired (it said Anthropic/Claude and lacked widower status, Naomi, Mark, Waffle House, the PC-12 arc). §2.2 above is the working replacement; recover the original with `git show HEAD:john_lauer_persona.md` | None needed |
-| **D-08** | Surnames | **Resolved 2026-09-20:** Sam is Samuel Reyes (§2 header, §3 handshake); Catherine's surname collided, so it is now **Navarro** (`CLAUDE.md` bio + one prose instance in `sections/07-day2-john.md`, changed) | Working default; the author may pick a different name. Her brother (TruckHouse) carries the same surname |
+| **D-08** | Surnames | **Resolved 2026-09-20:** Sam is Samuel Reyes (§2 header, §3 handshake); Catherine's surname collided, so it is now **Navarro** (`CLAUDE.md` bio + one prose instance in `sections/07-day1-2-will.md`, changed) | Working default; the author may pick a different name. Her brother (TruckHouse) carries the same surname |
 | **D-09** | PC-12 fuel math | **Resolved 2026-09-23:** §7 and `CLAUDE.md` now say the leg works on paper and the Amarillo stop is caution (no winds forecast, unknown runway at Sky Harbor) | None needed |
 | **D-10** | Fuel after grid loss | **Resolved 2026-09-23:** Amarillo fuel now comes from the FBO's Jet-A truck (keys in it, first-try start) | None needed; future legs need the same kind of answer |
 | **D-11** | Vogtle distance | §4 prose: two reactors "inside eighty miles of this house" (Vogtle 3 and 4). `reference/power-grid-shutdown-timelines.md`: Vogtle is roughly **150 miles** from Alpharetta | Fix prose to "about a hundred and fifty miles" or double-check the real distance `[VERIFY]` |
 | **D-12** | README | `README.md` still references `1naM_Draft.md` (not in repo), a "2026-09-09 retcon," "Sections 1–13" (there are 10), a Portland rescue, and an Oregon-coast rest stop. Its Timeline line is current | Refresh the README to the current `CLAUDE.md` state |
 | **D-13** | Persona ages vs prose | Minor: Sam's career now runs CFI → ~800 h PC-12 medical runs → 8 yr USAF → 2 yr charter → ~10 yr Delta, 20+ years for a 43-year-old — tighter than before | No action; check whenever a scene quotes years |
-| **D-15** | Grace's location | `CLAUDE.md` puts Grace **near the Elwha River, Port Angeles, WA**. `sections/05` (Sam's "Huntsville, Phoenix, Portland."), `sections/08` (PHX→Portland flight, "Portland" in John's pitch to Catherine, Seaside, **Providence Seaside**, coastal house) and `sections/10` (days at Grace's house; "Seattle's nothing from Portland. Forty minutes") still say Portland/Oregon. Checked 2026-09-24: still live | Prose pass on §5, §8, §10 — held until the author OKs it. Targets are the `CLAUDE.md` Section 8 and Places entries (KCLM + Citizen Air car, the Elwha River bridge, Olympic Medical Center, market pasta dinner) |
+| **D-15** | Grace's location | `CLAUDE.md` puts Grace **near the Elwha River, Port Angeles, WA**. `sections/05` (Sam's "Huntsville, Phoenix, Portland."), `sections/08` (PHX→Portland flight, "Portland" in Will's pitch to Catherine, Seaside, **Providence Seaside**, coastal house) and `sections/10` (days at Grace's house; "Seattle's nothing from Portland. Forty minutes") still say Portland/Oregon. Checked 2026-09-24: still live | Prose pass on §5, §8, §10 — held until the author OKs it. Targets are the `CLAUDE.md` Section 8 and Places entries (KCLM + Citizen Air car, the Elwha River bridge, Olympic Medical Center, market pasta dinner) |
 | **D-16** | Johan's ship — Section 9 | Prose: "still three days from Seattle." Canon: three days *out of Yokohama*, ~9–10 days from Port Angeles. Checked 2026-09-24: still live | Change §9 to "more than a week from Seattle" (`port-angeles-base-research.md` §2.2) |
-| **D-17** | Johan's ship — Section 10 | Prose: AIS shows the ship anchored in **Elliott Bay** on ~Day 5, and Sam says "Seattle's nothing from Portland" | Canon: John watches her anchor in Port Angeles Harbor ≈Day 9–10, from the Hook; the group goes out by boat the next morning |
+| **D-17** | Johan's ship — Section 10 | Prose: AIS shows the ship anchored in **Elliott Bay** on ~Day 5, and Sam says "Seattle's nothing from Portland" | Canon: Will watches her anchor in Port Angeles Harbor ≈Day 9–10, from the Hook; the group goes out by boat the next morning |
 | **D-18** | Grace's house — Sections 8 and 10 | Prose has the group dining, sleeping, and resting several days at her house (well pump, generator, antenna); canon: the house is never visited | Re-set §8's dinner (setting open; interim hotel is the natural candidate) and §10 (a multi-day skip at the station and aboard *Active*, with the same Grace tasks, ISS spotting, and Catherine's grief beat) |
 | **D-20** | Grace's address | `CLAUDE.md` no longer mentions 217 Wapiti Way (and says anything it doesn't describe isn't canon); `port-angeles-base-research.md` line 15 still tags it `[CANON]` | Ask the author whether the address is still wanted; if not, retag or drop it there |
 | **D-21** | Catherine's §7 introduction | **Resolved 2026-09-23:** earlier notes had her waiting near a Phoenix hospital; `CLAUDE.md` and §7 now agree on the office building two miles off the north fence | None needed |
@@ -602,7 +602,7 @@ Author decisions or research that would firm this up. Numbered so they can be re
 - **Q-13 — Phoenix → KCLM leg.** `CLAUDE.md` makes it non-stop, ~1,020 nm great-circle / ~1,080 nm airway, "inside PC-12 range with thin margin," and flags fuel and ETE `[verify]` before writing it. Still needs the independent fuel/ETE check, with the heavier load (five adults and a child plus Dan) against the 1,087 lb full-fuel payload.
 - **Q-14 — Elwha geography choices.** *Resolved:* KCLM with a Citizen Air car, the Highway 101 Elwha River bridge as crash and rescue site, Olympic Medical Center, then the interim hotel and the Hook. Her house is never visited. Leftover: D-20 (the address).
 - **Q-15 — Prose pass.** Rewrite §5/§8/§10 for the new location now, or hold until the next section is drafted? (D-15, D-17, D-18.)
-- **Q-16 — John's §8 dinner setting.** Open in `CLAUDE.md`; the interim hotel is the natural candidate.
+- **Q-16 — Will's §8 dinner setting.** Open in `CLAUDE.md`; the interim hotel is the natural candidate.
 - **Q-17 — The C-17 landing accident.** Open in `CLAUDE.md`: gear damage, a blown tire and runway excursion, or FOD. Also open: how the group gets from Switzerland back to the West Coast afterward.
 - **Q-18 — Yacht and splashdown.** Open: how the group acquires the 100–120 ft yacht, and how they learn splashdown timing and location.
 
@@ -612,7 +612,7 @@ Author decisions or research that would firm this up. Numbered so they can be re
 
 | Date | Change |
 |---|---|
-| 2026-09-24 | **v0.2 resync to the restructured `CLAUDE.md`** (per-character entries, Places, full Timeline, scene-by-scene canon, and the 9/23d Section 7 changes). §1 rewritten for the 20:10 pushback and the North Slope turnback (new speed, weight, alternates, and sunrise checks). §2: John now 61; full surnames (Tyler Vance, Johan Brandt); new bio facts and flaws for every character (Sam's PC-12 hours and 2027 rotorcraft rating, Catherine's office building and family, Grace's Army/tribal background, Johan's family and fingers, Marchetti's family and blind eye, Dan's breed); new §2.11 on the Hook (22 dead to the lumber buildings, *Active* as quarters, interim hotel). §4.5: §7 rewritten (Amarillo is caution; the fuel truck; John's hand-flying). §5: Grace's solar house retired; Reno no longer a safety move. Discrepancies: D-04, D-05, D-09, D-10 resolved; D-12, D-15–D-18 rechecked against the prose and still live; D-20 (Grace's address) and D-21 added. Questions: Q-04, Q-06, Q-07, Q-09, Q-12, Q-14 resolved or mostly resolved; Q-16–Q-18 added from `CLAUDE.md`'s open decisions. Note: `port-angeles-base-research.md` keeps its own Q-16 onward (D-19), so Q-16–Q-18 here are this file's own. |
+| 2026-09-24 | **v0.2 resync to the restructured `CLAUDE.md`** (per-character entries, Places, full Timeline, scene-by-scene canon, and the 9/23d Section 7 changes). §1 rewritten for the 20:10 pushback and the North Slope turnback (new speed, weight, alternates, and sunrise checks). §2: Will now 61; full surnames (Tyler Vance, Johan Brandt); new bio facts and flaws for every character (Sam's PC-12 hours and 2027 rotorcraft rating, Catherine's office building and family, Grace's Army/tribal background, Johan's family and fingers, Marchetti's family and blind eye, Dan's breed); new §2.11 on the Hook (22 dead to the lumber buildings, *Active* as quarters, interim hotel). §4.5: §7 rewritten (Amarillo is caution; the fuel truck; Will's hand-flying). §5: Grace's solar house retired; Reno no longer a safety move. Discrepancies: D-04, D-05, D-09, D-10 resolved; D-12, D-15–D-18 rechecked against the prose and still live; D-20 (Grace's address) and D-21 added. Questions: Q-04, Q-06, Q-07, Q-09, Q-12, Q-14 resolved or mostly resolved; Q-16–Q-18 added from `CLAUDE.md`'s open decisions. Note: `port-angeles-base-research.md` keeps its own Q-16 onward (D-19), so Q-16–Q-18 here are this file's own. |
 | 2026-09-20 | Added a container-ship suitability assessment for the proposed Port Angeles anchor point (depth, swing room, holding, shelter, unsuitable spots, lone-operator anchoring issue) to §2.7. |
 | 2026-09-20 | Added Johan's proposed anchor point (Port Angeles Harbor, inside Ediz Hook) to §2.7 with coordinates grounded in NOAA Coast Pilot 10 Ch. 7 — proposal only, not canon; prose and `CLAUDE.md` still say Elliott Bay. |
 | 2026-09-20 | Added §5.9 (nuclear exposure at Grace's house — very low risk; Kitsap and Hanford flagged to verify); renumbered old §5.9 to §5.10; amended the Reno rationale (§5.7, Q-09) and the matching `CLAUDE.md` grid and TruckHouse bullets. |

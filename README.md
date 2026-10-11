@@ -8,7 +8,7 @@ A fast-acting biological event kills nearly everyone on Earth in a single night.
 
 ## Repository contents
 
-- **[sections/](sections/)** — the manuscript itself, one file per scene (`NN-dayX-slug.md`, e.g. [sections/01-day0-john.md](sections/01-day0-john.md)). This is the source of truth for prose.
+- **[sections/](sections/)** — the manuscript itself, one file per scene (`NN-dayX-slug.md`, e.g. [sections/01-day0-will.md](sections/01-day0-will.md)). This is the source of truth for prose.
 - **[1naM_Draft.md](1naM_Draft.md)** — the table of contents linking to every file in `sections/`, followed by a **Continuity & Production Notes** section (canon, character bios, retcon history, and open threads). The note at the top of the file explains its current status.
 - **[CLAUDE.md](CLAUDE.md)** — canon rules and continuity constraints for anyone (human or AI) doing revision work on the manuscript. Read this before editing anything.
 - **Timeline** — the canon of chronology (day order, clock times) now lives in the Timeline section of **CLAUDE.md**. The old `time.md` is deprecated and removed.
@@ -16,7 +16,7 @@ A fast-acting biological event kills nearly everyone on Earth in a single night.
 
 ## Status
 
-The manuscript underwent a **major retcon on 2026-09-05** that cleared everything past the old Section 2, and has been reworked several times since (most recently the **2026-09-09 retcon**, which adopted the author's hand-built `time.md` as the canon of time and compressed the John/Sam convergence into a single day). **Sections 1–13 are settled prose**, taking the story from the event through John and Sam's meeting at PDK, the completed Huntsville → Phoenix → Portland rescue mission (Tyler, Catherine, Grace), a rest stop on the Oregon coast, a parallel Day 0 thread for Johan aboard the *Pacific Tender*, and John spotting Johan's ship on AIS. Everything after Section 13 — the actual meeting with Johan, the TruckHouse/Reno arc, the ISS ham-radio thread — is open and needs to be written fresh. See **CLAUDE.md** (the working rulebook) and the **Continuity & Production Notes** at the end of `1naM_Draft.md` (full canon + dated retcon log; later entries supersede earlier ones) for current canon.
+The manuscript underwent a **major retcon on 2026-09-05** that cleared everything past the old Section 2, and has been reworked several times since (most recently the **2026-09-09 retcon**, which adopted the author's hand-built `time.md` as the canon of time and compressed the Will/Sam convergence into a single day). **Sections 1–13 are settled prose**, taking the story from the event through Will and Sam's meeting at PDK, the completed Huntsville → Phoenix → Portland rescue mission (Tyler, Catherine, Grace), a rest stop on the Oregon coast, a parallel Day 0 thread for Johan aboard the *Pacific Tender*, and Will spotting Johan's ship on AIS. Everything after Section 13 — the actual meeting with Johan, the TruckHouse/Reno arc, the ISS ham-radio thread — is open and needs to be written fresh. See **CLAUDE.md** (the working rulebook) and the **Continuity & Production Notes** at the end of `1naM_Draft.md` (full canon + dated retcon log; later entries supersede earlier ones) for current canon.
 
 ## Working on this project
 

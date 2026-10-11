@@ -110,7 +110,7 @@ From the author's brief plus consequences:
 | # | Requirement | Note |
 |---|---|---|
 | R1 | **Off-grid** — own power, heat and water, no grid | The grid is dark; "off-grid" here means the *building* can run itself |
-| R2 | **Comfortable for all** — John, Sam, Tyler, Catherine, Grace, Dan (+ Johan, optionally) | ~5–6 adults/teens/child + dog; a child (Tyler) and a person on crutches/in a boot (Grace) |
+| R2 | **Comfortable for all** — Will, Sam, Tyler, Catherine, Grace, Dan (+ Johan, optionally) | ~5–6 adults/teens/child + dog; a child (Tyler) and a person on crutches/in a boot (Grace) |
 | R3 | **Line of sight to the ISS** — open sky, low horizon | Visual (Tyler and Sam's ISS payoff) and VHF/UHF line-of-sight (ham link). §6 |
 | R4 | **A couple of months**, autumn into winter | §7: solar collapses, rain and wind arrive |
 | R5 | **Not the crash site** and no contaminated well | §4 |
@@ -192,10 +192,10 @@ All are **proposals**. Real businesses are named only where they are public, nat
 **A two- or three-node plan, not one place:**
 
 1. **Home base: a large open-ground house (Option A, or B if logistics win) fitted with a hybrid solar+generator system, wood heat, and a rooftop or mast antenna.** This satisfies R1–R6 and R8 and is the answer to "comfortable."
-2. **Working base: the Coast Guard station on Ediz Hook (Option C)** for radios, boats and Jet-A. John's federal-partner history with USCG makes it his natural first stop.
+2. **Working base: the Coast Guard station on Ediz Hook (Option C)** for radios, boats and Jet-A. Will's federal-partner history with USCG makes it his natural first stop.
 3. **The ship (Option D)** as Johan's home, the backup power/fuel/radio plant, and the winter fallback.
 
-This keeps the cast **engaged** (per the craft rules): Grace and Johan build the power; Catherine checks water safety and Grace's leg; Sam owns fuel and the PC-12 on the Hook; John maps candidate sites (solar installs, house inventories) on his workstation and the satellite hotspot; Tyler runs the ISS watch.
+This keeps the cast **engaged** (per the craft rules): Grace and Johan build the power; Catherine checks water safety and Grace's leg; Sam owns fuel and the PC-12 on the Hook; Will maps candidate sites (solar installs, house inventories) on his workstation and the satellite hotspot; Tyler runs the ISS watch.
 
 *(Superseded 2026-09-20: the author chose Option C — the Coast Guard station — as the group's base. See §8.2. Option A remains a fallback for supplementary housing, and Option D remains Johan's home and the winter fallback.)*
 
@@ -233,11 +233,11 @@ This keeps the cast **engaged** (per the craft rules): Grace and Johan build the
 
 ### 8.3 Consequences of the choice
 
-- **Bodies come first.** The station is a 24-hour SAR, watch and alert operation: at 2:00 AM Eastern (11:00 PM Pacific) there are duty crews — watchstanders, helicopter and boat alert crews, and the Transit Protection System's alert forces — and probably some cutter crews aboard. **Under the craft rule ("check who'd actually be present at 2:00 AM"), they are dead on station.** The group has to find and lay them to rest before living there; this is a real, humane scene, and a good vehicle for the group's dynamics (Catherine's expertise, John's and Sam's first Coast Guard ties, Tyler kept away from it). **Author (2026-09-20): 17 Coast Guard crew.**
+- **Bodies come first.** The station is a 24-hour SAR, watch and alert operation: at 2:00 AM Eastern (11:00 PM Pacific) there are duty crews — watchstanders, helicopter and boat alert crews, and the Transit Protection System's alert forces — and probably some cutter crews aboard. **Under the craft rule ("check who'd actually be present at 2:00 AM"), they are dead on station.** The group has to find and lay them to rest before living there; this is a real, humane scene, and a good vehicle for the group's dynamics (Catherine's expertise, Will's and Sam's first Coast Guard ties, Tyler kept away from it). **Author (2026-09-20): 17 Coast Guard crew.**
 - **Weapons.** The station holds small arms and armed force-protection boats. The story need not use them; noting them so a character doesn't stumble on a "surprise."
 - **Johan's ship** anchors close by: ~0.65 nm. The 41-ft utility boat, or a cutter's small boat, gets the group out to her; Johan can stand watch on the anchor from the station's windows and radio, which also softens the dragging-anchor risk (§7.3).
-- **Comfort and dignity.** "Comfortable" is now a matter of effort: a small crew converting a working base to a home is a strong "keep the full cast engaged" setup (Grace and Johan on power; Catherine on water and hygiene; Sam on the boat, fuel and the PC-12 on the Hook; John on radios and the data model; Tyler on the ISS watch).
-- **The radio scene.** The Coast Guard radios here are where John can answer Johan's hail on VHF ch 16 (§9) — the FBO-radio echo with Sam.
+- **Comfort and dignity.** "Comfortable" is now a matter of effort: a small crew converting a working base to a home is a strong "keep the full cast engaged" setup (Grace and Johan on power; Catherine on water and hygiene; Sam on the boat, fuel and the PC-12 on the Hook; Will on radios and the data model; Tyler on the ISS watch).
+- **The radio scene.** The Coast Guard radios here are where Will can answer Johan's hail on VHF ch 16 (§9) — the FBO-radio echo with Sam.
 - **The Hook as a small world.** A 3-mile spit, one road, water both sides: a self-contained setting with a beautiful and slightly precarious character. Winter storm is a natural climax for the Port Angeles chapters.
 - **Supplement.** Nothing prevents them also using homes in Port Angeles (Coast Guard families rented in town, so the town has homes that are now vacant) — but every home has its own dead (see §8.4) — Q-24.
 
@@ -272,7 +272,7 @@ This keeps the cast **engaged** (per the craft rules): Grace and Johan build the
 | **Cremation** | Impractical: enormous fuel and time |
 | **Leave them all in the town** | The group cannot do 20,000; the town stays as it is. The station's 17 are the only ones the group *chooses* to deal with — **and the author has decided how: bag them and move them to the hospital morgue (§8.8)** |
 
-**Who does what `[DERIVED]`:** Catherine leads (identification, order, hygiene, respirators/PPE); John, Sam and Grace (once her cast allows) do the work; **Tyler is kept away** — by choice, and Sam or John stays with him. Johan, alone on a ship with 22 dead, has already faced a version of this (§9).
+**Who does what `[DERIVED]`:** Catherine leads (identification, order, hygiene, respirators/PPE); Will, Sam and Grace (once her cast allows) do the work; **Tyler is kept away** — by choice, and Sam or Will stays with him. Johan, alone on a ship with 22 dead, has already faced a version of this (§9).
 
 ### 8.5–8.7 The RV plan and its alternatives — WITHDRAWN 2026-09-21
 
@@ -294,9 +294,9 @@ This keeps the cast **engaged** (per the craft rules): Grace and Johan build the
 | **The hospital's own dead** | Patients and night staff at Olympic Medical Center (~100–200, §8.4) remain where they died; the group does not handle them there. Working around them is its own tone-setting beat, separate from the station's 17 |
 | **What next** | The lumber buildings are a **holding step**: eventual burial on high ground on the mainland, or sea burial (§8.4); Q-28 |
 
-**Who does it `[DERIVED]`:** Catherine leads the process; John and Sam do the lifting (Sam's Air Force background suggests a small honors moment — the station's flag, a silence); **Grace's boot keeps her on lighter tasks** (the ledger) — and this is also where her coworker-level connection to the 17 lands, per `CLAUDE.md`; **Tyler stays away** with Dan; Johan is still at sea. The moving of the dead clears the station for the clinic, hangar, radios, and airfield use; *Active*'s own 5 dead are handled the same way before the group moves aboard.
+**Who does it `[DERIVED]`:** Catherine leads the process; Will and Sam do the lifting (Sam's Air Force background suggests a small honors moment — the station's flag, a silence); **Grace's boot keeps her on lighter tasks** (the ledger) — and this is also where her coworker-level connection to the 17 lands, per `CLAUDE.md`; **Tyler stays away** with Dan; Johan is still at sea. The moving of the dead clears the station for the clinic, hangar, radios, and airfield use; *Active*'s own 5 dead are handled the same way before the group moves aboard.
 
-**The week `[DERIVED]`:** the group reaches the Peninsula about **Day 2–3**; Johan's ship anchors about **Day 9–10** (§2). Between them: identify and move the 17 (and *Active*'s 5) to the lumber buildings; move aboard the cutter; get the Coast Guard's radios and, if the power allows, the VTS tower working; rest and check Grace's cast at the station clinic. When the *Pacific Tender* comes into the harbor, the group is **already on the Hook, 0.65 nm away, with the radios** — so John can hail her on VHF ch 16 (§9) and the first contact with Johan is by radio.
+**The week `[DERIVED]`:** the group reaches the Peninsula about **Day 2–3**; Johan's ship anchors about **Day 9–10** (§2). Between them: identify and move the 17 (and *Active*'s 5) to the lumber buildings; move aboard the cutter; get the Coast Guard's radios and, if the power allows, the VTS tower working; rest and check Grace's cast at the station clinic. When the *Pacific Tender* comes into the harbor, the group is **already on the Hook, 0.65 nm away, with the radios** — so Will can hail her on VHF ch 16 (§9) and the first contact with Johan is by radio.
 
 **Unresolved:** **where the group sleeps between Grace's rescue (Day ~3) and the station/cutter being cleared** — their first nights on the Peninsula (Q-32, leading candidate: Olympic Medical Center); how long clearing the 22 dead (17 + 5) and securing the cutter takes.
 
@@ -309,7 +309,7 @@ This keeps the cast **engaged** (per the craft rules): Grace and Johan build the
 | Point | Detail |
 |---|---|
 | **Class** | A 100–120 ft explorer is a small superyacht. It is normally run by a captain, first officer, engineer, chef and 2–4 stewards — "a crew of at least four to six professionals" `[SRC]` Dockwalk, Yachttrading, Lengers. Fuel capacity 10,000–50,000 gal; range 3,000+ nm; one example carries 18,400 gal for 4,000 nm at 12 knots `[SRC]`. A stern garage holds a tender `[SRC]` |
-| **The group as crew** | It needs **everyone**, which suits the craft rule "keep the full cast engaged" `[DERIVED]`: **Johan — captain**; **Sam — first officer and navigator**; **Grace — chief engineer** (diesel mechanic and electrical engineer: her skills fit the engine room exactly); **John — electronics, radios and comms**; **Catherine — medic, galley and steward**; **Tyler — deckhand and lookout** (with Dan). Three watches (Johan, Sam, and Grace or John) can keep her under way |
+| **The group as crew** | It needs **everyone**, which suits the craft rule "keep the full cast engaged" `[DERIVED]`: **Johan — captain**; **Sam — first officer and navigator**; **Grace — chief engineer** (diesel mechanic and electrical engineer: her skills fit the engine room exactly); **Will — electronics, radios and comms**; **Catherine — medic, galley and steward**; **Tyler — deckhand and lookout** (with Dan). Three watches (Johan, Sam, and Grace or Will) can keep her under way |
 | **Comfort** | Typically 4–6 staterooms with private bathrooms, a large salon, a full galley, HVAC and stabilizers `[VERIFY]` — genuinely comfortable, a step up from the RVs |
 | **Systems** | Multiple diesel generators, stabilizers, bow thrusters, sewage treatment, chillers, a tender crane, big watermakers `[VERIFY]`. After 10+ days the batteries are flat; starting her means portable power, a checklist, and the manuals aboard. This is a real learning curve for the group (a good "competence" sequence), not a key-turn |
 | **Where to find one** | **Saltwater docks only: Seattle's waterfront (Elliott Bay, Bell Harbor, Shilshole), Everett, Bellingham, Anacortes, Port Townsend.** **Not Lake Union or Lake Washington:** those are behind the **Ballard Locks**, whose gates and valves are operated by trained staff `[SRC]` Wikipedia, Seattle Times; a yacht there is trapped unless Grace and Johan run the lock themselves — a hole worth knowing about |
@@ -342,11 +342,11 @@ This keeps the cast **engaged** (per the craft rules): Grace and Johan build the
 | Source | Distance to the Hook `[DERIVED]` | Notes |
 |---|---|---|
 | **Port Townsend** (boatyards, Boat Haven) | **~30.5 nm** across the Strait `[SRC]` Savvy Navvy | Closest; 4 h at 8 kt; a boatbuilding and refit town — many long-range cruisers |
-| **Port Angeles Boat Haven** and **John Wayne Marina** (Sequim Bay) | 3 nm / ~25 nm | Boats in slips; some live-aboards |
+| **Port Angeles Boat Haven** and **Will Wayne Marina** (Sequim Bay) | 3 nm / ~25 nm | Boats in slips; some live-aboards |
 | **Anacortes — Cap Sante Marina** (Nordhavn's Northwest sales and service office, Pacific Asian Enterprises `[SRC]`) | **~60 nm by water** | Brokerage docks hold many yachts **for sale, unoccupied** (likely zero bodies aboard) |
 | **Seattle** (a Nordhavn broker; Kadey-Krogen's Seattle sales office) | ~80–90 nm | Farther; heavy traffic lanes and Admiralty Inlet currents |
 
-**The passage `[DERIVED]`:** a yacht at 8–9 kt covers the ~30 nm from Port Townsend in about 4 h, and ~60 nm from Anacortes in 7–8 h; the Strait has strong tidal currents that must be timed, busy shipping lanes (empty now), and floating debris and logs `[SRC]` Coast Pilot (deadheads). **Johan is captain**; Sam is crew; John and Catherine are deckhands. This can be a real, tense sea passage — not a repeat of the "not everything gets to be hard" dealership beat. It also gives the Johan thread a **competence scene** after he steps ashore.
+**The passage `[DERIVED]`:** a yacht at 8–9 kt covers the ~30 nm from Port Townsend in about 4 h, and ~60 nm from Anacortes in 7–8 h; the Strait has strong tidal currents that must be timed, busy shipping lanes (empty now), and floating debris and logs `[SRC]` Coast Pilot (deadheads). **Johan is captain**; Sam is crew; Will and Catherine are deckhands. This can be a real, tense sea passage — not a repeat of the "not everything gets to be hard" dealership beat. It also gives the Johan thread a **competence scene** after he steps ashore.
 
 **Craft note:** the PC-12 (dealer), the RVs (dealer) and now a yacht (brokerage) make three "the group takes a machine from a showroom" beats. Per the craft rules, make this one a **deliberate variation**: hard, physical, seamanlike, with the currents and Johan's authority as the point.
 
@@ -386,7 +386,7 @@ This keeps the cast **engaged** (per the craft rules): Grace and Johan build the
 
 ## 9. Story hooks (none are canon)
 
-- **Radio first contact, again.** Johan hails the Coast Guard (VHF ch 16) and the pilots (ch 13) as he approaches; John, at the Coast Guard station's radios on Ediz Hook, answers — the book's "a name, a number, a voice" motif, echoing the Signature FBO radio scene with Sam. `[DERIVED]`
+- **Radio first contact, again.** Johan hails the Coast Guard (VHF ch 16) and the pilots (ch 13) as he approaches; Will, at the Coast Guard station's radios on Ediz Hook, answers — the book's "a name, a number, a voice" motif, echoing the Signature FBO radio scene with Sam. `[DERIVED]`
 - **Johan's anchoring scene:** engines stopped, the walk forward, the windlass, the harbor silent around him — with the VTS tower dark on the Hook.
 - ~~**The dragging-anchor clock:** an east-wind storm in November threatens the ship~~ — **retired 2026-09-21 (Q-35 resolved):** no storm set piece; Johan secures her once and she's quiet background from then on.
 - **The Elwha Klallam tribal community** lives near the Elwha River (Lower Elwha Klallam Tribe, west of Port Angeles) `[VERIFY]`. Any deaths among them, or any homes used, would want author-level care and a sensitivity read; scarcity (a few survivors in the country) means the group will have "found" no living neighbors.
@@ -399,7 +399,7 @@ This keeps the cast **engaged** (per the craft rules): Grace and Johan build the
 - **Q-17 — Rescue site.** *Resolved 2026-09-21 (supersedes the 2026-09-21-earlier note above):* under the Highway 101 Elwha River bridge itself — the crash happens on the bridge, so no travel to a separate site is needed (§4.3 banner). 911 location comes from Grace reading her own map-app coordinates to the AI triage agent.
 - **Q-18 — Which lodging?** *Resolved:* the Coast Guard station (clinic/hangar/airfield/radios) plus living aboard the cutter *Active* (berths/power/water/freezer). Johan lives ashore with the group, not aboard a ship (resolves the "aboard vs. ashore" half of Q-24 too).
 - **Q-19 — Section 9's "three days from Seattle."** Change to "more than a week" (§2.2)?
-- **Q-20 — Section 10 date.** Now that Johan anchors ~Day 9–10, does John's AIS discovery happen ~Day 8–9 (a deliberate slowdown or turn into the Strait), with the group meeting Johan ~Day 10?
+- **Q-20 — Section 10 date.** Now that Johan anchors ~Day 9–10, does Will's AIS discovery happen ~Day 8–9 (a deliberate slowdown or turn into the Strait), with the group meeting Johan ~Day 10?
 - **Q-21 — Grace's healing.** "Start Grace's healing" — physical (fibula, ~6–8 weeks), emotional (her home, the crash, the 911 call nobody answered), or both?
 - **Q-22 — Winter power.** Generator fuel (gasoline vs diesel vs propane) and how they get it with no grid — links to the Amarillo fueling question (D-10).
 - **Q-24 — Living at the station.** *Resolved:* living quarters are aboard the cutter *Active*; the station ashore is the working base (hangar/workshop and PC-12 shelter, the clinic as Catherine's base, radios). No conversion of the alert-forces facility into a dormitory is needed.
@@ -414,7 +414,7 @@ This keeps the cast **engaged** (per the craft rules): Grace and Johan build the
 - **Q-34 — The yacht.** *Purpose resolved 2026-09-21:* eventual Dragon-capsule recovery off California, not comfort (§8.9 banner). *Class resolved 2026-09-21:* the 100–120 ft explorer-class superyacht, not a Kadey-Krogen/Nordhavn (see Q-37). Still open: which saltwater dock, and when — after Johan settles in (Day ~10+)? Also unresearched: real-world Dragon recovery handles hypergolic thruster residue with trained crews and specialized ships — how much of that the story engages with is open.
 - **Q-35 — The *Pacific Tender*.** *Resolved (author, 2026-09-21): abandoned, quiet background — no November storm set piece.* Before leaving, Johan secures her once (second anchor and more scope, engine shutdown, fuel isolated, watertight doors closed, battery anchor lights left on) and gives his 22 crew **burial at sea** — a real, dignified scene, done once, not revisited. **Worth playing as a deliberate contrast** with the main group's choice to leave their own 22 dead (the station's 17 + *Active*'s 5) unresolved at the lumber buildings (Q-28) — Johan completes his grief work alone at sea; the group's stays open. Still open: what her cargo is, and whether it's ever used as a later supply source.
 - **Q-36 — Before Johan leaves her.** *Resolved, see Q-35.* Still open: does anyone open her containers later as a supply source; what is on the manifest.
-- **Q-37 — The larger yacht.** *Confirmed 2026-09-21 (author): the 100–120 ft explorer-class superyacht (§8.9), with the crew roles as sketched* — Johan captain, Sam first officer, Grace chief engineer, John comms, Catherine medic and galley, Tyler deckhand. Still open: which specific saltwater dock (Seattle waterfront, Everett, Bellingham, Anacortes, or Port Townsend are the candidates — not behind the Ballard Locks), and how long "learning the boat" takes.
+- **Q-37 — The larger yacht.** *Confirmed 2026-09-21 (author): the 100–120 ft explorer-class superyacht (§8.9), with the crew roles as sketched* — Johan captain, Sam first officer, Grace chief engineer, Will comms, Catherine medic and galley, Tyler deckhand. Still open: which specific saltwater dock (Seattle waterfront, Everett, Bellingham, Anacortes, or Port Townsend are the candidates — not behind the Ballard Locks), and how long "learning the boat" takes.
 - **Q-26 — Station facts to verify.** Standby generators, fuel storage, galley, showers/laundry, beds, whether the alert-forces facility has sleeping quarters, and the clinic's equipment.
 - **Q-23 — BCRs and the Italy excursion.** *Resolved 2026-09-21 (author):* a **C-17 from McChord Field/JBLM** carries the group and **4 BCRs** to Italy — a C-17's ramp and cargo hold are built for driving vehicles on/off, which is why it solves this cleanly (and pays off Sam's C-17 background). "BCR" is never spelled out on the page (confirmed via research that TruckHouse doesn't publicly define it either). The C-17 is later damaged in a hard/rough-field landing accident (exact mechanics still open). See `CLAUDE.md`'s Italy/Milan excursion retcon. Still open: whether the excursion timing clears the Sierra passes before winter (Reno is ~4,500 ft) on the way to McChord — "don't launch with known holes" still applies to that leg.
 - **Verify before writing:** the mountain-horizon angles (§6.2); the Coast Guard station's standby power and fuel; whether the *Pacific Tender*-class ship has an elevator and what boats it carries; walk-back vs let-go guidance at ~27 m; the 5-fathom rock coordinate in the Coast Pilot (§3.1).

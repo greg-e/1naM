@@ -1,5 +1,4 @@
-# 3 — Samuel Reyes, Edmonton to Atlanta, Day 0
-
+# 3 — Samuel Reyes, Edmonton to Atlanta, Day 1
 He stood at the porthole until the cold of the plastic had gone out of it. Then he went back to the flight deck for his things.
 
 His flight bag was in the crew rest, along with his jacket and cap. He went up the stair past Jack's drawn curtain. On the flight deck he unplugged his iPad from its mount, wound up his headset, and took his phone out of the side pocket of the flight bag. He took it off airplane mode. There was a text from Rosa, sent at 10:40 the night before: *night dad love you*. He read it twice and put the phone in his shirt pocket. Out the side window the terminal was still lit. Somebody had to be in there.
