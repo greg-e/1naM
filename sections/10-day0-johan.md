@@ -4,7 +4,7 @@ Nobody woke him for the watch change.
 
 In twenty-six years Johan had trained his body to a ship's rhythm well enough that he rarely needed the knock at his door, but this time he surfaced late, the light through the porthole already gray instead of black, the *Pacific Tender*'s engines running as steady beneath him as they had every hour of the crossing from Yokohama. He'd turned in straight after supper to get his sleep before the midnight watch.
 
-He dressed and started up. He had to stop on the second ladder and stand with a hand on the rail until he could get a full breath. He went on up to the bridge expecting to find Okafor irritated with him, ready with some dry comment about senior mates who slept through their own relief, and found him slumped forward against the console, one hand resting on the autopilot panel. The ship was holding her course where Okafor had last set her, the GPS track clean and unbroken on the display. Johan checked for a pulse, found nothing, and made himself keep moving, the way he had through two typhoons and a cargo-hold fire off Vladivostok.
+He dressed and went up to the bridge expecting to find Okafor irritated with him, ready with some dry comment about senior mates who slept through their own relief, and found him slumped forward against the console, one hand resting on the autopilot panel. The ship was holding her course where Okafor had last set her, the GPS track clean and unbroken on the display. Johan checked for a pulse, found nothing, and made himself keep moving, the way he had through two typhoons and a cargo-hold fire off Vladivostok.
 
 The ship had crossed the date line the morning before, and her clocks were eleven hours behind Greenwich now. By the bridge log, nothing had been entered since just before seven the evening before. Johan did the arithmetic to Greenwich anyway, for something to hold onto: six in the morning, Tuesday.
 
@@ -16,9 +16,9 @@ The satellite terminal at the same console was the last thing he tried, and for 
 
 He sat a long time at the GMDSS console at the back of the bridge, for Okafor, for Alvarez and his unfinished logbook entry, for the cook, whose name he was ashamed to find he'd have to look up on the crew manifest.
 
-Then there was the actual problem, and Johan was a practical man. Twenty-two men dead did not change the fact that this ship was still seven days from the Strait at the speed one man could hold her to, and still capable of getting there: engines sound, fuel more than sufficient, autopilot holding a course that would put her near the Strait of Juan de Fuca whether or not anyone touched the helm. He was a senior mate with an electrical engineer's understanding of half the systems keeping her alive, and he had stood watches alone before, if never for a week with no one to relieve him.
+Then there was the actual problem. Twenty-two men dead did not change the fact that this ship was still seven days from the Strait at the speed one man could hold her to, and still capable of getting there: engines sound, fuel more than sufficient, autopilot holding a course that would put her near the Strait of Juan de Fuca whether or not anyone touched the helm. He was a senior mate with an electrical engineer's understanding of half the systems keeping her alive, and he had stood watches alone before, if never for a week with no one to relieve him.
 
-He climbed back up to the bridge in the flat gray light and took the helm off autopilot long enough to feel the ship answer to his hand.
+He went forward to the helm in the flat gray light and took the ship off autopilot long enough to feel the ship answer to his hand.
 
 "All right," he said out loud, to no one. "Seattle, then."
 

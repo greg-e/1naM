@@ -38,7 +38,7 @@ Tyler woke somewhere past Oklahoma City. After a while he unbuckled and came for
 
 "Panhandle," Sam said. "We start down in about ten minutes."
 
-"Do you think—" Tyler started, then stopped, the way he did whenever a sentence was headed somewhere he wasn't sure about. His face gave the rest of it away first. He tried again, smaller. "If you went up high enough, could you see the space station? For real, not just a dot."
+"Do you think—" Tyler started, then stopped. He tried again, smaller. "If you went up high enough, could you see the space station? For real, not just a dot."
 
 "Not from here," Sam said. "This airplane tops out at thirty thousand feet. She's two hundred and fifty miles up. And you can't see her in daylight from anywhere. You need the ground dark and the station still in the sun, about an hour after sunset or before sunrise." He glanced back over his shoulder. "If the sky's clear tonight, wherever we end up, I'll help you find her. She moves fast once you know where to look."
 
@@ -72,11 +72,11 @@ Will heard it a second later: an engine, coming fast from the north. A gray Suba
 
 "Well," Sam said, from under the wing. "Somebody heard us."
 
-The woman who got out was tall and straight-backed, with silver-streaked dark hair pinned up in a twist that had held for more than one day, thin titanium glasses, a linen shirt, and dark jeans. She didn't run at the airplane. She walked at it fast and level.
+The woman who got out was tall and straight-backed, with silver-streaked dark hair pinned up in a twist that had held for more than one day, thin titanium glasses, a linen shirt, and dark jeans. She walked toward the airplane fast and level.
 
 "I heard you fly over," she called. "Low. I'm in an office building two miles off the north fence. It was closed when it happened, so there's nobody dead in it. I picked it because it's close to the airport. If anyone was still flying, this is where they'd come, and sitting and listening for them was the only thing left that made sense to do." She glanced back at the torn fence. "There's no open gate on that side. I drove half the fence line looking for one. Then I stopped looking."
 
-She stopped a few feet off the wingtip and took in the airplane, the two men, and the boy peering out of the door behind them, and then Dan shoved past everyone to get to her first. For a second her face came open. Then she put it back. She was breathing through her mouth, a little fast for someone who'd only walked a hundred feet, and her eyes went from Sam's cough to Will's chest and stayed there a second longer than politeness allowed.
+She stopped a few feet off the wingtip and took in the airplane, the two men, and the boy peering out of the door behind them, and then Dan shoved past everyone to get to her first. For a second her face came open. Then she put it back.
 
 "Catherine Navarro," she said. "ER doctor. Or I was." She let Dan push his head into her hand. "Yours is the first engine I've heard in three days that wasn't my own car. I'm extremely glad to see you."
 
