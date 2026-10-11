@@ -54,7 +54,7 @@ He opened the hangar door from the control box on the wall. A second fuel truck 
 
 It was still full dark when he climbed in. He set up the avionics the way the handbook said and then set up the flight plan: CYEG, direct KMSP, direct KPDK. He checked the weather on his phone, the last forecasts the sites had, already hours old. Clear across the prairies. Some haze in the Southeast.
 
-Then he went into the transponder page on the display and found the field for the flight ID. It held the airplane's registration, C-GKPX. The trackers would show it as a Canadian PC-12 going somewhere unknown. He deleted the registration and typed, one letter at a time on the keypad, D-A-L-2-7-P-D-K. If anyone was looking, they would know what airplane he'd come off of and where he was going.
+Then he went into the transponder page on the display and found the field for the flight ID. It held the airplane's registration, C-GKPX. The trackers would show it as a Canadian PC-12 going somewhere unknown. He deleted the registration and typed, one letter at a time on the keypad, D-A-L-2-7-P-D-K. If anyone was looking, they would know what airplane he'd come off of and where he was going. Nothing was wrong with the airplane. He set 7700 in the code field anyway. With nobody on any frequency to give him a code, it was the one that would put a box around him on any screen still being watched.
 
 He started the engine on the battery. The starter wound the PT6 up to light-off, and the temperature came up, peaked inside the limit, and settled. He taxied out to runway 30 and stopped short of it.
 
