@@ -1,23 +1,17 @@
 # 1 in a Million
 
-A novel-in-progress (Book One of a planned series). Each scene lives in its own file under [sections/](sections/); [1naM_Draft.md](1naM_Draft.md) is the index into those files plus the continuity/production notes.
+A novel in progress (Book One of a planned series), written with operational realism in the tradition of Forester and Clavell.
 
 ## Premise
 
-A fast-acting biological event kills nearly everyone on Earth in a single night. Survival rate is roughly one in a million — around 350 people in the continental US, scattered with no concentration anywhere. Survivors don't know they're immune until they wake up or live through people dying around them. The book follows the handful of survivors.
+At 2:00 a.m. Eastern on Tuesday, September 5, 2028, a single pulse from a magnetar starquake passes through the planet in under a second and shuts down the enzyme human cells use to consume oxygen. Infrastructure is untouched, animals are unaffected, and about one person in a million survives: roughly 350 in the continental US, scattered with no concentration anywhere. Why they survived is never answered on the page. The book follows a handful of them, told in close third person from five points of view: Wade, Sam, Johan, Kendra (aboard the ISS), and Marchetti.
 
 ## Repository contents
 
-- **[sections/](sections/)** — the manuscript itself, one file per scene (`NN-dayX-slug.md`, e.g. [sections/01-day0-will.md](sections/01-day0-will.md)). This is the source of truth for prose.
-- **[1naM_Draft.md](1naM_Draft.md)** — the table of contents linking to every file in `sections/`, followed by a **Continuity & Production Notes** section (canon, character bios, retcon history, and open threads). The note at the top of the file explains its current status.
-- **[CLAUDE.md](CLAUDE.md)** — canon rules and continuity constraints for anyone (human or AI) doing revision work on the manuscript. Read this before editing anything.
-- **Timeline** — the canon of chronology (day order, clock times) now lives in the Timeline section of **CLAUDE.md**. The old `time.md` is deprecated and removed.
-- **[reference/](reference/)** — real-world research/reference docs feeding specific subplots: `power-grid-shutdown-timelines.md` (grid/nuclear collapse timing), `iss-ham-radio-contact.md` (ISS comms), `DAL27_Diversion_Edmonton.md` (Sam's flight profile: the Edmonton diversion and the PC-12 legs home; supersedes the older `DAL27_Emergency_Turnback_Dossier.pdf` and `DAL27_Diversion_Val_dOr.md`), `PC-12-PRO-Brochure.pdf` (real Pilatus specs), and the `global-flight-traffic-model` tool. **[reference/research-compendium.md](reference/research-compendium.md)** consolidates them with the cast personas, source tags, a discrepancy register and open questions. Treat all of it as source material to write from, not manuscript prose — and check it before inventing mechanical/technical details a source already covers.
+- **[CLAUDE.md](CLAUDE.md)**: the rulebook and the single source of truth for canon: premise, characters, places, the Timeline, scene-by-scene canon, ongoing threads, future arcs, writing rules, and open decisions. Read it before editing anything.
+- **[sections/](sections/)**: the manuscript, one scene per file (`NN-dayX-slug.md`). Sections 1–10 are written; Section 11 needs redrafting from its canon entry.
+- **[reference/](reference/)**: research, not canon. [research-compendium.md](reference/research-compendium.md) is the index: sources, real-world specs, derived arithmetic, and the verify list, with pointers back to `CLAUDE.md` for anything that is canon. Topic files cover the Delta 27 diversion, the event's mechanism and evidence chain, the AI 911 agent, the power-grid collapse, the ISS ham link, the PC-12 PRO, Port Angeles and the Hook, and the seeded random survivor draw.
 
 ## Status
 
-The manuscript underwent a **major retcon on 2026-09-05** that cleared everything past the old Section 2, and has been reworked several times since (most recently the **2026-09-09 retcon**, which adopted the author's hand-built `time.md` as the canon of time and compressed the Will/Sam convergence into a single day). **Sections 1–13 are settled prose**, taking the story from the event through Will and Sam's meeting at PDK, the completed Huntsville → Phoenix → Portland rescue mission (Tyler, Catherine, Grace), a rest stop on the Oregon coast, a parallel Day 0 thread for Johan aboard the *Pacific Tender*, and Will spotting Johan's ship on AIS. Everything after Section 13 — the actual meeting with Johan, the TruckHouse/Reno arc, the ISS ham-radio thread — is open and needs to be written fresh. See **CLAUDE.md** (the working rulebook) and the **Continuity & Production Notes** at the end of `1naM_Draft.md` (full canon + dated retcon log; later entries supersede earlier ones) for current canon.
-
-## Working on this project
-
-If you're picking up revision work here, read [CLAUDE.md](CLAUDE.md) first — it captures the rules of the story world and the current canon so new work doesn't contradict decisions already made with the author.
+Written: Day 0 through Day 2 (Sections 1–9: Wade and Sam's convergence at PDK and the Huntsville → Phoenix → Port Angeles rescues of Tyler, Catherine, and Della) and Johan's Day 0 aboard the *Pacific Tender* (Section 10). Next: the week at the Hook and first contact with Johan. Ahead: Reno, the search for more people, the Europe excursion by C-17, and the Dragon recovery. See `CLAUDE.md` → What's next and what's open.

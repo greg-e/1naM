@@ -1,0 +1,83 @@
+# 7 — Wade, Day 1-2
+
+Huntsville International came up out of the haze looking like any airport Wade had flown into, real runways, a real tower, a terminal building catching the last low sun without a single light on inside it. Sam did the low pass anyway, one slow circuit over the runway to check it clear, before he lined up for real. "Old habits," he said, when Wade didn't ask.
+
+They found the rental car lot at the edge of the airport, rows of cars where the agency had left them, keys in the consoles, tanks topped off by routine servicing. They picked one that started on the first turn. It had been barely two days; batteries hadn't had time to die, and gas hadn't had time to go bad. Wade read the address off his notebook while Sam drove, through streets as empty as every street had been for two days. Three turns from the house, Wade caught himself staring at a working traffic signal cycling green to yellow to red for nobody, porch lights on down half a block. "Another island," he said. "Like the restaurant at PDK. Bigger."
+
+The house was a single-story brick ranch with a basketball hoop bolted over the garage, and Wade thought of the bike against Sam's garage door. The front door gave when Sam tried it. They found a man in the living room, stretched out on a couch in front of a television that had gone dark, one arm hanging off the cushion. Wade checked him anyway and got the same answer he always got.
+
+Past the living room the house was silent. They found a closed door at the end of the hall with a wooden name plaque on it, block letters spelling out TYLER over a hand-painted rocket ship.
+
+He knocked soft, twice. "Tyler? My name's Wade. This is Sam. We're not going to hurt you. We just want to make sure you're okay."
+
+Nothing, for long enough that Wade started working out what he'd say next. Then, muffled through the door, small and cracked: "Are you real?"
+
+"We're real, buddy," Sam said, crouching down so his voice came from lower. "I'm a pilot. I flew a plane here. Wade found you on a computer, from all the way in Atlanta. We've been looking for people since yesterday morning, same as I bet you've been hoping somebody would."
+
+A long pause. Then the lock turned.
+
+The boy who opened the door was smaller than Wade had pictured, ten years old, eyes red-rimmed and wary, a blanket wrapped around his shoulders despite the warm evening. He looked at both of them for a long moment. "I called 911 sixteen times," he said. "The voice kept telling me help was coming. It never came."
+
+"It sent us instead," Wade said. "Just took us longer than either of us wanted."
+
+Tyler's eyes went past them, down the hall toward the living room. "I already know about Uncle Carl," he said, flat, like he'd practiced it. "I found him. That's why I locked the door. I didn't know what else — " He stopped. Started over, smaller. "I didn't want to see him again."
+
+"You don't have to," Sam said. "You never have to again, if you don't want to. That's not your job anymore. That's ours."
+
+Tyler hadn't eaten anything but what was in his room since Tuesday, and it was Sam who noticed the boy swaying on his feet. They found a Waffle House four blocks over, the sign still lit off the same patch of grid. Around back, two cars sat in the employee spots with a person slumped in each, two people who'd stepped out for a break a little before one in the morning and never gone back in. Neither Wade nor Sam mentioned it to Tyler. Inside, through the propped front door, the restaurant was as its staff had left it mid-shift: register open, a rag draped over the counter edge, the grill still on, with the last order on it burned down to black crusts.
+
+"Sit," Sam told Tyler, steering him into a booth. Wade was already around the counter, tying on an apron off a peg before he'd decided to. "What sounds good?" he called, sliding a spatula off its hook. "I can make anything on this menu, and about half of what isn't." Tyler looked at him like nobody had asked him what he wanted in two days. "Waffle," he said finally. "And hash browns. Scattered." Wade scraped the grill down to bare steel and oiled it. He hadn't touched a flat-top since he was twenty-two, paying his way through Georgia Tech one overnight shift at a time, and his hands remembered it anyway.
+
+Sam slid into the booth across from Tyler and started with an easy question. "You do all that on your own? The last two days?"
+
+Tyler nodded, working a loose thread on the edge of his blanket instead of looking up. "Nobody came," he said. "I kept thinking somebody would."
+
+"Somebody did," Sam said. He waited a moment, then tried again. "That was your uncle, back there. Carl, you said at the door. Was that your dad's brother, or your mom's?"
+
+Tyler picked at the syrup ring on the table. "My dad died when I was four. Car accident. I don't really remember him. It's always kind of just been me and Mom." He said it flat, an old fact. "Carl's Mom's brother. He came to stay with us in March, when she launched."
+
+Wade's spatula stopped over the eggs. "Launched," he repeated.
+
+"She's not here because she's not *here*," Tyler said, like he'd had to explain this before to people who didn't believe him. "She's an astronaut. NASA. She's been up on the space station since March. Carl was only supposed to stay till she got back down in the fall."
+
+Sam went still. Wade kept working the eggs, because stopping would scare the boy. Somewhere overhead was a woman, alive as far as either of them knew, with no way of knowing whether anyone on the planet under her was still breathing. "She's on the ISS," Sam said.
+
+"Right now," Tyler said. "Two hundred and fifty miles up. I used to watch her go over at night. I still do."
+
+"She know?" Wade asked, looking up from the grill. "About any of this?"
+
+"I don't know how she'd find out," Tyler said, and his voice wasn't steady. "I don't know if she can even see down here well enough to tell anything's different." He looked past Wade at Sam. "Can they even land it? If they wanted to?"
+
+Sam didn't answer right away. "I don't know," he said finally. "But somebody built that thing to come home. That much I know."
+
+"We'll figure it out," Wade said, plating eggs. "Not tonight. But we will."
+
+Tyler didn't ask the question underneath that one, whether anyone would ever get word to her, or her to him.
+
+Wade came around the counter a few minutes later with a plate in each hand: hash browns scattered the way he used to plate them at three in the morning for truckers and drunks, and a waffle with the edges gone dark the way he'd always liked his own. "Rosa used to order hers just like that," Sam said, nodding at the hash browns. Tyler didn't ask who Rosa was.
+
+"Where'd you learn to do that?" Sam asked Wade.
+
+"Told you. Worked the grill line through school." Wade didn't say the rest of it, that everyone he'd worked the line with forty years back was probably gone now, and here he was doing it again for one scared kid instead of a full counter.
+
+Tyler ate like someone who hadn't in a while, careful and then not careful at all, and the three of them let the rest of the meal go quiet.
+
+When they came out, Sam was looking across the divided highway. An RV dealer's lot `[verify location near HSV]`, two rows of motorhomes under the sodium lights, lit off the same patch of grid. Nobody was getting a real night's sleep in the PC-12 with the cabin stacked with cargo. The sales office was locked. Sam put an elbow through the glass beside the handle, reached in, and found the key cabinet behind the desk, every key on a tag with a stock number. He matched two of them to a pair of motorhomes parked side by side at the end of the row, a Class C with a bunk over the cab and a Class A beside it, and Wade drove the car across at the median cut. Tyler was asleep in the back seat before they got there. Sam carried him up the steps of the Class C without waking him, laid him on the bed in back under a blanket off the display, and came back out to find Wade at the dinette with both hands pressed flat against his knees, not breathing right.
+
+It came out of him all at once, over a ten-year-old with a rocket ship on his door who'd sat behind it alone for two days waiting for somebody to come. Wade hadn't cried in front of anyone yet, not over a stranger in a car on his own road, not at Harry's bedside, not in Sam's hallway while Sam found his wife and daughter. It was the blanket around Tyler's shoulders that did it. He put his face in his hands at the dinette of a motorhome off a dealer's lot and let it happen.
+
+Sam didn't say anything. He sat down across the dinette and stayed there, one hand on Wade's shoulder for a moment and then just beside him.
+
+It didn't last long. When Wade sat back up, wiped his face with the heel of his hand, and let out a breath that shook a little on the way out, Sam still hadn't said a word. They sat a while longer, not talking much, listening to Tyler breathe in his sleep. Then Wade took Dan next door to the Class A and lay down in his clothes.
+
+Around midnight the patch of grid gave out. Wade woke to the dark outside the window where the lot lights had been, listened a minute to nothing, and slept again. They woke to a gray sky. Breakfast was the last of the sandwiches Wade had made at PDK, eaten at the Class C's dinette. Tyler was quiet. He didn't cry. He asked once, very small, whether they were leaving Carl here, and Wade told him the truth, that they were, that there wasn't a better answer for any of them today, and that it didn't mean anyone had stopped caring about what was left in that house. Tyler nodded like he'd expected that answer.
+
+They drove back across the highway to the airport. The GA ramp gave them the same luck as the rental lot. The low cinderblock FBO had its lights dead and its door unlocked, and behind the counter was a pegboard of tagged keys, one marked FUEL TRUCK in block handwriting. Sam had the truck started and rolling onto the ramp before Wade had finished checking the office for a working phone; the engine caught on the second try. Sam read the placard on the truck's tank, JET A, and climbed up. He worked the hose and the ladder himself, up on the wing feeding fuel into the tanks, while Wade chocked the wheels and watched the quantity gauges climb.
+
+Then he came down, wiped his hands on a rag off the truck's mirror, and nodded Wade and Tyler toward the nose. "Preflight," he said. "Every time, no exceptions." He looked at Tyler, hanging back with his hands in his jacket pockets. "You too. Come look."
+
+They walked it together, Sam narrating the way Wade guessed he'd narrated it to a hundred new first officers, slower now and plainer, pitched for a ten-year-old and a pilot with eleven hundred hours in a Skylane and none in anything with a turbine. Fuel caps seated and safetied. Sumps drained into a little cup Sam handed to Tyler to hold ("checking for water, see how it comes out clean, that's what we want"). The prop pulled through by hand while Sam explained why one nick in any of the five blades mattered, the pitot tube uncovered and clear, the gear legs checked for strut extension. At the tail Tyler asked about the rubber strip along the leading edge. "Deice boot," Sam told him. "Inflates when we need it and breaks the ice off before it can build up and change how the wing flies." Tyler didn't answer, but Wade caught him glancing up at the sky once, and Sam saw it too and let it go.
+
+By the time they'd worked all the way around, Wade had the start of a checklist in his head he hadn't carried the morning before. "Good enough," Sam said, and gave the last inspection panel a pat. He held the door for Tyler, then for Wade, and climbed in last.
+
+"Phoenix next," Sam said. He glanced back once at Tyler, already half-asleep again against the window, then at Wade. "What are we going to do about Tyler and his mom?"

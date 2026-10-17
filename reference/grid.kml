@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Complete US Grid Collapse Hazard Polygons (26 Sites)</name>
+  <description>Spherical-trigonometry generated 10-mile/5-mile inner exclusion rings and 50-mile directional September downwind plume wedges.</description>
+  <Style id="tier1"><LineStyle><color>ff0000ff</color><width>2</width></LineStyle><PolyStyle><color>550000ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style>
+  <Style id="tier2"><LineStyle><color>ff0080ff</color><width>2</width></LineStyle><PolyStyle><color>660080ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style>
+  <Style id="tier3"><LineStyle><color>ff800080</color><width>2</width></LineStyle><PolyStyle><color>55ff00ff</color><fill>1</fill><outline>1</outline></PolyStyle></Style>
+  <Style id="tier4"><LineStyle><color>ff00aaff</color><width>2</width></LineStyle><PolyStyle><color>4400ffff</color><fill>1</fill><outline>1</outline></PolyStyle></Style>
+
+  <!-- ==================== TIER 1: BWR MARK I & II (36-48 HR BREACH) ==================== -->
+  <Folder>
+    <name>Tier 1: BWR Mark I &amp; II (36-48 Hr Breach + H2 Explosion)</name>
+    <Placemark>
+      <name>Browns Ferry Nuclear (U1-3) (10-Mi Core Zone)</name>
+      <description>BWR/4 Mark I. Hour 36-48 breach toward Huntsville AL.</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.1189,34.8489,0 -87.0731,34.8445,0 -87.0301,34.8316,0 -86.9926,34.8108,0 -86.9630,34.7835,0 -86.9430,34.7514,0 -86.9338,34.7163,0 -86.9358,34.6801,0 -86.9488,34.6451,0 -86.9720,34.6131,0 -87.0040,34.5859,0 -87.0428,34.5653,0 -87.0865,34.5526,0 -87.1326,34.5484,0 -87.1786,34.5526,0 -87.2223,34.5653,0 -87.2611,34.5859,0 -87.2931,34.6131,0 -87.3163,34.6451,0 -87.3293,34.6801,0 -87.3313,34.7163,0 -87.3221,34.7514,0 -87.3021,34.7835,0 -87.2725,34.8108,0 -87.2350,34.8316,0 -87.1920,34.8445,0 -87.1189,34.8489,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Browns Ferry Nuclear (U1-3) (50-Mi ENE Plume Toward Huntsville)</name>
+      <description>BWR/4 Mark I. Hour 36-48 breach toward Huntsville AL (Bearing 085 deg).</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.1189,34.7042,0 -86.3095,35.0084,0 -86.2831,34.9482,0 -86.2624,34.8865,0 -86.2477,34.8238,0 -86.2390,34.7604,0 -86.2364,34.6967,0 -86.2399,34.6331,0 -86.2495,34.5699,0 -86.2651,34.5076,0 -87.1189,34.7042,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Browns Ferry Synoptic Vector (50-Mi WNW Plume Toward Muscle Shoals)</name>
+      <description>BWR/4 Mark I. Bimodal ESE wind vector toward Muscle Shoals AL (Bearing 290 deg).</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-87.1189,34.7042,0 -87.9942,34.7328,0 -87.9890,34.7964,0 -87.9776,34.8596,0 -87.9602,34.9219,0 -87.9369,34.9830,0 -87.9078,35.0425,0 -87.8732,35.1000,0 -87.8333,35.1552,0 -87.1189,34.7042,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Edwin I. Hatch Nuclear (U1-2) (10-Mi Core Zone)</name>
+      <description>BWR/4 Mark I. Hour 36-48 breach in SE Georgia.</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-82.3444,32.0789,0 -82.2906,32.0715,0 -82.2414,32.0504,0 -82.2016,32.0176,0 -82.1753,31.9762,0 -82.1656,31.9301,0 -82.1743,31.8837,0 -82.1997,31.8419,0 -82.2389,31.8085,0 -82.2877,31.7867,0 -82.3444,31.7795,0 -82.4011,31.7867,0 -82.4499,31.8085,0 -82.4891,31.8419,0 -82.5145,31.8837,0 -82.5232,31.9301,0 -82.5135,31.9762,0 -82.4872,32.0176,0 -82.4474,32.0504,0 -82.3982,32.0715,0 -82.3444,32.0789,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Edwin I. Hatch Nuclear (U1-2) (50-Mi Downwind Plume)</name>
+      <description>BWR/4 Mark I. Hour 36-48 breach in SE Georgia (Bearing 255 deg).</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-82.3444,31.9342,0 -83.0768,31.4912,0 -83.1245,31.5584,0 -83.1628,31.6298,0 -83.1912,31.7044,0 -83.2092,31.7812,0 -83.2165,31.8592,0 -83.2131,31.9374,0 -83.1989,32.0147,0 -83.1741,32.0902,0 -82.3444,31.9342,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Peach Bottom Nuclear (U2-3) (10-Mi Core Zone)</name>
+      <description>BWR/4 Mark I. Hour 36-48 breach toward Wilmington/Phila suburbs.</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-76.2686,39.9036,0 -76.2089,39.8962,0 -76.1544,39.8751,0 -76.1103,39.8423,0 -76.0811,39.8009,0 -76.0704,39.7548,0 -76.0801,39.7084,0 -76.1083,39.6666,0 -76.1517,39.6332,0 -76.2058,39.6114,0 -76.2686,39.6142,0 -76.3314,39.6114,0 -76.3855,39.6332,0 -76.4289,39.6666,0 -76.4571,39.7084,0 -76.4668,39.7548,0 -76.4561,39.8009,0 -76.4269,39.8423,0 -76.3828,39.8751,0 -76.3283,39.8962,0 -76.2686,39.9036,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Peach Bottom Nuclear (U2-3) (50-Mi Downwind Plume)</name>
+      <description>BWR/4 Mark I. Hour 36-48 breach toward Wilmington/Phila suburbs (Bearing 075 deg).</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-76.2686,39.7589,0 -75.4742,40.1982,0 -75.4218,40.1314,0 -75.3798,40.0602,0 -75.3488,39.9858,0 -75.3292,39.9091,0 -75.3212,39.8311,0 -75.3251,39.7529,0 -75.3408,39.6756,0 -75.3682,39.6001,0 -76.2686,39.7589,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Limerick Generating Station (U1-2) (10-Mi Core Zone)</name>
+      <description>BWR/4 Mark II. Hour 36-48 breach toward Philadelphia PA.</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-75.5875,40.3689,0 -75.5274,40.3615,0 -75.4725,40.3404,0 -75.4281,40.3076,0 -75.3987,40.2662,0 -75.3879,40.2201,0 -75.3977,40.1737,0 -75.4261,40.1319,0 -75.4698,40.0985,0 -75.5243,40.0767,0 -75.5875,40.0795,0 -75.6507,40.0767,0 -75.7052,40.0985,0 -75.7489,40.1319,0 -75.7773,40.1737,0 -75.7871,40.2201,0 -75.7763,40.2662,0 -75.7469,40.3076,0 -75.7025,40.3404,0 -75.6476,40.3615,0 -75.5875,40.3689,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Limerick Generating Station (U1-2) (50-Mi Downwind Plume)</name>
+      <description>BWR/4 Mark II. Hour 36-48 breach toward Philadelphia PA (Bearing 115 deg).</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-75.5875,40.2242,0 -74.6421,40.1852,0 -74.6512,40.1070,0 -74.6721,40.0298,0 -74.7048,39.9547,0 -74.7489,39.8829,0 -74.8038,39.8155,0 -74.8691,39.7535,0 -74.9441,39.6979,0 -75.5875,40.2242,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Susquehanna Nuclear (U1-2) (10-Mi Core Zone)</name>
+      <description>BWR/4 Mark II. Hour 36-48 breach toward Wilkes-Barre/Scranton PA.</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-76.1461,41.2366,0 -76.0852,41.2292,0 -76.0296,41.2081,0 -75.9846,41.1753,0 -75.9548,41.1339,0 -75.9439,41.0878,0 -75.9538,41.0414,0 -75.9826,40.9996,0 -76.0268,40.9662,0 -76.0820,40.9444,0 -76.1461,40.9472,0 -76.2102,40.9444,0 -76.2654,40.9662,0 -76.3096,40.9996,0 -76.3384,41.0414,0 -76.3483,41.0878,0 -76.3374,41.1339,0 -76.3076,41.1753,0 -76.2626,41.2081,0 -76.2070,41.2292,0 -76.1461,41.2366,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Susquehanna Nuclear (U1-2) (50-Mi Downwind Plume)</name>
+      <description>BWR/4 Mark II. Hour 36-48 breach toward Wilkes-Barre/Scranton PA (Bearing 065 deg).</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-76.1461,41.0919,0 -75.4412,41.6124,0 -75.3782,41.5521,0 -75.3248,41.4862,0 -75.2818,41.4158,0 -75.2498,41.3418,0 -75.2292,41.2652,0 -75.2201,41.1872,0 -76.1461,41.0919,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Hope Creek Generating Station (10-Mi Core Zone)</name>
+      <description>BWR/4 Mark I. Hour 36-48 breach toward Wilmington/Phila/South NJ.</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-75.5381,39.6125,0 -75.4786,39.6051,0 -75.4243,39.5840,0 -75.3804,39.5512,0 -75.3513,39.5098,0 -75.3407,39.4637,0 -75.3503,39.4173,0 -75.3784,39.3755,0 -75.4216,39.3421,0 -75.4755,39.3203,0 -75.5381,39.3231,0 -75.6007,39.3203,0 -75.6546,39.3421,0 -75.6978,39.3755,0 -75.7259,39.4173,0 -75.7355,39.4637,0 -75.7249,39.5098,0 -75.6958,39.5512,0 -75.6519,39.5840,0 -75.5976,39.6051,0 -75.5381,39.6125,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Hope Creek Generating Station (50-Mi Downwind Plume)</name>
+      <description>BWR/4 Mark I. Hour 36-48 breach toward Wilmington/Phila/South NJ (Bearing 045 deg).</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-75.5381,39.4678,0 -75.0842,40.1124,0 -75.0021,40.0712,0 -74.9268,40.0221,0 -74.8592,39.9658,0 -74.8004,39.9031,0 -74.7512,39.8351,0 -74.7124,39.7628,0 -75.5381,39.4678,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Dresden Generating Station (U2-3) (10-Mi Core Zone)</name>
+      <description>BWR/3 Mark I. Hour 36-48 breach toward Joliet &amp; Chicago IL.</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2711,41.5344,0 -88.2099,41.5270,0 -88.1541,41.5059,0 -88.1089,41.4731,0 -88.0790,41.4317,0 -88.0680,41.3856,0 -88.0780,41.3392,0 -88.1069,41.2974,0 -88.1513,41.2640,0 -88.2068,41.2422,0 -88.2711,41.2450,0 -88.3354,41.2422,0 -88.3909,41.2640,0 -88.4353,41.2974,0 -88.4642,41.3392,0 -88.4742,41.3856,0 -88.4632,41.4317,0 -88.4333,41.4731,0 -88.3881,41.5059,0 -88.3323,41.5270,0 -88.2711,41.5344,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Dresden Generating Station (U2-3) (50-Mi Downwind Plume Into Chicago)</name>
+      <description>BWR/3 Mark I. Hour 36-48 breach toward Joliet &amp; Chicago IL (Bearing 045 deg).</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.2711,41.3897,0 -87.8412,42.0412,0 -87.7562,42.0018,0 -87.6778,41.9542,0 -87.6071,41.8991,0 -87.5452,41.8374,0 -87.4931,41.7701,0 -87.4514,41.6982,0 -88.2711,41.3897,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Quad Cities Station (U1-2) (10-Mi Core Zone)</name>
+      <description>BWR/3 Mark I. Hour 36-48 breach on Mississippi River IA/IL.</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-90.3419,41.8708,0 -90.2804,41.8634,0 -90.2243,41.8423,0 -90.1789,41.8095,0 -90.1488,41.7681,0 -90.1378,41.7220,0 -90.1478,41.6756,0 -90.1769,41.6338,0 -90.2215,41.6004,0 -90.2773,41.5786,0 -90.3419,41.5814,0 -90.4065,41.5786,0 -90.4623,41.6004,0 -90.5069,41.6338,0 -90.5360,41.6756,0 -90.5460,41.7220,0 -90.5350,41.7681,0 -90.5049,41.8095,0 -90.4595,41.8423,0 -90.4034,41.8634,0 -90.3419,41.8708,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Quad Cities Station (U1-2) (50-Mi Downwind Plume)</name>
+      <description>BWR/3 Mark I. Hour 36-48 breach on Mississippi River IA/IL (Bearing 070 deg).</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-90.3419,41.7261,0 -89.5742,42.1984,0 -89.5162,42.1342,0 -89.4682,42.0654,0 -89.4312,41.9928,0 -89.4058,41.9172,0 -89.3921,41.8398,0 -89.3904,41.7618,0 -90.3419,41.7261,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>LaSalle County Station (U1-2) (10-Mi Core Zone)</name>
+      <description>BWR/5 Mark II. Hour 36-48 breach toward SW Chicago suburbs.</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.6708,41.3903,0 -88.6097,41.3829,0 -88.5540,41.3618,0 -88.5089,41.3290,0 -88.4790,41.2876,0 -88.4681,41.2415,0 -88.4780,41.1951,0 -88.5069,41.1533,0 -88.5512,41.1199,0 -88.6066,41.0981,0 -88.6708,41.1009,0 -88.7350,41.0981,0 -88.7904,41.1199,0 -88.8347,41.1533,0 -88.8636,41.1951,0 -88.8735,41.2415,0 -88.8626,41.2876,0 -88.8327,41.3290,0 -88.7876,41.3618,0 -88.7319,41.3829,0 -88.6708,41.3903,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>LaSalle County Station (U1-2) (50-Mi Downwind Plume)</name>
+      <description>BWR/5 Mark II. Hour 36-48 breach toward SW Chicago suburbs (Bearing 050 deg).</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-88.6708,41.2456,0 -88.1642,41.8654,0 -88.0842,41.8192,0 -88.0124,41.7654,0 -87.9498,41.7048,0 -87.8974,41.6384,0 -87.8562,41.5672,0 -87.8268,41.4924,0 -88.6708,41.2456,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Fermi Nuclear Station (U2) (10-Mi Core Zone)</name>
+      <description>BWR/4 Mark I. Hour 36-48 breach toward Detroit MI / Windsor ON.</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-83.2592,42.1078,0 -83.1975,42.1004,0 -83.1412,42.0793,0 -83.0956,42.0465,0 -83.0654,42.0051,0 -83.0544,41.9590,0 -83.0644,41.9126,0 -83.0936,41.8708,0 -83.1384,41.8374,0 -83.1944,41.8156,0 -83.2592,41.8184,0 -83.3240,41.8156,0 -83.3800,41.8374,0 -83.4248,41.8708,0 -83.4540,41.9126,0 -83.4640,41.9590,0 -83.4530,42.0051,0 -83.4228,42.0465,0 -83.3772,42.0793,0 -83.3209,42.1004,0 -83.2592,42.1078,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Fermi Nuclear Station (U2) (50-Mi Downwind Plume)</name>
+      <description>BWR/4 Mark I. Hour 36-48 breach toward Detroit MI / Windsor ON (Bearing 040 deg).</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-83.2592,41.9631,0 -82.9124,42.6412,0 -82.8214,42.6084,0 -82.7358,42.5672,0 -82.6568,42.5182,0 -82.5858,42.4621,0 -82.5241,42.3998,0 -82.4728,42.3324,0 -83.2592,41.9631,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Brunswick Nuclear Plant (U1-2) (10-Mi Core Zone)</name>
+      <description>BWR/4 Mark I. Hour 36-48 breach toward Wilmington NC.</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-78.0106,34.1030,0 -77.9554,34.0956,0 -77.9050,34.0745,0 -77.8642,34.0417,0 -77.8372,34.0003,0 -77.8273,33.9542,0 -77.8362,33.9078,0 -77.8622,33.8660,0 -77.9024,33.8326,0 -77.9525,33.8108,0 -78.0106,33.8136,0 -78.0687,33.8108,0 -78.1188,33.8326,0 -78.1590,33.8660,0 -78.1850,33.9078,0 -78.1939,33.9542,0 -78.1840,34.0003,0 -78.1570,34.0417,0 -78.1162,34.0745,0 -78.0658,34.0956,0 -78.0106,34.1030,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Brunswick Nuclear Plant (U1-2) (50-Mi Downwind Plume)</name>
+      <description>BWR/4 Mark I. Hour 36-48 breach toward Wilmington NC (Bearing 025 deg).</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-78.0106,33.9583,0 -77.9542,34.6812,0 -77.8592,34.6684,0 -77.7668,34.6458,0 -77.6782,34.6138,0 -77.5952,34.5728,0 -77.5192,34.5238,0 -77.4514,34.4674,0 -78.0106,33.9583,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Nine Mile Point &amp; FitzPatrick (10-Mi Core Zone)</name>
+      <description>3 BWR Mark I units. Hour 36-48 breach toward Syracuse NY.</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-76.4083,43.6669,0 -76.3452,43.6595,0 -76.2877,43.6384,0 -76.2411,43.6056,0 -76.2102,43.5642,0 -76.1990,43.5181,0 -76.2092,43.4717,0 -76.2391,43.4299,0 -76.2849,43.3965,0 -76.3421,43.3747,0 -76.4083,43.3775,0 -76.4745,43.3747,0 -76.5317,43.3965,0 -76.5775,43.4299,0 -76.6074,43.4717,0 -76.6176,43.5181,0 -76.6064,43.5642,0 -76.5755,43.6056,0 -76.5289,43.6384,0 -76.4714,43.6595,0 -76.4083,43.6669,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Nine Mile Point &amp; FitzPatrick (50-Mi Downwind Plume)</name>
+      <description>3 BWR Mark I units. Hour 36-48 breach toward Syracuse NY (Bearing 110 deg).</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-76.4083,43.5222,0 -75.4214,43.5512,0 -75.4248,43.4728,0 -75.4412,43.3952,0 -75.4704,43.3198,0 -75.5124,43.2478,0 -75.5668,43.1802,0 -75.6328,43.1182,0 -76.4083,43.5222,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Monticello Nuclear Plant (10-Mi Core Zone)</name>
+      <description>BWR/3 Mark I. Hour 36-48 breach toward Minneapolis-St. Paul MN.</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-93.8483,45.4783,0 -93.7832,45.4709,0 -93.7239,45.4498,0 -93.6758,45.4170,0 -93.6440,45.3756,0 -93.6324,45.3295,0 -93.6430,45.2831,0 -93.6738,45.2413,0 -93.7210,45.2079,0 -93.7800,45.1861,0 -93.8483,45.1889,0 -93.9166,45.1861,0 -93.9756,45.2079,0 -94.0228,45.2413,0 -94.0536,45.2831,0 -94.0642,45.3295,0 -94.0526,45.3756,0 -94.0208,45.4170,0 -93.9727,45.4498,0 -93.9134,45.4709,0 -93.8483,45.4783,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Monticello Nuclear Plant (50-Mi Downwind Plume Into Twin Cities)</name>
+      <description>BWR/3 Mark I. Hour 36-48 breach toward Minneapolis-St. Paul MN (Bearing 125 deg).</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-93.8483,45.3336,0 -92.8412,45.1624,0 -92.8684,45.0852,0 -92.9082,45.0112,0 -92.9604,44.9418,0 -93.0248,44.8782,0 -93.1004,44.8214,0 -93.1862,44.7728,0 -93.8483,45.3336,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Cooper Nuclear Station (10-Mi Core Zone)</name>
+      <description>BWR/4 Mark I. Hour 36-48 breach on Missouri River NE/IA.</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-95.6414,40.5066,0 -95.5811,40.4992,0 -95.5261,40.4781,0 -95.4816,40.4453,0 -95.4521,40.4039,0 -95.4413,40.3578,0 -95.4511,40.3114,0 -95.4796,40.2696,0 -95.5234,40.2362,0 -95.5780,40.2144,0 -95.6414,40.2172,0 -95.7048,40.2144,0 -95.7594,40.2362,0 -95.8032,40.2696,0 -95.8317,40.3114,0 -95.8415,40.3578,0 -95.8307,40.4039,0 -95.8012,40.4453,0 -95.7567,40.4781,0 -95.7017,40.4992,0 -95.6414,40.5066,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Cooper Nuclear Station (50-Mi Downwind Plume)</name>
+      <description>BWR/4 Mark I. Hour 36-48 breach on Missouri River NE/IA (Bearing 015 deg).</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-95.6414,40.3619,0 -95.7214,41.0842,0 -95.6214,41.0812,0 -95.5224,41.0684,0 -95.4262,41.0458,0 -95.3342,41.0138,0 -95.2482,40.9728,0 -95.6414,40.3619,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Columbia Generating Station (10-Mi Core Zone)</name>
+      <description>BWR/5 Mark II. Hour 36-48 breach near Tri-Cities WA.</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-119.3339,46.6158,0 -119.2674,46.6084,0 -119.2069,46.5873,0 -119.1578,46.5545,0 -119.1253,46.5131,0 -119.1135,46.4670,0 -119.1243,46.4206,0 -119.1558,46.3788,0 -119.2040,46.3454,0 -119.2642,46.3236,0 -119.3339,46.3264,0 -119.4036,46.3236,0 -119.4638,46.3454,0 -119.5120,46.3788,0 -119.5435,46.4206,0 -119.5543,46.4670,0 -119.5425,46.5131,0 -119.5100,46.5545,0 -119.4609,46.5873,0 -119.4004,46.6084,0 -119.3339,46.6158,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Columbia Generating Station (50-Mi Downwind Plume)</name>
+      <description>BWR/5 Mark II. Hour 36-48 breach near Tri-Cities WA (Bearing 065 deg).</description>
+      <styleUrl>#tier1</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-119.3339,46.4711,0 -118.5612,46.9924,0 -118.4912,46.9312,0 -118.4324,46.8648,0 -118.3858,46.7942,0 -118.3518,46.7198,0 -118.3312,46.6432,0 -119.3339,46.4711,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+  </Folder>
+
+  <!-- ==================== TIER 2: PETROCHEMICAL & TOXIC GAS HUBS ==================== -->
+  <Folder>
+    <name>Tier 2: Petrochemical &amp; Toxic Gas Hubs (24-72 Hr Chiller Loss)</name>
+    <Placemark>
+      <name>Houston Ship Channel &amp; Baytown (8-Mi Core BLEVE Zone)</name>
+      <description>Hour 24-72 monomer runaway, BLEVE &amp; HF plume across Houston TX.</description>
+      <styleUrl>#tier2</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-95.1147,29.8513,0 -95.0725,29.8454,0 -95.0340,29.8285,0 -95.0028,29.8023,0 -94.9822,29.7691,0 -94.9746,29.7322,0 -94.9814,29.6951,0 -95.0013,29.6617,0 -95.0320,29.6350,0 -95.0702,29.6175,0 -95.1147,29.6197,0 -95.1592,29.6175,0 -95.1974,29.6350,0 -95.2281,29.6617,0 -95.2480,29.6951,0 -95.2548,29.7322,0 -95.2472,29.7691,0 -95.2266,29.8023,0 -95.1954,29.8285,0 -95.1569,29.8454,0 -95.1147,29.8513,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Houston Ship Channel &amp; Baytown (25-Mi Downwind Toxic Plume)</name>
+      <description>Hour 24-72 monomer runaway, BLEVE &amp; HF plume across Houston TX (Bearing 340 deg).</description>
+      <styleUrl>#tier2</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-95.1147,29.7355,0 -95.4412,30.0124,0 -95.3612,30.0584,0 -95.2742,30.0882,0 -95.1824,30.1012,0 -95.0892,30.0972,0 -94.9982,30.0764,0 -95.1147,29.7355,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Beaumont / Port Arthur Complex (20-Mi Downwind Toxic Plume)</name>
+      <description>Hour 24-72 HF and butadiene runaway plume (Bearing 345 deg).</description>
+      <styleUrl>#tier2</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-93.9614,29.9547,0 -94.1842,30.1982,0 -94.1124,30.2284,0 -94.0358,30.2442,0 -93.9568,30.2452,0 -93.8788,30.2312,0 -93.9614,29.9547,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Baton Rouge - Geismar Corridor (25-Mi Downwind Chlorine/VCM Plume)</name>
+      <description>Hour 24-72 chlorine, phosgene &amp; VCM ground plume in LA (Bearing 320 deg).</description>
+      <styleUrl>#tier2</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-91.0189,30.2183,0 -91.4214,30.4124,0 -91.3684,30.4782,0 -91.2982,30.5312,0 -91.2142,30.5684,0 -91.1214,30.5882,0 -91.0189,30.2183,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Kanawha Valley Chemical Hub (18-Mi Valley-Channeled Plume)</name>
+      <description>Hour 24-72 valley-channeled ethylene oxide plume toward Charleston WV (Bearing 075 deg).</description>
+      <styleUrl>#tier2</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-81.7667,38.3814,0 -81.4812,38.5214,0 -81.4542,38.4782,0 -81.4398,38.4312,0 -81.4382,38.3824,0 -81.7667,38.3814,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Delaware River Refining Hub (18-Mi HF &amp; NGL Plume)</name>
+      <description>Hour 24-72 HF alkylation &amp; NGL vapor cloud zone near Phila/Wilmington (Bearing 055 deg).</description>
+      <styleUrl>#tier2</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-75.4114,39.8153,0 -75.1842,40.0412,0 -75.1284,40.0082,0 -75.0824,39.9642,0 -75.0484,39.9112,0 -75.4114,39.8153,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+  </Folder>
+
+  <!-- ==================== TIER 3: PWR ICE CONDENSER PLANTS ==================== -->
+  <Folder>
+    <name>Tier 3: PWR Ice Condenser Plants (Day 9-11 H2 Overpressure Risk)</name>
+    <Placemark>
+      <name>Sequoyah Nuclear Plant (U1-2) (30-Mi Downwind Plume)</name>
+      <description>PWR Ice Condenser. Day 9-11 breach post-EDG exhaustion near Chattanooga TN (Bearing 045 deg).</description>
+      <styleUrl>#tier3</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-85.0917,35.2267,0 -84.8124,35.6124,0 -84.7412,35.5812,0 -84.6782,35.5398,0 -84.6264,35.4892,0 -84.5872,35.4312,0 -85.0917,35.2267,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Watts Bar Nuclear Plant (U1-2) (30-Mi Downwind Plume)</name>
+      <description>PWR Ice Condenser. Day 9-11 breach in East Tennessee Valley (Bearing 045 deg).</description>
+      <styleUrl>#tier3</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-84.7894,35.6025,0 -84.5102,35.9882,0 -84.4390,35.9570,0 -84.3760,35.9156,0 -84.3242,35.8650,0 -84.2850,35.8070,0 -84.7894,35.6025,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>McGuire &amp; Catawba Nuclear (4 Units) (30-Mi Plume Across Charlotte NC)</name>
+      <description>4 PWR Ice Condenser units. Day 9-11 breach across Charlotte Metro NC (Bearing 040 deg).</description>
+      <styleUrl>#tier3</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-81.0088,35.2418,0 -80.7812,35.6512,0 -80.6982,35.6242,0 -80.6214,35.5842,0 -80.5542,35.5324,0 -80.4992,35.4712,0 -81.0088,35.2418,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Donald C. Cook Nuclear (U1-2) (30-Mi Downwind Plume)</name>
+      <description>PWR Ice Condenser. Day 9-11 breach in SW Michigan (Bearing 065 deg).</description>
+      <styleUrl>#tier3</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-86.5664,41.9758,0 -86.1124,42.2812,0 -86.0582,42.2242,0 -86.0182,42.1598,0 -85.9942,42.0912,0 -86.5664,41.9758,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+  </Folder>
+
+  <!-- ==================== TIER 4: LARGE DRY PWRS & SPENT FUEL POOLS ==================== -->
+  <Folder>
+    <name>Tier 4: Large Dry PWRs (5-Mi Day 16 BMT + 50-Mi Day 25 SFP Plume)</name>
+    <Placemark>
+      <name>Palo Verde Nuclear (U1-3) (5-Mi Core Basemat Zone)</name>
+      <description>Large Dry PWR. Core contained; 5-mile zone marks Day 15-18 Basemat Melt-Through boundary.</description>
+      <styleUrl>#tier4</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-112.8617,33.4605,0 -112.8184,33.4508,0 -112.7867,33.4243,0 -112.7751,33.3881,0 -112.7867,33.3519,0 -112.8184,33.3254,0 -112.8617,33.3157,0 -112.9050,33.3254,0 -112.9367,33.3519,0 -112.9483,33.3881,0 -112.9367,33.4243,0 -112.9050,33.4508,0 -112.8617,33.4605,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Palo Verde Nuclear (U1-3) (50-Mi Spent Fuel Pool Plume Toward Phoenix)</name>
+      <description>50-mile cone shows Day 20-40 Spent Fuel Pool Zr-fire risk toward Buckeye and Phoenix (Bearing 082 deg).</description>
+      <styleUrl>#tier4</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-112.8617,33.3881,0 -112.0450,33.6820,0 -112.0124,33.6012,0 -111.9942,33.5182,0 -111.9912,33.4342,0 -112.0024,33.3512,0 -112.0250,33.2850,0 -112.8617,33.3881,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Plant Vogtle (U1-2 PWR / U3-4 AP1000) (5-Mi U1-2 Basemat Zone)</name>
+      <description>U3-4 AP1000s remain intact via passive air cooling. U1-2 5-mile ring marks Day 16 Basemat Melt-Through.</description>
+      <styleUrl>#tier4</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-81.7625,33.2143,0 -81.7193,33.2046,0 -81.6877,33.1781,0 -81.6761,33.1419,0 -81.6877,33.1057,0 -81.7193,33.0792,0 -81.7625,33.0695,0 -81.8057,33.0792,0 -81.8373,33.1057,0 -81.8489,33.1419,0 -81.8373,33.1781,0 -81.8057,33.2046,0 -81.7625,33.2143,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Plant Vogtle (U1-2) (45-Mi Spent Fuel Pool Plume Toward Augusta)</name>
+      <description>45-mile cone shows U1-2 Day 20-40 SFP fire vector toward Waynesboro and Augusta GA (Atlanta safe, 150 mi WNW).</description>
+      <styleUrl>#tier4</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-81.7625,33.1419,0 -82.3850,33.6820,0 -82.2912,33.7412,0 -82.1842,33.7882,0 -82.0682,33.8212,0 -81.9482,33.8392,0 -81.8850,33.8420,0 -81.7625,33.1419,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Comanche Peak Nuclear (U1-2) (5-Mi Basemat Zone)</name>
+      <description>Large Dry PWR. 5-mile ring marks Day 16 Basemat Melt-Through and Squaw Creek Reservoir impact.</description>
+      <styleUrl>#tier4</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-97.7853,32.3707,0 -97.7425,32.3610,0 -97.7112,32.3345,0 -97.6997,32.2983,0 -97.7112,32.2621,0 -97.7425,32.2356,0 -97.7853,32.2259,0 -97.8281,32.2356,0 -97.8594,32.2621,0 -97.8709,32.2983,0 -97.8594,32.3345,0 -97.8281,32.3610,0 -97.7853,32.3707,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Comanche Peak Nuclear (U1-2) (50-Mi SFP Plume West of DFW)</name>
+      <description>Bearing 350 deg. Tracks NNW over Granbury and Weatherford, passing 25-35 miles west of Fort Worth/Dallas.</description>
+      <styleUrl>#tier4</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-97.7853,32.2983,0 -98.1520,32.9650,0 -98.0412,32.9982,0 -97.9242,33.0182,0 -97.8042,33.0212,0 -97.6842,33.0082,0 -97.6410,32.9920,0 -97.7853,32.2983,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+    <Placemark>
+      <name>South Texas Project (U1-2) (5-Mi Basemat &amp; 45-Mi SFP Plume)</name>
+      <description>Large Dry PWR. 45-mile NNW Spent Fuel Pool vector (Bearing 340 deg).</description>
+      <styleUrl>#tier4</styleUrl>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-96.0481,28.7950,0 -96.5124,29.3512,0 -96.4124,29.3982,0 -96.3012,29.4282,0 -96.1842,29.4412,0 -96.0682,29.4382,0 -96.0481,28.7950,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>

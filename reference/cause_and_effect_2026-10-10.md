@@ -32,8 +32,8 @@ Survivors take a partial hit: some fraction of their Complex IV is knocked out, 
 
 | Symptom | Mechanism | On page |
 | --- | --- | --- |
-| Headache | Brain is the first organ short on usable energy | Will, Day 0 on |
-| Shortness of breath, air hunger, can't get a full breath on a hill | Respiratory drive up from lactic acidosis; muscles short on energy | Will |
+| Headache | Brain is the first organ short on usable energy | Wade, Day 0 on |
+| Shortness of breath, air hunger, can't get a full breath on a hill | Respiratory drive up from lactic acidosis; muscles short on energy | Wade |
 | Scratchy chest, dry cough | Hours of rapid mouth-breathing; dry airliner cabin (~10–20% humidity `[verify]`) | Sam |
 | Fatigue, exercise intolerance | Reduced aerobic capacity | Anyone; show it on stairs and hills |
 
@@ -57,12 +57,12 @@ Survivors take a partial hit: some fraction of their Complex IV is knocked out, 
 - **Earth survivors on the ground get nothing from this**, and the ISS crew are presumably *not* among the 1 in a million. Every rule in §4 still holds for them.
 
 **How the group works it out (the operational chain):**
-1. **The timestamp.** The 911 logs Will pulled in Section 5 include the autodialer calls his filter threw out: crash-detection calls from cars, fall-detection calls from smartwatches. They spike together at 02:00–02:02 EDT in every time zone. One instant, not a spreading outbreak. (Will has had this data since Day 0 and hasn't looked at the calls he discarded.)
+1. **The timestamp.** The 911 logs Wade pulled in Section 5 include the autodialer calls his filter threw out: crash-detection calls from cars, fall-detection calls from smartwatches. They spike together at 02:00–02:02 EDT in every time zone. One instant, not a spreading outbreak. (Wade has had this data since Day 0 and hasn't looked at the calls he discarded.)
 2. **The source and direction.** Automated physics alerts need no human in the loop:
    - **SNEWS** (Supernova Early Warning System) issues an automatic alert when two or more neutrino detectors (Super-Kamiokande, IceCube, others) record a burst within seconds of each other. `[verify: SNEWS 2.0 coincidence window, alert path through NASA GCN]` `[fiction: the wave registers as a burst]`
    - **NASA GCN** (General Coordinates Network) machine notices from gamma-ray satellites (Fermi GBM, Swift BAT) on the side of the Earth facing the source, if the starquake also threw off a gamma-ray flare, as real magnetar giant flares do (SGR 1806-20, Dec 2004). These give a sky position. `[verify]`
-   - Both are public, machine-generated, and timestamped to the millisecond at **06:00:00 UTC**. Will's Day 0 pull needs to have captured them, either in the hourly archive or in the NOAA space-weather and science pulls. **This is a prose hook to add (Section 1 or 5).** `[decide which]`
-3. **The geometry.** The ISS position and velocity at 06:00 UTC, from the orbital elements (TLEs) Will archived and that Tyler knows how to read from his tracking habit, combined with the source's sky position, give cos θ. **Tyler can do or check this part.**
+   - Both are public, machine-generated, and timestamped to the millisecond at **06:00:00 UTC**. Wade's Day 0 pull needs to have captured them, either in the hourly archive or in the NOAA space-weather and science pulls. **This is a prose hook to add (Section 1 or 5).** `[decide which]`
+3. **The geometry.** The ISS position and velocity at 06:00 UTC, from the orbital elements (TLEs) Wade archived and that Tyler knows how to read from his tracking habit, combined with the source's sky position, give cos θ. **Tyler can do or check this part.**
 4. **The biology.** Catherine's clinical picture (§3) plus Marchetti's tissue assays at the IRB: Complex IV structurally paralyzed, GC-MS toxicology clean (no cyanide, no CO, no bound toxin). Without the physics this is a mechanism with no cause; with it, the picture closes.
 5. **The closure.** A light-speed transient that hit an energy-specific molecular resonance; the ISS crew escaped by velocity. Nobody can prove the resonance in a lab. It's the only model that fits all five data sets.
 

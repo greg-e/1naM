@@ -1,6 +1,6 @@
-# 8 — Will, Day 2
+# 8 — Wade, Day 2
 
-Will didn't have an answer for him, and said so. "Get him through today. Then figure out how you talk to a space station."
+Wade didn't have an answer for him, and said so. "Get him through today. Then figure out how you talk to a space station."
 
 "That's about where I landed too." Sam pulled the high-altitude enroute chart out of the side pocket, the one he'd taken off the rack in the Epps lobby at PDK, and folded it open across his kneeboard. The route was already keyed into the touchscreen controller on the pedestal: Memphis, Little Rock, Oklahoma City, Amarillo, then southwest across New Mexico into Phoenix. "On paper we make it in one hop. Five hours and change, if the wind does what it usually does this time of year."
 
@@ -8,7 +8,7 @@ Will didn't have an answer for him, and said so. "Get him through today. Then fi
 
 "But I don't know what the wind's doing. Nobody's published a forecast since Monday night. I don't know what's sitting on the runway at Sky Harbor, and there's nobody to ask." He tapped the chart where the line crossed the Texas Panhandle. "Amarillo's right on the way. We stop, top off, stretch our legs, and land in Phoenix with the tanks half full instead of hoping. I told you probably two stops last night. One's plenty."
 
-"Don't launch with known holes," Will said, half to himself. He'd heard Sam say it often enough that it was starting to come out in his own voice.
+"Don't launch with known holes," Wade said, half to himself. He'd heard Sam say it often enough that it was starting to come out in his own voice.
 
 Sam glanced over. "Now you're flying it right."
 
@@ -20,7 +20,7 @@ Sam leveled them at FL280, let the autothrottle settle, and watched the engine p
 
 "Hand-flying. You want it?"
 
-Will's hands were already on the yoke. "I've got it."
+Wade's hands were already on the yoke. "I've got it."
 
 Sam pressed the red disconnect button on his yoke, and the autopilot-off tone chirped once. "Your airplane."
 
@@ -28,11 +28,11 @@ Sam pressed the red disconnect button on his yoke, and the autopilot-off tone ch
 
 "Heading two-seven-zero, hold two-eight-zero. Yaw damper stays on. That's all you're doing."
 
-It should have been easy. Will had flown plenty of hard IFR out of PDK in his 182, but the 182 had never been above fourteen thousand feet. The first time he pressed on the yoke to fix a hundred-foot climb, the vertical speed tape jumped past eight hundred feet a minute down. He pulled back, overshot, and gained sixty feet the other way. Up here, in thin air, with a heavy airplane carrying a lot of momentum, every input came back bigger than he'd put it in.
+It should have been easy. Wade had flown plenty of hard IFR out of PDK in his 182, but the 182 had never been above fourteen thousand feet. The first time he pressed on the yoke to fix a hundred-foot climb, the vertical speed tape jumped past eight hundred feet a minute down. He pulled back, overshot, and gained sixty feet the other way. Up here, in thin air, with a heavy airplane carrying a lot of momentum, every input came back bigger than he'd put it in.
 
 "Fingertips," Sam said. "Don't chase the altimeter. Put the flight path marker on the horizon and trim off the pressure. The altitude follows."
 
-Will found the marker on the synthetic-vision display, parked it on the horizon line, and held it there with pressure he could barely feel, thumbing the trim until even that went away. Somewhere over the brown seam where Arkansas gave way to Oklahoma he realized he'd held twenty-eight thousand within forty feet for ten minutes without looking at the numbers. A while after that he stopped thinking about his hands. Sam watched, reached over once or twice to tap the heading readout when it drifted a couple of degrees, and otherwise let him fly.
+Wade found the marker on the synthetic-vision display, parked it on the horizon line, and held it there with pressure he could barely feel, thumbing the trim until even that went away. Somewhere over the brown seam where Arkansas gave way to Oklahoma he realized he'd held twenty-eight thousand within forty feet for ten minutes without looking at the numbers. A while after that he stopped thinking about his hands. Sam watched, reached over once or twice to tap the heading readout when it drifted a couple of degrees, and otherwise let him fly.
 
 Tyler woke somewhere past Oklahoma City. After a while he unbuckled and came forward to kneel in the aisle behind the front seats, chin on his folded arms, looking down at wheat stubble and dry creek beds more than four miles below. "Is that Texas?"
 
@@ -44,7 +44,7 @@ Tyler woke somewhere past Oklahoma City. After a while he unbuckled and came for
 
 "I had an app," Tyler said. "It told you when she was coming over. It doesn't work without the internet."
 
-Will kept his eyes on the flight path marker. "It might still work. If it saved the orbit data before the network went down, it can keep predicting passes for a few days. Let me look at it when we land."
+Wade kept his eyes on the flight path marker. "It might still work. If it saved the orbit data before the network went down, it can keep predicting passes for a few days. Let me look at it when we land."
 
 Tyler nodded like that was a fair trade for now, and stayed kneeling there a while longer, watching Texas slide by underneath him.
 
@@ -52,11 +52,11 @@ Tyler nodded like that was a fair trade for now, and stayed kneeling there a whi
 
 Sam flew his low pass at Amarillo anyway, down Runway 22 at two hundred feet, looking for debris, vehicles, anything on the surface. There was nothing, just a wide, empty field under a hot, flat sky. He came around and landed, and as they taxied in the terminal slid past with the airport's full name across the front in tall letters. Tyler read it aloud: "Rick Husband." Then, to nobody in particular: "He was the commander on Columbia." Nobody answered.
 
-The FBO's Jet-A truck was parked along the ramp fence with the keys in the ignition, and it started on the first try. Will took the nozzle. He clipped the static bonding cable to the airframe before he touched anything else, the way Sam had shown him at PDK, and Sam stopped him at the foot of the stepladder.
+The FBO's Jet-A truck was parked along the ramp fence with the keys in the ignition, and it started on the first try. Wade took the nozzle. He clipped the static bonding cable to the airframe before he touched anything else, the way Sam had shown him at PDK, and Sam stopped him at the foot of the stepladder.
 
 "Not on my wing in those."
 
-Will looked down at his flip-flops, went back to the cabin for the one pair of boots he'd packed, and climbed up with his cap pulled low against the glare. He braced the overwing nozzle against his hip and watched the meter on the truck roll while Sam sumped both tanks and held each sample tube up to the light. Tyler walked Dan along the grass by the fence and waited while Dan inspected every post twice.
+Wade looked down at his flip-flops, went back to the cabin for the one pair of boots he'd packed, and climbed up with his cap pulled low against the glare. He braced the overwing nozzle against his hip and watched the meter on the truck roll while Sam sumped both tanks and held each sample tube up to the light. Tyler walked Dan along the grass by the fence and waited while Dan inspected every post twice.
 
 Forty minutes on the ground, and at 12:25 local they were rolling again.
 
@@ -66,9 +66,9 @@ They picked up the desert a little over an hour later, the ground turning red an
 
 He flew the low pass anyway, down Runway 26 at a couple of hundred feet. It was eleven thousand feet of runway at a real international field, wide enough that the PC-12 felt small over it. It was clear end to end. The airliners sat at their gates where they'd been parked on Monday night, and nothing on the field was moving. He called his turn to final on the tower frequency out of habit. Nobody answered, and 121.5 stayed silent.
 
-He put them down on 26, taxied to the GA ramp, and shut down. The propeller wound down to feather, and the heat came through the airframe within a minute. Will opened the door and let Dan out onto the concrete, then sat on the airstair with the address from the 911 trace on his phone: a house on the east side, eleven miles by road. He was working out whether the rental lot was closer than the long-term parking garage when Dan's head came up.
+He put them down on 26, taxied to the GA ramp, and shut down. The propeller wound down to feather, and the heat came through the airframe within a minute. Wade opened the door and let Dan out onto the concrete, then sat on the airstair with the address from the 911 trace on his phone: a house on the east side, eleven miles by road. He was working out whether the rental lot was closer than the long-term parking garage when Dan's head came up.
 
-Will heard it a second later: an engine, coming fast from the north. A gray Subaru came along the perimeter road outside the fence, trailing a plume of dust, then swung off it straight at the chain-link. It hit the fence at forty miles an hour and went through, dragging a folded panel of fence across its hood for twenty feet before it shook loose. The car fishtailed once on the ramp and stopped broadside a hundred feet off the wingtip. It was ten minutes since their wheels had touched.
+Wade heard it a second later: an engine, coming fast from the north. A gray Subaru came along the perimeter road outside the fence, trailing a plume of dust, then swung off it straight at the chain-link. It hit the fence at forty miles an hour and went through, dragging a folded panel of fence across its hood for twenty feet before it shook loose. The car fishtailed once on the ramp and stopped broadside a hundred feet off the wingtip. It was ten minutes since their wheels had touched.
 
 "Well," Sam said, from under the wing. "Somebody heard us."
 
@@ -78,9 +78,9 @@ The woman who got out was tall and straight-backed, with silver-streaked dark ha
 
 She stopped a few feet off the wingtip and took in the airplane, the two men, and the boy peering out of the door behind them, and then Dan shoved past everyone to get to her first. For a second her face came open. Then she put it back.
 
-"Catherine Navarro," she said. "ER doctor. Or I was." She let Dan push his head into her hand. "Yours is the first engine I've heard in three days that wasn't my own car. I'm extremely glad to see you."
+"Catherine Dahl," she said. "ER doctor. Or I was." She let Dan push his head into her hand. "Yours is the first engine I've heard in three days that wasn't my own car. I'm extremely glad to see you."
 
-"Will," he said. "This is Sam. And this is Tyler. We found him in Huntsville yesterday."
+"Wade," he said. "This is Sam. And this is Tyler. We found him in Huntsville yesterday."
 
 Catherine looked at Tyler longer than at either of the men. "Huntsville to here in a day," she said. "You've been busy."
 
@@ -88,7 +88,7 @@ Catherine looked at Tyler longer than at either of the men. "Huntsville to here 
 
 "Find me how? I haven't told anyone where I am. There isn't anyone to tell."
 
-Will held up his phone with the address on it. "You called 911 Tuesday. Something answered, and it kept a record. We were about to drive to your house."
+Wade held up his phone with the address on it. "You called 911 Tuesday. Something answered, and it kept a record. We were about to drive to your house."
 
 She looked at the address for a long moment. "I argued with it," she said. "For a while."
 

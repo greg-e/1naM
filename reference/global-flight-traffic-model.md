@@ -2,7 +2,7 @@
 
 Interactive tool: https://claude.ai/artifact/QjT5DAQGHAFGTdJiUwvH5w
 
-A scenario calculator for placing any real-world-style flight's phase (pre-departure / climb / cruise / descent / arrived) and position at exactly 2:00 AM EDT (06:00 UTC) on any date — built to ground future flights the way `DAL27_Emergency_Turnback_Dossier.pdf` grounded Sam's turnback in Section 2. Give it a departure airport, arrival airport, aircraft type, and local departure time, and it computes where that aircraft actually is — position, altitude, speed, day/night, nearest field — at the story's fixed moment.
+A scenario calculator for placing any real-world-style flight's phase (pre-departure / climb / cruise / descent / arrived) and position at exactly 2:00 AM EDT (06:00 UTC) on any date — built to ground future flights the way `DAL27_Diversion_Edmonton.md` grounds Sam's diversion in Section 2. Give it a departure airport, arrival airport, aircraft type, and local departure time, and it computes where that aircraft actually is — position, altitude, speed, day/night, nearest field — at the story's fixed moment.
 
 ## Why it isn't a literal historical data pull
 
@@ -32,7 +32,7 @@ Treat crash positions as narrative-grade, not aviation-accurate — real FMS/aut
 
 ## Snapshot: who's airborne at 2:00 AM EDT, September 5, 2028 (a Tuesday)
 
-Computed straight from the tool's own engine (bug fix below applied). Fourteen of the eighteen preset flights are genuinely in the air at the reference moment; the other four (ANA NRT→LAX, Delta's LAX→JFK transcon redeye, Air New Zealand AKL→JFK, and Will's PC-12 PDK→HSV leg) are excluded here because they either haven't departed yet or have already landed by 2:00 AM EDT that night.
+Computed straight from the tool's own engine (bug fix below applied). Fourteen of the eighteen preset flights are genuinely in the air at the reference moment; the other four (ANA NRT→LAX, Delta's LAX→JFK transcon redeye, Air New Zealand AKL→JFK, and Wade's PC-12 PDK→HSV leg) are excluded here because they either haven't departed yet or have already landed by 2:00 AM EDT that night.
 
 "Likely on autopilot" reflects real airline ops (cruise is essentially always autopilot-coupled; climb is coupled by these altitudes in practice) *and* the story mechanic that everyone aboard except Sam's flight deck dies at this exact instant, at which point nothing disengages it either way.
 

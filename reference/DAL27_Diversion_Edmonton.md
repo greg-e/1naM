@@ -150,25 +150,25 @@ Autoland vs. hand-flown: autoland on an ILS is approved in good weather with the
 
 ---
 
-## 9. What Will sees (Section 1)
+## 9. What Wade sees (Section 1)
 
-All from FlightAware's ADS-B data on Will's screens:
+All from FlightAware's ADS-B data on Wade's screens:
 
 - **~09:00:** DAL27's track: north-northwest out of Atlanta, steady to northern Saskatchewan, then a deliberate turn south, squawk 7700, a turn direct Edmonton, a descent, landed CYEG ~04:36. Stopped.
 - **~09:00:** one new target that departed CYEG at ~07:30, the only takeoff he can find anywhere since 02:00. A PC-12, southeast-bound, Flight ID **DAL27PDK**.
 - **~10:45:** it lands at Minneapolis. **~11:30:** it leaves Minneapolis, still southeast-bound, toward Atlanta.
-- Will's inference: the same pilot. Nobody else on the continent is moving.
+- Wade's inference: the same pilot. Nobody else on the continent is moving.
 
 Revised Day 0 times after the Edmonton change (working values):
 
 | EDT | Beat |
 | --- | --- |
-| 09:10–12:41 | Will stays home collecting data while power and connection hold; watches the Minneapolis stop from his desk. |
-| 12:41 | Will leaves for PDK, later than planned. |
-| ~13:40 | Will at the PDK FBO, on the radio, watching the track. |
-| ~14:05 | Sam's call on 121.5; Will answers. |
+| 09:10–12:41 | Wade stays home collecting data while power and connection hold; watches the Minneapolis stop from his desk. |
+| 12:41 | Wade leaves for PDK, later than planned. |
+| ~13:40 | Wade at the PDK FBO, on the radio, watching the track. |
+| ~14:05 | Sam's call on 121.5; Wade answers. |
 | ~14:15 | Sam lands at PDK; they meet on the ramp. |
 | ~14:40 | Leave for Dunwoody. |
 | ~15:00 | Sam finds Elena and Rosa. |
-| ~15:35 | Leave for Will's. |
-| ~16:00 | Arrive at Will's in Alpharetta. |
+| ~15:35 | Leave for Wade's. |
+| ~16:00 | Arrive at Wade's in Alpharetta. |
