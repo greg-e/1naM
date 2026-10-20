@@ -72,7 +72,7 @@ Wade heard it a second later: an engine, coming fast from the north. A gray Suba
 
 "Well," Sam said, from under the wing. "Somebody heard us."
 
-The woman who got out was tall and straight-backed, with silver-streaked dark hair pinned up in a twist that had held for more than one day, thin titanium glasses, a linen shirt, and dark jeans. She walked toward the airplane fast and level.
+The woman who got out was slight, with light brown hair pulled back in a ponytail that had been up for more than one day, glasses, a T-shirt, and jeans. She walked toward the airplane fast and level.
 
 "I heard you fly over," she called. "Low. I'm in an office building two miles off the north fence. It was closed when it happened, so there's nobody dead in it. I picked it because it's close to the airport. If anyone was still flying, this is where they'd come, and sitting and listening for them was the only thing left that made sense to do." She glanced back at the torn fence. "There's no open gate on that side. I drove half the fence line looking for one. Then I stopped looking."
 
@@ -88,7 +88,7 @@ Catherine looked at Tyler longer than at either of the men. "Huntsville to here 
 
 "Find me how? I haven't told anyone where I am. There isn't anyone to tell."
 
-Wade held up his phone with the address on it. "You called 911 Tuesday. Something answered, and it kept a record. We were about to drive to your house."
+Wade held up his phone with the address on it. "You called 911 Tuesday. Something answered, and it kept a record. We were about to drive to your place."
 
 She looked at the address for a long moment. "I argued with it," she said. "For a while."
 
