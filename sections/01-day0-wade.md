@@ -1,56 +1,80 @@
-# 9/5/2028 — Wade Hartman, AI Engineer & Researcher, Day 1
+# 9/5/2028 — Wade, AI Engineer & Researcher, Day 0
 
 A thud woke him. Distant and heavy, enough to rattle the bedroom window in its frame, and gone before he was fully awake. The clock read 2:05. He lay in the dark and waited: a siren, a second thud, anything that would tell him what he'd heard. Nothing came. The regular sounds of the house, and down the hall tags shifted as the dog resettled. Wade rolled over and went back to sleep.
 
-He woke again at six thirty, same as every morning. Sixty-one years old and alone for sixteen of them, though not really alone. There had always been a dog, and it had always been a Mountain Cur, the current one named Dan.
+He woke again at six thirty, same as every morning. Sixty-one years old and alone for sixteen of them, though not really alone. There had always been a dog, currently a mountain cur named Dan.
 
-A hot shower, then down to what he called first breakfast, the same every day: a blueberry, avocado, beet, and spinach concoction he called a brain shake. Gray light came in the kitchen window. The days were getting shorter, and real light wouldn't come until 7:15. Then Dan's two-mile morning walk. He tried not to think about work on the walk, just the dog and the cool air and first light. Dan's tail was going hard enough to thump the mailbox post before they'd cleared the driveway.
+A hot shower, then what he called first breakfast, a blueberry, avocado, beet juice, and spinach smoothie, well it wasn't exatly smooth, but it was efficient. Gray light came in the kitchen window, the days were getting shorter which would start to  cut his walks with Dan short. He tried not to think about work on the walk, just the dog and the fresh air and first light. At 7:15 they headed out, Dan's tail was swinging back and forth dangerously as they walked down the driveway.
 
-The neighborhood was quiet. More cars in the driveways than on a normal Tuesday, which was strange the day after Labor Day, when a short week usually had everyone out early. At the corner where the Pattersons' kids caught the 7:15 bus, there were no kids and no bus. He checked his watch: just past 7:20. He kept going past his usual turnaround, and the quiet held all the way to where his subdivision met Old Milton Parkway. Old Milton hadn't been quiet at any hour in years. He stood at the curb and listened, a hum, maybe, but mostly a silence he was not used to.
+The neighborhood was quiet. Yesterday had been labor day, a short week usually had everyone out early. Instead cars that were gone at this time on a work day were still parked in driveway's like it was a Sunday morning. At the corner where the Pattersons' kids caught the school bus at 7:20, there were no kids and no bus. He checked his watch: 7:25. The quietness made him curious and he pushed past his usual turnaround, continuing to where his subdivision met Old Milton Parkway. Old Milton hadn't been quiet at any hour in years. He stood on the sidewalk at his subdivision entrance and listened, a hum, maybe, but mostly a silence that was eerie and a bit spooky, a chill ran up his spine.
 
-"Hmm," he said out loud. It was his default response when the inputs on a problem hadn't added up to anything yet, his own version of the spinning circle on the screens he looked at all day. To the north, a hundred yards up the blind curve, a car sat nose-down in the drainage ditch with its lights on and he could just make out that the only sounds he was aware of were in that direction. It must have just happened. He walked up the hill fast, and at the top he was out of breath. The rear wheels were spinning in the air above the ditch. He put Dan in a sit a few yards back, went to the driver's door, and pulled it open.
+"Hmm," he said out loud, his default response when the inputs on a problem didn't add up. To the north, a hundred yards away, a car sat nose-down in the drainage ditch with its lights on and he could just make out that the only sounds he was aware of were in that direction. It must have just happened. He jogged up the hill. The front of the car had gone down into a storm culvert that lifted the rear wheels off the ground and they were spinning freely. He put Dan in a sit a few yards back, went to the driver's door, and pulled it open.
 
-A man about forty sat nearly upright, held there by the shoulder belt, his eyes open. Behind Wade, Dan's ears went flat and a thin whine started in his chest.
+A man about forty sat nearly upright, held there by the shoulder belt, his eyes open, his foot still pressing the gas pedal. Behind Wade, Dan's ears went flat and a thin whine started in his chest.
 
-Wade leaned across the man's knees, found the start button, and shut the engine off. In the quiet that followed he pressed two fingers to the side of the man's neck. His hand was steadier than the rest of him. No pulse. The skin was cool, almost cold. This had happened hours ago, not minutes. The man's left hand hung down beside the seat, and the fingers had gone a flushed pink, like a man come in out of the cold. Not quite what Wade would have expected.
+Wade reached across the man's knees, found the start button, and shut the engine off. The resulting silence was overwhelming. He checked for a pulse on the man's neck, skin was cool, almost cold, no heartbeat. This had happened hours ago, not minutes. The man's left hand hung down beside the seat, and the fingers had gone a flushed pink, like a man come in out of the cold. Not quite what Wade expected.
 
 He backed away from the car and called 911 with Dan pressed against his leg.
 
-It answered on the first ring, and for a second he took it for a person: a woman's voice, warm and unhurried, with a small breath before the question. "Nine-one-one, what's the address of your emergency?" Then the rhythm registered, too even, sterile, and he knew what he was talking to. He'd been on the edges of the decisions about how 911 centers would use AI agents to triage the queue while the human dispatchers were tied up. 
+It answered on the first ring, and for a second he took it for a person: a woman's voice, warm and unhurried, with a small breath before the question. "Nine-one-one, what's the address of your emergency?" It was the even, steady voice of the ubiquitious AI agent that had taken over most phone systems.
 
-He replied: a man, deceased, alone in a vehicle off Old Milton Parkway just north of 400. It asked if he was sure. "Yes." Whether the man was breathing. "No." Whether Wade was safe where he stood. "Yes." "I'm so sorry," it said. "That's a hard thing to walk up on." He felt the small, stupid pull of being understood by it. Call volume was higher than usual, it told him, and a unit would be dispatched as priority allowed. Would he stay near the vehicle?
+Wade: "Old Milton Parkway roughly one mile north of Highway 400."
 
-He asked for a person. Gently, it said it was an AI assistant handling the queue while the dispatchers were on other calls, that everything he'd told it was logged and would reach them, and that it would stay on the line as long as he liked. It stayed kind and steady and told him the same thing in slightly different words. He hung up.
+"What is the emergency?" 
 
-He walked south toward 400, over the next rise, expecting a version of this morning that made sense. A road crew. A cop waving traffic around a wreck. The silence made him very aware of his own sounds: his pulse in his ears, his boots on the sidewalk, Dan's tags clinking at every step.
+Wade: "A car accident, one car involved, the driver is dead."
 
-Old Milton passed under 400. An eighteen-wheeler had jackknifed across the southbound lanes and folded against the bridge rail. The tractor had gone through the rail and hung nose-down over the road below, held by nothing he could see. Every car he could see on 400 was stopped, no brake lights. On an ordinary Tuesday at this hour, this stretch moved more people past this one spot in a minute than lived on his whole street. Farther south, a column of black smoke rose into the sky.
+"Is the driver breathing?."
 
-"Hmm," he said again, and pulled up the news on his phone. The headline feed hadn't moved. The top story was six hours old with no update. He switched apps: the same frozen feed. A third. The local station's live page held a single paused frame, an anchor caught mid-word. Dan leaned hard into his leg and whined. Wade turned for home and walked fast, leash short, not quite running.
+Wade: "No." 
+
+"Are you safe where are?"
+
+Wade: "Yes."
+
+"I'm so sorry," it said. "That's a hard thing to walk up on." 
+
+Wade felt the small, stupid pull of being understood by it. Call volume was higher than usual, it told him, and a unit would be dispatched as priority allowed. Would he stay near the vehicle?
+
+He asked for a person. Gently, it said it was an AI assistant handling the queue while the dispatchers were on other calls, that everything had been logged and that it would stay on the line as long as he liked. Wade hung up.
+
+He walked south toward 400, around the bend, expecting a version of this morning that made sense. A road crew. A cop waving traffic around a wreck. The silence made him very aware of his own sounds: his boots on the sidewalk, Dan's tags clinking together.
+
+Old Milton passed under 400. An eighteen-wheeler had jackknifed across the southbound lanes and folded against the bridge rail. The tractor had gone through the rail and hung nose-down over the road below. Every car he could see on 400 was stopped, no brake lights. On an ordinary Tuesday at this hour, this stretch moved more people past this one spot in a minute than lived on his whole street. Farther south, a column of black smoke rose into the sky.
+
+He pulled up the news on his phone. The headline feed hadn't moved. The top story was six hours old with no update. He switched apps: the same frozen feed. A third. The local station's live page held a single paused frame, an anchor caught mid-word. Dan leaned hard into his leg and whined. Wade turned for home and walked fast, leash short, not quite running.
 
 Back in the subdivision he heard a dog at the Morrisons', barking steady and hoarse. Another one farther down, behind a fence. A small one, high and frantic, inside a house with the blinds still down. Dan pulled toward the Morrisons' door, and Wade shortened the leash and kept him moving.
 
-Back at the house Dan went under the kitchen table and stayed there. Wade opened the laptop. The same frozen feed, wider: the national wires, the overseas outlets, the social platforms that should have been a roar of overnight noise. Every one of them sat still, the newest timestamps all from a few minutes before two in the morning. Nothing anywhere had posted since.
+Back at the house Dan went under the kitchen table and stayed there. Wade opened his laptop. The same frozen feed, wider: the national wires, the overseas outlets, the social platforms that should have been a roar of overnight noise. Every one of them sat still, the newest timestamps all from a few minutes before two in the morning. Nothing was posted since.
 
-He opened FlightAware. At this hour on a weekday there should have been thousands of airplanes on the map. The map was nearly empty. The whole world was down to a scatter of targets, most of them long tracks over open ocean, and a few were wrong in a way he couldn't place. He clicked into one: an Air India 777, Delhi to Newark, past Newark by better than four hundred miles at thirty-nine thousand feet and still headed south, somewhere over the Carolinas. He checked another, and it had done the same thing, reached its destination and kept going.
+He opened FlightAware, an app that tracks air traffic. At this hour on a weekday there should be thousands of airplanes on the map. The map was nearly empty. The whole world was down to a scatter of airplanes, most of them with long tracks over open ocean, and a few were wrong in a way he couldn't place. He clicked into one: an Air India 777, Delhi to Newark, past Newark by better than four hundred miles at thirty-nine thousand feet and still headed south, over the Carolinas. He checked another, and it had done the same thing, reached its destination and kept going.
 
-He pulled up a handful of state DOT traffic cameras: the interchange where 400 met the Perimeter, then a few in other cities. The same scene he'd seen for himself was on every camera he looked at. Open lanes at what should have been solid rush hour, a scatter of stopped vehicles, nothing moving.
+He pulled up a handful of state DOT traffic cameras: the interchange where 400 met Interstate 285, the Perimeter around Atlanta, then a few in other cities. The same scene he'd seen for himself was on every camera he looked at. Open lanes at what should have been solid with rush hour traffic, a scatter of stopped vehicles, nothing moving.
 
-At 8:30 he logged in to his standing sync with his group at Google, the public-sector team he ran engagements for out of the D.C. office. Five minutes went by, then ten, and nobody else joined. He sat looking at his own video tile, pale, jaw set, mouth thin, and left the meeting.
+At 8:30 he logged in to his standing sync call with his group at Google, the public-sector team he ran engagements for out of the D.C. office. Five minutes went by, then ten, and nobody else joined. He sat looking at his own video tile, his face was pale, jaw set, mouth thin. He closed the meeting.
 
 He started calling people: his brother Mark first, then down the list of everyone he talked to in an ordinary week. Mostly voicemail. He left a few messages. Some numbers rang and rang. He never got a busy signal.
 
-He set the phone down. Through the kitchen window he could hear the Morrisons' dog, still going. Dan lifted his head off the floor and watched him.
+He set the phone down. Through the kitchen window he could hear the Morrisons' dog, still barking. Dan lifted his head off the floor and watched him.
 
 "Harry," he said out loud.
 
-He left Dan in the house and went next door. Harry had been his friend for twenty years. He was a good friend, and he had gotten Wade through the worst of it after Naomi. He rang the bell and waited. Nothing. He knocked. Nothing. The front door was locked. He went around to the garage and tried the code Harry had given him a few months back, and the door went up. "Harry? You here?" Nothing. Through the kitchen, the living room, down the hall to the master bedroom. "Harry?"
+He left Dan in the house and went next door. Harry had been his friend for twenty years. He had gotten Wade through the worst of it after Naomi had died. He rang the bell and waited. Nothing. He knocked. Nothing. The front door was locked. He went around to the garage and tried the code Harry had given him a few months back, and the door went up. "Harry? You here?" Nothing. Through the kitchen, the living room, down the hall to the master bedroom. "Harry?"
 
-Harry was in bed, on his side, the blanket at his waist. Wade checked for a pulse. His friend was dead.
+Harry was in bed, on his side, the blanket at his waist. "Harry?", Wade checked for a pulse. His friend was dead.
 
-He stood there a minute, the house around him, tidy as Harry always kept it. He pulled the blanket up over Harry's shoulder and let himself back out through the kitchen and across the strip of grass between the two driveways.
+He stood there a minute, the house around him, tidy as Harry always kept it. He pulled the blanket up over Harry's shoulder and let himself back out through the kitchen.  
 
-Dan met him at the door like it had been a week. Wade went back to the laptop and pulled FlightAware up again, wider this time, clicking through the targets one at a time for origin and destination. The map was still down to a scatter, most of it the long-haul tracks over open ocean he'd half-noticed at eight, each icon crawling forward on a heading that never changed. He was ready to write the whole screen off when one track stopped him.
+He walked up the street toward the Morrisons. He rang the door bell and knocked, the dog's barking got louder and vicious. He didn't know their dog and didn't think now was a good time to meet.
+
+Next door was the Pattersons, he went to their door and rang the bell.  Nothing.  He looked through the windows on the side of the door, he saw Bill Patterson laying facedown in the kitchen.  "Bill!, hey Bill!, Judy are you there? Kids?" no response. The door was locked, he went around to the garage door, locked. Into the back yard on the deck the back door was open.  Wade went in, "Judy?", he knelled and check for a pulse on Bill's neck, nothing. "Hello? anyone here?" He walked down the hall and saw Judy in bed, "Judy?" He had to make sure, this was so awkward, the hair on the back of his neck was standing up, his stomach turning, adrenaline pumping. She was gone, the kids in their rooms, both of them dead.  He left quickly and walked quickly home looking over his shoulder, feeling like someone was following him.
+
+Dan met him at the door like it had been a week. 
+
+He grabed his keys and Dan's leash, "Come on buddy, let's go for a drive."
+
+Wade went back to the laptop and pulled FlightAware up again, wider this time, clicking through the targets one at a time for origin and destination. The map was still down to a scatter, most of it the long-haul tracks over open ocean he'd half-noticed at eight, each icon crawling forward on a heading that never changed. He was ready to write the whole screen off when one track stopped him.
 
 An airplane doing something different. He clicked into it. **DAL27**, an Airbus A350-900 out of Atlanta at 11:35 the night before, filed for Seoul. The track ran north-northwest out of Atlanta, over the Midwest and Manitoba and up into northern Saskatchewan, as straight as all the others. Then at 3:30 in the morning it turned. A clean turn to the south, and twenty-five minutes later a second turn, onto a line that ran straight for Edmonton, Alberta, and then a descent. The track ended on the ground at Edmonton International at 4:36 Eastern. It hadn't moved since.
 
