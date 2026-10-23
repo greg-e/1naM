@@ -4,7 +4,7 @@ A novel in progress (Book One of a planned series), written with operational rea
 
 ## Premise
 
-At 2:00 a.m. Eastern on Tuesday, September 5, 2028, a single pulse from a magnetar starquake passes through the planet in under a second and shuts down the enzyme human cells use to consume oxygen. Infrastructure is untouched, animals are unaffected, and about one person in a million survives: roughly 350 in the continental US, scattered with no concentration anywhere. Why they survived is never answered on the page. The book follows a handful of them, told in close third person from five points of view: Wade, Sam, Johan, Kendra (aboard the ISS), and Marchetti.
+At 2:00 a.m. Eastern on Tuesday, September 5, 2028, a single pulse from a magnetar starquake passes through the planet in under a second and shuts down the enzyme human cells use to consume oxygen. Infrastructure is untouched, animals are unaffected, and about one person in a million survives: roughly 350 in the continental US, scattered with no concentration anywhere. Why they survived is never answered on the page. The book follows a handful of them, told in close third person from five points of view: John, Sam, Johan, Kendra (aboard the ISS), and Marchetti.
 
 ## Repository contents
 
@@ -14,4 +14,4 @@ At 2:00 a.m. Eastern on Tuesday, September 5, 2028, a single pulse from a magnet
 
 ## Status
 
-Written: Day 0 through Day 2 (Sections 1–9: Wade and Sam's convergence at PDK and the Huntsville → Phoenix → Port Angeles rescues of Tyler, Catherine, and Della) and Johan's Day 0 aboard the *Pacific Tender* (Section 10). Next: the week at the Hook and first contact with Johan. Ahead: Reno, the search for more people, the Europe excursion by C-17, and the Dragon recovery. See `CLAUDE.md` → What's next and what's open.
+Written: Day 0 through Day 2 (Sections 1–9: John and Sam's convergence at PDK and the Huntsville → Phoenix → Port Angeles rescues of Tyler, Catherine, and Della) and Johan's Day 0 aboard the *Pacific Tender* (Section 10). Next: the week at the Hook and first contact with Johan. Ahead: Reno, the search for more people, the Europe excursion by C-17, and the Dragon recovery. See `CLAUDE.md` → What's next and what's open.

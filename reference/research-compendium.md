@@ -19,7 +19,7 @@ The research layer behind the book: real-world facts, sources, derived arithmeti
 
 ## 1. Delta 27
 
-**Canon:** `CLAUDE.md` Timeline and Sections 2–3. **Mechanics reference:** [`DAL27_Diversion_Edmonton.md`](DAL27_Diversion_Edmonton.md) (route, positions, door and comms sequence, diversion options, weights, the PC-12 legs, what Wade sees). It supersedes the Val-d'Or diversion notes and the old turnback dossier PDF, whose Atlanta-turnback telemetry no longer applies.
+**Canon:** `CLAUDE.md` Timeline and Sections 2–3. **Mechanics reference:** [`DAL27_Diversion_Edmonton.md`](DAL27_Diversion_Edmonton.md) (route, positions, door and comms sequence, diversion options, weights, the PC-12 legs, what John sees). It supersedes the Val-d'Or diversion notes and the old turnback dossier PDF, whose Atlanta-turnback telemetry no longer applies.
 
 Research notes still useful:
 
@@ -33,7 +33,7 @@ Research notes still useful:
 
 **Canon:** `CLAUDE.md` Characters (one five-field entry per character) and Point of view.
 
-### 2.1 Wade's telemetry fluency `[SRC]` (retired persona file, in git history)
+### 2.1 John's telemetry fluency `[SRC]` (retired persona file, in git history)
 
 ADS-B (1090 MHz / 978 UAT), ADS-C, Mode S/ACARS, ACAS/TCAS, MLAT; AIS (Class A/B, VDES), S-AIS, NMEA 0183/2000; NextGen 911 (NENA i3), CAD, Cospas-Sarsat beacons; SSA/TLE orbital streams; GTFS-RT, PTC rail, OBD-II/J1939; NOAA METAR/TAF. This is the vocabulary that makes his search mechanics credible.
 
@@ -63,7 +63,7 @@ Caleb Rusk, Olivier Maurel and Monika Faller were drawn at random, not designed.
 - **Why a Seattle-bound ship ends up here:** Port Angeles is the compulsory pilotage station for vessels to and from the sea; the harbor "is easy of access by the largest vessels, which frequently use it when … waiting for orders or a tug." `[SRC]` 56 nm from Cape Flattery, ~3 h after entering the Strait.
 - **Suitability** (`[DERIVED]`, ship figures `[VERIFY]`): ~90 ft of water mid-harbor leaves ~40 ft under the keel; a 300–366 m ship on 3–5× scope swings ~0.2–0.25 nm radius, which fits but not generously; sticky mud bottom holds well `[SRC]`; sheltered from all but east winds, with some swell in SE winter gales `[SRC]`.
 - **Avoid:** log booming grounds (north part, west side); the 33 CFR 110.230 non-anchorage box in the southeast corner (see `port-angeles-base-research.md` §3.1); deadheads inside the Hook.
-- **What Wade sees on the station's AIS receiver:** a controlled slowdown, nav status "at anchor," speed over ground ≈ 0, and the heading swinging slowly around the anchor with wind and tide: behavior no autopilot produces.
+- **What John sees on the station's AIS receiver:** a controlled slowdown, nav status "at anchor," speed over ground ≈ 0, and the heading swinging slowly around the anchor with wind and tide: behavior no autopilot produces.
 - **Anchoring alone** is a forecastle job, not a bridge one; see `port-angeles-base-research.md` §3.2.
 
 ---
@@ -189,9 +189,9 @@ The 10–21-day figure is an engineering-plausible range, not a documented spec.
 
 | Beat (per `CLAUDE.md` Timeline) | Hours after 02:00 EDT Sept 5 | Phase | Consistent? |
 |---|---|---|---|
-| Wade's walk and first 911 call (07:20–07:28) | ~5.5 | 2 | Yes: internet, cameras, FlightAware live |
-| Wade's collection (09:15–12:41) | ~7–11 | 2 → early 3 | Yes |
-| Grid dark at Wade's house, 00:50 Sept 6 | ~22.8 | 3 | Yes, inside 8–24 h |
+| John's walk and first 911 call (07:20–07:28) | ~5.5 | 2 | Yes: internet, cameras, FlightAware live |
+| John's collection (09:15–12:41) | ~7–11 | 2 → early 3 | Yes |
+| Grid dark at John's house, 00:50 Sept 6 | ~22.8 | 3 | Yes, inside 8–24 h |
 | Huntsville pocket, dark ~midnight Sept 6→7 | ~46–47 | Accidental pocket | Plausible but at the far end; author's call |
 | Vogtle danger window for Alpharetta | trip +8–24 h → ~Sept 15–27 | 4c | Section 5's boxed *Sept 16* is the early end |
 
@@ -258,7 +258,7 @@ Open research checks, collected from this file and `CLAUDE.md`. Author decisions
 - **Maritime:** Argus-class OPC specs used for *Active*; the *Pacific Tender*'s boats and whether she has a lift; walk-back vs. let-go at ~27 m; GMDSS certificate scope for a Second Mate; amateur satellite radio learning curve for a GMDSS-trained officer.
 - **Medical:** Della's injury course and healing times; CT on emergency power at OMC; warfarin vs. DOAC management for Monika off monitoring; early-onset Alzheimer's memory care in Port Angeles (a fictional facility is planned).
 - **Places:** Olympic Medical Center's backup plant; the Coast Guard station's standby power, fuel, galley, and clinic contents; Life Flight Network staffing at KCLM; Forks census figures; Basin & Range Overland isn't a real business.
-- **People and tech:** Wade's dev box spec in 2028; Jackery 5000 Plus weight and kit; GPS degradation rate without ground uploads.
+- **People and tech:** John's dev box spec in 2028; Jackery 5000 Plus weight and kit; GPS degradation rate without ground uploads.
 
 ---
 
@@ -266,7 +266,7 @@ Open research checks, collected from this file and `CLAUDE.md`. Author decisions
 
 | Date | Change |
 |---|---|
-| 2026-10-16 | **v0.3: stripped to research.** All canon summaries (cast, DAL27 turnback, story-use tables, cross-links) replaced with pointers to `CLAUDE.md`. Kept and tidied the research: Wade's telemetry list, the anchorage geometry, ISS mechanics, PC-12 specs, grid mechanisms and nuclear geography. Added the random survivor draw (§2.2, with `survivor-draw.js`), the ISS clock research items (§3.5), and C-17 and Europe research items (§6). Discrepancy register closed. |
+| 2026-10-16 | **v0.3: stripped to research.** All canon summaries (cast, DAL27 turnback, story-use tables, cross-links) replaced with pointers to `CLAUDE.md`. Kept and tidied the research: John's telemetry list, the anchorage geometry, ISS mechanics, PC-12 specs, grid mechanisms and nuclear geography. Added the random survivor draw (§2.2, with `survivor-draw.js`), the ISS clock research items (§3.5), and C-17 and Europe research items (§6). Discrepancy register closed. |
 | Earlier | v0.1 (2026-09-20) and v0.2 (2026-09-24): see git history. |
 
 ---

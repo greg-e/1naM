@@ -32,7 +32,7 @@ Treat crash positions as narrative-grade, not aviation-accurate — real FMS/aut
 
 ## Snapshot: who's airborne at 2:00 AM EDT, September 5, 2028 (a Tuesday)
 
-Computed straight from the tool's own engine (bug fix below applied). Fourteen of the eighteen preset flights are genuinely in the air at the reference moment; the other four (ANA NRT→LAX, Delta's LAX→JFK transcon redeye, Air New Zealand AKL→JFK, and Wade's PC-12 PDK→HSV leg) are excluded here because they either haven't departed yet or have already landed by 2:00 AM EDT that night.
+Computed straight from the tool's own engine (bug fix below applied). Fourteen of the eighteen preset flights are genuinely in the air at the reference moment; the other four (ANA NRT→LAX, Delta's LAX→JFK transcon redeye, Air New Zealand AKL→JFK, and John's PC-12 PDK→HSV leg) are excluded here because they either haven't departed yet or have already landed by 2:00 AM EDT that night.
 
 "Likely on autopilot" reflects real airline ops (cruise is essentially always autopilot-coupled; climb is coupled by these altitudes in practice) *and* the story mechanic that everyone aboard except Sam's flight deck dies at this exact instant, at which point nothing disengages it either way.
 
