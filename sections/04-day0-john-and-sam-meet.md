@@ -14,6 +14,10 @@ Before he could press it, the speaker came alive, and John's stomach jumped as a
 
 ---
 
+The last leg ran southeast over the farmland of Iowa and across the Mississippi, over Illinois, Kentucky, Tennessee. He kept the transmissions going on the hour and the half hour. He was finding it hard to keep his mind on flying. Every mile closer to Atlanta, his stomach knotted tighter.
+
+Over the Cumberland Plateau the haze came up to meet him, a white layer with the ridges of the Appalachians standing up out of it to the east. He started down at Chattanooga. Atlanta rose out of the haze ahead, the towers downtown and Midtown, then Buckhead closer, and north of them the trees of Dunwoody, his street under them somewhere, where Elena's car would be in the drive and Rosa's bike against the garage.
+
 Twenty miles northwest of the field, Sam had Atlanta Approach on one radio and 121.5 on the other, and on the descent he keyed 121.5 again, the same call he'd made on the hour and the half hour since Edmonton.
 
 "Any station, Pilatus Charlie Golf Kilo Papa X-ray, transmitting in the blind. Twenty miles northwest of Atlanta, descending through eight thousand, landing DeKalb-Peachtree."

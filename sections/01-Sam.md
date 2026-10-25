@@ -1,6 +1,6 @@
-# 2 — Samuel Reyes, Pilot, Day 1
+# Samuel Reyes
 
-### 23:32 ###
+### 9/4/2028, 23:32
 
 Delta 27 pushed back ahead of schedule from gate E-14 at Hartsfield-Jackson International Airport in Atlanta, GA. Wheels up off 26L at ten minutes to midnight, on a track that would carry them north-northwest over the Midwest and Manitoba, across the Canadian Arctic and northern Alaska and down the Bering Sea into Seoul fifteen hours later. It was an ultra-long-haul flight, flown by an augmented four-pilot crew to stay inside federal duty-time limits. First Officer Sam Reyes had the right seat. Forty-three years old, a decade at Delta after two years flying corporate and charter jets out of Atlanta and eight years before that in C-17s for the Air Force.
 
@@ -58,6 +58,12 @@ He entered CYEG as the new destination, selected direct, and pushed the heading 
 
 On the emergency frequency, he keyed the mic, "Delta Twenty-Seven Heavy, transmitting in the blind. Diverting Edmonton, direct. Leaving flight level three-six-zero in one-five minutes."
 
+He reached up to the overhead panel and set the seat belt signs to ON, and the chime went off back through the cabin. Then he selected PA on the audio panel, held the transmit switch, and spoke into the mask mic.
+
+"Ladies and gentlemen, this is First Officer Reyes on the flight deck. We have a medical situation with our crew, and we're diverting to Edmonton, Alberta. We'll begin our descent in about fifteen minutes and expect to be on the ground in about fifty. I've turned on the seat belt sign. Please return to your seats and keep your belts fastened. If there's a doctor or a nurse on board, please make yourself known to a flight attendant. Flight attendants, call the flight deck on the interphone, please. Thank you."
+
+He let go of the switch. In the headset the sidetone was gone and all he had was his own breathing in the mask. He watched the interphone light on the audio panel. It stayed dark.
+
 He pulled up the overweight landing checklist and worked it item by item, the configuration, the approach speed, the landing performance for runway two-zero at the weight the airplane would be when it got there. The numbers came back inside the runway with room to spare. Vref was higher than he had ever landed this airplane at. He briefed the approach out loud, to nobody, the way he would have briefed it to Jack: the ILS to two-zero, the frequencies, the minimums, the missed approach, the autobrake setting, brake temperatures afterward. Then he started down.
 
 The descent took him over the boreal forest of northern Alberta, black and unlit to the horizon. He transmitted every five minutes on the center frequency and on 121.5. At ten thousand feet he called Edmonton Approach, and at twenty miles Edmonton Tower, on the published frequencies, and got nothing from either. The airport came up out of the dark ahead, the approach lights and the runway edge lights on.
@@ -80,8 +86,84 @@ He drew the curtain closed again and went back down the stair to the forward gal
 
 One of the flight attendants was sitting on her jumpseat with her head against the bulkhead and a paperback on the floor in front of her. Her hands had slid off her knees and hung at her sides, and the fingers had gone the same flushed pink as Jack's neck. The other two were on the floor of the galley, one of them on her back with her eyes open and her mouth open. He checked each of them. In the business cabin the suites were in their bed positions. Most of the passengers were under their blankets. A man in a window suite was half sitting up, one hand at his collar, his eyes open looking up to the ceiling. A woman across the aisle had her mouth open wide. He went to every one of them, two fingers at the throat, and nobody had a pulse, and he kept going. In the main cabin the reading lights were on over a few rows: a laptop still open, a tray table down, a man slumped against the window with his eyes open and his mouth open. He checked each of the first rows, seat by seat, and then, when his hands started to shake, every fifth row, looking down each one for anything, a hand, a face turned toward him, anyone breathing. He called out. "Hello? Can anyone hear me?" Nothing. He became aware of an off odor, and something he had never felt began to push up from his gut... horror.
 
-He called again halfway back, and again at the aft galley, where two more of the crew were. The other cabin crew were in their bunks in the crew rest above the aft galley, and he climbed up and checked them too. No pulse, no breathing. He walked back up the aisle toward the front of the airplane through three hundred and nineteen people who were dead. His stomach turned. He was fully aware of the smells in the cabin now, and when he got to the forward lavatory he threw open the door, lifted the lid, and vomited.
+He called again halfway back, and again at the aft galley, where two more of the crew were. The other cabin crew were in their bunks in the crew rest above the aft galley, and he climbed up and checked them too. No pulse, no breathing. He walked back up the aisle toward the front of the airplane through three hundred and nineteen people who were dead. His stomach turned. He was fully aware of the smells in the cabin now, I need to get off this plane, he thought.
 
 At the forward door he looked out through the porthole. The apron was lit. The terminal windows were lit. Nothing moved on the ramp: no tug, no fuel truck, no van with its yellow light turning. He stood there in the forward entry area with his forehead against the cool plastic around the window. His head was hot and his eyes blurry.
 
-**To Section 01b-day0-john**
+He stood at the porthole until the cold of the plastic had gone out of it. Then he went back to the flight deck for his things.
+
+His flight bag was in the crew rest, along with his jacket and cap. He went up the stair past Jack's drawn curtain. On the flight deck he unplugged his iPad from its mount, wound up his headset, and took his phone out of the side pocket of the flight bag. He took it off airplane mode. There was a text from Rosa, sent at 10:40 the night before: *night dad love you*. He read it twice and put the phone in his shirt pocket. Out the side window the terminal was still lit. Somebody had to be in there.
+
+### 5:20
+
+At door 1L he checked the slide arming lever, set it to armed, and checked it again. He opened the door, and the slide blew out of its pack with a bang and a roar of gas. He waited until it was fully inflated and settled on the concrete. He set the flight bag on the slide and let it go, and watched it ride down to the bottom. Then he sat on the sill, let go, and came down after it in the dark. He picked the bag up off the end of the slide, looked up at the open door eighteen feet over his head with the slide hanging out of it. The only sound on the ramp was the muffled sound from the A350's auxiliary power unit.
+
+He picked up the bag and walked across the apron toward the terminal.
+
+The jet bridges along that end of the building were pulled back against the wall, their wheels chocked. Under the nearest one a steel door at ramp level stood open a few inches, held with a rubber wedge. Inside was a baggage room with a belt coming down out of the wall and a train of empty carts parked along it. A man in coveralls and a reflective vest sat on the tongue of the first cart, bent forward over his knees, his ear protectors around his neck. Sam's insides jumped. "Hey, hello?" He walked over and crouched in front of him. The man's eyes were open, looking straight ahead as if looking at Sam. He put two fingers against his neck. The skin was cool. He stayed there a moment, then stood up and found the stairs.
+
+The concourse was bright and empty. The departure board over the nearest gate showed the first flight of the morning, a 06:10 to Calgary, ON TIME. Halfway down the concourse a floor scrubber sat at an angle across the tile with a woman in a cleaning company smock on the floor beside it, on her side, one arm out. At the next gate a young man lay across three seats with his backpack under his head and his shoes off, set side by side under the seat. Sam checked them both. "Hello?" he called down the concourse. "Is anyone here?" His voice came back off the glass. The coffee shop across from the gate was shuttered, the menu boards lit behind the grille.
+
+He sat down at a gate with the window in front of him. Out on the apron the A350 sat where he had left it, the slide hanging from the forward door, the APU exhaust shimmering off the tail.
+
+He called Elena's cell, and it went to voicemail. He called the house line. It rang until the machine picked up and he heard his own voice tell him nobody could come to the phone. He called Rosa's phone. Voicemail. He called Delta crew scheduling, and it rang and nobody picked up. He called Delta's operations center from the cell this time, in case the SATCOM had been the problem, and it rang out the same as before. He opened the Canada Flight Supplement on his iPad and pulled up the Edmonton page. It listed numbers for NAV CANADA's Edmonton Area Control Centre and the airport operations centre. He called the control centre and let it ring. He called airport operations. The gate podium had a desk phone, and he went around behind the counter and picked it up and got a dial tone, and he dialed airport operations again from there.
+
+He called and left Elena a second message. He didn't know what to say, so he told her he was on the ground in Edmonton and that he was all right.
+
+Then he opened the FlightAware app on his phone.
+
+The map scatter of airplanes was odd. Airplanes over the Atlantic and over Europe, freighters over the Pacific. Airplanes over Siberia, over India, over the middle of Africa. He tapped on one over the Bay of Biscay, a 787 out of Newark for Tel Aviv, and it showed level at flight level three-niner-zero, on course, ground speed normal. He tapped another, and another. He looked for the airplanes climbing and descending, the ones on approach into Chicago or Toronto or Los Angeles or anywhere, and there weren't any. He set the map to the departures out of Atlanta, and the last one had gone at 01:51. Out of Chicago, 01:54. Out of Los Angeles, a red-eye at 22:52 local, 01:52 Eastern. 
+
+He sat at the gate and scrolled. Nothing had taken off anywhere he could find since a few minutes before two in the morning Eastern. Nothing had landed anywhere since then, except him.
+
+He opened a news site. The top story was about a baseball game. The time stamp on it was 01:58 Eastern. He tried another site, and its newest story was 01:55. He closed it and put the phone back in his pocket.
+
+For a long time he sat and looked out at Delta 27.
+
+Elena and Rosa were in Dunwoody, nineteen hundred miles southeast. He could not help anyone on Delta 27. He could not help the man on the baggage cart or the woman by the floor scrubber or the kid with his shoes off. But he could get home.
+
+He needed a plane he could easily fly alone and with decent range. A field this size would have a general aviation side, charter operators, corporate hangars. He opened the airport diagram on the iPad. The FBOs and the hangar rows were on the east side of the field.
+
+Downstairs back out through the baggage room there was a pickup with a yellow beacon on the cab parked by the door, the keys in the ignition. He put his flight bag on the passenger seat and drove it out along the apron service road, past Delta 27, toward the hangars.
+
+The general aviation ramp was a row of hangars and an FBO building with its lobby lit. A fuel truck sat at the edge of the ramp with its engine idling and its headlights on. Sam looked in the cab. The driver was slumped against his door with his face on the glass, his eyes open, in a hi-vis vest and a company ball cap. Sam opened the passenger door, climbed up, and reached across and turned off the engine.
+
+The FBO's front door was unlocked. Inside, the lobby smelled of burnt coffee. A line technician was in the chair behind the front desk in front of the ramp camera monitors, his head back, his mouth open, his eyes open looking up at the ceiling. Under his jaw, where his head had tipped back against the chair, the skin was flushed pink. His radio was on the desk, turned up, silent. Sam checked him. Then he went down the hall and checked the pilots' lounge, which was empty, and the flight planning room, which was empty, and the restrooms.
+
+He went back out and walked the hangars along the ramp, trying doors. Two were locked. The third was open, its personnel door propped with a fire extinguisher, and inside under the lights were a King Air with its cowlings off on a maintenance stand and, nose out toward the hangar door, a Pilatus PC-12 NGX in white and gray with Canadian registration. He walked around it. Tires good. No covers on the pitot or the intake. The cabin door was unlocked, and inside it had a charter interior, six leather seats, a small cabinet aft. In the cockpit the log was on the right seat with the last entry in it, Fort McMurray–Edmonton, yesterday afternoon, and the fuel figure written next to it. Half tanks.
+
+He sat down in the left seat and took his phone out and looked at FlightAware again. Nothing had changed. The 787 for Tel Aviv was over France, still level, still on course.
+
+He took the iPad out of his flight bag and started planning.
+
+Edmonton to DeKalb-Peachtree, the airport closest to his home in Dunwoody, Georgia, direct was about seventeen hundred nautical miles. The NGX's book range was a little over eighteen hundred at long-range cruise. He needed a stop. Minneapolis-St. Paul sat almost on the line, nine hundred forty miles out, then seven hundred eighty to PDK. Two legs, each inside the airplane's range with fuel to spare. Big airport, long runways, fuel trucks on the ramp. He'd be there by midmorning Central and home by early afternoon.
+
+He'd flown eight hundred hours in a PC-12 out of college, an older one with round gauges. The NGX had glass, a Honeywell suite, and an autothrottle. He found the airplane's own pilot's operating handbook in the seat pocket behind the left seat and sat in the cockpit with the hangar lights on and read the normal procedures section front to back, then the limitations, then the emergency procedures. The engine was the same family of Pratt & Whitney turboprop he knew. The rest was familiar enough.
+
+He opened the hangar door from the control box on the wall. A second fuel truck sat by the FBO with nobody in it. He fueled the PC-12 from it to full, 2,704 pounds, standing on the wing with the nozzle and watching the meter. He cleared the airplane's water drains and checked the samples under his phone's flashlight. He did the pre-flight walkaround twice.
+
+### 07:10 ###
+
+It was still dark when he climbed in. He set up the avionics the way the handbook said and then set up the flight plan: CYEG, direct KMSP, direct KPDK. He checked the weather on his phone, the last forecasts the sites had, already hours old. Clear across to Minneapolis-St. Paul. Some haze in the Southeast.
+
+Then he went into the transponder page on the display and found the field for the flight ID. It held the airplane's registration, C-GKPX. With no flight plan, the trackers would show it as a Canadian PC-12 with a departure point and no destination. He deleted the registration and typed, D-A-L-2-7-P-D-K. If anyone was looking, he hoped they would figure out he had come from DAL27 and was headed to PDK. He set 7700 in the transponder so he'd be harder to miss.
+
+He started the engine on the battery. The starter wound the PT6 up to light-off, and the temperature came up, peaked inside the limit, and settled. He taxied out to runway 30 and stopped short of it.
+
+"Edmonton Tower, Charlie Golf Kilo Papa X-ray, holding short runway three-zero." He waited. "Any station, Charlie Golf Kilo Papa X-ray, departing Edmonton, runway three-zero, southeast-bound for Minneapolis."
+
+He lined up and pushed the power lever up, and the airplane went down the runway and lifted off in about a quarter of it. 05:31 local. He climbed out over the city. There were lights in the houses, streetlights along the avenues, traffic signals changing. On the freeway south of the airport a semi was stopped in the right lane with its lights on and its trailer lights on, and nothing else was moving on the road. He turned southeast and kept climbing.
+
+He leveled at flight level two-eight-zero over the Saskatchewan border, and the sun came up ahead of him at about half past six. On the hour and the half hour he transmitted on the center frequency for the airspace under him and on 121.5, giving his position, altitude, and destination. Edmonton Center, then Winnipeg, then Minneapolis. Nobody came back on any of them. 
+
+On a clear September morning over the northern plains there should have been contrails, the eastbound traffic out of Seattle and Vancouver and Calgary, white lines drawn across the blue above and below him and spreading in the wind. There weren't any. His traffic display showed nothing within its range. He looked out both sides every few minutes for the rest of the leg and didn't see another airplane.
+
+### 09:45 ###
+
+Minneapolis came up ahead a quarter to ten local, the two downtowns and the lakes and the river, and the airport south of the river. He called the tower and got no response. He flew the pattern the way he would at an uncontrolled airport and announced his intentions. He flew a low pass down runway 30L at five hundred feet to look at it. The runway was clear. Dozens of airplanes at gates. He came around to runway 30L, landed short and taxied off to the left toward the Signature Aviation FBO.
+
+He found a fuel truck in a row of three, keys in it. He fueled the airplane back to full from the truck, checked the oil and the drains, and used the restroom in the FBO without looking into the offices. The vending machines in the break room were still working, and he got a bear claw and a cold brew. Back out to the plane, he was off the ground again forty-five minutes after he had landed. 10:30 Central.
+
+
+
+

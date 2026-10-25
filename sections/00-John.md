@@ -1,4 +1,6 @@
-# 9/5/2028 — John, AI Engineer & Researcher, Day 0
+# John Hartman
+
+### 9/5/2028, 02:05
 
 A thud woke him. Distant and heavy, enough to rattle the bedroom window in its frame, and gone before he was fully awake. The clock read 2:05. He lay in the dark and waited: a siren, a second thud, anything that would tell him what he'd heard. Nothing came. The regular sounds of the house, and down the hall tags shifted as the dog resettled. John rolled over and went back to sleep.
 
@@ -6,13 +8,13 @@ He woke again at six thirty, same as every morning. Sixty-one years old and alon
 
 A hot shower, then what he called first breakfast, a blueberry, avocado, beet juice, and spinach smoothie, well it wasn't exatly smooth, but it was efficient. Gray light came in the kitchen window, the days were getting shorter which would start to  cut his walks with Dan short. He tried not to think about work on the walk, just the dog and the fresh air and first light. 
 
-### 07:15 ###
+### 07:15
 
 They headed out, Dan's tail was swinging back and forth dangerously as they walked down the driveway.
 
 The neighborhood was quiet. Yesterday had been labor day, a short week usually had everyone out early. Instead cars that were gone at this time on a work day were still parked in driveway's like it was a Sunday morning. At the corner where the Pattersons' kids caught the school bus at 7:20, there were no kids and no bus. 
 
-### 7:25 ###
+### 7:25
 
 He checked his watch: 7:25. The quietness made him curious and he pushed past his usual turnaround, continuing to where his subdivision met Old Milton Parkway. Old Milton hadn't been quiet at any hour in years. He stood on the sidewalk at his subdivision entrance and listened, a hum, maybe, but mostly a silence that was eerie and a bit spooky, a chill ran up his spine.
 
@@ -24,7 +26,7 @@ John reached across the man's knees, found the start button, and shut the engine
 
 He backed away from the car and called 911 with Dan pressed against his leg.
 
-### 7:40 ###
+### 7:40
 
 It answered on the first ring, and for a second he took it for a person: a woman's voice, warm and unhurried, with a small breath before the question. "Nine-one-one, what's the address of your emergency?" It was the even, steady voice of the ubiquitious AI agent that had taken over most phone systems.
 
@@ -52,16 +54,16 @@ He walked south toward 400, around the bend, expecting a version of this morning
 
 Old Milton passed under 400. An eighteen-wheeler had jackknifed across the southbound lanes and folded against the bridge rail. The tractor had gone through the rail and hung nose-down over the road below. Nothing moving, on an ordinary Tuesday at this hour, this stretch of highway moved more people past this one spot in a minute than lived on his whole subdivision. Farther south, a column of black smoke rose into the sky.
 
-### 7:55 ###
+### 7:55
 
 He pulled up the news on his phone. The headline feed hadn't moved. The top story was six hours old with no update. He switched apps: the same frozen feed. A third. The local station's live page held a single paused frame, an anchor caught mid-word. Dan leaned hard into his leg and whined. John turned for home and walked fast, leash short, not quite running.
 
 Back in the subdivision he heard a dog at the Morrisons', barking steady and hoarse. Another one farther down, behind a fence. A small one, high and frantic, inside a house with the blinds still down. Dan pulled toward the Morrisons' door, and John shortened the leash and kept him moving.
 
-### 8:15 ### 
+### 8:15
 Back at the house Dan went under the kitchen table and stayed there. John opened his laptop. The same frozen feed, wider: the national wires, the overseas outlets, the social platforms that should have been a roar of overnight noise. Every one of them sat still, the newest timestamps all from a few minutes before two in the morning. Nothing was posted since.
 
-### 8:30 ###
+### 8:30
 
 At 8:30 he logged in to his standing sync call with his group at Google, the public-sector team he ran engagements for out of the D.C. office. Five minutes went by, then ten, and nobody else joined. He sat looking at his own video tile, his face was pale, jaw set, mouth thin. He closed the meeting.
 
@@ -79,7 +81,7 @@ He walked up the street toward the Morrisons, toward the barking. He rang the do
 
 Next door was the Pattersons, he went to their door and rang the bell.  Nothing.  He looked through the windows on the side of the door, nobody.  "Bill, hey Bill, Judy are you there? Kids?" no response. The door was locked, he went around to the garage door, locked. Through the side gate to the back yard on the deck the back door was open.  John went in, "Bill, Judy?, "Hello? anyone here?" He walked down the hall and saw Judy and Bill in bed, "Hello?" He had to make sure, this was so awkward, the hair on the back of his neck was standing up, his stomach turning, adrenaline pumping. They were gone, the kids in their rooms, both of them dead.  He left quickly and walked home looking over his shoulder, feeling like someone was following him.
 
-### 9:10 ###
+### 9:10
 
 Dan met him at the door like it had been a week. He grabed his keys and Dan's leash, "Come on buddy, let's go for a drive." Out on to Old Milton Parkway there was no change since an hour ago. Had it only been an hour? John's mind was racing, he had not seen another living person since yesterday.  
 
@@ -97,7 +99,7 @@ A flat, cheerful voice from the side aisle: "Caution. Cleaning in progress." He 
 
 He found her on the floor behind the counter, wedged between the register and the cigarette rack. Twenties, maybe younger, in a QuickTrip polo. Her eyes were open, and her mouth. He checked for a pulse, her skin was cold. "So sorry," John found himself saying out loud. He left the water and went back out to the car, Dan was whining.  
 
-### 9:51 ###
+### 9:51
 He pulled up the map on his phone and searched for the closest fire station. North up Westside Parkway, the roads were mostly clear a few cars like the first he had discovered that day. He pulled into the Alpharetta Fire Station 83. The overhead doors were closed. He cracked the windows and left Dan in the car. The main door was open, "Hello? Anyone here?" Silence. He walked down the hall, in the kitchen there were two people in uniform laying on the floor, he checked both, same result as everyone else today, no pulse, cold. Ok, got to get out of here, John thought. Back in the car he sat staring out the windshield at the sun flashing off the glass of the overhead garage doors of the fire station. 
 
 He pulled out the small notebook that he always kept with him to get thoughts out of his head through his fingers so his eyes could see what he was thinking. He wrote four questions:
@@ -107,11 +109,11 @@ He pulled out the small notebook that he always kept with him to get thoughts ou
 *3. Is there anyone else alive?*
 *4. Why am I alive?*
 
-### 10:30 ###
+### 10:30
 
 Considering what he had seen so far, he decided he could understand more using the tools he had back home. The drive back north on secondary roads had the same stillness, the same quiet as everything this morning. No movement, only shadows inside cars off on the side of the road, many crashed into trees, buildings, and other cars.
 
-### 10:50 ###
+### 10:50
 
 Back home, John started on his first question, Where else? He opened his laptop and pulled up FlightAware, an airplane tracking app. At this time of day there would be more than 9,000 active flights. To get a quick count he clicked on 'Browse by Aircraft Type', this view showed all the aircraft that were currently being tracked. He copied the first column that gave a count by type and dropped it into a chat: 323 aircraft. "That can't be right." he said outloud. Even though the number seemed wrong his immediate thought was, "there are others alive!"
 
@@ -135,9 +137,38 @@ He got up from the kitchen table and walked to his office.  His team at Google w
 
 ![Nine flights no longer transmitting ADS-B: tracks to last known position, altitude and groundspeed](images/day0-nine-flights.svg)
 
-John looked at the output, none of the last locations were airports, and the last phase of the flights were rapid decents, he was looking at crash sites. "Based on the aircraft type and route estimate the number of souls on board these 9 aircraft."  Response: **~2,500** "How many estimated souls aboard the remaining airborne aircraft?" Response: **~81,000** "How many aircraft were airborne at 2am?" Response" **9,500** "How many of these have completed their flight plan?" Response: **None, currently 337 flights still airborne.** "Estimate how many souls were onboard airborne flights at 2am?" Response" **~1.4 Million** Johns mouth was instantly dry and his stomach turned. "Are all these people dead?" Response: **Unknown**
+John looked at the output, none of the last locations were airports, and the last phase of the flights were rapid decents, he was looking at crash sites. 
 
-Ok, what about the 2 flights that took off or landed after 2am. He went back to look at the output table:
+"Based on the aircraft type and route estimate the number of souls on board these 9 aircraft."  
+
+**~2,500** 
+
+"How many estimated souls aboard the remaining airborne aircraft?" 
+
+**~81,000** 
+
+"How many aircraft were airborne at 2am?"
+
+**9,500** 
+
+"How many of these have completed their flight plan?"
+
+**None, currently 337 flights still airborne.** 
+
+"Estimate how many souls were onboard airborne flights at 2am?"
+**~1.4 Million** 
+
+Johns mouth was instantly dry and his stomach turned. 
+
+"Are all these people dead?" 
+
+**Unknown**
+
+He had numbers in his phone from years of work with the agencies, the operations lines his project contacts had given him and told him to keep. FEMA's operations center in D.C. The FAA's Command Center out in Warrenton, Virginia, the room that ran traffic flow for the whole country. The Coast Guard's National Command Center in Washington.
+
+The FEMA line rang until it dropped. The FAA's picked up on a recording that asked him to hold for the next available specialist, and he held for five minutes listening to it loop. He'd stood in that room in Warrenton. Rows of specialists at their consoles, the whole country's traffic up on the wall in front of them, a place that never closed. He knew how many people it took to staff a shift in there. "Please continue to hold," the recording said, and started over. The Coast Guard line rang and rang. No responses, no answers.
+
+Ok, he thought, what about the 2 flights that took off or landed after 2am. He went back to look at the output table:
 
 | # | Carrier / type | Flight ID | Route | Departed | Sched. arr. | Planned Flight Duration | Actual Flight Duration | Squawk | Event after 02:00 | Status |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -146,4 +177,3 @@ Ok, what about the 2 flights that took off or landed after 2am. He went back to 
 
 
 
-**Go to Section 2 - Sam**
