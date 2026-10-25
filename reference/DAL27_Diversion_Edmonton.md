@@ -51,33 +51,30 @@ Times EDT, with UTC. Positions assume wheels up 23:35, top of climb ~00:00 about
 | ~03:15 | 07:15Z | **Sam's alarm.** No interphone call. He leaves Jack's curtain closed. | ~59.0°N 108.3°W, northern Saskatchewan near Lake Athabasca | ~317° |
 | ~03:30 | | Flight deck door: normal request, no answer; emergency access code; waits out the delay. | ~59.0°N 108.3°W | |
 | ~03:31 | 07:31Z | On the flight deck. Speaks to Theresa and Ruth and checks them: dead in their lap belts. Then reads the airplane (autopilot, FL360, ECAM clear) and **turns south on heading 180** toward the en route alternates (Fort McMurray, Edmonton, Saskatoon) rather than fly farther from them while he works the problem. | ~59.2°N 108.6°W | Hold, FL360 |
-| ~03:33–03:37 | | Calls the captain on the crew rest interphone; no answer. Goes up, finds Jack dead; back in on the emergency code. Moves Theresa to the observer seat; takes the left seat. | Southbound | |
-| ~03:35–03:58 | | **Works every channel before declaring** (see §4). | Southbound, FL360 | |
-| ~03:58 | 07:58Z | MAYDAY in the blind; squawk 7700; MAYDAY over CPDLC. | ~55.7°N 108.3°W | Hdg 180 |
+| ~03:33–03:37 | | Masked (observer seat mask), calls the crew rest on the interphone, then the cabin; no answer. Does not leave the flight deck (pilot-incapacitation procedure). Moves Theresa to the observer seat; checks cabin pressure normal; swaps to the captain's mask; takes the left seat. | Southbound | |
+| ~03:38 | 07:38Z | **First call to Edmonton Center is the MAYDAY**; squawk 7700. | ~58.5°N 108.4°W `[derived]` | Hdg 180, FL360 |
+| ~03:38–03:58 | | Works every other channel, declaring on each (see §4). | Southbound, FL360 | |
 | ~04:00 | 08:00Z | **Diversion decision: Edmonton.** Direct CYEG. | ~235 nm NE of CYEG, course ~215° | Descent in ~15 min |
 | ~04:10–04:45 | | Cruise and descent; overweight landing checklist; ILS approach briefed alone. | Over northern Alberta | |
 | ~04:36 | 08:36Z | **Overweight landing at CYEG** (02:36 MDT), night, runway 20 `[verify ILS 20 availability and runway choice; 02/20 is the 11,000 ft runway]` | CYEG | |
-| ~04:40–05:30 | | Taxi in and shutdown; Section 2 ends after the cabin walk. | CYEG apron | |
+| ~04:40–05:30 | | Taxi in and shutdown; up to the crew rest first, finds Jack dead; then the cabin walk. Section 2 ends after the cabin walk. | CYEG apron | |
 
 Distances along the track from KATL: event ~1,090 nm; Sam wakes ~1,795 nm; total ATL–ICN great circle ~6,200 nm.
 
 ---
 
-## 4. Communications sequence before the MAYDAY
+## 4. Communications sequence
 
-Sam checks, then checks again, before he declares, because three dead pilots and a silent radio could also mean a failed radio. In order:
+Under pilot incapacitation he declares at once; there's no reason to wait. What he checks, and checks again, is his own equipment, because a silent radio could also mean a failed radio. The interphone calls (crew rest, then cabin) come first, from the observer seat's audio panel on the mask mic, as the "get help" step. His first ATC transmission is the MAYDAY, in AIM order: station, callsign and type ("Delta Twenty-Seven Heavy, Airbus A350"), nature (pilot incapacitation, two pilots unresponsive, one at the controls), weather, intentions, position and heading, altitude, fuel, people on board. Squawk 7700 with it. Then, every call a MAYDAY:
 
 1. **Frequency in use** on VHF 1: whatever is still tuned (the last handoff the relief pair took, likely Winnipeg or Edmonton Center `[verify FIR boundary near 59°N 108°W]`). Then the published frequency for the sector he's in, from the EFB.
 2. **Equipment check:** the second VHF on the same frequency; a different audio control panel; headset vs. speaker. The radios transmit (sidetone, TX indication), but nothing comes back.
 3. **121.5** on VHF 2 (always monitored), addressed to any station.
 4. **123.45**, air-to-air, any aircraft.
-5. **CPDLC:** the ATC mailbox. Last uplink time-stamped shortly before 06:00Z. Downlinks go out with no response.
+5. **CPDLC:** the ATC mailbox. Last uplink time-stamped shortly before 06:00Z. A MAYDAY downlink goes out with no response.
 6. **ACARS** free text to Delta's operations center (OCC). Status SENT, no reply.
 7. **SATCOM voice:** dispatch, then the STAT-MD medical line `[verify Delta's medical provider; the old dossier names UPMC STAT-MD]`. Calls connect and ring out.
-8. **Cabin interphone:** call to the forward galley, then all-call, then emergency call. No flight attendant picks up.
-9. **SATCOM to Elena.** Voicemail.
-
-Only then: **"MAYDAY, MAYDAY, MAYDAY,"** transmitting in the blind on the center frequency and 121.5, in AIM order: station, callsign and type ("Delta Twenty-Seven Heavy, Airbus A350"), nature (crew incapacitation, one pilot), weather, intentions, position, altitude, fuel in minutes, people on board. Squawk 7700. A MAYDAY downlink on CPDLC.
+8. **SATCOM to Elena.** Voicemail.
 
 ---
 
