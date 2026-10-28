@@ -20,4 +20,4 @@ Sam nodded. He sat a minute longer. "I've been up since a quarter after three th
 
 Sam took his backpack down the hall. John rinsed the plates and listened to the shower run in the guest bath. It ran a long time. When it shut off he heard the bathroom door, then the guest room door, and then nothing. 
 
-John went to his office. 
+John went to his office, time to check in on those agents.
