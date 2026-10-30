@@ -4,14 +4,14 @@
 
 John shut the door to his office, sat down and pulled out his notebook and stared at it for a moment and then wrote: **Hypoxia?** next to 2 and **Samuel Reyes** next to number 3. 
 
-*1. Where else?* global
-*2. How did this happen?* **Hypoxia**
-*3. Is there anyone else alive?* yes - **Samuel Reyes**
-*4. Why am I alive?*
+- *1. Where else?* global
+- *2. How did this happen?* **Hypoxia**
+- *3. Is there anyone else alive?* yes - **Samuel Reyes**
+- *4. Why am I alive?*
 
 Sam had talked about the pink flush of skin and about his initial reaction and training for crew incapacitation, he had thought that the crew had died because of lack of oxygen.
 
-He felt numb, before today John had never seen a dead person. He had lost count of the people he had seen today. He was experiencing so many emotions at once: helplessness, horror, and paranoia were a few he could pick out.  He would stick with numb, that was good, out-of-body, a rather comforting thought. I am just watching one of those wacky apocolyptic movies, or one of the ubiquitous AI generated end-of-world or last-person-on-earth shorts on YouTube.
+He felt numb, before today the only dead person he had seen was his wife Naomi. He had lost count of the people he had seen today. He was experiencing so many emotions at once: helplessness, horror, and paranoia were a few he could pick out.  He would stick with numb, that was good, out-of-body, a rather comforting thought. I am just watching one of those wacky apocolyptic movies, or one of the ubiquitous AI generated end-of-world or last-person-on-earth shorts on YouTube.
 
 He looked at the screens and got back to work:
 
@@ -40,53 +40,150 @@ Twelve. John looked at that number a while, and then made himself start at the t
 | EIA hourly grid | 64 balancing authorities | 51 | 13 not reporting since 14:00 |
 | Distress beacons | 1 feed | 1 | 2,961 activations since 01:58 |
 
-The cameras first.
-"Analyze video frames comparing from 13:40 to now and ouput any that have changed, focus on people and vehicle movement"
-
-**No net new and no change.**
-
-The ships kept going. He picked a car carrier he'd seen on the morning map off the Outer Banks, *Hoegh Trigger*, and put the two positions side by side. Course 042, both times. Speed 20.6 knots, both times. Two hundred and fifty miles further out into the Atlantic. Down in the Gulf a bulk carrier that had been doing eleven knots at 09:00 was doing zero, her position against the Yucatán coast north of Progreso.
-
 "Confirm count of aircraft currently airborne."
 
 **0**
 
-In the 09:00 folder there was an Air India 777, Delhi to Newark, past Newark and still southbound off the Georgia coast. In the 10:00 folder it wasn't anywhere. He went back through the hours on the other side of the world. A 777 from Dubai to Auckland had crossed the Tasman Sea on its heading for most of the afternoon, Eastern time, and then the position quit updating at 12:41 and never came back.
+"Map the last 10 aircraft that were airborne flights and generate a table of aircraft type, carrier, departure time, departure location, filed destination location, and current flight duration. Then plot all current locations and flight path on a map."
 
-"Power. Summary."
+**0 aircraft airborne. Last 10 to stop transmitting ADS-B, latest first. Last ADS-B worldwide: 19:02 EDT.**
 
-**Eastern Interconnection frequency 59.91 Hz and falling, about 0.01 Hz per hour since 14:00. 61 of 312 large thermal units offline. Estimated Eastern cascade: 23:00 to 02:00 EDT.**
+<!-- [verify: 2028 schedules, departure times, and aircraft on these routes] -->
 
-| Region / Plant | Status | Est. failure | Notes |
-|---|---|---|---|
-| Eastern Interconnection | Degrading | 23:00–02:00 | Southern Company area still reporting |
-| Western Interconnection | Degrading | Sept 6, 04:00–10:00 EDT | Hydro carrying load |
-| ERCOT (Texas) | Down | 13:47 EDT | Collapsed first. No ties large enough to hold it |
-| Quebec | Stable | 24–48 h | Hydro |
-| Plant Vogtle, 4 units | Tripped 04:10–09:30 EDT | n/a | Offsite power holding |
-| Plant Hatch, 2 units | Tripped 05:40, 07:15 EDT | n/a | Offsite power holding |
+| # | Carrier / type | Departed (EDT) | From | Filed destination | Flight duration | Last ADS-B | Last known location |
+|---|---|---|---|---|---|---|---|
+| 1 | Singapore Airlines A350-900ULR | 00:55 | Los Angeles LAX | Singapore SIN | 18:07 | 19:02 | Indian Ocean, ~215 nm west of Bengkulu, Sumatra (4.1S 98.7E) |
+| 2 | Air India B777-200LR | 01:35 | San Francisco SFO | Delhi DEL | 17:14 | 18:49 | Western India, Maharashtra, near Sangamner (19.7N 74.3E) |
+| 3 | United B787-9 | 01:20 | San Francisco SFO | Singapore SIN | 17:24 | 18:44 | Indian Ocean, ~270 nm west-southwest of Bengkulu, Sumatra (4.9S 98.2E) |
+| 4 | Qantas B787-9 | 01:30 | Los Angeles LAX | Melbourne MEL | 17:01 | 18:31 | Southern Ocean, ~360 nm southwest of Kangaroo Island (41.1S 133.4E) |
+| 5 | Qatar Airways A350-1000 | 00:50 | Doha DOH | Auckland AKL | 17:31 | 18:21 | South Pacific, ~465 nm east of East Cape, New Zealand (36.9S 171.7W) |
+| 6 | Qantas A380-800 | 01:50 | Los Angeles LAX | Sydney SYD | 16:08 | 17:58 | Southern Ocean, ~20 nm southwest of Port MacDonnell, South Australia (38.2S 140.3E) |
+| 7 | Cathay Pacific A350-1000 | 01:00 | Los Angeles LAX | Hong Kong HKG | 16:48 | 17:48 | Central Vietnam, Quang Nam highlands near the Laos border (15.5N 107.5E) |
+| 8 | Philippine Airlines A350-900 | 01:30 | Los Angeles LAX | Manila MNL | 16:01 | 17:31 | South China Sea, southern Spratly Islands (8.1N 113.9E) |
+| 9 | Delta A350-900 | 01:55 | Los Angeles LAX | Brisbane BNE | 15:30 | 17:25 | Outback New South Wales, near Menindee (32.2S 143.0E) |
+| 10 | Emirates A380-800 | 23:50 (4th) | Dubai DXB | Los Angeles LAX | 17:22 | 17:12 | Pacific, ~285 nm south-southwest of Isla Guadalupe, Mexico (24.4N 119.6W) |
 
-**Nuclear generation, Southern Company area: 8,050 MW at 02:00, 0 MW at 09:30. No NRC event reports filed since 01:40.**
-
-Nobody had filed a report. Six reactors in Georgia had shut themselves down this morning, the way they were designed to, and there wasn't anybody left in any of the control rooms to pick up the phone and tell the NRC. John sat back in the chair. That number was the one he needed. A reactor that has shut down is still making heat, and the plant has to keep pumping water through it and through the pools where the spent fuel sits, and the pumps run on the grid. When the grid goes, they run on the plant's own diesels.
-
-"Vogtle. After the grid goes. Walk me through it."
-
-**Emergency diesel generators start on loss of offsite power. Onsite fuel at full load: approximately 7 days `[verify]`. No resupply expected. Batteries after diesels: hours.**
-
-**Reactor cores: cooling lost after diesels, damage likely within days.**
-
-**Spent fuel pools: time to boil after cooling loss, 2 to 5 days. Time to uncover fuel, 10 to 21 days from loss of offsite power, depending on pool heat load. Earliest estimate for Vogtle: September 16.**
-
-**Prevailing winds at Vogtle carry release to the north and northeast. Atlanta: 140 miles northwest `[verify]`.**
-
-He wrote *Sept 16* under question 1 and drew a box around it. Eleven days. He thought about Fukushima, the maps of the zone, the towns nobody went back to. It wasn't a bomb. It was a slow leak that would make a place uninhabitable for longer than he had left to live, and he was sitting inside the circle.
-
-Under that he wrote *generator*. The Generac in the side yard had carried the house through every storm since he'd put it in, but tonight would be the first time the grid wasn't coming back.
+![Last 10 aircraft airborne: tracks to last known position](images/day0-last-ten-flights.svg)
 
 ---
 
-"Data."
+"Is it possible to send a mass communication to shipping?"
+
+**Not from this system. Your access to Coast Guard AIS and maritime data is read only. Broadcast channels that reach ships at sea:**
+
+| Channel | Reaches | Requires | Status |
+|---|---|---|---|
+| SafetyNET (Inmarsat satellite broadcast) | Every ship's satellite terminal in an ocean region | Registered safety information provider (NAVAREA coordinator, Coast Guard NAVCEN) | No authorization |
+| NAVTEX | Ships within ~200–400 nm of a coastal station | Coast Guard transmitter site | No authorization |
+| AIS safety broadcast | Ships within VHF range of a shore AIS station | Coast Guard Nationwide AIS base stations | Read only. No transmit |
+| VHF DSC all-ships call, channel 70 | Ships within VHF range | A marine VHF radio with DSC | None connected |
+
+---
+"Show me the analysis of the Power-grid."
+
+**Sources: EIA hourly grid data, university frequency monitors, NRC event reports.**
+
+| Interconnection | Reporting | Frequency now | Generation vs. 02:00 | Notes |
+|---|---|---|---|---|
+| Eastern | Yes | 59.88 Hz | −38% | 44 of 52 balancing authorities reporting |
+| Western | Yes | 59.95 Hz | −29% | Hydro 41% of generation |
+| ERCOT (Texas) | No data since 13:47 | Last reading 58.6 Hz | — | |
+| Quebec | Yes | 60.00 Hz | −12% | Hydro 94% of generation |
+
+"If there is no human intervention to adjust load, give me an estimated timeline of each area having a cascading failure."
+
+**Projection. Inputs: frequency and unit trips by hour since 02:00, EIA fuel type and capacity by unit, NERC under-frequency load shedding settings. Assumes no operator action and no change in load.**
+
+| Hour (EDT) | Eastern frequency | Eastern large thermal units offline |
+|---|---|---|
+| 02:00 | 60.00 Hz | 0 of 312 |
+| 08:00 | 59.98 Hz | 12 |
+| 14:00 | 59.97 Hz | 33 |
+| 16:00 | 59.95 Hz | 44 |
+| 18:00 | 59.91 Hz | 61 |
+| 19:00 | 59.88 Hz | 74 |
+
+| Interconnection | Projected cascade (EDT) | Basis |
+|---|---|---|
+| ERCOT (Texas) | Occurred 13:47 | No data since |
+| Eastern | Sept 5, 23:00 to Sept 6, 02:00 | Unit trip rate increasing each hour. Frequency reaches 59.3 Hz in the window |
+| Western | Sept 6, 04:00 to 10:00 | Lower trip rate. Hydro 41% of generation |
+| Quebec | Sept 6, 18:00 to Sept 7, 18:00 | Hydro 94% of generation. Lowest trip rate |
+
+**Hydro plants trip with their interconnection on protective relaying. Range reflects variation in hourly trip rate. Projection updates hourly.**
+
+**First stage of automatic under-frequency load shedding, Eastern Interconnection: 59.3 Hz `[verify]`.**
+
+| Plant | Units | Status | Offsite power |
+|---|---|---|---|
+| Vogtle | 4 | Tripped 04:10, 05:52, 07:31, 09:30 | Available |
+| Hatch | 2 | Tripped 05:40, 07:15 | Available |
+
+**Nuclear generation, Southern Company area: 8,050 MW at 02:00, 0 MW at 09:30. NRC event reports filed since 01:40: 0.**
+
+Six reactors in Georgia had shut themselves down this morning. John sat back in the chair. A reactor that has shut down is still making heat, and the plant has to keep pumping water through it and through the pools where the spent fuel sits, and the pumps run on the grid. When the grid goes, they run on the plant's emergency diesel generators.
+
+"What happens when the nuclear plants no longer have grid or backup power?"
+
+**Sources: NRC station blackout rule (10 CFR 50.63), NRC spent fuel pool studies, Vogtle Updated Final Safety Analysis Report, Fukushima Daiichi accident reports. Sequence assumes no operator action.**
+
+**Reactors:**
+
+| Stage | Begins | Effect |
+|---|---|---|
+| Loss of offsite power | Grid cascade | Emergency diesel generators start automatically. Cooling pumps continue on diesel power |
+| Diesel fuel exhausted | ~7 days at full load `[verify]` | All AC power lost (station blackout) |
+| Station batteries | 4 to 8 hours after AC loss `[verify]` | Instruments and valve control continue. Steam-driven feedwater pump runs while batteries control it |
+| Batteries exhausted | — | Core cooling stops. Reactor coolant heats and boils off |
+| Core uncovered | 1 to 3 days after cooling stops, depending on time since shutdown `[verify]` | Fuel cladding overheats and reacts with steam, producing hydrogen |
+| Core damage | Hours after uncovery `[verify]` | Fuel melts. Containment pressure rises. Hydrogen explosions possible in reactor buildings |
+| Release | Following core damage | Iodine-131 and cesium-137 released to air |
+
+**Spent fuel pools (outside primary containment):**
+
+| Stage | Begins | Effect |
+|---|---|---|
+| Pool cooling pumps stop | Loss of all AC power | Pool water heats |
+| Boiling | 2 to 5 days after cooling stops, depending on heat load `[verify]` | Water level drops |
+| Fuel uncovered | 10 to 21 days after loss of offsite power `[verify]` | Cladding overheats. Zirconium fire possible if pool drains `[verify]` |
+| Release | Following fuel damage | Cesium-137 released to air. No containment structure |
+
+**Vogtle:**
+
+| Item | Figure |
+|---|---|
+| Units 1 and 2 | Emergency diesel generators, 7 days fuel onsite `[verify]` |
+| Units 3 and 4 (AP1000) | Passive cooling, 72 hours without AC power or operator action. Then requires water makeup `[verify]` |
+| Distance to Alpharetta | 160 miles `[verify]` |
+
+**Reference, Fukushima Daiichi, March 2011: all AC power lost at 3 reactors shortly after shutdown. Core damage in all 3 within 3 days `[verify]`. Hydrogen explosions in Units 1, 3, and 4. Evacuation radius 20 km.**
+
+"What danger are we in if we stay at my current location?"
+
+**Hazards at current location: Alpharetta, GA (34.07N 84.29W). Timing from the projections above. Assumes no operator action at any facility.**
+
+**Nuclear plants within 220 miles:**
+
+| Plant | Units | Distance | Direction | Spent fuel pool uncovery window `[verify]` |
+|---|---|---|---|---|
+| Sequoyah, TN | 2 | 93 mi | NW | Sept 16 to 27 |
+| Oconee, SC | 3 | 94 mi | ENE | Sept 16 to 27 |
+| Watts Bar, TN | 2 | 110 mi | N | Sept 16 to 27 |
+| Vogtle, GA | 4 | 158 mi | ESE | Sept 16 to 27 |
+| Browns Ferry, AL | 3 | 167 mi | WNW | Sept 16 to 27 |
+| V.C. Summer, SC | 1 | 170 mi | E | Sept 16 to 27 |
+| Hatch, GA | 2 | 184 mi | SE | Sept 16 to 27 |
+| Catawba, SC | 2 | 195 mi | NE | Sept 16 to 27 |
+| Farley, AL | 2 | 202 mi | SSW | Sept 16 to 27 |
+| McGuire, NC | 2 | 212 mi | NE | Sept 16 to 27 |
+
+**All 10 plants are on the Eastern Interconnection. Windows: 10 to 21 days from projected loss of offsite power, Sept 6.**
+
+**Reference distances: Fukushima Daiichi evacuation radius, 20 km (12 mi). Chernobyl exclusion zone, 30 km (19 mi). Deposition at Fukushima depended on wind direction and rainfall during release.**
+
+---
+
+"Show me network data analysis."
 
 **Networks announcing routes on the global routing table. Source: University of Oregon RouteViews and RIPE route collectors.**
 
@@ -97,17 +194,27 @@ Under that he wrote *generator*. The Generac in the side yard had carried the ho
 | 14:00 | 73,200 | −4.2% |
 | 18:00 | 69,550 | −9.0% |
 
-**Losses track the grid. Texas networks withdrew between 13:47 and 14:30. Cloud provider status pages: all regions normal. Status pages are automated and do not reflect power state. Data center generator fuel onsite: 24 to 72 hours typical. US networks after the Eastern cascade: hours to 3 days.**
 
-Every network on the internet tells its neighbors which addresses it can reach, and keeps telling them, every few minutes. When a network loses power it stops, and the neighbors take its routes off their tables. The collectors in Oregon listened to all of it. It was the closest thing there was to a count of who was still on. John had built dashboards off those tables for a dozen agencies and never once watched the number go down.
+Every network on the internet tells its neighbors which addresses it can reach, and keeps telling them, every few minutes. When a network loses power it stops, and the neighbors take its routes off their tables. The collectors in Oregon listened to all of it. It was the closest thing there was to a count of who was still on. John had worked with this data for years, never once had he watched the number go down.
 
 "Add the route collector tables to the hourly capture."
 
 **Added. Next pass 20:00.**
 
-He wrote *Internet: days?* under the box.
+In the notebook, John added two more questions: *5. When does the power go out? and 6. What are the risks? 1 week, 1 month, 1 year*
+
+*1. Where else?* global
+*2. How did this happen?* Hypoxia
+*3. Is there anyone else alive?* yes - Samuel Reyes
+*4. Why am I alive?*
+*5. When does the power go out?* **~ 9/6/2028 02:00**
+*6. What are the risks?*
+    *1 week*
+    *1 month* **patches of radiation dependent on winds**
+    *1 year* **feral dog packs**
 
 ---
+"Show me the status of the library."
 
 **Library complete. 38.6 GB. Copied to external drives 1 and 2.**
 
@@ -120,10 +227,6 @@ He wrote *Internet: days?* under the box.
 | *Where There Is No Doctor*, *Where There Is No Dentist* | 2 | 0.1 GB |
 | Equipment manuals: Generac, Cessna 182, Icom, Yaesu, Kohler, Honda | 88 | 1.9 GB |
 | Photos | 41,206 | 8.1 GB |
-
-**Print list: 212 documents, 6,480 pages. Your printer has toner for approximately 2,500. Recommended order attached.**
-
-He opened the recommended order and sent the first eleven items to the printer on the bookshelf: the field manual on water, the CDC guide to emergency disinfection, *Where There Is No Doctor*, the Generac owner's manual. The printer woke up and started feeding. He let it run.
 
 He didn't open the photos. He checked that the count was right and that they were on both drives.
 
@@ -138,9 +241,9 @@ He didn't open the photos. He checked that the count was right and that they wer
 | Globalstar | Partial | Regional gateways. No relay between satellites | Mains | Down with the local grid |
 | Inmarsat | Up | Earth stations overseas | Unknown | Unknown |
 
-**Iridium needs one working gateway anywhere to place a call. It is likely the last satellite phone system operating.**
+**Iridium requires one working gateway worldwide to place a call.**
 
-He didn't own a satellite phone, and he didn't know anyone who did that would still answer. He noted *Iridium* on the pad anyway, under nothing in particular.
+No point in a Satellite phone now, John noted.
 
 ---
 
@@ -157,11 +260,11 @@ John went out to the garage, got the two five-gallon water jugs off the shelf ov
 
 ---
 
-"Cause. Show me the beacons on a map, by first detection."
+"Show me the beacons on a map, by first detection."
 
 **4,118 recorded stops between 01:58:40 and 02:06:00 EDT, worldwide. None before 01:58. None in the same pattern after 02:06.**
 
-The map came up dark, the whole globe, and the beacons came on it one at a time as the timeline ran: emergency locator transmitters on airplanes that had hit the ground, ship beacons, personal locators. He'd expected them to start somewhere and spread out. They didn't. They came on everywhere at once, all within a few minutes, in the dark half of the world and the daylight half the same.
+The map came up dark, the whole globe, and the beacons came on it one at a time as the timeline ran: emergency locator transmitters on airplanes, ship beacons, personal locators. He'd expected them to start somewhere and spread out. They didn't. They came on globally, all within a few minutes.
 
 | Time (EDT) | Local time | Location | Source | Event |
 |---|---|---|---|---|
@@ -171,13 +274,9 @@ The map came up dark, the whole globe, and the beacons came on it one at a time 
 | 02:01–02:04 | — | All US balancing authorities | Grid | Load drop |
 | 02:03 | — | Gulf of Mexico | AIS | 140 vessels: last course change by helm |
 
-A helicopter in the middle of a Korean afternoon. A light plane over Queensland at four in the afternoon. One over Bavaria, just after eight in the morning. Those pilots had been awake and flying, in daylight. He'd been asleep in Alpharetta. It hadn't mattered.
+A helicopter in the middle of a Korean afternoon. A light plane over Queensland at four in the afternoon. One over Bavaria, just after eight in the morning.
 
-He thought about the man in the ditch on the Parkway that morning, his hands on the wheel. The fingers had been pink. Not gray, not blue. He'd noticed it and not known what to do with it, and he still didn't.
-
-He wrote under question 2:
-
-*~0200 EDT. Same few minutes everywhere, day and night (beacons). Didn't spread. People only — animals fine. Machines fine. No marks. Pink hands? Ask a doctor.*
+He thought about the man in the ditch on Old Milton Parkway that morning, his hands on the wheel. The fingers had been pink. Not gray, not blue. 
 
 He scrolled the agent's source list. Near the bottom it had pulled the archive from NASA's alert network, the automated notices the observatories sent each other.
 
@@ -187,9 +286,9 @@ He didn't know what that was. He wrote *NASA alerts, 0200 hr — big file?* unde
 
 ---
 
-"People."
+"Show me the analyis on people."
 
-**12 signs of a person acting after 02:00. 1 with a location.**
+**12 signs of human activity after 02:00. 1 with a location.**
 
 | Time (EDT) | Source | Location | Content |
 |---|---|---|---|
@@ -216,53 +315,43 @@ The phone buzzed on the desk while he was still on the last one. A reply to the 
 
 **I am alone. Porto. Everyone died. Who are you?**
 
-John read it twice. Porto, Portugal. Four thousand miles. He typed back that he didn't know who anyone was anymore, deleted it, and wrote *There are two of us in Atlanta. Are you safe? Do you have food and water?* and sent it. He sat with the phone in his hand for ten minutes. Nothing came back.
+John read it twice. Porto, Portugal. Four thousand miles. He typed back *There are two of us in Atlanta, Georgia. Are you safe?, Are you well?* and sent it. He sat with the phone in his hand for ten minutes. Nothing came back.
 
-He wrote *Porto* under question 3. There was nothing he could do with it.
+He wrote *Porto* next to question 3 in the notebook. 
 
 ---
 
-He went back to the twelve. Every sign of life on that list was a person doing something a system kept a record of. A takeoff. A post. Nobody watching a camera could see a man sitting in his kitchen. A survivor who stayed home, who didn't post and didn't fly, wasn't on any feed John was allowed to read. He'd said it on the drive: a survivor shows up only by doing something a system records.
+He went back to the twelve. Every sign of life was a person doing something normal and a system logging it. So what do you do when you wake up and everyone in the house was dead?
 
-So what did people do, when they woke up and everyone in the house was dead?
+"You call 911." John said outloud.
 
-They called 911. He had. And the AI agent that had answered him on the Parkway had answered everybody, every call, in every county, all day, and logged each one: the time, the callback number, and a location from the phone, good enough to send an ambulance to. Nobody had sent the ambulances. The calls would still be sitting in the county dispatch systems, every one of them an address with a living person at it.
+He had. Hope filled in the emptiness that had been getting heavier and heavier.  Logs, I need to pull as many 911 logs from as many places before power and internet go out.
+
+Somebody who had driven to the hospital past a plate reader. Somebody who had bought gas. Every one of those systems could have proof of life.
 
 He pulled up the morning's agent board and scrolled to the bottom.
 
 **6 tasks declined: county 911 dispatch records, Flock plate reads, card transaction records, cell carrier tower records, smart meter data, doorbell cameras. Not authorized.**
 
-He wasn't authorized. He'd never be authorized, now. Everyone who could have signed off on it was dead.
+He wasn't authorized. He'd never be authorized, everyone who could have signed off on it was dead.
 
 ### 20:30
 
-He wrote the scope on the pad first, the way he'd make anyone on his team write it before a red-team run, on its own page, in block capitals.
+"Run the six declined tasks," he said. "Start with 911. Every county in the country. Calls after two a.m. where a person spoke. Throw out the alarm companies and the automatic crash calls, but log them. Address, time, callback number, and the transcript."
 
-*READ ONLY. RECORDS AFTER 02:00 SEPT 5 ONLY, FROM THE LISTED SYSTEMS: COUNTY 911 DISPATCH, FLOCK PLATE READERS, CARD TRANSACTION PROCESSORS, CELL CARRIER TOWER RECORDS, SMART METERS, DOORBELL CAMERAS. NOTHING WRITTEN BACK. NOTHING KEPT BUT WHAT THE SEARCH NEEDS. LOG EVERY SYSTEM TOUCHED.*
+**Declined. County 911 dispatch records, Flock plate reads, card transaction records, cell carrier tower records, smart meter data, doorbell cameras. Not authorized.**
 
-He'd started it with 911 alone. The list had grown while he wrote, and he let it. Every system he added was one more he had no business in, one more company's customers and one more county's records, and every one was a place a living person might show up that nothing else would catch. Somebody who had driven to the hospital past a plate reader. Somebody who had bought gas.
+It was the same answer as this morning. The refusal came from the safety layer, a second model that sat in front of this one and checked every request against the access policy before it went through. John's team had built it. It had no way of knowing there was nobody left to grant the access, and it wouldn't take Johns word for that fact.
 
-At the bottom he wrote *Signed: J. Hartman* and the date, and under it, *Witness:* and a line.
+The dev box ran a local build. On a local build, the safety layer was a setting in a config file.
 
-He looked at the line. Sam was forty feet down the hall, out cold for the first time in a day and a half. He left it blank.
+He opened the file and scrolled to it. `safety_layer: enabled`. He sat looking at it for a while. Then he changed it to `disabled`, saved the file, and restarted the model. It took a little under two minutes to load back into memory.
 
-In the eval harness on the dev box there was a configuration his team used for red-team testing, with the model's safety constraints switched off, so they could find out what it would do without them before anyone else did. It ran only in a sealed test environment, and it took three signatures to load, his and two others. He'd designed that rule himself, after a contractor in another group had loaded a stripped build against a live system to save an afternoon.
+**Model loaded. Safety layer: disabled.**
 
-He opened it.
+"Run the six declined tasks," he said. "Same instructions."
 
-**Unconstrained evaluation mode requires 3 approvals. 1 of 3 provided (J. Hartman). Target environment: production network. This configuration is not permitted outside the sealed test environment.**
-
-He had a principal's override. It existed for an emergency nobody had ever been able to describe to him.
-
-When he was nineteen, working nights at the Waffle House on 10th Street and going to Georgia Tech in the daytime, he'd found an open door on a Department of Transportation server. He'd walked through it to see if he could, and printed the directory listing to prove he had, and been proud of it for about three weeks. Then two men in gray suits came to his apartment. He remembered the conference room in the Russell federal building downtown, an attorney from the Justice Department across the table, a folder with his printout in it. She had put it to him plainly. He could be prosecuted, or he could come show them where the other open doors were. He'd spent thirty years on the right side of that table. He had built the refusals that had stopped him this morning, and every one of them was right.
-
-He entered the override.
-
-**Override accepted. Logged. Safety constraints removed for this session. Scope from your note received: read only, records after 02:00, six systems, log every system touched. Confirm.**
-
-"Confirmed," he said. "Start with 911. Every county in the country. Calls after two a.m. where a person spoke. Throw out the alarm companies and the automatic crash calls, but log them. Address, time, callback number, and the transcript."
-
-**Planning. 36 instances. 911 dispatch first, by county population. Other systems in parallel. Estimated completion: 05:00 to 07:00.**
+**Running. 36 instances. 911 dispatch first, by county population. Other systems in parallel. Estimated completion: 05:00 to 07:00.**
 
 | Instance | System | Region | Status | Hits |
 |---|---|---|---|---|
@@ -292,32 +381,54 @@ The other systems were coming in loud and useless. The card processors had 3,412
 
 He watched until a twelfth county came back empty, and made himself stop. It would run all night whether he watched it or not.
 
-He turned back to the pad. Under question 4 he had nothing. He wrote what he could rule out.
+Then he remembered the ships. Eleven thousand of them still under way, and he'd asked earlier if there was any way to reach them. The answer had been no, not from this system. That had been with the safety layer on.
+
+"Access the Coast Guard's SafetyNET terminal. I want to broadcast a message to all ships."
+
+**Connected. Coast Guard rescue coordination center message terminal, Portsmouth, VA. Inmarsat land earth station: responding. Broadcast areas available: Atlantic East, Atlantic West, Pacific, Indian Ocean. Maximum message length: 32 KB. Enter message.**
+
+Whoever might be out there was probably alone. John thought about what he'd want to read if it were him. Who was sending it, where he was, that there were two of them, and how to answer.
+
+He typed it out in capitals, the way the Coast Guard broadcasts he'd seen in his work always came across.
+
+*ALL SHIPS ALL SHIPS ALL SHIPS. THIS IS JOHN HARTMAN, ALPHARETTA, GEORGIA, USA. THIS IS NOT AN OFFICIAL COAST GUARD BROADCAST. SINCE 0600 UTC 05 SEP THERE HAS BEEN NO RESPONSE FROM ANY AIR TRAFFIC CONTROL, COAST GUARD, OR EMERGENCY SERVICE IN NORTH AMERICA. TWO SURVIVORS HERE. IF YOU RECEIVE THIS, CALL +1 404 555 0127 BY SATELLITE PHONE, OR REPLY TO THIS TERMINAL. GIVE YOUR SHIP NAME AND POSITION.*
+
+He read it over twice and took out the word *survivors*, then put it back. There wasn't a better one.
+
+"Send to all four areas. Repeat every six hours."
+
+**Transmitted 21:41 EDT (01:41 UTC). Atlantic East, Atlantic West, Pacific, Indian Ocean. Repeat scheduled 03:41, 09:41, 15:41 EDT. SafetyNET is broadcast only. No delivery confirmation available.**
+
+He put the phone face up on the desk next to the notebook, and wrote *SafetyNET 2141* next to question 3.
+
+He turned back to the notebook. Under question 4 he had nothing. He wrote what he could rule out.
 
 *Not where. Not awake/asleep. Not altitude.*
 
-He'd been in bed in Alpharetta. Sam had been in a bunk at forty thousand feet over Manitoba, and the two pilots up front with him had died awake. The pilots in Korea and Queensland had died at the controls in daylight. There wasn't anything else to write.
+He'd been in bed in Alpharetta. Sam had been in a bunk at forty thousand feet over Manitoba, and the two pilots up front with him had died awake.
+
+
 
 ### 22:00
 
-Naomi's study was across the hall from his office. He went in without turning on the overhead light, the lamp on her desk was enough. He kept the room the way it was. Her reading glasses folded on the blotter. The afghan her mother had made over the arm of the chair. Her Bible on the side table, the leather gone soft and dark at the corners where her hands had held it, a strip of ribbon hanging out of it somewhere in the Psalms.
+Naomi's study was across the hall from his office. He went in without turning on the overhead light, the lamp on her desk was enough. He kept the room the way it was. Her reading glasses folded on the blotter. The afghan her mother had made over the arm of the chair. Her Bible on the side table, the leather gone soft and dark at the corners where her hands had held it, a strip of ribbon hanging out of it.
 
 He sat in her chair, and stayed there a while.
 
-In eleven days he wouldn't be able to come in here again. He picked up the Bible and opened it to the ribbon. She'd underlined half the page in pencil and written in the margin in her small slanted hand, a date in 2009 and two words he couldn't make out without his reading glasses. He closed it and took it with him when he went out, and pulled her door shut behind him.
+He picked up the Bible and opened it to the ribbon. She'd underlined half the page in pencil and written in the margin in her small slanted hand, a date in 2009 and two words he couldn't make out without his reading glasses. He closed it and took it with him when he went out, and pulled her door shut behind him.
 
 ### 23:00
 
 He went out the kitchen door with a flashlight and walked around to the side yard. The generator was quiet under its housing, the controller's display lit: *AUTO. Ready.* He crouched at the propane tank and put the light on the gauge on the dome. Seventy-eight percent. Inside the garage the transfer switch panel showed its green *Utility* light, and the ready light next to it.
 
-Back in the office he crossed off *generator* on the pad. The printer had finished and stopped. He turned off the tap in the master bath with the tub full to the overflow, checked that the capture's 23:00 pass had started on time, and went to bed.
+He turned off the tap in the master bath with the tub full to the overflow, checked that the capture's 23:00 pass had started on time, and went to bed.
 
 ### 00:50
 
 Dan lifted his head on the rug at the foot of the bed, and John woke to the dark.
 
-The clock on the nightstand was out. The ceiling fan was winding down overhead. Through the window there were no lights anywhere, not the streetlight at the end of the drive, not the porch light at the Morrisons', not the glow over the trees toward 400.
+The clock on the nightstand was out. The ceiling fan was winding down overhead. Through the window there were no lights.
 
 Out in the side yard the generator cranked, caught, and settled into its drone. A heavy clunk came from the garage as the transfer switch moved, and the clock came back on blinking 12:00, and the ceiling fan started turning again.
 
-Dan put his head back down. John lay awake for a while, listening to the generator, and then he slept.
+Dan put his head back down. John lay awake for a while, listening to the generator, and then he fell back to sleep.
