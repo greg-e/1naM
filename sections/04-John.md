@@ -154,7 +154,7 @@ Six reactors in Georgia had shut themselves down this morning. John sat back in 
 |---|---|
 | Units 1 and 2 | Emergency diesel generators, 7 days fuel onsite `[verify]` |
 | Units 3 and 4 (AP1000) | Passive cooling, 72 hours without AC power or operator action. Then requires water makeup `[verify]` |
-| Distance to Alpharetta | 160 miles `[verify]` |
+| Distance to Alpharetta | 159 miles |
 
 **Reference, Fukushima Daiichi, March 2011: all AC power lost at 3 reactors shortly after shutdown. Core damage in all 3 within 3 days `[verify]`. Hydrogen explosions in Units 1, 3, and 4. Evacuation radius 20 km.**
 
@@ -169,7 +169,7 @@ Six reactors in Georgia had shut themselves down this morning. John sat back in 
 | Sequoyah, TN | 2 | 93 mi | NW | Sept 16 to 27 |
 | Oconee, SC | 3 | 94 mi | ENE | Sept 16 to 27 |
 | Watts Bar, TN | 2 | 110 mi | N | Sept 16 to 27 |
-| Vogtle, GA | 4 | 158 mi | ESE | Sept 16 to 27 |
+| Vogtle, GA | 4 | 159 mi | ESE | Sept 16 to 27 |
 | Browns Ferry, AL | 3 | 167 mi | WNW | Sept 16 to 27 |
 | V.C. Summer, SC | 1 | 170 mi | E | Sept 16 to 27 |
 | Hatch, GA | 2 | 184 mi | SE | Sept 16 to 27 |
@@ -367,13 +367,13 @@ He opened the file and scrolled to it. `safety_layer: enabled`. He sat looking a
 
 Fulton County finished first. He opened the hit.
 
-**07:28 EDT. Old Milton Parkway near GA-400. Caller: male. "There's a man in a car here, he's not breathing, I think he's been dead a while, there are more cars..."**
+**07:40 EDT. Old Milton Parkway near GA-400. Caller: male. "Old Milton Parkway roughly one mile north of Highway 400." "A car accident, one car involved, the driver is dead."**
 
 His own voice, from the side of the road this morning, with Dan pulling at the leash.
 
 ### 21:30
 
-By half past nine eleven counties had come back. Fulton had him. The other ten had nothing. Cook County, Harris County, Maricopa, Los Angeles, millions of people in each, and in the logs of every one of them, after two in the morning, not one call where a person spoke.
+By half past nine eleven counties had come back. Fulton had him. The other ten had nothing. Cook County, Harris County, Miami-Dade, Los Angeles, millions of people in each, and in the logs of every one of them, after two in the morning, not one call where a person spoke.
 
 **Discarded: 214 automated calls (alarm monitoring, vehicle crash detection, smartwatch fall detection). Logged by time and county.**
 

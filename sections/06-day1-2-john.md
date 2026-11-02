@@ -1,4 +1,4 @@
-# 7 — John, Day 1-2
+# 6 — John, Day 1-2
 
 Huntsville International came up out of the haze looking like any airport John had flown into, real runways, a real tower, a terminal building catching the last low sun without a single light on inside it. Sam did the low pass anyway, one slow circuit over the runway to check it clear, before he lined up for real. "Old habits," he said, when John didn't ask.
 

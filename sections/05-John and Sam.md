@@ -1,16 +1,16 @@
-# 6 — John and Sam
+# John and Sam
 
 John woke at six-thirty, the generator made a steady drone on the side of the house. He showered and came out to the kitchen.  Sam was already there sitting at the counter with a coffee.
 
 "Morning Sam"
 
-"You were up late, sounded like you were talking to yourself." Sam said.
+Sam looked up, "You were up late, sounded like you were talking to yourself."
 
 John smirked as he got out eggs, bacon and hashbrowns. 
 
 "Till eleven, yeah, sorry about that, I talk to the computer now days, since Ai it is so much quicker to just have the machine take speech to text." John said. "I was able to pull alot of data before things started shutting down."
 
-John put together his blueberry, avocado, beet juice, and spinach into the blender and offered some to Sam.
+John put together his blueberry, avocado, beet juice, and spinach into the blender, ran it for about 45 seconds, poured it into a glass and offered some to Sam.
 
 "No thanks, that looks awful. But your version of Waffle House is spot on." Sam paused watching John cook, "What exactly do you do?"
 
@@ -18,7 +18,7 @@ John put together his blueberry, avocado, beet juice, and spinach into the blend
 
 "What have you found out?" Sam asked.
 
-"Yesterday morning, after finding my neighbors dead and going for a drive and seeing more of the same, I came back home and started gathering everything I could reach, every hour on the hour. Last night I started looking at it." 
+"Yesterday morning, after finding my neighbors dead and going for a drive and seeing more of the same, I came back home and started gathering data, that is when I found DAL27. I broadened my search yesterday afternoon and last night I started looking at it." 
 
 John related what he had found to Sam. No change in traffic from DOT camera feeds. Ships holding their courses, many coming to abrupt stops on coastlines.
 
@@ -28,7 +28,7 @@ Sam looked at him with a blank look, forehead furroghed.
 
 "Yeah, I am not quite sure what to make of this, my mind is numb." John continued, "The national power grid is shutting down fast," John said. He talked through the four interconnections and the frequency decreasing, the model putting the Eastern collapse around midnight. "We lost power here at 12:50, an ice storm a couple years ago inspired me to get the whole house generator and Starlink."
 
-John continued, "Plant Vogtle sits about a hundred and fifty miles southeast of here. All Four reactors scrammed by 09:30 yesterday. The control rods drop into the core and the reaction stops, automatic, no operator required. The spent fuel sitting in the cooling pools, still hot, still needing pumps to keep water moving over it. The pumps run on the site's emergency diesels and batteries, three days, maybe a week, if there is nobody there to refuel them. Best real number I've got is somewhere between ten and twenty-one days before the Vogtle pools boil down far enough to expose the rods to open air, then it'll be a local contamination event."
+John continued, "Plant Vogtle sits about a hundred and sixty miles southeast of here. All Four reactors scrammed by 09:30 yesterday. The control rods drop into the core and the reaction stops, automatic, no operator required. The spent fuel sitting in the cooling pools, still hot, still needing pumps to keep water moving over it. The pumps run on the site's emergency diesels and batteries, three days, maybe a week, if there is nobody there to refuel them. Best real number I've got is somewhere between ten and twenty-one days before the Vogtle pools boil down far enough to expose the rods to open air, then it'll be a local contamination event."
 
 "Fallout?" Sam asked. "What do you mean?"
 
