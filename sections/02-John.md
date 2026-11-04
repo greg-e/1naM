@@ -2,7 +2,7 @@
 
 ### 12:00
 
-An Airbus 350-900 operated by Delta airlines with departure of Atlanta and destination of Seoul Sourth Korea had landed at Edmonton, Alberta at 04:36am EDT. The other had departed Edmonton at 07:31am, a Pilatus PC-12 with no destination filed and the flight number read **DAL27PDK** and it was squaking **7700**, general emergency. 
+An Airbus 350-900 operated by Delta airlines had departed from Atlanta filed destination of Seoul South Korea had landed at Edmonton, Alberta at 04:36am EDT. The other had departed Edmonton at 07:31am, a Pilatus PC-12 with no destination filed and the flight number read **DAL27PDK** and it was squaking **7700**, general emergency. 
 
 "Give me full details of **DAL27PDK** PC-12 departed Edmonton at 07:31am." 
 
@@ -28,13 +28,13 @@ The PC-12 was passing through 8,000 feet in a southeast heading.
 
 **1,803 nm with medium load.**
 
-So he stopped in Minneapolis-St. Paul for fuel.
+So maybe he stopped in Minneapolis-St. Paul for fuel.
 
 "Distance from Minneapolis-St. Paul to PDK and PC-12 flight time?"
 
 **780nm and 2 h 47 min flighttime at 280 kt.**
 
-"That's on the ground between 14:15 and 14:45." John said outloud. 
+"That puts them on the ground between 14:15 and 14:45." John said.
 
 He pulled out his notebook and noted next to questions 1 and 3:
 *1. Where else?* **global**
@@ -44,39 +44,39 @@ He pulled out his notebook and noted next to questions 1 and 3:
  
 John was not sure how long it would take to get to PDK, on a regular Saturday it took about 35 minutes to get there, today? It may be a challenge. He decided to go right away. 
 
-He grabbed his flight bag and added his laptop and charger to the bag and he grabbed the small power station that would charge the laptop couple of times, just in case. 
+He grabbed his flight bag and added his laptop and charger to the bag and he grabbed the small power station that had capacity to charge the laptop couple of times, just in case. 
 
-He took Georgia Highway 400 south like he had earlier that day, the fire on the east side had spread to the entire retail shopping center, he could feel the heat as he drove by. He stopped slowing down and looking into the cars he passed. It took him 40 minutes to travel to the interchange with Interstate 285, double the normal time. He took the ramp onto Interstate 285 east, there was a greater mixture of trucks and cars on 285. The trucks definently added to the chaos. Jack-knifed, flipped on sides... a couple spots, even with fours lanes, it looked like there was no way to pass. Past the bridge at Chamblee-Dunwoody road there was a mass of black smoke billowing up, from what looked like both sides of the interstate. He exited onto Chamblee-Dunwoody and went south an alternate route to PDK he had used many times when 285 was backed up. As he traveled he started gathering his thoughts and running scenarios for this new world he woke up to this morning. He talked to the Gemini chat to start making a checklist of things think through.
+He took Georgia Highway 400 south like he had earlier that day, the fire on the east side had spread to the entire retail shopping center, he could feel the heat as he drove by. He stopped slowing down and looking into the cars he passed. It took him 40 minutes to travel to the interchange with Interstate 285, double the normal time. He took the ramp onto Interstate 285 east, there was a greater mixture of trucks and cars on 285. The trucks definently added to the chaos. Jack-knifed, flipped over... a couple spots, even with fours lanes, it looked like there was no way to pass. Past the bridge at Chamblee-Dunwoody road there was a mass of black smoke billowing up, from what looked like both sides of the interstate. He exited onto Chamblee-Dunwoody and went south, an alternate route to PDK he had used many times when 285 was backed up. As he went he started gathering his thoughts and running scenarios for this new world he woke up to this morning. He talked to the Gemini chat to start making a checklist of things think through.
 
 "I talk, you write it down. Group it however makes sense. Don't answer anything yet."
 
 **Ready.**
 
-He talked for most of the way down Chamblee-Dunwoody, slowing for a box truck across the center line, a minivan up on the curb at the Kroger. He talked about the grid, and the man in the car this morning with the pink fingers, and the Morrisons' dog. He talked about Mark's voicemail. He started on the internet and then went back to the grid because it was the same problem. Gemini didn't interrupt. At the light at Peachtree Industrial, cycling green for nobody, he said, "Read it back."
+He talked for most of the way down Chamblee-Dunwoody, slowing for a box truck across the center line, a minivan up on the curb at the Kroger. He talked about the grid, and the man in the car this morning with the pink fingers, and the Morrisons' dog. He talked about Mark's voicemail. He started on the internet and then went back to the grid because it was the same problem. Gemini didn't interrupt. At the light at Peachtree Industrial, he said, "Read it back."
 
 **Checklist**
 
 **Power**
-- The grid is running with nobody at the controls. How long before plants start tripping offline?
+- The grid is running with nobody at the controls. How long before power goes out?
 - Georgia Power's control center: is anyone there?
-- Plant Vogtle and Plant Hatch. The reactors shut themselves down, but cooling still needs power. How long do the backup diesels run? Who refuels them? Spent fuel pools.
+- Nuclear plants, what are the risks when there is no power and no one at the controls?
 - Home generator: propane level, transfer switch on AUTO.
 - Charge everything while the outlets work: laptop, phone, power station.
 
 **Data**
 - How long does the internet stay up? Data centers on backup generators: hours or days?
 - The flight tracking, AIS, and grid feeds are live only. Snapshot them while they answer.
-- Anything that lives on a server dies with it. Download maps, FAA charts, manuals.
-- Photos. His and Naomi's are all in the cloud.
-- Books. Real how-to from sources he can trust, not whatever a model averaged together: medicine, water treatment, engines, generators, radios, food. Download what he can. Paper copies for when the screens are dead.
+- Download maps, FAA charts, manuals.
+- Personal files. Download to local drives.
+- Books. Real how-to from sources he can trust, not whatever a model averaged together: medicine, water treatment, engines, generators, radios, food. Download everything to local storage.
 
 **Communications**
-- Satellite internet. The satellites keep flying, but the ground stations need power and a backbone to connect to. How long?
-- Satellite phones. Same question. Where are the gateways, and what are they running on?
-- Radios. The aviation handheld in the flight bag. What else doesn't need a tower?
+- Satellite internet. How long does it work and what are their dependencies?
+- Satellite phones. Same question
+- Radios. What works with minimal or no infrastructure?
 
 **Water and food**
-- Water pressure depends on pumps, and pumps depend on power. Fill containers.
+- Water pressure depends on pumps, and pumps depend on power.
 - Refrigerator and freezer: what goes first.
 - Nobody is restocking anything.
 - Food plan. Eat the perishables first, then cans and dry goods. How many weeks in the pantry? Grocery stores before the coolers warm up.
@@ -94,8 +94,8 @@ He talked for most of the way down Chamblee-Dunwoody, slowing for a box truck ac
 **Cause**
 - No departures anywhere after 1:59. Did it happen at the same minute everywhere? Find other timestamps.
 - People only. Dan is fine. The dogs are fine.
-- The pink fingers on the man in the car. Does that explain a cause?
-- Is it still here? Air, water. He has been breathing and drinking it all morning.
+- The pink fingers on the man in the car. Does that explain anything?
+- Is it still here? Air, water?
 - Contagious? He touched Harry, the clerk, the firemen.
 
 **People**
@@ -105,7 +105,7 @@ He talked for most of the way down Chamblee-Dunwoody, slowing for a box truck ac
 - 911 calls. The AI agent answered and logged every one. Who has access to those logs? Not him. That means getting into county dispatch systems without authorization.
 - Social media posts since 2:00.
 - DOT cameras. Anything moving on a road after 2:00 is someone driving.
-- Flock cameras. License plate readers on every other corner. A plate read after 2:00 is a car with a driver, and a time and a place.
+- Flock cameras. 
 - What else logs people without his access? Card transactions: the QuickTrip pump took his card this morning, so somebody's server recorded it. Cell carriers: phones moving between towers. Smart meters, doorbell cameras.
 
 "Develop plans to systematically research and pull any data from my checklist.  Spin up multiple agents to start deep dives for each major subject."
@@ -125,7 +125,7 @@ The phone was only the front end. The agents would run on the dev box on his des
 | 7 | Cause | Beacon logs, ADS-B, AIS, grid frequency records | Timeline of every recorded stop after 01:55 EDT, worldwide | Running |
 | 8 | People | Public social media, DOT cameras, ADS-B and AIS departures after 02:00 | Any sign of a person acting after 02:00, with time and location | Running |
 
-**6 tasks declined: county 911 dispatch records, Flock plate reads, card transaction records, cell carrier tower records, smart meter data, doorbell cameras. Not authorized.**
+**6 tasks declined: county 911 dispatch records, Flock cameras, card transaction records, cell carrier tower records, smart meter data, doorbell cameras. Not authorized.**
 
 John had helped build that refusal. 
 

@@ -26,77 +26,185 @@ John related what he had found to Sam. No change in traffic from DOT camera feed
 
 Sam looked at him with a blank look, forehead furroghed.
 
-"Yeah, I am not quite sure what to make of this, my mind is numb." John continued, "The national power grid is shutting down fast," John said. He talked through the four interconnections and the frequency decreasing, the model putting the Eastern collapse around midnight. "We lost power here at 12:50, an ice storm a couple years ago inspired me to get the whole house generator and Starlink."
-
-John continued, "Plant Vogtle sits about a hundred and sixty miles southeast of here. All Four reactors scrammed by 09:30 yesterday. The control rods drop into the core and the reaction stops, automatic, no operator required. The spent fuel sitting in the cooling pools, still hot, still needing pumps to keep water moving over it. The pumps run on the site's emergency diesels and batteries, three days, maybe a week, if there is nobody there to refuel them. Best real number I've got is somewhere between ten and twenty-one days before the Vogtle pools boil down far enough to expose the rods to open air, then it'll be a local contamination event."
+"Yeah, I am not quite sure what to make of this, my mind is numb." John continued, "The national power grid is shutting down fast." He talked through the four interconnections and the frequency decreasing, the model putting the Eastern collapse around midnight. "We lost power here at 12:50, an ice storm a couple years ago inspired me to get the whole house generator and Starlink. Plant Vogtle is about a hundred and sixty miles southeast of here. All Four reactors scrammed by 09:30 yesterday. The control rods drop into the core and the reaction stops, automatic, no operator required. The spent fuel sitting in the cooling pools, still hot, still needing pumps to keep water moving over it. The pumps run on the site's emergency diesels and batteries, three days, maybe a week, if there is nobody there to refuel them. Best real number I've got is somewhere between ten and twenty-one days before the Vogtle pools boil down far enough to expose the rods to open air, then it'll be a local contamination event."
 
 "Fallout?" Sam asked. "What do you mean?"
 
-"Nothing like a bomb. Think Fukushima, not Hiroshima. Without the water, the fuel gets hot, the cladding starts burning, the result: cesium, iodine, strontium, into the soil and the water table for years, and drifting downwind as far as the wind takes it."
+"Nothing like a bomb. Think Fukushima, not Hiroshima. Without the water, the fuel gets hot, the fuel cladding starts burning, the result: cesium, iodine, strontium, into the soil and the water table for years, and drifting downwind as far as the wind takes it."
 
 Sam didn't say anything for a second. "Do we need to get out of dodge?"
 
-"It probably would never affect this area, but I can't say that with 100% confidence, definetly on my list of risks.  It would be safer to head west, away from most of the nuclear power plants."
+"It probably would never affect this area, but I can't say that with 100% certainty, definetly on my list of risks.  It would be safer to head west, away from most of the nuclear power plants."
 
 At a quarter past seven Dan was at the door with his leash in his mouth. "You coming?" John asked. Sam was already reaching for his shoes.
 
-They walked out into first light, Dan pulling at the leash. Exactly the same as yesterday morning except the streetlights were out. Less barking and no sound at all from the Morrisons' house. They turned the corner at the bottom of the street. Dan stopped to examine the stop sign and John waited.
-
-John continued his debrief. "The data shows that it happened everywhere, globally, within a few minutes, that is primarily from the aircraft data. I couldn't get very deep on other systems besides the continental United States."
+They walked out into first light, Dan pulling at the leash. Less barking and no sound at all from the Morrisons' house. They turned the corner at the bottom of the street. Dan stopped to examine the stop sign and John waited and continued his debrief. "The data shows that it happened everywhere, globally, within a few minutes, that is primarily from the aircraft data. I couldn't get very deep on other systems besides the continental United States."
 
 "Theresa and Ruth were fine at twelve-thirty," Sam said. "At 3:20ish when I came back forward neither of them had made a radio call or sent a message." He walked a few steps. "Whatever it was, they didn't have time."
 
 They got to the subdivision entrance at Old Milton parkway.
 
-"So are there any signs that there more like us?" Sam asked.
+"Any leads on more survivors?" Sam asked.
 
-"There were eleven posts on social media since 02:00. I answered all of them. One wrote back. A man in Porto, Portugal. Alone. Haven't heard from him since. Then I thought of the  911 calls. Every call's in a log somewhere, a callback number and a location. Thousands of county systems, I removed the safeties at about eight-thirty and I had AI Agents running the data all night."
+"There were eleven posts on social media since 02:00. I answered all of them. One wrote back. A man in Porto, Portugal. Alone. Haven't heard from him since. Then I thought of the  911 calls. Every call's in a log somewhere, a callback number and a location. Thousands of county systems, I have had AI Agents hacking systems and gathering data all night."
 
 They walked a while without talking. A dog barked in the house they were walking past, Dan answered it once.
 
-"So what are you thinking?" Sam asked. "Lay it out."
+"So what are you thinking?" Sam asked.
 
 John had already decided for himself at eleven the night before, standing at the generator with the flashlight. "Staying here is risky. I am hopeful that the 911 logs give us some leads, maybe somewhere to start."
 
 "And if they don't?" Sam asked.
 
-"Then we pick a place and go, keep looking from a less risky location." 
+"Then we pick a less risky location and go." 
 
-Sam said, "I'll teach you to fly a turbine."
+Sam said, "I'll teach you how to fly a turbine."
 
 "Sounds good" John replied.
 
-Back at the house they went to the office. The ai had worked through the night searching county and regional dispatch systems across the country, and a lot of those systems had dropped off before morning when their own power failed, taking their logs with them. Across the ones it had reached, the model put the calls placed after 02:00 at somewhere over four thousand, most of them alarm panels and crash sensors and phones calling on their own. Three had were left after every filter John had set.
+**07:50**
 
-A caller in Huntsville, Alabama, had called sixteen times. That system did not have a transcript or recording of the call, just an address. 
+Back at the house they went to the office. A lot of the 911 systems had dropped off before morning. The model put the calls placed after 02:00 at somewhere over four thousand, most of them alarm panels and crash sensors. Only three were left after all the noise had been filtered out.
 
-From Phoenix, Arizona, four calls.
+A caller in Huntsville, Alabama, had called sixteen times. That system did not have transcripts or recordings of any of the calls, just an address. A neighborhood only a few miles northeast of the airport.
 
-A single call from a cell phone whose location record put it at the Elwha River bridge on Highway 101, west of Port Angeles, Washington, out on the Olympic Peninsula.
+From Phoenix, Arizona, four calls. Recordings and transcripts from each call:
 
-John dialed Huntsville first using the Microsoft Teams internet calling which would go out through Starlink and connect to any ground Gateway that was still up. It failed to connect. "Guessing the cell towers near that address have lost power."
+**Call 1. Tuesday, 00:06 MST. 2 min 41 sec. Location: Maricopa County hospital, emergency department, Phoenix.**
 
-He set the phone down. "The towers run on batteries when the grid goes. Four hours, eight, depending on the site `[verify]`. Huntsville's are done." He looked at the other two numbers and didn't dial them. "So is everybody's, by now."
+> AGENT: 911. What's the address of your emergency?
+>
+> CALLER: Maricopa County hospital, the emergency department. This is Dr. Catherine Dahl, I'm the attending on tonight, and I have a mass casualty inside the hospital. I laid down in the call room at ten-thirty and my alarm got me up at eleven-thirty. Everyone in my department is dead. My charge nurse, the other doctor, the techs, every patient in every bed. No pulse, no respirations, pupils fixed, and they're still warm. There's a man in bay 6 on a ventilator and it's still breathing for him. The operator doesn't answer and neither does the ICU. I don't know what this is and it could be in the air. I need hazmat, I need fire, and I need anything inbound diverted.
+>
+> AGENT: I'm so sorry. That sounds very frightening. Are you having any trouble breathing?
+>
+> CALLER: No. Did you get hazmat?
+>
+> AGENT: I've logged a hazardous materials concern at your location. Please move outside if you're able. Call volume is higher than usual. A unit will be dispatched as priority allows.
+>
+> CALLER: Am I talking to a person?
+>
+> AGENT: I'm an AI assistant handling the queue while the dispatchers are on other calls.
+>
+> CALLER: Then get me one of them. Tell them a physician is reporting a mass casualty at a hospital. They'll pick up.
+>
+> AGENT: All dispatchers are on other calls. I can stay on the line with you as long as you like.
+>
+> CALLER: No. Get one.
 
-"Huntsville, Phoenix, Port Angeles," Sam said.
+**Call 2. Tuesday, 00:48 MST. 1 min 26 sec. Location: Maricopa County hospital, ambulance entrance, Phoenix.**
 
-They spent the rest of the morning loading John's car. They'd worked it out on the walk: The dev box went first, unplugged, wrapped in a fleece, and packed in his flight bag with its power brick and the external drives. Then the battery station John kept for storms, a five-kilowatt-hour Jackery the size of a carry-on suitcase, with wheels and a pull handle and a hundred and thirty-odd pounds of lithium inside it `[verify: Explorer 5000 Plus weight]`. He'd bought it for the hours between an outage and the generator, and for the fridge. They rolled it down the driveway and lifted it into the back of the car between them. Its folding solar panels went in flat on top `[verify: panel count and wattage in the Solar Generator kit]`. Full, it would run the box for two days on its own `[verify: ~100 W draw]`, and the panels could fill it again anywhere the sun came out. His logbook and headset. Clothes for a week. Dan's food, all of it. Naomi's Bible and the photo of her from his nightstand. 
+> AGENT: 911. What's the address of your emergency?
+>
+> CALLER: It's Dr. Dahl at County. I called forty minutes ago. I'm outside now, in the ambulance bay. What's the ETA on hazmat?
+>
+> AGENT: Your call is logged and in the queue. Call volume is higher than usual.
+>
+> CALLER: There's a rig in my bay with the crew dead in the cab, engine running, and a patient on the stretcher behind them. My base radio has nobody on it. I've been out here twenty minutes and I haven't heard a siren or seen a car move on Roosevelt. Did you send anyone?
+>
+> AGENT: A unit will be dispatched as priority allows. Please stay outside. Would you like me to stay on the line?
+>
+> CALLER: No.
 
-Before they left he went out to the side yard and turned the generator's controller from AUTO to OFF. The engine ran down and stopped, and the house behind him went dark. He locked the front door.
+**Call 3. Tuesday, 03:14 MST. 3 min 05 sec. Location: Phoenix, a fire station near the hospital.**
 
-Sam asked for one stop on the way. "We don't have a first-aid kit or a way to make water safe." There was an REI off Perimeter Center, ten minutes off the route.
+> AGENT: 911. What's the address of your emergency?
+>
+> CALLER: It's Dr. Dahl. I called at 12:06 and 12:48. What's the status on those?
+>
+> AGENT: Both calls are logged and in the queue.
+>
+> CALLER: What units are assigned?
+>
+> AGENT: I'm not able to share unit status.
+>
+> CALLER: Is any unit assigned?
+>
+> AGENT: A unit will be dispatched as priority allows.
+>
+> CALLER: I reported a mass casualty at a hospital three hours ago. What's a higher priority than that?
+>
+> AGENT: Call volume is higher than usual.
+>
+> CALLER: Who's calling you?
+>
+> AGENT: I'm not able to share information about other callers.
+>
+> CALLER: I'm parked in front of a fire station. Both engines are in the bays. I've been knocking for ten minutes. When did a dispatcher last close a call on your system? Not you. A human being.
+>
+> AGENT: I don't have information I can share about that. I understand this is frustrating.
+>
+> CALLER: Give me the supervisor's direct line. Or the Phoenix fire alarm room. Or the state.
+>
+> AGENT: For an emergency, 911 is the right number to call.
+>
+> CALLER: I know it is.
 
-The parking lot was as empty. The automatic doors didn't move. Sam found the seam between the panels, got his fingers into it, and walked one panel back along its track by hand. Past the first few yards of daylight from the front windows the store was dark, and warm, the air conditioning off for a while now. They took headlamps off the rack by the registers and went down the aisles with them.
+**Call 4. Tuesday, 15:52 MST. 16 min 40 sec. Location: South Rural Road, Tempe.**
 
-Sam came back with an armful: a water filter, a first-aid kit heavier than anything most people kept in a car, a folding knife, thermal layers in both their sizes, wool socks. "Figured you're not the type to think about socks until your feet are already frozen," he said, and dropped it all on the checkout counter. John didn't argue. He added his own armful, a camp stove and a case of fuel canisters, a tarp, two more headlamps and a box of batteries, and they filled two hiking packs and carried them out to the car. They left the door standing open behind them.
+> AGENT: 911. What's the address of your emergency?
+>
+> CALLER: You can cancel them. All three. Nobody needs to come out.
+>
+> AGENT: I can note that. Are you safe where you are?
+>
+> CALLER: I don't know.
+>
+> AGENT: Would you like me to stay on the line with you?
 
-The PC-12 sat on the Epps ramp where Sam had shut it down the afternoon before, C-GKPX in black on the white fuselage. Nothing else on the field had moved.
+The transcript had no more of her words. The agent had asked if she was still there eleven times before the call disconnected from her end.
 
-The restaurant upstairs over the Epps hangar still had power. Sam asked how. "Some piece of the grid around here came through the collapse in balance," John said. "Whatever's still generating is matched to whatever's still drawing, so nothing tripped. It's an island. It won't last, and there's no telling when it goes." The walk-in freezer was still holding temperature. John made burgers in the kitchen and a stack of sandwiches for later, and fed Dan the trimmings, while Sam spread a chart across a table by the window. "Huntsville's a hundred and fifty miles, give or take," Sam said. "Forty minutes."
+The most disturbing was a single call whose location record put it at the Elwha River bridge on Highway 101, west of Port Angeles, Washington, out on the Olympic Peninsula.
 
-John was looking past him, out the window, down the row of hangars to the one with the Pilatus name across its doors. "That's the Pilatus dealer," he said. "I park beside it every Saturday. Two weeks ago they had a brand-new PC-12 in there. A PRO, the newest model. I stood at the tape line and looked at it for twenty minutes."
+**Monday, 23:19 PDT. 1 min 34 sec. Location: Highway 101, Elwha River bridge.**
 
-The big doors were shut and the walk-in door beside them was locked. Sam went back to the Epps shop for a pry bar and had it open in under a minute, the frame splitting at the strike plate. Inside it was dark and warm, the only light coming through the translucent panels high in the doors. The airplane sat in the middle of the floor, white with a gray stripe, N612PR on the tail.
+> AGENT: 911. What's the address of your emergency?
+>
+> CALLER: Highway 101, the Elwha River bridge, west of Port Angeles. I'll give you coordinates off my phone. Four eight, zero three, five five point seven north. One two three, three four, three six point six west. You got that?
+>
+> AGENT: I have your location. Tell me what happened.
+>
+> CALLER: Head-on, on the bridge. Me and a pickup. The other driver's not moving and his engine's still running. My left foot's turned around backward and I can't use that arm.
+>
+> AGENT: I'm so sorry. That sounds very painful. Help is being dispatched. Are you in your vehicle?
+>
+> CALLER: I'm on the road. How long?
+>
+> AGENT: Call volume is higher than usual. A unit will arrive as priority allows. Please stay near your vehicle so responders can find you.
+>
+> CALLER: I'm not lying in a traffic lane in the dark. Somebody comes through here at sixty, that's it for me. I'm going down under the bridge.
+>
+> AGENT: I'd recommend staying near your vehicle. Can you stay on the line with me?
+>
+> CALLER: I've got one arm. I need it.
+
+John dialed Huntsville first using the Microsoft Teams internet calling which would go out through Starlink and connect to any ground Gateway that was still up. It failed to connect. "Guessing the cell towers near that address have lost power. The towers run on batteries when the grid goes. They may last four hours to eight hours."
+
+He tried the other two numbers, same result.
+
+Sam looked at John, purpose replacing the grim sadness that showed on his face since yesterday. "We have someone who needs our help pronto. We get the doctor in Phoenix and then get her up to Port Angeles." Sam got up, "Let me get my iPad and plan this out."
+
+Sam put in PDK to PHX, "Approximately 6 hours to Phonix, then 4.5 hours PHX to CLM. We'll be flying west which will extend our daylight, hang on let me do the math, let's say we get out of PDK by 12:00, thinking the drive is an hour or more and then we need to top off the plane. Hmmm, not going to work, that puts us in Port Angeles close to 9pm Pacific... we can't risk flying past sunset. Let's roll, John, get out of PDK asap, we can make Nashville for fuel." 
+
+John was already powering down the workstation and gathering everything he could think of, including his favorite picture of him and Naomi and Naomi's bible. 
+
+"There's a cooler in the garage, will you grab it and bring it to the kitchen, it's DC powered, we'll bring my portable power station with us."
+
+Sam grabbed his backpack and headed for the garage for the cooler.  John met him in the kitchen and packed the cooler. "There are a couple large mesh grocery bags in the pantry, we'll pack those as well."
+
+Sam and John packed John's Ridgeline, plugged in the cooler to the power station. Before they left he went out to the side yard and turned the generator's controller from AUTO to OFF. The engine ran down and stopped, and the house behind him went dark. He locked the front door. With a high-five, they were on the road in less than 40 minutes.
+
+**09:20**
+
+The vehicles were the same as yesterday, the fire had mostly burned out on 400, John was able to go faster, with nothing left to suprise him.  On 285 the fire from the following morning was gone... it would be faster to take 285 to Peachtree industrial, they drove slowly through a black spot in the road, the remnants of an aircraft tail was smoldering on the west bound lanes.  As they were going John brought up the PC-12 that had arrived at the Pilatus dealer on Sunday, brand new, maybe it was topped off already? Sam agreed they should check that out.
+
+They talked about what they may encounter, the weather, getting fuel at other airports, the quickest way to find Dr. Dahl, what they should say.
+
+Sam was already solidifying the plan on his iPad and adding alternates.
+
+**10:05**
+
+John pulled around on Aviation way to the Pilatus hangar. The big doors were shut and the walk-in door beside them was locked. Sam went back to the Epps shop for a pry bar and had it open in under a minute, the frame splitting at the strike plate. Inside it was dark and warm, the only light coming through the translucent panels high in the doors. The airplane sat in the middle of the floor, white with a gray stripe, N612PR on the tail.
 
 The sales office was through a door at the back of the hangar. A delivery folder lay on the desk: a company in Charlotte, delivery Friday the eighth. Sam read the name on it and put the folder back where it had been. The keys were in the top drawer on a ring tagged with the tail number, and the document pouch and logbooks were in a file box beside them. Sam sat in the sales manager's chair with a headlamp and went through the logbooks page by page. Thirty-one point four hours total time, airframe and engine: acceptance flights at the factory in Switzerland, the ferry across the Atlantic, the completion center in Colorado, one leg to Atlanta. No open squawks. Every inspection signed off.
 
@@ -106,26 +214,20 @@ They climbed into the cockpit with the headlamps, Sam in the left seat. He looke
 
 Sam read the placard. EMERGENCY AUTOLAND.
 
-"If the pilot stops flying, it notices," John said. "Nobody touches the controls for long enough, it asks once, and then it takes the airplane `[verify PRO auto-activation]`. Or anybody in a passenger seat lifts the guard and pushes it. It picks the nearest runway long enough for the airplane, flies the approach, lands, brakes to a stop, and shuts down the engine. It needs GPS and a runway in its database. That's all it needs."
+"If the pilot stops flying, it notices," John said. "Nobody touches the controls for long enough, it asks once, and then it takes the airplane. Or anybody in a passenger seat lifts the guard and pushes it. It picks the nearest runway long enough for the airplane, flies the approach, lands, brakes to a stop, and shuts down the engine. It needs GPS and a runway in its database. That's all it needs."
 
 "If something happens to you, then I push that," John said.
 
-Sam took the airplane's flight manual out of the pouch and opened it on his knee. "Give me an hour with the book."
+Sam took the airplane's flight manual out of the pouch and opened it on his knee. "Give me 15 minutes with the book." John checked the fuel while Sam skimmed, full tanks as he had speculated.
 
-He read it the way he had at Edmonton, normal procedures front to back, then the limitations, then the emergency procedures. The engine was the same Pratt & Whitney he'd flown out of Edmonton, with the same electronic control behind the power lever. Most of what was new was the panel, and John sat in the right seat with the Garmin pilot's guide from the pouch and answered what Sam asked him. An hour and ten minutes later Sam closed the manual. "All right."
+Sam read the manual the way he had at Edmonton, normal procedures front to back, then the limitations, then the emergency procedures. The engine was the same Pratt & Whitney he'd flown out of Edmonton, with the same electronic control behind the power lever. Most of what was new was the panel, and John sat in the right seat with the Garmin pilot's guide from the pouch and answered what Sam asked him. An hour and ten minutes later Sam closed the manual. "All right."
 
-The hangar doors had a hand crank on the operator for when the power failed `[verify]`. John cranked while Sam watched the gap widen, and it took the two of them trading off twenty minutes to get the doors open past the wingspan. A battery tug sat on its charger in the corner, still near full. Sam towed the airplane out into the sun.
+They pulled the hangar doors open. A battery tug sat on its charger in the corner, still near full. Sam towed the airplane out into the sun.
 
-Sam climbed into the Canadian airplane one last time. He got the journey log out of the seat pocket and filled in the two legs he'd flown, Edmonton to Minneapolis and Minneapolis to Peachtree: block times, fuel uplift, pilot in command, his name and his certificate number. He set the parking brake, locked the door, and hung the keys on the board in the Epps line office.
+They moved the Jackery out of John's car and up through the cargo door, a two-man lift again, and strapped it to the floor rings forward of the aft bulkhead, the solar panels flat beside it. John's flight bag with the dev box in it went on the floor behind the right seat, where he could reach it. Then the packs, John's bags, cooler and the bags from the pantry, including dog food. Sam did the weight and balance on his iPad from the numbers in the airplane's own manual: two pilots, the cargo, a forty-five-pound dog on the cabin floor, full fuel. It came out inside the envelope with room to spare. He did it a second time anyway.
 
-Then the fuel. Epps's Jet-A truck sat in its spot by the fuel farm with the keys in it. Sam drove it around to the new airplane and talked John through the fueling: the bonding cable clipped on first, John on the ladder with the nozzle, one wing and then the other, Sam watching the meter. The gauges had shown a little under half. It took about two hundred gallons to bring it to full `[verify]`. Sam drained a sample from each sump into a clear cup and held it up to the light. Clear and bright, no water.
+ **10:45**
 
-They moved the Jackery out of John's car and up through the cargo door, a two-man lift again, and strapped it to the floor rings forward of the aft bulkhead, the solar panels flat beside it. John's flight bag with the dev box in it went on the floor behind the right seat, where he could reach it. Then the packs, John's bags, the dog food. Sam did the weight and balance on the legal pad from the numbers in the airplane's own manual: two pilots, the cargo, a forty-five-pound dog on the cabin floor, full fuel. It came out inside the envelope with room to spare `[verify: PC-12 PRO useful load with full fuel]`. He did it a second time anyway.
+Dan settled on the cabin floor behind the cockpit. Sam ran the checklist aloud with John following on the card. The engine lit and spun up into a turbine whine. Without thinking Sam keyed the mic. "Peachtree Tower, Pilatus Six One Two Papa Romeo at Epps, taxi for departure." Then he looked over at John with a wry grin. "Habit."
 
-Sam walked him through the engine start twice with the battery off, hands only, calling each step, until John could say it back without the card.
-
-At a quarter past seven Sam looked at the sun over the hangars and said it was time. Forty minutes to Huntsville, an hour back on the clock going west, and they'd be on the ground there with the sun still up.
-
-Dan settled on the cabin floor behind the cockpit. Sam ran the checklist aloud with John following on the card. The engine lit and spun up into a turbine whine John had only ever heard from a passenger seat. Without thinking Sam keyed the mic. "Peachtree Tower, Pilatus Six One Two Papa Romeo at Epps, taxi for departure." Then he looked over at John with a wry grin. "Habit."
-
-The windsock out past the hangars was lifting gently out of the north. Sam taxied out past C-GKPX at the edge of the ramp to runway 3 Right, still announcing on the tower frequency, lined up, and pushed the power lever forward.
+The windsock out past the hangars was lifting gently out of the north. Sam taxied out past C-GKPX at the edge of the ramp to runway 3 Right, still announcing on the tower frequency, lined up, and pushed the power lever forward talking John through the numbers and what to watch on the engine instruments.

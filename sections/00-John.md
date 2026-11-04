@@ -61,6 +61,7 @@ He pulled up the news on his phone. The headline feed hadn't moved. The top stor
 Back in the subdivision he heard a dog at the Morrisons', barking steady and hoarse. Another one farther down, behind a fence. A small one, high and frantic, inside a house with the blinds still down. Dan pulled toward the Morrisons' door, and John shortened the leash and kept him moving.
 
 ### 8:15
+
 Back at the house Dan went under the kitchen table and stayed there. John opened his laptop. The same frozen feed, wider: the national wires, the overseas outlets, the social platforms that should have been a roar of overnight noise. Every one of them sat still, the newest timestamps all from a few minutes before two in the morning. Nothing was posted since.
 
 ### 8:30
@@ -100,9 +101,10 @@ A flat, cheerful voice from the side aisle: "Caution. Cleaning in progress." He 
 He found her on the floor behind the counter, wedged between the register and the cigarette rack. Twenties, maybe younger, in a QuickTrip polo. Her eyes were open, and her mouth. He checked for a pulse, her skin was cold. "So sorry," John found himself saying out loud. He left the water and went back out to the car, Dan was whining.  
 
 ### 9:51
-He pulled up the map on his phone and searched for the closest fire station. North up Westside Parkway, the roads were mostly clear a few cars like the first he had discovered that day. He pulled into the Alpharetta Fire Station 83. The overhead doors were closed. He cracked the windows and left Dan in the car. The main door was open, "Hello? Anyone here?" Silence. He walked down the hall, in the kitchen there were two people in uniform laying on the floor, he checked both, same result as everyone else today, no pulse, cold. Ok, got to get out of here, John thought. Back in the car he sat staring out the windshield at the sun flashing off the glass of the overhead garage doors of the fire station. 
 
-He pulled out the small notebook that he always kept with him to get thoughts out of his head through his fingers so his eyes could see what he was thinking. He wrote four questions:
+He pulled up the map on his phone and searched for the closest fire station. North up Westside Parkway, the roads were mostly clear a few cars like the first he had discovered that day. He pulled into the Alpharetta Fire Station 83. The overhead doors were closed. He cracked the windows and left Dan in the car. The main door was open, "Hello? Anyone here?" Silence. He walked down the hall, in the kitchen there were two people in uniform laying on the floor, he checked both, same result as everyone else today, no pulse, cold. Back in the car he sat staring out the windshield at the sun flashing off the glass of the overhead garage doors of the fire station. 
+
+He pulled out the small notebook that he always kept with him to get thoughts out of his head to see what he was thinking. He wrote four questions:
 
 *1. Where else?*
 *2. How did this happen?*
@@ -115,13 +117,43 @@ Considering what he had seen so far, he decided he could understand more using t
 
 ### 10:50
 
-Back home, John started on his first question, Where else? He opened his laptop and pulled up FlightAware, an airplane tracking app. At this time of day there would be more than 9,000 active flights. To get a quick count he clicked on 'Browse by Aircraft Type', this view showed all the aircraft that were currently being tracked. He copied the first column that gave a count by type and dropped it into a chat: 323 aircraft. "That can't be right." he said outloud. Even though the number seemed wrong his immediate thought was, "there are others alive!"
+Back home, John started on his first question, Where else? He opened his laptop and pulled up FlightAware, an airplane tracking app. At this time of day there would be more than 9,000 active flights. To get a quick count he clicked on 'Browse by Aircraft Type', this view showed all the aircraft that were currently being tracked. He copied the first column that gave a count by type and dropped it into a chat: 323 aircraft, was the response. "That can't be right." he said outloud. Even though the number seemed wrong his immediate thought was, "there are others alive!"
 
 FlightAware was a patchwork. A lot of its ground coverage came from hobbyists, thousands of people with a thirty dollar ADS-B receiver and a little antenna in a window or an attic, feeding it over their home internet. Some of what he was looking at was coming from a satellite, or an airline feed, or FlightAware filling gaps with a best guess. John had spent his career analyzing data like this, this was more than a hiccup, they must be having server issues, he thought. 
 
-He got up from the kitchen table and walked to his office.  His team at Google were currently part of a massive AI implementation for FAA, DOT, Coast Guard, NOAA, Homeland Security, and FEMA blending commercial schedules, weather patterns, location capacity, and staffing metrics. He had access to the foundation telemetry data for road, rail, shipping, aviation, and access to station by station information on the national power grid. He docked the laptop and remoted into the the local development model that he was currently testing. It had authentication for all the related systems, the legacy ERAM and STARS from the FAA and the AIS from the Coast Gaurd. He pulled up a chat and connected the local Gemini model to the new SMART (Strategic Management of Airspace, Routes, and Trajectories) system and the MCP server for Aireon, a private company providing global satellite tracking. Now instead of scrapping the public FlightAware system he prompted the most powerful system conceived by man, "How many aircraft are currently airborne globally?", he had mostly stopped typing prompts to AI back in 2026, but still felt like Scotty from Star Trek the Journey home.. the legendary line "Computer, hello computer". The reponse came after a couple seconds and the result printed on the screen, **351**. "What is the latest departure time of these 351 flights in Eastern Daylight Time?" Response: **1:59am**. John stared at the screen. "There have been no departures globally after 1:59am?" Response: **Correct**. He had come to appreciate the brevity of this new model, no nonsense direct response zero slop, designed for quick acurate answers in fast paced environments, like air traffic control. Truth over data. Ai reverted to consensus over truth and reliable information was now the greatest demand and Google was cashing in. 
+He got up from the kitchen table and walked to his office.  His team at Google were currently part of a massive AI implementation for FAA, DOT, Coast Guard, NOAA, Homeland Security, and FEMA blending commercial schedules, weather patterns, location capacity, and staffing metrics. He had access to the foundation telemetry data for road, rail, shipping, aviation, and access to station by station information on the national power grid. He docked the laptop and remoted into the the local development model that he was currently testing. It had authentication for all the related systems, the legacy ERAM and STARS from the FAA and the AIS from the Coast Gaurd. He pulled up a chat and connected the local Gemini model to the new SMART (Strategic Management of Airspace, Routes, and Trajectories) system and the MCP server for Aireon, a private company providing global satellite tracking. 
 
-"Map all current airborne flights and generate a table of aircraft type, carrier, departure time, departure location, filed destination location, and current flight duration. Then plot all current locations and flight path on a map." This took a couple minutes, one of the boons of Google's involvent in these projects was the geospatial power of google maps. The map and table pulled up in a generated single page application. He sorted the column by departure time and realized he was missing data, the departure time in some of the source system data was a time that was filed, not actual. "Pull actual time reaching 5,000 feet above ground level for departure location and are still airborne. In a separate table list any flights that took off or landed after 2am." The still airborne output in the table showed: **342**. The second table showed: **2**. "The first output was **351**, why a lower number now?"  Response: **9 aircraft are no longer airborne.** "What is their current status?" Response: **Unknown, they all stopped transmitting ADS-B signal.** "Show me the history of these 9, with departure and destination locations, expected duration, actual duration, and the last known location and map and chart the flight activity." Response:
+Now instead of scrapping the public FlightAware system he prompted the most powerful system conceived by man, "How many aircraft are currently airborne globally?", he had mostly stopped typing prompts to AI back in 2026, but still felt like Scotty from Star Trek the Journey home.. the legendary line "Computer, hello computer". The reponse came after a couple seconds and the result printed on the screen.
+
+ **351.**
+ 
+ "What is the latest departure time of these 351 flights in Eastern Daylight Time?"
+ 
+ **1:59am.**
+ 
+ John stared at the screen. "There have been no departures globally after 1:59am?"
+ 
+ **Correct.**
+ 
+ He had come to appreciate the brevity of this new model, no nonsense direct response, zero slop, designed for quick acurate answers in fast paced environments, like air traffic control. Truth over data. As Ai learned it had reverted to consensus over truth and reliable information was now the greatest demand and Google was cashing in.
+
+"Map all current airborne flights and generate a table of aircraft type, carrier, departure time, departure location, filed destination location, and current flight duration. Then plot all current locations and flight path on a map." 
+
+This took a couple minutes, one of the boons of Google's involvent in these projects was the geospatial power of google maps. The map and table pulled up in a generated single page application. He sorted the column by departure time and realized he was missing data, the departure time in some of the source system data was a time that was filed, not actual. 
+
+"Pull actual time reaching 5,000 feet above ground level for departure location and are still airborne. In a separate table list any flights that took off or landed after 2am." 
+
+The still airborne output in the table showed: **342**. The second table showed: **2**. 
+
+"The first output was, why a lower number now?"
+
+**9 aircraft are no longer airborne.**
+
+"What is their current status?"
+
+**Unknown, they all stopped transmitting ADS-B signal.**
+
+"Show me the history of these 9, with departure and destination locations, expected duration, actual duration, and the last known location and map and chart the flight activity."
 
 | # | Carrier / type | Route | Departed | Sched. arr. | Planned Flight Duration | Actual Flight Duration | Left cruise alt. | Last ADS-B | Last known location |
 |---|---|---|---|---|---|---|---|---|---|
@@ -156,15 +188,14 @@ John looked at the output, none of the last locations were airports, and the las
 **None, currently 337 flights still airborne.** 
 
 "Estimate how many souls were onboard airborne flights at 2am?"
+
 **~1.4 Million** 
 
-Johns mouth was instantly dry and his stomach turned. 
-
-"Are all these people dead?" 
+Johns mouth was instantly dry and his stomach turned. "Are all these people dead?" 
 
 **Unknown**
 
-He had numbers in his phone from years of work with the agencies, the operations lines his project contacts had given him and told him to keep. FEMA's operations center in D.C. The FAA's Command Center out in Warrenton, Virginia, the room that ran traffic flow for the whole country. The Coast Guard's National Command Center in Washington.
+He pulled up his teams active contacts list. FEMA's operations center in D.C. The FAA's Command Center out in Warrenton, Virginia, the room that ran traffic flow for the whole country. The Coast Guard's National Command Center in Washington.
 
 The FEMA line rang until it dropped. The FAA's picked up on a recording that asked him to hold for the next available specialist, and he held for five minutes listening to it loop. He'd stood in that room in Warrenton. Rows of specialists at their consoles, the whole country's traffic up on the wall in front of them, a place that never closed. He knew how many people it took to staff a shift in there. "Please continue to hold," the recording said, and started over. The Coast Guard line rang and rang. No responses, no answers.
 

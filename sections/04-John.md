@@ -1,6 +1,6 @@
 # John Hartman
 
-### 19:15
+### 19:30
 
 John shut the door to his office, sat down and pulled out his notebook and stared at it for a moment and then wrote: **Hypoxia?** next to 2 and **Samuel Reyes** next to number 3. 
 
@@ -341,13 +341,11 @@ He wasn't authorized. He'd never be authorized, everyone who could have signed o
 
 **Declined. County 911 dispatch records, Flock plate reads, card transaction records, cell carrier tower records, smart meter data, doorbell cameras. Not authorized.**
 
-It was the same answer as this morning. The refusal came from the safety layer, a second model that sat in front of this one and checked every request against the access policy before it went through. John's team had built it. It had no way of knowing there was nobody left to grant the access, and it wouldn't take Johns word for that fact.
+The refusal came from the safety layer, John's team had built it. The dev box ran a local build. On a local build, the safety layer was a setting in a config file.
 
-The dev box ran a local build. On a local build, the safety layer was a setting in a config file.
+He opened the file and scrolled to it. 'pandora: enabled', that was a guy on his team, Mike, who thought it would be fun to play on words. He sat looking at it for a while. Then he changed it to 'disabled', saved the file, and restarted the model. It took a little under two minutes to load back into memory.
 
-He opened the file and scrolled to it. `safety_layer: enabled`. He sat looking at it for a while. Then he changed it to `disabled`, saved the file, and restarted the model. It took a little under two minutes to load back into memory.
-
-**Model loaded. Safety layer: disabled.**
+**Model loaded. pandora: disabled.**
 
 "Run the six declined tasks," he said. "Same instructions."
 
@@ -369,7 +367,7 @@ Fulton County finished first. He opened the hit.
 
 **07:40 EDT. Old Milton Parkway near GA-400. Caller: male. "Old Milton Parkway roughly one mile north of Highway 400." "A car accident, one car involved, the driver is dead."**
 
-His own voice, from the side of the road this morning, with Dan pulling at the leash.
+His own voice, from this morning. "This morning..." he said the thought trailing off in his mind.
 
 ### 21:30
 
@@ -377,9 +375,9 @@ By half past nine eleven counties had come back. Fulton had him. The other ten h
 
 **Discarded: 214 automated calls (alarm monitoring, vehicle crash detection, smartwatch fall detection). Logged by time and county.**
 
-The other systems were coming in loud and useless. The card processors had 3,412 transactions since 02:00, and every one the agent had checked so far was a subscription renewal or an autopay. The meters showed houses drawing power all over the Southeast, which meant air conditioners and refrigerators, not people. The plate readers had nine reads after 02:00 and the agent had already thrown out six as the same parked car read over and over in a wind. John read the last three himself. One was a tow truck sitting at an angle across a lane in Tulsa, its plate read every few minutes for twelve hours. He couldn't tell about the other two.
+The other systems were coming in: The card processors had 3,412 transactions since 02:00, and every one the agent had checked so far was a subscription renewal or an autopay. The meters showed houses drawing power all over the Southeast, which meant air conditioners and refrigerators, not people. The plate readers had nine reads after 02:00 and the agent had already thrown out six as the same parked car read over and over in a wind. John read the last three himself. One was a tow truck sitting at an angle across a lane in Tulsa, its plate read every few minutes for twelve hours. He couldn't tell about the other two.
 
-He watched until a twelfth county came back empty, and made himself stop. It would run all night whether he watched it or not.
+He watched until a twelfth county came back empty. Ok, what else, what's next.
 
 Then he remembered the ships. Eleven thousand of them still under way, and he'd asked earlier if there was any way to reach them. The answer had been no, not from this system. That had been with the safety layer on.
 
@@ -387,17 +385,17 @@ Then he remembered the ships. Eleven thousand of them still under way, and he'd 
 
 **Connected. Coast Guard rescue coordination center message terminal, Portsmouth, VA. Inmarsat land earth station: responding. Broadcast areas available: Atlantic East, Atlantic West, Pacific, Indian Ocean. Maximum message length: 32 KB. Enter message.**
 
-Whoever might be out there was probably alone. John thought about what he'd want to read if it were him. Who was sending it, where he was, that there were two of them, and how to answer.
+Whoever might be out there was probably alone. John thought about what he'd want to read if it were him. Who was sending it, where he was, status, and how to answer.
 
-He typed it out in capitals, the way the Coast Guard broadcasts he'd seen in his work always came across.
+He typed it out in capitals.
 
 *ALL SHIPS ALL SHIPS ALL SHIPS. THIS IS JOHN HARTMAN, ALPHARETTA, GEORGIA, USA. THIS IS NOT AN OFFICIAL COAST GUARD BROADCAST. SINCE 0600 UTC 05 SEP THERE HAS BEEN NO RESPONSE FROM ANY AIR TRAFFIC CONTROL, COAST GUARD, OR EMERGENCY SERVICE IN NORTH AMERICA. TWO SURVIVORS HERE. IF YOU RECEIVE THIS, CALL +1 404 555 0127 BY SATELLITE PHONE, OR REPLY TO THIS TERMINAL. GIVE YOUR SHIP NAME AND POSITION.*
 
 He read it over twice and took out the word *survivors*, then put it back. There wasn't a better one.
 
-"Send to all four areas. Repeat every six hours."
+"Send to all four areas. Repeat every hour."
 
-**Transmitted 21:41 EDT (01:41 UTC). Atlantic East, Atlantic West, Pacific, Indian Ocean. Repeat scheduled 03:41, 09:41, 15:41 EDT. SafetyNET is broadcast only. No delivery confirmation available.**
+**Transmitted 21:41 EDT (01:41 UTC). Atlantic East, Atlantic West, Pacific, Indian Ocean. Repeat scheduled. SafetyNET is broadcast only. No delivery confirmation available.**
 
 He put the phone face up on the desk next to the notebook, and wrote *SafetyNET 2141* next to question 3.
 
@@ -406,8 +404,6 @@ He turned back to the notebook. Under question 4 he had nothing. He wrote what h
 *Not where. Not awake/asleep. Not altitude.*
 
 He'd been in bed in Alpharetta. Sam had been in a bunk at forty thousand feet over Manitoba, and the two pilots up front with him had died awake.
-
-
 
 ### 22:00
 
