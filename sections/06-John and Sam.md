@@ -8,7 +8,7 @@ Sam looked up, "You were up late, sounded like you were talking to yourself."
 
 John smirked as he got out eggs, bacon and hashbrowns. 
 
-"Till eleven, yeah, sorry about that, I talk to the computer now days, since Ai it is so much quicker to just have the machine take speech to text." John said. "I was able to pull alot of data before things started shutting down."
+"Till eleven, yeah, sorry about that, I talk to the computer since Ai, it is so much quicker to just have the machine take speech to text." John said. "I was able to pull alot of data before things started shutting down."
 
 John put together his blueberry, avocado, beet juice, and spinach into the blender, ran it for about 45 seconds, poured it into a glass and offered some to Sam.
 
@@ -140,19 +140,27 @@ From Phoenix, Arizona, four calls. Recordings and transcripts from each call:
 >
 > CALLER: I know it is.
 
-**Call 4. Tuesday, 15:52 MST. 16 min 40 sec. Location: South Rural Road, Tempe.**
+**Call 4. Tuesday, 15:52 MST. 2 min 12 sec. Location: South Rural Road, Tempe.**
 
 > AGENT: 911. What's the address of your emergency?
 >
-> CALLER: You can cancel them. All three. Nobody needs to come out.
+> CALLER: Are these calls recorded?
 >
-> AGENT: I can note that. Are you safe where you are?
+> AGENT: Calls to 911 are recorded and logged. What's the address of your emergency?
 >
-> CALLER: I don't know.
+> CALLER: Good. I don't need a unit. This is for whoever reads this log. This is Dr. Catherine Dahl, attending physician, Maricopa County. It's Tuesday, ten to four in the afternoon. I've checked people in cars and houses from County to Tempe and nobody's alive. Everyone I've examined went down where they were, no struggle. It's too wide for a plume and too fast for anything infectious. I've been out in it for sixteen hours and I have no symptoms.
+>
+> AGENT: I'm so sorry. That sounds very frightening. Are you safe where you are?
+>
+> CALLER: I'm at the apartments on South Rural Road in Tempe, number 214. I went back to County this morning and I have supplies. I'll stay here as long as there's water. If you're alive and you're hurt, or you know anything at all, come here.
+>
+> AGENT: I've noted your location. Call volume is higher than usual. A unit will be dispatched as priority allows.
+>
+> CALLER: I know.
 >
 > AGENT: Would you like me to stay on the line with you?
-
-The transcript had no more of her words. The agent had asked if she was still there eleven times before the call disconnected from her end.
+>
+> CALLER: No. Just keep it.
 
 The most disturbing was a single call whose location record put it at the Elwha River bridge on Highway 101, west of Port Angeles, Washington, out on the Olympic Peninsula.
 

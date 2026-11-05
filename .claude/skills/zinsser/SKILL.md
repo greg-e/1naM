@@ -7,7 +7,7 @@ description: Draft, revise, or audit 1 in a Million prose using William Zinsser'
 
 William Zinsser wrote *On Writing Well* for nonfiction, but its core is the same as this book's: say the true thing in the fewest plain words, and trust the reader. This skill turns his principles into working passes for the novel. It sits **under** CLAUDE.md: canon, POV rules, the operational-realism rules, the teaser-line ban, and the author's memories (no mannered flourishes, POV observes only, model voice facts only) all win if anything here seems to pull the other way. Most of the time they agree.
 
-## The one rule behind all the others
+## Voice
 
 **Be yourself, and here "yourself" is the author.** Zinsser's chapter on style says the writer's voice is the product; don't put on airs. In this book the voice is Greg's: plain, conversational, Southern-practical, commas and run-on rhythm, simple words, almost no crafted metaphor ("a silence that was eerie and a bit spooky," "well it wasn't exactly smooth, but it was efficient"). A Zinsser pass makes that voice clearer. It never replaces it with a polished literary register, and it never makes every sentence short and clipped. Clipped is its own affectation, and it's the one CLAUDE.md bans as teaser fragments.
 
@@ -121,7 +121,7 @@ These show the scale of change the skill aims for. Each keeps the author's wordi
 
 Leave the adverb: it's John's dry humor about a big dog's tail, and the humor is the voice. Fix the comma splice in the original ("They headed out, Dan's tail was...") and stop.
 
-**Pre-stated payoff** (03-John and Sam):
+**Pre-stated payoff** (04-John and Sam):
 > His doubts caught up with him while he watched it. Maybe whoever was flying it wasn't listening to anything. Maybe...
 
 → Drop the first sentence and start with "Maybe." The three maybes are the doubts.

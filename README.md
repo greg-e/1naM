@@ -9,9 +9,9 @@ At 2:00 a.m. Eastern on Tuesday, September 5, 2028, a single pulse from a magnet
 ## Repository contents
 
 - **[CLAUDE.md](CLAUDE.md)**: the rulebook and the single source of truth for canon: premise, characters, places, the Timeline, scene-by-scene canon, ongoing threads, future arcs, writing rules, and open decisions. Read it before editing anything.
-- **[sections/](sections/)**: the manuscript, one scene per file (`NN-dayX-slug.md`). Sections 1–10 are written; Section 11 needs redrafting from its canon entry.
+- **[sections/](sections/)**: the manuscript, one scene per file (`NN-POV.md` or `NN-Place.md`; a letter marks a short scene between sections, like `05a-Johan.md`). Sections 0–10 and 12 are written; Section 11 is partly written.
 - **[reference/](reference/)**: research, not canon. [research-compendium.md](reference/research-compendium.md) is the index: sources, real-world specs, derived arithmetic, and the verify list, with pointers back to `CLAUDE.md` for anything that is canon. Topic files cover the Delta 27 diversion, the event's mechanism and evidence chain, the AI 911 agent, the power-grid collapse, the ISS ham link, the PC-12 PRO, Port Angeles and the Hook, and the seeded random survivor draw.
 
 ## Status
 
-Written: Day 0 through Day 2 (Sections 1–9: John and Sam's convergence at PDK and the Huntsville → Phoenix → Port Angeles rescues of Tyler, Catherine, and Della) and Johan's Day 0 aboard the *Pacific Tender* (Section 10). Next: the week at the Hook and first contact with Johan. Ahead: Reno, the search for more people, the Europe excursion by C-17, and the Dragon recovery. See `CLAUDE.md` → What's next and what's open.
+Written: Day 0 through Day 6 (John and Sam's convergence at PDK, the Phoenix → Port Angeles → Huntsville rescues of Catherine, Della, and Tyler, and the return to the Hook), with Johan's voyage aboard the *Pacific Tender* running alongside (Sections 3, 5a, 8a, 9a, 11a). Section 12 brings Johan in to the group. Next: the rest of the week at the Hook. Ahead: Reno, the search for more people, the Europe excursion by C-17, and the Dragon recovery. See `CLAUDE.md` → What's next and what's open.

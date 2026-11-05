@@ -12,7 +12,7 @@ Research behind the Port Angeles phase: the harbor and Johan's anchorage, the Co
 
 ## 1. Ship arithmetic
 
-**Canon:** `CLAUDE.md` Section 10 (the *Pacific Tender* ~5 days out of Yokohama on Day 0, ~1,900 nm and about seven days to the Strait) and the Timeline (anchors ≈ Day 9–10).
+**Canon:** `CLAUDE.md` Section 3 (the *Pacific Tender* ~5 days out of Yokohama on Day 0, ~1,900 nm and about seven days to the Strait) and the Timeline (anchors ≈ Day 9–10).
 
 | Assumption | Basis |
 |---|---|
