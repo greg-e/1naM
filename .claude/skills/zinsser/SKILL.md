@@ -17,7 +17,7 @@ When in doubt, cut a word rather than add a phrase.
 
 Pick the mode from the request:
 
-- **Draft**: writing a new scene. Apply the principles as you write, then run the passes once over the result before handing it over.
+- **Draft**: writing a new scene. Before writing, settle the POV logic and the layout privately: whose scene it is, what that character can see, hear, read off an instrument, or work out, and where everyone and everything sits in the space. Apply the principles as you write, run the passes once over the result, then hand over the finished prose without notes on your process.
 - **Revise**: the author asks you to tighten or fix a passage. Edit in place, keep changes small and local, preserve sentence order and dialogue unless asked. After editing, list the kinds of change you made in two or three lines, not a line-by-line essay.
 - **Audit**: the author asks what's wrong, or asks for a check without edits. Don't touch the file. Report findings as `file:line`, the quoted phrase, the principle, and a suggested fix, most important first. Cap it at the ten that matter most unless asked for all.
 
@@ -44,6 +44,7 @@ Common failures here:
 - **Doubled words**: two adjectives or two verbs saying the same thing ("eerie and a bit spooky," "jackknifed... and folded"). Keep the more exact one, unless the pair is the author's rhythm and both carry weight.
 - **Inflated phrases**: *the resulting X, at this point in time, in order to, the fact that, due to the fact, for the purpose of, was able to, made his way to, proceeded to, in the direction of.* Replace with the plain word.
 - **Redundant pairs**: *nod his head, shrug his shoulders, stood up to his feet, back and forth* (often fine in the author's voice; check), *sat down in the seat, continued on.*
+- **AI lexicon**: *tapestry, delve, testament, robust, synergy, palpable, nuanced, symphony,* and their cousins. None belongs in this book's prose; replace with the plain word or the concrete thing.
 - **Told-after-shown**: a line that names the feeling the previous action already showed. "He backed away from the car and called 911 with Dan pressed against his leg" needs no "He was shaken."
 - **Pre-stated payoffs**: CLAUDE.md's teaser rule. "His doubts caught up with him while he watched it" followed by three sentences of doubts: the doubts do the work, so the announcing line can usually go.
 
@@ -71,7 +72,7 @@ Zinsser: verbs are the most important tool; use active verbs, and use the exact 
 
 Zinsser asks for one pronoun, one tense, one mood, one attitude, held for the whole piece. For this book:
 
-- **One POV per scene file**, close third. Narration reports what that character perceives and knows (CLAUDE.md's POV rules and the *POV observes only* memory). A head-hop is a unity break.
+- **One POV per scene file**, close third. Narration reports what that character perceives and knows (CLAUDE.md's POV rules and the *POV observes only* memory). A head-hop is a unity break. So is explaining a non-POV character's thoughts, motives, or unseen actions, and so is an omniscient summary of the larger plot: the big picture reaches the reader only through what the POV character sees, hears, reads off a screen or instrument, or works out.
 - **One tense**: past. Watch drafts that slide into present during tension.
 - **One register per POV**: John thinks in systems and data flows and is dry; Sam in procedure and command; Johan in seamanship and spare German-English; Kendra in consumables and checklists; Marchetti in measured clinical terms. A line in John's scene that sounds like Sam's is a unity break.
 - **One attitude**: the book is plain and grave, with small dry humor. Don't swing into lyricism for a grief beat or into thriller voice for an action beat.
@@ -84,8 +85,13 @@ Zinsser asks for one pronoun, one tense, one mood, one attitude, held for the wh
 ### 7. Sense of place, and people
 
 - **Place**: pick the few details that only this place has, the ones the POV character would actually notice. The QuickTrip's cleaning robot, Rosa's bike against the garage, the Waffle House's last order burned black. One chosen detail beats a catalog. Avoid travel-brochure words (*nestled, sprawling, quaint, bustling*).
-- **Technical material** (Zinsser's chapter on science writing): lead the reader one step at a time from what they know to what they don't, which is CLAUDE.md's jargon rule. Function before name; explain once, through a character who knows telling one who doesn't. Never stack two unexplained plot-bearing terms in one sentence.
-- **People**: let them talk. Zinsser's advice on quotation fits dialogue: keep the lines that sound like that person, cut the ones that only carry information the reader already has. Characters under stress talk short; nobody delivers a paragraph of exposition on the radio.
+- **Technical material** (Zinsser's chapter on science writing): lead the reader one step at a time from what they know to what they don't, which is CLAUDE.md's jargon rule. Function before name; explain once, through a character who knows telling one who doesn't. Never stack two unexplained plot-bearing terms in one sentence. Use the exact nomenclature for aviation, maritime, military, and medical procedure, but put it in short active sentences.
+- **People**: let them talk. Zinsser's advice on quotation fits dialogue: keep the lines that sound like that person, cut the ones that only carry information the reader already has. Characters under stress talk short, in the shorthand of their trade; nobody delivers a paragraph of exposition on the radio, and no conversation is an expository monologue in disguise.
+
+**Dialogue mechanics:**
+- **No adverbial tags.** Cut *said angrily, replied softly, asked quietly*. The line and the action around it carry the tone.
+- **Action beats over tags** when a beat anchors the speaker in the place: hands on the power lever, a pen on the notebook, Dan's leash. "Said" is invisible and stays fine where a beat would be filler; don't hang a gesture on every line.
+- **The reader always knows who is speaking.** When it isn't clear from the alternation, put a beat or a tag before or right at the line, so the reader knows the speaker by the time the words land. A run of untagged lines between two people is fine as long as nobody has to count back.
 
 ### 8. Rewriting: read it aloud
 
@@ -131,10 +137,10 @@ Leave the adverb: it's John's dry humor about a big dog's tail, and the humor is
 For a first sweep in Audit mode, grep the section for the usual offenders, then read each hit in context; a hit is a question, not a verdict.
 
 ```
-\b(very|quite|rather|really|just|a bit|a little|sort of|kind of|somewhat|pretty|actually|seemed to|began to|started to|managed to|quickly|suddenly|dangerous(ly)?|massive(ly)?|intense(ly)?|overwhelming|eerie|resulting|in order to|the fact that|made his way|proceeded to)\b
+\b(very|quite|rather|really|just|a bit|a little|sort of|kind of|somewhat|pretty|actually|seemed to|began to|started to|managed to|quickly|suddenly|dangerous(ly)?|massive(ly)?|intense(ly)?|overwhelming|eerie|resulting|in order to|the fact that|made his way|proceeded to|tapestry|delve|testament|robust|synergy|palpable|nuanced|symphony)\b
 ```
 
-Also search for "there was", "there were", and "was \w+ing" for weak constructions, and "!" outside dialogue.
+Also search for "there was", "there were", and "was \w+ing" for weak constructions, "!" outside dialogue, and adverbial tags (`(said|asked|replied|whispered|called) \w+ly`).
 
 ## What this skill doesn't do
 
