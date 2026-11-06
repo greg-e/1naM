@@ -28,6 +28,8 @@ Tags: `[fiction]` = invented physics or biology, keep internally consistent; `[v
 
 ## 3. Survivor symptoms (on-page)
 
+> **SUPERSEDED by CLAUDE.md:** survivors have no lasting symptoms, so this section and the "partial detuning explains symptoms" line in §4 no longer apply on the page. Catherine's clue is lividity with no CO or cyanide source; the measurement comes from Marchetti's tissue work on the dead. Kept for the hidden-canon physics only.
+
 Survivors take a partial hit: some fraction of their Complex IV is knocked out, not all of it. The cells replace damaged enzyme as mitochondria turn over, so symptoms fade over days to months, unevenly from person to person.
 
 | Symptom | Mechanism | On page |

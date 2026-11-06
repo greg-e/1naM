@@ -2,7 +2,7 @@
 
 ### 12:00
 
-An Airbus 350-900 operated by Delta airlines had departed from Atlanta filed destination of Seoul South Korea had landed at Edmonton, Alberta at 04:36am EDT. The other had departed Edmonton at 07:31am, a Pilatus PC-12 with no destination filed and the flight number read **DAL27PDK** and it was squaking **7700**, general emergency. 
+An Airbus 350-900 operated by Delta airlines had departed from Atlanta filed destination of Seoul South Korea had landed at Edmonton, Alberta at 05:00am EDT. The other had departed Edmonton at 07:31am, a Pilatus PC-12 with no destination filed and the flight number read **DAL27PDK** and it was squaking **7700**, general emergency. 
 
 "Give me full details of **DAL27PDK** PC-12 departed Edmonton at 07:31am." 
 

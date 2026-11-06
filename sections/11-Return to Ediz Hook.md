@@ -40,15 +40,11 @@ Sam came down with the chocks. His eyes were red, and he worked the fingers of h
 
 John looked at the bottom step. "Browns Ferry?"
 
-"I went by two miles north of it. Fan towers not turning, nothing off the stack. There's a fire at Decatur, and the smoke was lying right out to the east, over Huntsville."
-
-"How much did you land with?"
-
-"Five hundred pounds. It was a northwest wind all the way from Omaha."
+"I went by two miles north of it. Nothing off the stacks. 
 
 They got the tie-downs on. The wind eddied around the end of the hangar, and it brought what was behind those doors out across the ramp. The boy lifted his head. He looked at the shut doors, then at Sam. "Are there..." he said, and he stopped.
 
-"Seventeen," John said. "They worked here. We haven't gotten to them yet. There's none on the ship. I mopped it myself."
+"Seventeen," John said. "They worked here. We haven't gotten to them yet. There's none on the ship where we are staying."
 
 Catherine looked up from the clipboard at John. The boy thought about it and nodded. "Okay," he said, and he got up and picked up the leash.
 

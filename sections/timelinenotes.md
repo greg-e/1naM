@@ -5,7 +5,7 @@
 00:30 Jack and Sam 1st rest break
 02:05 John woke up by thud
 03:15 Sam discovers incapacitated crew
-04:36 DAL27 lands in Edmonton, Alberta
+05:00 DAL27 lands in Edmonton, Alberta
 06:30 John wakes up
 07:10 Sam departs Edmonton in PC-12
 07:15 John starts his walk

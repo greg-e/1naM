@@ -50,14 +50,14 @@ Times EDT, with UTC. Positions assume wheels up 23:35, top of climb ~00:00 about
 | 02:00–03:30 | | DAL27 flies on, no one alive on the flight deck. ATC calls go unanswered at every handoff because nobody's left at the scopes either. | Across Manitoba and Saskatchewan | |
 | ~03:15 | 07:15Z | **Sam's alarm.** No interphone call. He leaves Jack's curtain closed. | ~59.0°N 108.3°W, northern Saskatchewan near Lake Athabasca | ~317° |
 | ~03:30 | | Flight deck door: normal request, no answer; emergency access code; waits out the delay. | ~59.0°N 108.3°W | |
-| ~03:31 | 07:31Z | On the flight deck. Speaks to Theresa and Ruth and checks them: dead in their lap belts. Then reads the airplane (autopilot, FL360, ECAM clear) and **turns south on heading 180** toward the en route alternates (Fort McMurray, Edmonton, Saskatoon) rather than fly farther from them while he works the problem. | ~59.2°N 108.6°W | Hold, FL360 |
-| ~03:33–03:37 | | Masked (observer seat mask), calls the crew rest on the interphone, then the cabin; no answer. Does not leave the flight deck (pilot-incapacitation procedure). Moves Theresa to the observer seat; checks cabin pressure normal; swaps to the captain's mask; takes the left seat. | Southbound | |
-| ~03:38 | 07:38Z | **First call to Edmonton Center is the MAYDAY**; squawk 7700. | ~58.5°N 108.4°W `[derived]` | Hdg 180, FL360 |
-| ~03:38–03:58 | | Works every other channel, declaring on each (see §4). | Southbound, FL360 | |
-| ~04:00 | 08:00Z | **Diversion decision: Edmonton.** Direct CYEG. | ~235 nm NE of CYEG, course ~215° | Descent in ~15 min |
-| ~04:10–04:45 | | Cruise and descent; overweight landing checklist; ILS approach briefed alone. | Over northern Alberta | |
-| ~04:36 | 08:36Z | **Overweight landing at CYEG** (02:36 MDT), night, runway 20 `[verify ILS 20 availability and runway choice; 02/20 is the 11,000 ft runway]` | CYEG | |
-| ~04:40–05:30 | | Taxi in and shutdown; up to the crew rest first, finds Jack dead; then the cabin walk. Section 2 ends after the cabin walk. | CYEG apron | |
+| ~03:16 | 07:16Z | On the flight deck. Speaks to Theresa and Ruth, masks up, checks them: dead in their lap belts. Then reads the airplane (autopilot, FL360, ECAM clear, still on the route northwest). **He leaves it on the route**: the airplane is flying itself level, and he doesn't turn until he has picked a field. | ~59.0°N 108.3°W | On route ~317°, FL360 |
+| ~03:18–03:25 | | Calls the crew rest on the interphone, then the cabin; no answer. Does not leave the flight deck (pilot-incapacitation procedure). Moves Theresa to the observer seat; checks cabin pressure normal; swaps to the captain's mask; takes the left seat. | On route, northwest | |
+| ~03:25 | 07:25Z | **First call to Edmonton Center is a short MAYDAY contact call** (prefix and callsign only); squawk 7700. The full message ("intend to divert, will advise") goes out in the blind on 121.5 a few minutes later. | ~59.9°N 110.2°W `[derived]`, northwest of Lake Athabasca | Hdg ~315, FL360 |
+| ~03:25–03:40 | | Works every other channel, declaring on each (see §4). | On route, northwest | |
+| ~03:40 | 07:40Z | **Diversion decision: Edmonton.** Direct CYEG; a left turn of ~130° to heading ~185. | ~61.4°N 112.8°W `[derived]`, over Great Slave Lake, ~485 nm N of CYEG | TOD in ~45 min |
+| ~03:45–04:55 | | Cruise south and descent; overweight landing checklist; ILS approach briefed alone. | Over northern Alberta | |
+| ~05:00 | 09:00Z | **Overweight landing at CYEG** (03:00 MDT), night, runway 20 `[verify ILS 20 availability and runway choice; 02/20 is the 11,000 ft runway]` | CYEG | |
+| ~05:05–05:45 | | Taxi in and shutdown; up to the crew rest first, finds Jack dead; then the cabin walk; down the 1L slide ~05:45. | CYEG apron | |
 
 Distances along the track from KATL: event ~1,090 nm; Sam wakes ~1,795 nm; total ATL–ICN great circle ~6,200 nm.
 
@@ -65,7 +65,7 @@ Distances along the track from KATL: event ~1,090 nm; Sam wakes ~1,795 nm; total
 
 ## 4. Communications sequence
 
-Under pilot incapacitation he declares at once; there's no reason to wait. What he checks, and checks again, is his own equipment, because a silent radio could also mean a failed radio. The interphone calls (crew rest, then cabin) come first, from the observer seat's audio panel on the mask mic, as the "get help" step. His first ATC transmission is the MAYDAY, in AIM order: station, callsign and type ("Delta Twenty-Seven Heavy, Airbus A350"), nature (pilot incapacitation, two pilots unresponsive, one at the controls), weather, intentions, position and heading, altitude, fuel, people on board. Squawk 7700 with it. Then, every call a MAYDAY:
+Under pilot incapacitation he declares at once; there's no reason to wait. What he checks, and checks again, is his own equipment, because a silent radio could also mean a failed radio. The interphone calls (crew rest, then cabin) come first, from the observer seat's audio panel on the mask mic, as the "get help" step. His first ATC transmission is a MAYDAY contact call, prefix and callsign only, to get an answer before he spends the details. With no answer, he gives the full message in the blind on 121.5, in AIM order: station, callsign and type ("Delta Twenty-Seven Heavy, Airbus A350"), nature (pilot incapacitation, two pilots unresponsive, one at the controls), weather, intentions, position and heading, altitude, fuel, people on board. Squawk 7700 with it. Then, every call a MAYDAY:
 
 1. **Frequency in use** on VHF 1: whatever is still tuned (the last handoff the relief pair took, likely Winnipeg or Edmonton Center `[verify FIR boundary near 59°N 108°W]`). Then the published frequency for the sector he's in, from the EFB.
 2. **Equipment check:** the second VHF on the same frequency; a different audio control panel; headset vs. speaker. The radios transmit (sidetone, TX indication), but nothing comes back.
@@ -80,17 +80,17 @@ Under pilot incapacitation he declares at once; there's no reason to wait. What 
 
 ## 5. The diversion decision
 
-Fields within reach at the decision point (~55.7°N 108.3°W, after ~25 min southbound):
+Fields within reach at the decision point (~61.4°N 112.8°W, over Great Slave Lake, after ~25 min more on the route northwest while he worked the radios):
 
 | Field | Distance | Longest runway | Assessment |
 | --- | --- | --- | --- |
-| Fort McMurray (CYMM) | ~115 nm | ~7,500 ft `[verify]` | Closest. Too tight for a heavy overweight A350 landing alone at night with no fire crew confirmed. |
-| **Edmonton (CYEG)** | **~235 nm** | **11,000 ft (02/20)** `[verify]` | **Nearest suitable.** Long runway, ILS, major airport, full rescue and fire coverage on paper. About 15 minutes farther than Fort McMurray. |
-| Saskatoon (CYXE) | ~220 nm | ~8,300 ft `[verify]` | About as far as Edmonton, with a shorter runway. |
-| Yellowknife (CYZF) | ~450 nm | ~7,500 ft `[verify]` | Short, and now well behind him. |
-| Churchill (CYYQ) | ~495 nm | 9,200 × 160 ft | Farther and shorter than Edmonton. |
+| Yellowknife (CYZF) | ~80 nm, north shore | ~7,500 ft `[verify]` | Closest. Too tight for a heavy overweight A350 landing alone at night with no fire crew confirmed. |
+| Hay River (CYHY), Fort Smith (CYSM) | ~85–95 nm | ~6,000 ft `[verify]` | Shorter still. |
+| Fort McMurray (CYMM) | ~290 nm | ~7,500 ft `[verify]` | The same runway problem as Yellowknife, farther away. |
+| **Edmonton (CYEG)** | **~485 nm, almost due south** | **11,000 ft (02/20)** `[verify]` | **Nearest suitable.** Long runway, ILS, major airport, full rescue and fire coverage on paper. About an hour and ten minutes. |
+| Saskatoon (CYXE) | ~590 nm | ~8,300 ft `[verify]` | Farther than Edmonton, with a shorter runway. |
 
-"Nearest suitable," not "nearest." Sam trades about fifteen minutes for 3,500 more feet of runway. That's exactly the judgment an airline crew is trained to make, and he has to make it alone.
+"Nearest suitable," not "nearest." Sam trades about fifty minutes against Yellowknife for 3,500 more feet of runway, with fuel to spare many times over. That's exactly the judgment an airline crew is trained to make, and he has to make it alone.
 
 ---
 
@@ -109,7 +109,7 @@ Estimates, not dispatch figures. `[verify against a Delta A350 planning sheet if
 | **Landing weight** | **~240–245 t: ~35 t (~75,000–85,000 lb) over MLW** |
 | Fuel aboard at landing | ~60 t |
 
-The A350-900 has a fuel jettison system, but Sam doesn't use it. He runs the **overweight landing checklist** instead. The airplane is certified to land overweight in an emergency, and an 11,000 ft runway leaves margin. What's on the page:
+Per the author, the A350-900 has no fuel jettison system, so the weight comes down to the runway with him. He runs the **overweight landing checklist** instead. The airplane is certified to land overweight in an emergency, and an 11,000 ft runway leaves margin. What's on the page:
 
 - Higher approach speed (Vref rises with weight). Flap/slat configuration per the checklist `[verify the A350 overweight landing configuration]`.
 - A gentle touchdown, low sink rate.
@@ -117,13 +117,13 @@ The A350-900 has a fuel jettison system, but Sam doesn't use it. He runs the **o
 - Brake temperatures afterward. A real crew would watch them climb on the ECAM wheel page and expect fuse plugs to melt if they get hot enough.
 - A required overweight-landing inspection before the airplane flies again. Nobody will ever do it.
 
-Autoland vs. hand-flown: autoland on an ILS is approved in good weather with the right equipment; the choice and the minimums are `[verify]`. A pilot alone at night after a 90-minute shock could reasonably let the airplane fly the approach and take it by hand for the flare, or fly it all himself.
+Autoland vs. hand-flown: Sam flies the ILS on the autopilot and hand-flies from 1,000 ft. The A350 FCOM isn't public; the Airbus pattern on related types (secondhand, PPRuNe quotes of FCOMs, Nov 2026 research) is that **autoland is certified only up to MLW**. The A330's overweight procedure (PRO-ABN-80) lets the crew elect autoland up to 229 t, where flight tests succeeded; the A319 has a similar note (69 t); the A320/A321 has none, and Airbus doesn't recommend it. Boeing's 737 guidance is the same. Autoland also tends to touch down firmly, against the low sink rate the overweight procedure wants. At ~240 t against a 207 t MLW, Sam is very likely beyond any A350 allowance, so hand-flying the flare is the expected choice. `[verify against an A350 FCOM or an A350 pilot: overweight autoland note and demonstrated weight]`
 
 ---
 
 ## 7. Edmonton on the ground
 
-- **Local time:** Mountain (MDT = EDT − 2). Landing ~02:36 MDT. Sunrise around 06:45 MDT `[verify]`. Dark through the cabin walk and the PC-12 departure.
+- **Local time:** Mountain (MDT = EDT − 2). Landing ~03:00 MDT. Sunrise around 06:45 MDT `[verify]`. Dark through the cabin walk and the PC-12 departure.
 - **Grid:** the Western Interconnection, in the first hours after the event. Field lighting and terminal power still on, per the grid subplot's silent window.
 - **Getting down:** no airstairs or jet bridge crew. At ATL in the old prose Sam used the slide; here he can use a slide, or find a jet bridge he can't run alone. `[decide in prose]`
 - **Staffing at 03:00:** an international airport runs overnight with security, ARFF, ramp and maintenance crews, and a few overnight cargo and FBO staff. Apply the 2:00 a.m. rule before placing bodies.
@@ -151,7 +151,7 @@ Autoland vs. hand-flown: autoland on an ILS is approved in good weather with the
 
 All from FlightAware's ADS-B data on John's screens:
 
-- **~09:00:** DAL27's track: north-northwest out of Atlanta, steady to northern Saskatchewan, then a deliberate turn south, squawk 7700, a turn direct Edmonton, a descent, landed CYEG ~04:36. Stopped.
+- **~09:00:** DAL27's track: north-northwest out of Atlanta, steady past Lake Athabasca, squawk 7700 at ~03:25, then at ~03:40 over Great Slave Lake a deliberate turn south direct Edmonton, a descent, landed CYEG ~05:00. Stopped.
 - **~09:00:** one new target that departed CYEG at ~07:30, the only takeoff he can find anywhere since 02:00. A PC-12, southeast-bound, Flight ID **DAL27PDK**.
 - **~10:45:** it lands at Minneapolis. **~11:30:** it leaves Minneapolis, still southeast-bound, toward Atlanta.
 - John's inference: the same pilot. Nobody else on the continent is moving.

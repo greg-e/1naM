@@ -163,7 +163,7 @@ John told her. Ninety-five hundred aircraft in the air at 2:00 a.m. Eastern on T
 
 "I laid down at ten-thirty and my alarm went off at eleven-thirty. Sam, where were you?"
 
-Sam told it the way he would have told an investigator. He went on break over Indiana at twelve-thirty with Theresa and Ruth in the seats. His alarm went off at 03:15, and nobody answered the keypad. He got in on the emergency code and found them dead, put on the mask, turned south, and called every frequency he had. He landed at Edmonton, found Jack in his bunk, and walked the cabin. Three hundred and six passengers and thirteen cabin crew.
+Sam told it the way he would have told an investigator. He went on break over Indiana at twelve-thirty with Theresa and Ruth in the seats. His alarm went off at 03:15, and nobody answered the keypad. He got in on the emergency code and found them dead, put on the mask, called every frequency he had, and turned south for Edmonton. He landed at Edmonton, found Jack in his bunk, and walked the cabin. Three hundred and six passengers and thirteen cabin crew.
 
 "Was the cabin pressure normal?" Catherine asked.
 

@@ -21,7 +21,8 @@ In a scenario where terrestrial infrastructure (power grids, NASA Mission Contro
 - **Pass windows are short.** A typical overhead pass lasts 8–10 minutes total, with a strong-signal usable window of only 4–6 minutes.
 - **Elevation matters more than location.** Passes above 30° elevation give the longest, clearest contact; below 20°, terrain and buildings often block it entirely.
 - **No continuous contact.** Once the ISS drops below the horizon, the link is gone until the next pass — anywhere from ~90 minutes to several hours later depending on geometry. "Ongoing comms" is really a series of short check-ins, not a persistent channel.
-- **Doppler shift.** The downlink frequency shifts roughly ±9 kHz across a single pass; operators historically use precomputed AOS/TCA/LOS frequency corrections.
+- **Doppler shift.** About ±3.5 kHz on the 2 m voice downlink (145.800 MHz), which FM tolerates; roughly ±10 kHz on 70 cm. Operators use precomputed AOS/TCA/LOS corrections where it matters.
+- **Split frequency** `[verify for 2028]`: downlink 145.800 MHz worldwide; uplink 144.490 MHz (ITU Regions 2 and 3) or 145.200 MHz (Region 1). APRS digipeater on 145.825 MHz. A newcomer used to marine VHF simplex will call on the downlink and never be heard.
 - **Basic gear works.** Even a handheld radio with a stock antenna can make contact during a good pass — the barrier is having any operational gear and power, not needing exotic equipment.
 
 ## Story-Useful Tension Points
