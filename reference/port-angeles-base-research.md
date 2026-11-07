@@ -20,7 +20,9 @@ Research behind the Port Angeles phase: the harbor and Johan's anchorage, the Co
 | Aggregator sea-route figure 5,300 nm, fastest ~12 d 14 h (≈ 17.5 kt) | `[SRC]` fluentcargo.com; looks long `[VERIFY]` |
 | ~1,900 nm at the speed one man can hold her (~11–12 kt) ≈ 7 days | `[DERIVED]`; consistent with Day 9–10 at anchor after a slowdown into the Strait |
 
-**Della's recovery clock** `[VERIFY]`: a trimalleolar ankle fracture, closed reduction and cast with no surgery, heals in ~10–12 weeks (→ mid-to-late November from Sept 4–5), probably with a permanent limp; return to running ~3–4 months. Daylight at Port Angeles on Dec 21: 8 h 21 m (longest day 16 h 07 m) `[SRC]` timeanddate.com.
+**Della's recovery clock** `[VERIFY]`: ~10–12 weeks (→ mid-to-late November from Sept 4–5) is a general bone-healing range, not a guaranteed union, weight-bearing or work date for her unstable ankle treated without surgery. General return-to-activity estimates of ~3–4 months do not establish running or heavy mechanical work. The chosen lasting-impairment arc remains canon; actual milestones need orthopaedic review. Daylight at Port Angeles on Dec 21: 8 h 21 m (longest day 16 h 07 m) `[SRC]` timeanddate.com.
+
+**Trauma care and imaging** `[VERIFY]`: a powered CT console is not a readiness or image-quality check. Actual scanner configuration, trained operation, suitable acquisition (including whether contrast-enhanced abdominal imaging was achieved) and diagnostic-quality local images need author/specialist review. Ordinary bedside ultrasound and a stable hemoglobin trend support observation; they do not exclude delayed bleeding. No urgent surgical team is established: successful observation is constrained care, not routine trauma-center capability. Transfer and caregiver-handover decisions also need clinical review. Records, model-specific instructions, complete study export/viewing and disconnected-use checks belong after the injury and equipment discovery; none is newly claimed as completed. Sources and limits: [Della trauma-care research, November 7, 2026](2026-11-07_della-trauma-care_assessment-imaging-and-treatment-dependencies.md).
 
 ---
 

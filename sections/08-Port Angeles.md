@@ -130,7 +130,7 @@ She worked the way Sam worked the airplane, out loud and in order, using whoever
 
 She ran an ultrasound probe over Della's belly and stopped under the left ribs. "Fluid around the spleen. Not much."
 
-The CT scanner was down the hall and its console came up on the generator. Catherine had never run one without a tech, but she had stood behind enough of them. She found the trauma protocol on the menu, had John and Sam slide Della across on a board, and stood at the console with her arms folded while the gantry turned. She read the images herself, scrolling with one finger. "Spleen's torn. Small, and it's stopped. Collarbone, middle third. Ribs five, six, seven on the left. A little air outside the left lung, not enough to need a tube. Brain's clean."
+The CT scanner was down the hall and its console came up on the generator. Catherine had never run one without a tech, but she had stood behind enough of them. She found the trauma protocol on the menu, had John and Sam slide Della across on a board, and stood at the console with her arms folded while the gantry turned. She read the images herself, scrolling with one finger. "Spleen's torn. Small. I don't see active bleeding now. Collarbone, middle third. Ribs five, six, seven on the left. A little air outside the left lung, not enough to need a tube. Brain's clean."
 
 The cut on Della's shin had been bleeding into the splint since Monday night. When Catherine cut the flannel away and lifted the alder, the skin around it was red and hot for a hand's width and it smelled. She washed it out with a syringe and a liter of saline, cut away what was dead, and packed it open. "It's infected," she told Della. "If I close it, I seal that in." She hung a bag of broad-spectrum antibiotic and gave her a tetanus shot.
 
@@ -140,7 +140,7 @@ The ankle film showed the leg bones broken on both sides of the joint and the fo
 
 "Okay," Della said.
 
-Catherine put the left arm in a sling. She took more morphine from the narcotics drawer. No ibuprofen or anything like it, she said, not with the spleen. She handed Della a clear plastic cylinder with a mouthpiece on a hose. "Breathe in on that till the ball comes up. Ten times an hour while you're awake. It's going to hurt. Do it anyway, or you'll have pneumonia by Sunday."
+Catherine put the left arm in a sling. She took more morphine from the narcotics drawer. No ibuprofen or anything like it, she said, not with the spleen. She handed Della a clear plastic cylinder with a mouthpiece on a hose. "Breathe in on that till the ball comes up. Ten times an hour while you're awake. It's going to hurt. Do it anyway. I don't want pneumonia on top of this."
 
 Then she went through the questions. Allergies, none. Medications, none.
 

@@ -6,7 +6,7 @@ Catherine had the thermometer in Della's ear when John came across the hall with
 
 "So when do I get out of here?" Della asked. Her eyes had swollen further and she had to tip her head back to see anyone.
 
-"That spleen can start bleeding again any time in the next few days. If it does I want to be down the hall from that scanner. Saturday, if your numbers hold."
+"That spleen can start bleeding again any time in the next few days. If it does I want to be down the hall from that scanner, but I haven't got a surgical team here. Saturday, if your numbers hold."
 
 "Then they go today." Della looked for Sam and found him in the doorway with Dan. "You'll want to know what you've got before you carry me up a brow. You want a pen?"
 
@@ -162,7 +162,7 @@ John got out the pocket notebook and turned back to Tuesday night. "Browns Ferry
 
 Sam picked his iPad up off the exam table and worked it for a minute. "Eighteen hundred miles. Omaha for fuel. Off at first light, we're there a little after four their time, and back here Monday before dark."
 
-"I'm going with you," Catherine said. "If they're hurt they need a doctor." She looked at Della's numbers on the monitor, then at John. "You're staying with her."
+"I'm going with you," Catherine said. "If they're hurt they need a doctor." She looked at Della's numbers on the monitor, then at John. "Her numbers have held, but she's not out of danger. You're staying with her."
 
 "All right," John said.
 
