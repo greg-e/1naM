@@ -4,7 +4,7 @@
 
 Luca had the tracking laptop open on the Columbus bulkhead beside the radio, and he called the time off it the way he called everything, as if someone on the ground were taking it down. "Four minutes. Port Angeles, maximum elevation sixty-one degrees. Good one."
 
-Kendra hooked a toe under the handrail and pulled herself in beside him. The radio was a black Kenwood the size of a hardback book, with a hand mic on a coiled cord and a strip of gray tape on the faceplate where somebody before them had written the frequencies in marker: *DN 145.800 / UP 144.490 (Reg 2), 145.200 (Reg 1)*. The station talked on the first one and listened on the others. They had all learned that the way anyone on the ground would have to, from the binder.
+Kendra hooked a toe under the handrail and pulled herself in beside him. The radio was a black Kenwood the size of a hardback book, with a hand mic on a coiled cord and a strip of gray tape on the faceplate where somebody before them had written the frequencies in marker: *DN 145.800 / UP 144.490 (Reg 2), 145.200 (Reg 1)*. The station talked on the first one and listened on the others. They had all learned that from the binder.
 
 <!-- [verify: ARISS Kenwood TM-D710GA location and installation in Columbus; 2028 ARISS frequencies; station tracking software on crew laptops] -->
 
@@ -50,7 +50,7 @@ She keyed again, and this time what came out was the loop voice, the one she had
 
 "Vance, Tyler." The German voice was in no hurry, and gave each word the same weight. "Ten years old. He is alive. He is well. Over."
 
-She looked at Luca and Ellen, tears welling up. She keyed the mic "How?" was all she got out.
+She keyed the mic. "Get him to the radio. Over."
 
 She let go of the key. The speaker gave her quiet, and then a hiss coming up under the quiet, and then a sound that could have been a voice or the edge of one, and then the noise came over the top of it.
 
@@ -80,7 +80,7 @@ Kendra gave him the mic back. She found the rail with her hand and held herself 
 
 "Go do something with your hands," Ellen said. "I'll come get you."
 
-**17:44**
+### 17:44
 
 She went to Node 3 and did the water.
 
@@ -90,7 +90,7 @@ It was what she did with her hands now. The station's water ran in a loop: every
 
 On Day 0 she had been at this rack at 05:30 GMT, two hours before the crew's wake-up, because the ground had asked her in early to work a fault on this same machine. Dave Ruiz was on the overnight console in Houston and reading her the procedure over the loop a step at a time, the way it was done. At 06:00 he was on step fourteen. "Okay, Kendra, for step fourteen we'd like you to hold the—"
 
-And then nothing. Not static. Not the hiss and click that meant the link had dropped. The loop was open and the link was good, and the voice had stopped in the middle of a word.
+Then nothing, not static, not the hiss and click that meant the link had dropped. The loop was open and the link was good, and the voice had stopped in the middle of a word.
 
 She had called him on Space to Ground Two, then on One. She had checked the comm page and found both links locked and green. By 06:20 she had woken Ellen. By 07:00 they had called every number on the station's phone, which ran through Houston on the same link: the flight director's console, the Huntsville payload center where she had worked for ten years, the European control center outside Munich, SpaceX in California. Everything rang. Nothing answered. The Russians came through from their end with the same story about Moscow. At 07:30 Ellen opened the daily planning conference on schedule and read the control centers' names into the loop in order, Houston, Huntsville, Munich, Tsukuba, Moscow, and waited after each one, and nobody joined.
 
@@ -98,11 +98,11 @@ At 07:52 the station passed from one relay satellite to the next, a handover tha
 
 <!-- [verify: whether TDRS handovers and Ku/S-band link scheduling need a human in the loop on the ground; how long the links could plausibly hold unattended] -->
 
-She had thought of calling home at 06:20. It was the first thing she thought after she woke Ellen. She had put it away, because you don't use the phone for yourself in the first hour of an anomaly, you work the anomaly. Ellen had made a list of who to call and in what order, and Kendra's mother and her brother and her son were not on it yet when the link went at 07:52. She had gone back over that so many times that it had stopped feeling like anything. It was just the number, ninety-two minutes, the way the water was a number.
+She had thought of calling home at 06:20. It was the first thing she thought after she woke Ellen. She had put it away, because you don't use the phone for yourself in the first hour of an anomaly, you work the anomaly. Ellen had made a list of who to call and in what order, and Kendra's mother and her brother and her son were not on it yet when the link went at 07:52. She had gone back over that so many times that it had stopped feeling like anything. It was the number, ninety-two minutes.
 
 That night, after the rest of them had gone to their sleep stations, she had come back here and opened the procedure and read step fourteen through to the end, and done it.
 
-She did the numbers now, because they were here on the same laptop. Food was what would decide it. The water held, and the oxygen came out of the water, and as long as she kept the machines running neither of them would be the reason they came down. Food came up on cargo ships, and no cargo ship was coming. Seven people on what was aboard, at the rations they had cut to in September, took them into February. Four people took them into July. She had shown Ellen that page in October. The Russians had their own Soyuz and their own decision to make about it, and Andrei had said, the week before, that they were making it.
+She did the numbers now, because they were here on the same laptop. The water held, and the oxygen came out of the water, and as long as she kept the machines running neither of them would be the reason they came down. Food came up on cargo ships, and no cargo ship was coming. Seven people on what was aboard, at the rations they had cut to in September, took them into February. Four people took them into July. She had shown Ellen that page in October. The Russians had their own Soyuz and their own decision to make about it, and Andrei had said, the week before, that they were making it.
 
 <!-- [verify: ISS food reserve in 2028; a ration rate that gives ~early February at seven and ~July at four after a December Soyuz departure] -->
 
@@ -110,13 +110,13 @@ She closed the spreadsheet. On the laptop the clock said 18:41.
 
 She went to her sleep station in Node 2 and pulled the curtain and looked at the picture Velcroed to the wall, Tyler at nine in the NASA shirt that was too big for him then, grinning with all his teeth, at the Rocket Center. She looked at it for a while. Then she put her reading glasses on the cord back around her neck, where they lived, and went back to Columbus.
 
-**19:04**
+### 19:04
 
 Luca had selected the antenna that looked down and west, and he had turned the squelch up a notch to stop the noise opening it. Ellen was on the overhead rail. Pavel had come up from the Russian segment and was holding on at the hatch, and he nodded to her and didn't say anything.
 
 "AOS in one minute. It will be weak at first."
 
-She took the mic from him before he could offer it. Ellen didn't say anything about that either.
+She took the mic from him before he could offer it.
 
 "AOS."
 
@@ -124,7 +124,7 @@ The speaker hissed and opened and closed and opened, and on the second opening t
 
 She keyed. "Ediz Hook, NA1SS. Kendra Vance. Go ahead. Over."
 
-There was a long hiss, longer than it should have been, and then a different voice. It came in thin and then full. It was hoarse and it had gotten higher at the end of the first word, the way it did when he was trying not to cry.
+The hiss ran longer than it should have, and then a different voice came in. It came in thin and then full. It was hoarse and it had gotten higher at the end of the first word, the way it did when he was trying not to cry.
 
 "Mom?"
 
