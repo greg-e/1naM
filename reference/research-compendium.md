@@ -26,6 +26,7 @@ Research notes still useful:
 - **Seat count.** 306 passengers matches Delta's A350-900 layout as remembered (32 Delta One / 48 Premium Select / 36 Comfort+ / 190 Main), i.e. a full flight. `[VERIFY]`
 - **Crew size.** A four-pilot augmented crew fits the FAR Part 117 limits for a ~15 h 20 m block; a three-pilot crew likely would not. `[VERIFY]` Table C.
 - **A350-900 weights.** MLW 207 t (~456,000 lb), OEW 142.4 t `[SRC]` aircraftinvestigation.info.
+- **A350 review (2026-11-07).** [Source review and limits](2026-11-07_a350-incapacitation_edmonton-diversion-and-automation-dependencies.md): communications indications do not prove human receipt; jettison/overweight/autoland limits and numerical performance/oxygen assumptions need aircraft-specific verification. YEG documents ILS on 02/12/30 and back-course guidance on 20; runway/approach choice is held. Dossier §3 corrects clock arithmetic, not the route.
 
 ---
 

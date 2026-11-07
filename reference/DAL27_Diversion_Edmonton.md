@@ -39,11 +39,11 @@ Aboard: 4 pilots, 13 cabin crew, 306 passengers. **323 total.**
 
 ## 3. Route and timeline
 
-Times EDT, with UTC. Positions assume wheels up 23:35, top of climb ~00:00 about 150 nm out, and a 470 kt groundspeed in cruise. The route is the great circle; a real filed track would bend with the winds. `[verify with a Delta pilot: typical DL27 routing]`
+Times EDT, with UTC. Current Section 1 has wheels up at ~23:50 (03:50Z); its ~05:00 landing/taxi scene is a nominal arrival anchor, not a separately timed touchdown: ~5 h 10 min airborne. The ~03:40 decision to that anchor is ~80 min; 70 min is Sam's estimate, not the elapsed ledger. Position/climb estimates below retain the earlier 23:35 departure and 470 kt assumptions; they have not been recomputed or route-validated. The isolated ~03:30 door-entry row also conflicts with ~03:16 below and remains a chronology check, not grounds to shift prose clocks. `[verify actual filed track and winds with a Delta pilot]`
 
 | EDT | UTC | Event | Position (approx.) | Track / alt |
 | --- | --- | --- | --- | --- |
-| 23:35 (Sep 4) | 03:35Z | Wheels up KATL, runway 26L `[verify; ATL departs off 26L/27R in west flow; the old prose said 27L, an arrival runway]` | KATL | Initial course ~335° |
+| ~23:50 (Sep 4) | 03:50Z | Wheels up KATL, runway 26L `[verify; ATL departs off 26L/27R in west flow; the old prose said 27L, an arrival runway]` | KATL | Initial course ~335° |
 | ~00:00 | 04:00Z | Top of climb | ~35.9°N 85.7°W, north of Chattanooga | FL340 |
 | ~00:30 | 04:30Z | First break: Jack and Sam to the bunks | ~39.4°N 87.9°W, west-central Indiana | FL340 |
 | 02:00 | 06:00Z | **The event.** Theresa and Ruth die in the seats, Jack in his bunk. Autopilot holds LNAV/altitude. | ~49.6°N 96.0°W, southeast Manitoba, just north of the Minnesota line | ~327°, FL340 or FL360 after a step climb `[verify]` |
@@ -56,8 +56,8 @@ Times EDT, with UTC. Positions assume wheels up 23:35, top of climb ~00:00 about
 | ~03:25–03:40 | | Works every other channel, declaring on each (see §4). | On route, northwest | |
 | ~03:40 | 07:40Z | **Diversion decision: Edmonton.** Direct CYEG; a left turn of ~130° to heading ~185. | ~61.4°N 112.8°W `[derived]`, over Great Slave Lake, ~485 nm N of CYEG | TOD in ~45 min |
 | ~03:45–04:55 | | Cruise south and descent; overweight landing checklist; ILS approach briefed alone. | Over northern Alberta | |
-| ~05:00 | 09:00Z | **Overweight landing at CYEG** (03:00 MDT), night, runway 20 `[verify ILS 20 availability and runway choice; 02/20 is the 11,000 ft runway]` | CYEG | |
-| ~05:05–05:45 | | Taxi in and shutdown; up to the crew rest first, finds Jack dead; then the cabin walk; down the 1L slide ~05:45. | CYEG apron | |
+| ~05:00 | 09:00Z | **CYEG landing/taxi scene anchor** (03:00 MDT), night, runway 20 `[AUTHOR HOLD: operator lists ILS 02/12/30 and back-course guidance on 20; choose/verify runway and approach, not merely an ILS label; 02/20 is 11,000 ft]` | CYEG | |
+| After arrival–~05:45 | | Taxi in and shutdown; up to the crew rest first, finds Jack dead; then the cabin walk; down the 1L slide ~05:45. | CYEG apron | |
 
 Distances along the track from KATL: event ~1,090 nm; Sam wakes ~1,795 nm; total ATL–ICN great circle ~6,200 nm.
 
@@ -68,13 +68,15 @@ Distances along the track from KATL: event ~1,090 nm; Sam wakes ~1,795 nm; total
 Under pilot incapacitation he declares at once; there's no reason to wait. What he checks, and checks again, is his own equipment, because a silent radio could also mean a failed radio. The interphone calls (crew rest, then cabin) come first, from the observer seat's audio panel on the mask mic, as the "get help" step. His first ATC transmission is a MAYDAY contact call, prefix and callsign only, to get an answer before he spends the details. With no answer, he gives the full message in the blind on 121.5, in AIM order: station, callsign and type ("Delta Twenty-Seven Heavy, Airbus A350"), nature (pilot incapacitation, two pilots unresponsive, one at the controls), weather, intentions, position and heading, altitude, fuel, people on board. Squawk 7700 with it. Then, every call a MAYDAY:
 
 1. **Frequency in use** on VHF 1: whatever is still tuned (the last handoff the relief pair took, likely Winnipeg or Edmonton Center `[verify FIR boundary near 59°N 108°W]`). Then the published frequency for the sector he's in, from the EFB.
-2. **Equipment check:** the second VHF on the same frequency; a different audio control panel; headset vs. speaker. The radios transmit (sidetone, TX indication), but nothing comes back.
+2. **Equipment check:** the second VHF on the same frequency; a different audio control panel; headset vs. speaker. The radios indicate transmission (sidetone, TX indication), but nothing comes back.
 3. **121.5** on VHF 2 (always monitored), addressed to any station.
 4. **123.45**, air-to-air, any aircraft.
-5. **CPDLC:** the ATC mailbox. Last uplink time-stamped shortly before 06:00Z. A MAYDAY downlink goes out with no response.
+5. **CPDLC:** the ATC mailbox. Last uplink time-stamped shortly before 06:00Z. A MAYDAY downlink is attempted; local status reports sent, with no human reply.
 6. **ACARS** free text to Delta's operations center (OCC). Status SENT, no reply.
-7. **SATCOM voice:** dispatch, then the STAT-MD medical line `[verify Delta's medical provider; the old dossier names UPMC STAT-MD]`. Calls connect and ring out.
+7. **SATCOM voice:** dispatch, then the STAT-MD medical line `[verify Delta's medical provider; the old dossier names UPMC STAT-MD]`. Sam hears ringing; no human answers.
 8. **SATCOM to Elena.** Voicemail.
+
+Sidetone/TX, SENT and audible ringing are different observations, not proof of a complete working path or human receipt. Sam identifies no fault; no human replies. CPDLC data-authority/recipient context and the installed equipment's status meanings remain unverified. No new acknowledgment or independent end-to-end test is established.
 
 ---
 
@@ -96,7 +98,7 @@ Fields within reach at the decision point (~61.4°N 112.8°W, over Great Slave L
 
 ## 6. Weight and the overweight landing
 
-Estimates, not dispatch figures. `[verify against a Delta A350 planning sheet if available]`
+Estimates, not dispatch figures. The corrected clock does not validate the old mass/burn assumptions. The scene's 172 kt, 8,200 ft rollout, brake-temperature prediction and crew-oxygen endurance remain unverified fictional outputs; no approved performance/oxygen calculation was obtained. `[verify against the selected aircraft, load, conditions and applicable documents]` Sources and limits: [A350 review, November 7, 2026](2026-11-07_a350-incapacitation_edmonton-diversion-and-automation-dependencies.md).
 
 | Item | Value |
 | --- | --- |
@@ -105,11 +107,11 @@ Estimates, not dispatch figures. `[verify against a Delta A350 planning sheet if
 | OEW | 142.4 t (aircraftinvestigation.info) |
 | Max landing weight (MLW) | 207 t (~456,000 lb) |
 | Burn | ~6–7 t/hr average, higher in the climb |
-| Burned by touchdown (~5 hr 25 min) | ~33–35 t |
+| Burned by nominal arrival (~5 hr 10 min) | Unverified; prior ~33–35 t estimate used the superseded 5 hr 25 min clock |
 | **Landing weight** | **~240–245 t: ~35 t (~75,000–85,000 lb) over MLW** |
 | Fuel aboard at landing | ~60 t |
 
-Per the author, the A350-900 has no fuel jettison system, so the weight comes down to the runway with him. He runs the **overweight landing checklist** instead. The airplane is certified to land overweight in an emergency, and an 11,000 ft runway leaves margin. What's on the page:
+The earlier no-jettison premise is an unverified DAL27 configuration choice, not an established A350-family fact. Installed equipment and applicable overweight procedures/limits need aircraft-specific verification. An emergency overweight landing is not blanket normal certification at any weight; 11,000 ft alone does not establish stopping margin. Sam uses the **overweight landing checklist** and chooses a gentle manual touchdown. What's on the page:
 
 - Higher approach speed (Vref rises with weight). Flap/slat configuration per the checklist `[verify the A350 overweight landing configuration]`.
 - A gentle touchdown, low sink rate.
@@ -117,7 +119,7 @@ Per the author, the A350-900 has no fuel jettison system, so the weight comes do
 - Brake temperatures afterward. A real crew would watch them climb on the ECAM wheel page and expect fuse plugs to melt if they get hot enough.
 - A required overweight-landing inspection before the airplane flies again. Nobody will ever do it.
 
-Autoland vs. hand-flown: Sam flies the ILS on the autopilot and hand-flies from 1,000 ft. The A350 FCOM isn't public; the Airbus pattern on related types (secondhand, PPRuNe quotes of FCOMs, Nov 2026 research) is that **autoland is certified only up to MLW**. The A330's overweight procedure (PRO-ABN-80) lets the crew elect autoland up to 229 t, where flight tests succeeded; the A319 has a similar note (69 t); the A320/A321 has none, and Airbus doesn't recommend it. Boeing's 737 guidance is the same. Autoland also tends to touch down firmly, against the low sink rate the overweight procedure wants. At ~240 t against a 207 t MLW, Sam is very likely beyond any A350 allowance, so hand-flying the flare is the expected choice. `[verify against an A350 FCOM or an A350 pilot: overweight autoland note and demonstrated weight]`
+Autoland vs. hand-flown: the scene retains autopilot assistance followed by Sam hand-flying from 1,000 ft for a soft touchdown. The applicable A350-900 AFM/FCOM and installed-aircraft overweight/autoland limits have not been obtained. Related-type limits and secondhand forum quotations do not establish a universal A350 MLW prohibition or this aircraft's allowance. Preserve his manual-landing choice without certifying an unverified prohibition. `[verify with the applicable aircraft documents and an A350 pilot]`
 
 ---
 
