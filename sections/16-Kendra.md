@@ -2,7 +2,7 @@
 
 ### 11/2/2028, GMT 307, 17:31 - International Space Station
 
-Luca had the tracking laptop open on the Columbus bulkhead beside the radio, and he called the time off it the way he called everything, as if someone on the ground were taking it down. "Four minutes. Port Angeles, maximum elevation sixty-one degrees. Good one."
+Luca had the tracking laptop open on the Columbus bulkhead beside the radio, and he called the time off it as if someone on the ground were taking it down. "Four minutes. Port Angeles, maximum elevation sixty-one degrees. Good one."
 
 Kendra hooked a toe under the handrail and pulled herself in beside him. The radio was a black Kenwood the size of a hardback book, with a hand mic on a coiled cord and a strip of gray tape on the faceplate where somebody before them had written the frequencies in marker: *DN 145.800 / UP 144.490 (Reg 2), 145.200 (Reg 1)*. The station talked on the first one and listened on the others. They had all learned that from the binder.
 
@@ -14,7 +14,7 @@ Ellen Pruitt came through the hatch from Node 2 and stopped herself on the overh
 
 There was no window in Columbus. On the laptop's map the station's track came in off the Pacific toward the coast of Washington, a line of dots with a circle around the one that was them. From the cupola, in September, she had watched the lights of North America go out over three nights, the Southeast first, a whole region dark on one pass that had been lit on the pass before. Since then the night side had been dark from one coast to the other, except for fires. She didn't look for Huntsville on the night passes anymore.
 
-"AOS," Luca said, and the speaker hissed louder and then went quiet, the way an FM receiver went quiet when it had something real to listen to. He keyed the mic. "Port Angeles, Port Angeles, this is November-Alpha-One-Sierra-Sierra, the International Space Station. How do you read? Over."
+"AOS," Luca said, and the speaker hissed louder and then went quiet. He keyed the mic. "Port Angeles, Port Angeles, this is November-Alpha-One-Sierra-Sierra, the International Space Station. How do you read? Over."
 
 He let it go. The quiet held.
 
@@ -36,7 +36,7 @@ Luca's pencil stopped. The speaker gave them the quiet of an open channel with n
 
 "Sixty-one," Luca said, low, because calling it was his job. "That's the top." He held the mic out.
 
-She didn't take it. At some point she had let go of the handrail, and the air off the vent was carrying her back and to the left, slowly, and her shoulder came up against the face of the rack behind her with a knock she felt and didn't turn around for. In eight months aboard she had not touched a wall she didn't mean to touch.
+She didn't take it. At some point she had let go of the handrail, and the air off the vent was carrying her back and to the left, and her shoulder came up against the face of the rack behind her with a knock she felt and didn't turn around for. In eight months aboard she had not touched a wall she didn't mean to touch.
 
 Ellen's hand came down flat between her shoulder blades and held her there.
 
@@ -58,7 +58,7 @@ She let go of the key. The speaker gave her quiet, and then a hiss coming up und
 
 She keyed again. "Ediz Hook, NA1SS. Say again. Over."
 
-The noise. Then, broken, the German voice, three words out of a sentence: "...next pass... one niner..." Then nothing she could pull out of it, and then the squelch closed, and the speaker went dead.
+The noise held, and then, broken, the German voice came through, three words out of a sentence: "...next pass... one niner..." Then nothing she could pull out of it, and then the squelch closed, and the speaker went dead.
 
 <!-- [verify: pass geometry at ~48°N; signal behavior at low elevation behind the Olympics; a second, lower pass about 93 minutes later] -->
 
@@ -88,7 +88,7 @@ It was what she did with her hands now. The station's water ran in a loop: every
 
 <!-- [verify: Water Recovery System and Urine Processor Assembly in Node 3; distillation assembly data available on the crew laptop] -->
 
-On Day 0 she had been at this rack at 05:30 GMT, two hours before the crew's wake-up, because the ground had asked her in early to work a fault on this same machine. Dave Ruiz was on the overnight console in Houston and reading her the procedure over the loop a step at a time, the way it was done. At 06:00 he was on step fourteen. "Okay, Kendra, for step fourteen we'd like you to hold the—"
+On Day 0 she had been at this rack at 05:30 GMT, two hours before the crew's wake-up, because the ground had asked her in early to work a fault on this same machine. Dave Ruiz was on the overnight console in Houston and reading her the procedure over the loop a step at a time. At 06:00 he was on step fourteen. "Okay, Kendra, for step fourteen we'd like you to hold the—"
 
 Then nothing, not static, not the hiss and click that meant the link had dropped. The loop was open and the link was good, and the voice had stopped in the middle of a word.
 
@@ -98,7 +98,7 @@ At 07:52 the station passed from one relay satellite to the next, a handover tha
 
 <!-- [verify: whether TDRS handovers and Ku/S-band link scheduling need a human in the loop on the ground; how long the links could plausibly hold unattended] -->
 
-She had thought of calling home at 06:20. It was the first thing she thought after she woke Ellen. She had put it away, because you don't use the phone for yourself in the first hour of an anomaly, you work the anomaly. Ellen had made a list of who to call and in what order, and Kendra's mother and her brother and her son were not on it yet when the link went at 07:52. She had gone back over that so many times that it had stopped feeling like anything. It was the number, ninety-two minutes.
+She had thought of calling home at 06:20. It was the first thing she thought after she woke Ellen. She had put it away, because you don't use the phone for yourself in the first hour of an anomaly, you work the anomaly. Ellen had made a list of who to call and in what order, and Kendra's mother and her brother and her son were not on it yet when the link went at 07:52. She had counted it many times: ninety-two minutes.
 
 That night, after the rest of them had gone to their sleep stations, she had come back here and opened the procedure and read step fourteen through to the end, and done it.
 
@@ -108,7 +108,7 @@ She did the numbers now, because they were here on the same laptop. The water he
 
 She closed the spreadsheet. On the laptop the clock said 18:41.
 
-She went to her sleep station in Node 2 and pulled the curtain and looked at the picture Velcroed to the wall, Tyler at nine in the NASA shirt that was too big for him then, grinning with all his teeth, at the Rocket Center. She looked at it for a while. Then she put her reading glasses on the cord back around her neck, where they lived, and went back to Columbus.
+She went to her sleep station in Node 2 and pulled the curtain and looked at the picture Velcroed to the wall, Tyler at nine in the NASA shirt that was too big for him then, grinning with all his teeth, at the Rocket Center. Then she put her reading glasses on the cord back around her neck, where they lived, and went back to Columbus.
 
 ### 19:04
 
@@ -124,7 +124,7 @@ The speaker hissed and opened and closed and opened, and on the second opening t
 
 She keyed. "Ediz Hook, NA1SS. Kendra Vance. Go ahead. Over."
 
-The hiss ran longer than it should have, and then a different voice came in. It came in thin and then full. It was hoarse and it had gotten higher at the end of the first word, the way it did when he was trying not to cry.
+The hiss ran longer than it should have, and then a different voice came in, thin and then full, hoarse, and higher at the end of the word.
 
 "Mom?"
 
@@ -138,7 +138,7 @@ She had her hand over her mouth and she took it away. "Hey, baby. I hear you. I 
 
 She keyed and couldn't say anything, and let go. She keyed again. "Ty. Uncle Carl?"
 
-The hiss.
+The hiss ran on.
 
 "He was on the couch," Tyler said. "When I woke up. I stayed in my room." A pause. "Grandma too. Sam went in. He brought me her Bible." Another pause, and she heard him breathe in. "Over."
 
