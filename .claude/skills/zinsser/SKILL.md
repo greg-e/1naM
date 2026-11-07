@@ -99,6 +99,7 @@ Now go sentence by sentence.
 - **Concept nouns**: "the quietness made him curious" → what was quiet, and what did he do about it. Name the thing.
 - **Stock phrases**: *a chill ran up his spine, his heart sank, time stood still, an eerie silence, a deafening silence, the calm before the storm.* Replace with the specific observation, or cut.
 - **"The way" similes**: a trailing clause that explains an action by comparing it to a habit or a type (*, the way it did when he was trying not to cry; the way an FM receiver went quiet when...; the way he called everything; the way it was done*). The author reads these as slop. Cut the clause; the action stands by itself.
+- **Mystery by negation**: describing a thing the POV character already knows by what it isn't, to make it sound uncanny (*a line of text nobody aboard had sent; a voice that wasn't his; a sound that shouldn't have been there*). It's a teaser in disguise, and usually the real thing follows a colon later. Name it plainly ("a packet message"). A real absence the character observes ("Nothing had answered on any of them," "a carrier somewhere that nobody had switched off") is a fact, not this pattern; keep it.
 - **Stock emotional summaries**: a line that reports how a feeling has changed instead of showing what the character does (*it had stopped feeling like anything; something in her went still; it hit him all at once*). Cut it, or replace it with the concrete fact or action.
 
 **Usage and mechanics.**
@@ -126,6 +127,7 @@ For a first sweep in Session or Audit mode, grep the section for the usual offen
 Also search for:
 - "there was" and "there were" for weak constructions.
 - `, the way` for trailing similes, and `stopped feeling|feeling like anything` for stock emotional summaries.
+- `(nobody|no one|nothing)( \w+){0,3} had \w+`, `that (wasn't|shouldn't)`, and `(something|someone) (that )?(wasn't|shouldn't)` for mystery by negation. Most hits are real absences; flag only the ones where the character already knows what the thing is.
 - "was \w+ing" and "were \w+ing". This search is low-yield: most hits are correct past progressive for background action ("Luca was taking the names down"). Flag only the ones carrying the main action of a beat.
 - "!" outside dialogue, and adverbial tags (`(said|asked|replied|whispered|called) \w+ly`).
 - Runs of two or more short verbless sentences in a row ("And then nothing. Not static. Not the hiss."). The grep can't find these reliably; watch for them on the line read.

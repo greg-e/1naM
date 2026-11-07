@@ -4,11 +4,9 @@
 
 Luca had the tracking laptop open on the Columbus bulkhead beside the radio, and he called the time off it as if someone on the ground were taking it down. "Four minutes. Port Angeles, maximum elevation sixty-one degrees. Good one."
 
-Kendra hooked a toe under the handrail and pulled herself in beside him. The radio was a black Kenwood the size of a hardback book, with a hand mic on a coiled cord and a strip of gray tape on the faceplate where somebody before them had written the frequencies in marker: *DN 145.800 / UP 144.490 (Reg 2), 145.200 (Reg 1)*. The station talked on the first one and listened on the others. They had all learned that from the binder.
+Kendra hooked a toe under the handrail and pulled herself in beside him. The radio was a black Kenwood the size of a hardback book, with a hand mic on a coiled cord and a strip of gray tape on the faceplate where somebody before them had written the frequencies in marker: *DN 145.800 / UP 144.490 (Reg 2), 145.200 (Reg 1)*. The station talked on the first one and listened on the others.
 
-<!-- [verify: ARISS Kenwood TM-D710GA location and installation in Columbus; 2028 ARISS frequencies; station tracking software on crew laptops] -->
-
-Ellen Pruitt came through the hatch from Node 2 and stopped herself on the overhead rail. She was the commander, and she came to every Port Angeles pass now, the way Kendra did. Two weeks ago the radio's little screen had shown them a line of text nobody aboard had sent: *PORT ANGELES WA. 6 ALIVE. LISTENING EVERY PASS 145.800.* It had come in over the packet relay on some pass while they slept, and been sitting there for a day before Luca thought to scroll back. Since then they had called on every pass over the Northwest, and twice they had heard a carrier come up on the uplink, and a man's voice under the noise, and then nothing they could read.
+Ellen Pruitt came through the hatch from Node 2 and stopped herself on the overhead rail. She was the commander, and she came to every Port Angeles pass now. Two weeks ago the radio's little screen had shown them a packet message: *PORT ANGELES WA. 6 ALIVE. LISTENING EVERY PASS 145.800.* It had come in over the packet relay on some pass while they slept, and been sitting there for a day before Luca thought to scroll back. Since then they had called on every pass over the Northwest, and twice they had heard a carrier come up on the uplink, and a man's voice under the noise, and then nothing they could read.
 
 "Two minutes," Luca said.
 
