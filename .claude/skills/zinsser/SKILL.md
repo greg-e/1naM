@@ -110,10 +110,14 @@ Zinsser: rewriting is the essence of writing. Read the passage at speaking pace,
 For a first sweep in Audit mode, grep the section for the usual offenders, then read each hit in context; a hit is a question, not a verdict.
 
 ```
-\b(very|quite|rather|really|just|a bit|a little|sort of|kind of|somewhat|pretty|actually|seemed to|began to|started to|managed to|quickly|suddenly|dangerous(ly)?|massive(ly)?|intense(ly)?|overwhelming|eerie|resulting|in order to|the fact that|made his way|proceeded to|tapestry|delve|testament|robust|synergy|palpable|nuanced|symphony|seamlessly|leverage|transformative)\b
+\b(very|quite|rather|really|just|a bit|a little|sort of|kind of|somewhat|pretty|actually|seemed to|began to|started to|managed to|quickly|suddenly|slowly|dangerous(ly)?|massive(ly)?|intense(ly)?|overwhelming|eerie|resulting|in order to|the fact that|made his way|proceeded to|tapestry|delve|testament|robust|synergy|palpable|nuanced|symphony|seamlessly|leverage|transformative)\b
 ```
 
-Also search for "there was", "there were", and "was \w+ing" for weak constructions, "!" outside dialogue, and adverbial tags (`(said|asked|replied|whispered|called) \w+ly`).
+Also search for:
+- "there was" and "there were" for weak constructions.
+- "was \w+ing" and "were \w+ing". This search is low-yield: most hits are correct past progressive for background action ("Luca was taking the names down"). Flag only the ones carrying the main action of a beat.
+- "!" outside dialogue, and adverbial tags (`(said|asked|replied|whispered|called) \w+ly`).
+- Runs of two or more short verbless sentences in a row ("And then nothing. Not static. Not the hiss."). The grep can't find these reliably; watch for them on the line read.
 
 ## Non-fiction: CLAUDE.md, reference docs, notes
 
