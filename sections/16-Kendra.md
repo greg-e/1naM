@@ -4,7 +4,7 @@
 
 Luca had the tracking laptop open on the Columbus bulkhead beside the radio, and he called the time off it the way he called everything, as if someone on the ground were taking it down. "Four minutes. Port Angeles, maximum elevation sixty-one degrees. Good one."
 
-Kendra hooked a toe under the handrail and pulled herself in beside him. The radio was a black Kenwood the size of a hardback book, with a hand mic on a coiled cord and a strip of gray tape on the faceplate where somebody before them had written the frequencies in marker: *DN 145.800 / UP 144.490 (Reg 2), 145.200 (Reg 1)*. The station talked on the first one and listened on the others. They had all learned that the way the people on the ground had to learn it, from the binder.
+Kendra hooked a toe under the handrail and pulled herself in beside him. The radio was a black Kenwood the size of a hardback book, with a hand mic on a coiled cord and a strip of gray tape on the faceplate where somebody before them had written the frequencies in marker: *DN 145.800 / UP 144.490 (Reg 2), 145.200 (Reg 1)*. The station talked on the first one and listened on the others. They had all learned that the way anyone on the ground would have to, from the binder.
 
 <!-- [verify: ARISS Kenwood TM-D710GA location and installation in Columbus; 2028 ARISS frequencies; station tracking software on crew laptops] -->
 
@@ -22,19 +22,41 @@ He let it go. The quiet held.
 
 Luca turned his head and looked at her, and at Ellen, and keyed the mic. "Ediz Hook, NA1SS. Five by five. Seven persons aboard, all well. We copied your packet message. Who are you? Over."
 
-"Brandt, Johan. Second officer, motor vessel *Pacific Tender*." The voice stopped, and when it came back it was reading from something. "Hartman, John. Reyes, Samuel. Dahl, Catherine, a doctor. Jacobs, Della. Brandt. Vance, Tyler, ten years old, from Huntsville, Alabama. His mother is Kendra Vance. Over."
+"Brandt, Johan. Second officer, motor vessel *Pacific Tender*." The voice stopped, and when it came back it was slower. "Hartman, John. Reyes, Samuel. Dahl, Catherine, a doctor. Jacobs, Della."
 
-Luca held the mic out to her without saying anything.
+Luca had a pencil out and was taking the names down on the back of the pass sheet.
 
-She had it in her hand. She had to let go of the rail to take it, and her legs started to drift out from under her, and she let them. She keyed it.
+"Vance—"
 
-"This is Kendra Vance." Her voice was the one she used on the loop, flat and clear. "Is he there? Over."
+She heard her own name. Somebody down there had a crew list, she thought, the NASA press kit, and he was going to read the seven of them back like a roll call.
+
+"—Tyler. Ten years old, from Huntsville, Alabama. His mother is Kendra Vance. Over."
+
+Luca's pencil stopped. The speaker gave them the quiet of an open channel with nobody on it, and under it the fans, and nobody keyed.
+
+"Sixty-one," Luca said, low, because calling it was his job. "That's the top." He held the mic out.
+
+She didn't take it. At some point she had let go of the handrail, and the air off the vent was carrying her back and to the left, slowly, and her shoulder came up against the face of the rack behind her with a knock she felt and didn't turn around for. In eight months aboard she had not touched a wall she didn't mean to touch.
+
+Ellen's hand came down flat between her shoulder blades and held her there.
+
+"Kendra. He's waiting on you."
+
+She took the mic and keyed it. The transmit light on the faceplate went red, and she held the key down with the channel open and her mouth open, and nothing came. Three seconds of dead carrier went down to Port Angeles. She let go.
+
+She keyed again, and this time what came out was the loop voice, the one she had used at six in the morning on the fifth of September to a console in Houston that had stopped answering. It came out flat and clear, every word set down by itself. Her hand on the mic was shaking hard enough that she put the other one over it.
+
+"Ediz Hook, this is Kendra Vance. Say again the last name. Say again the boy. Over."
+
+"Vance, Tyler." The German voice was in no hurry, and gave each word the same weight. "Ten years old. He is alive. He is well. Over."
+
+She looked at Luca and Ellen, tears welling up. She keyed the mic "How?" was all she got out.
 
 She let go of the key. The speaker gave her quiet, and then a hiss coming up under the quiet, and then a sound that could have been a voice or the edge of one, and then the noise came over the top of it.
 
 "Thirty degrees and falling," Luca said. "They're going behind the mountains, maybe. Or it's their antenna."
 
-She keyed again. "Ediz Hook, NA1SS. Say again. Is he there? Over."
+She keyed again. "Ediz Hook, NA1SS. Say again. Over."
 
 The noise. Then, broken, the German voice, three words out of a sentence: "...next pass... one niner..." Then nothing she could pull out of it, and then the squelch closed, and the speaker went dead.
 
@@ -62,7 +84,7 @@ Kendra gave him the mic back. She found the rail with her hand and held herself 
 
 She went to Node 3 and did the water.
 
-It was what she did with her hands now. The station's water ran in a loop, everything the seven of them breathed out and sweated and passed went through the machines in this module and came back drinkable, and when one of them faulted she was the one aboard who could open it up and tell why. The urine processor had been running rough for a week. She pulled up its data on the laptop at the rack and read it, temperatures and pressures and the motor current on the distillation drum, and none of it was new, and she read it again.
+It was what she did with her hands now. The station's water ran in a loop: everything the seven of them breathed out and sweated and passed went through the machines in this module and came back drinkable, and when one of them faulted she was the one aboard who could open it up and tell why. The urine processor had been running rough for a week. She pulled up its data on the laptop at the rack and read it, temperatures and pressures and the motor current on the distillation drum, and none of it was new, and she read it again.
 
 <!-- [verify: Water Recovery System and Urine Processor Assembly in Node 3; distillation assembly data available on the crew laptop] -->
 
@@ -90,7 +112,7 @@ She went to her sleep station in Node 2 and pulled the curtain and looked at the
 
 **19:04**
 
-Luca had the antenna selection on the one that looked down and west, and he had turned the squelch up a notch to stop the noise opening it. Ellen was on the overhead rail. Pavel had come up from the Russian segment and was holding on at the hatch, and he nodded to her and didn't say anything.
+Luca had selected the antenna that looked down and west, and he had turned the squelch up a notch to stop the noise opening it. Ellen was on the overhead rail. Pavel had come up from the Russian segment and was holding on at the hatch, and he nodded to her and didn't say anything.
 
 "AOS in one minute. It will be weak at first."
 
@@ -138,7 +160,7 @@ The noise came over the top of him and stayed. Luca reached past her and turned 
 
 "LOS," he said.
 
-Nobody moved for a while. Then Pavel pushed off from the hatch and went back down toward the Russian segment, and touched her shoulder on his way past.
+Nobody moved. Then Pavel pushed off from the hatch and went back down toward the Russian segment, and touched her shoulder on his way past.
 
 Luca took the station's log off its Velcro, the ham log, and wrote in it: the date, 19:05 GMT, Ediz Hook, Port Angeles, the frequencies, the signal reports. He held the pen out to her.
 

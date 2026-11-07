@@ -411,7 +411,15 @@ Naomi's study was across the hall from his office. He went in without turning on
 
 He sat in her chair, and stayed there a while.
 
-He picked up the Bible and opened it to the ribbon. She'd underlined half the page in pencil and written in the margin in her small slanted hand, a date in 2009 and two words he couldn't make out without his reading glasses. He closed it and took it with him when he went out, and pulled her door shut behind him.
+He picked up the Bible and let it fall open at the ribbon, Romans 8. He'd opened it to this page many times since Naomi died. She had underlined two verses in pencil and gone over them in yellow highlighter:
+
+*For in hope we have been saved, but hope that is seen is not hope; for who hopes for what he already sees? But if we hope for what we do not see, with perseverance we wait eagerly for it.*
+
+Since seven that morning he'd looked at nothing but what could be seen: death and the unknown all around him, no hope in any of it.
+
+He read the verses again.
+
+He closed the Bible and took it with him.
 
 ### 23:00
 
