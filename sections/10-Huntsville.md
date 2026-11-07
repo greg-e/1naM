@@ -168,7 +168,7 @@ Tyler backed up. It was a boy's room with a bunk over a desk and the walls cover
 
 Sam stood and read that. He'd flown with first officers who kept worse logs. "Who taught you that?"
 
-"My mom. You count it first, before you're thirsty. Then you know how long you have." He said it the way you'd say the Pledge of Allegiance. "I filled them up Tuesday. Then it stopped Thursday in the morning and I got the rest from the tub, and the back of the toilet, but it's okay, the back's clean, it's the same water."
+"My mom. You count it first, before you're thirsty. Then you know how long you have." He said it the way you'd say the Pledge of Allegiance. "I filled them up Tuesday. Then it stopped Thursday in the morning and I got the rest from the tub, and the tank on the back of the toilet, not the bowl. I figured it was okay if the water was clear and there wasn't cleaner in it."
 
 "Where's your mom, Tyler?"
 

@@ -40,7 +40,7 @@ Ellen's hand came down flat between her shoulder blades and held her there.
 
 "Kendra. He's waiting on you."
 
-She took the mic and keyed it. The transmit light on the faceplate went red, and she held the key down with the channel open and her mouth open, and nothing came. Three seconds of dead carrier went down to Port Angeles. She let go.
+She took the mic and keyed it. The transmit indicator came on, and she held the key down with the channel open and her mouth open, and nothing came. Three seconds of dead carrier went down to Port Angeles. She let go.
 
 She keyed again, and this time what came out was the loop voice, the one she had used at six in the morning on the fifth of September to a console in Houston that had stopped answering. It came out flat and clear, every word set down by itself. Her hand on the mic was shaking hard enough that she put the other one over it.
 
@@ -58,7 +58,7 @@ She keyed again. "Ediz Hook, NA1SS. Say again. Over."
 
 The noise held, and then, broken, the German voice came through, three words out of a sentence: "...next pass... one niner..." Then nothing she could pull out of it, and then the squelch closed, and the speaker went dead.
 
-<!-- [verify: pass geometry at ~48°N; signal behavior at low elevation behind the Olympics; a second, lower pass about 93 minutes later] -->
+<!-- [verify: pass geometry at ~48°N; signal behavior at low elevation behind the Olympics. Inferred first AOS 17:35 UTC; next stated AOS 19:05 UTC, 90 minutes apart. First LOS is not timed.] -->
 
 Luca looked at the laptop. "Next pass over them is 19:05. West of them, out over the water, maximum elevation fourteen. Short. Maybe four minutes. Maybe three good."
 
@@ -68,9 +68,9 @@ Luca looked at the laptop. "Next pass over them is 19:05. West of them, out over
 
 Kendra gave him the mic back. She found the rail with her hand and held herself still in front of the radio.
 
-"Ninety-three minutes," Ellen said. "Kendra."
+"Less than ninety minutes," Ellen said. "Kendra."
 
-"I know what ninety-three minutes is."
+"I know what ninety minutes is."
 
 "I'm going to say it anyway. You don't know who answers on that pass. You know a name on a list."
 
@@ -82,7 +82,7 @@ Kendra gave him the mic back. She found the rail with her hand and held herself 
 
 She went to Node 3 and did the water.
 
-It was what she did with her hands now. The station's water ran in a loop: everything the seven of them breathed out and sweated and passed went through the machines in this module and came back drinkable, and when one of them faulted she was the one aboard who could open it up and tell why. The urine processor had been running rough for a week. She pulled up its data on the laptop at the rack and read it, temperatures and pressures and the motor current on the distillation drum, and none of it was new, and she read it again.
+It was what she did with her hands now. The station's water ran in a loop: much of what the seven of them breathed out and sweated and passed went through the machines in this module and came back drinkable, and when one of them faulted she was the one aboard who could open it up and tell why. The urine processor had been running rough for a week. She pulled up its data on the laptop at the rack and read it, temperatures and pressures and the motor current on the distillation drum, and none of it was new, and she read it again.
 
 <!-- [verify: Water Recovery System and Urine Processor Assembly in Node 3; distillation assembly data available on the crew laptop] -->
 
@@ -100,7 +100,7 @@ She had thought of calling home at 06:20. It was the first thing she thought aft
 
 That night, after the rest of them had gone to their sleep stations, she had come back here and opened the procedure and read step fourteen through to the end, and done it.
 
-She did the numbers now, because they were here on the same laptop. The water held, and the oxygen came out of the water, and as long as she kept the machines running neither of them would be the reason they came down. Food came up on cargo ships, and no cargo ship was coming. Seven people on what was aboard, at the rations they had cut to in September, took them into February. Four people took them into July. She had shown Ellen that page in October. The Russians had their own Soyuz and their own decision to make about it, and Andrei had said, the week before, that they were making it.
+She did the numbers now, because they were here on the same laptop. The water held for now, and the oxygen came out of the water, but there were losses to make up from their reserves, and the machines needed power and spares. Food came up on cargo ships, and no cargo ship was coming. Seven people on what was aboard, at the rations they had cut to in September, took them into February. Four people took them into July. She had shown Ellen that page in October. The Russians had their own Soyuz and their own decision to make about it, and Andrei had said, the week before, that they were making it.
 
 <!-- [verify: ISS food reserve in 2028; a ration rate that gives ~early February at seven and ~July at four after a December Soyuz departure] -->
 

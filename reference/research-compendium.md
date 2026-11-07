@@ -100,7 +100,7 @@ A surviving link needs a person on Earth with a working 2 m / 70 cm transceiver,
 
 ### 3.5 The station's clock (research behind `CLAUDE.md`'s ISS clock) `[VERIFY]`
 
-- **Crew Dragon docked-life certification:** ~210 days. Canon has Kendra's Dragon flying months past it.
+- **Dragon and Soyuz qualified life:** not a universal day-count expiry. Establish each vehicle's identity, launch/docking dates, applicable approved life and condition. The historical 210-day Dragon requirement is not a current blanket limit, and longer documented missions do not certify the fictional vehicles or supply a replacement universal timer. [Endurance research](2026-11-07_iss-endurance_food-life-support-and-return-dependencies.md).
 - **ISS food reserves without cargo flights:** a few months at most for a full crew; cutting from seven to four (the Soyuz leaving) and rationing stretches it. Needs a sourced figure before the page quotes one.
 - **Water and oxygen:** the US segment's water recovery (~98% `[VERIFY]`) and electrolysis oxygen generation; failure modes and spares are where Kendra's life-support background earns its scenes.
 - **Orbit decay:** without reboosts from cargo vehicles the orbit decays; no timescale in the repo yet.
@@ -113,18 +113,23 @@ A surviving link needs a person on Earth with a working 2 m / 70 cm transceiver,
 
 ## 4. Pilatus PC-12 PRO
 
-**Canon:** `CLAUDE.md` Aircraft and Section 6. **Source:** [`PC-12-PRO-Brochure.pdf`](PC-12-PRO-Brochure.pdf) (marketing copy, not a POH).
+**Canon:** `CLAUDE.md` Aircraft and Section 6. **Reviewed November 7, 2026:** [PC-12 mission ledger and sources](2026-11-07_pc12_rescue-mission-ledger_variant-payload-fuel-and-time.md). Manufacturer brochures are marketing references, not approved flight manuals or dispatch calculations. The repository's [`PC-12-PRO-Brochure.pdf`](PC-12-PRO-Brochure.pdf) is retained unchanged; its printed errors are identified below.
 
 ### 4.1 The aircraft `[SRC]`
 
-Single-engine pressurized turboprop, certified single- or dual-pilot, IFR, day/night, known icing, paved or unpaved. Garmin G3000 Prime "ACE" cockpit: three 14-in touchscreen flight displays plus two 7-in controllers, autothrottle, AFCS, synthetic vision, GWX 8000 radar, predictive windshear, SurfaceWatch, stall warning and protection, Electronic Stability & Protection, Emergency Descent Mode, and **Garmin Emergency Autoland** ("available from 2026"). Engine: P&WC PT6E-67XP, 1,200 shp, single-lever digital power control, 5,000 h TBO. Prop: Hartzell 5-blade composite, full reversing.
+Single-engine pressurized turboprop, certified single- or dual-pilot, IFR, day/night, known icing, paved or unpaved. Garmin G3000 PRIME cockpit: three 14-in touchscreen flight displays plus two 7-in controllers, autothrottle, AFCS, synthetic vision, GWX 8000 radar, predictive windshear, SurfaceWatch, stall warning and protection, Electronic Stability & Protection, Emergency Descent Mode, and **Garmin Emergency Autoland**. Pilatus reported FAA/EASA Autoland certification on September 24, 2026; the installed configuration and approved supplement for the fictional aircraft still need checking. Engine: P&WC PT6E-67XP, 1,200 shp, single-lever digital power control, 5,000 h TBO. Prop: Hartzell 5-blade composite, full reversing.
+
+The NGX uses Honeywell ACE; the PRO uses G3000 PRIME. Panel features and manuals do not transfer automatically. G1000 familiarity is background, not proof of mastery of the PRO.
 
 ### 4.2 Specifications `[SRC]`
 
+Current manufacturer PRO brochure, printed p.40 / PDF p.43; EASA A.089 Issue 11 for the /47G limits. Direct links and source boundaries are in the mission ledger.
+
 | Category | US | Metric |
 |---|---|---|
-| Max cruise speed | ~290 KTAS (see §4.3) | 537 km/h |
-| Max range, 4 pax / 6 pax | 1,803 nm / 1,568 nm | 3,339 / 2,903 km |
+| Max cruise speed | 290 KTAS at FL220 | 537 km/h |
+| Max range, 4 pax / 6 pax | 1,765 nm / 1,565 nm | 3,269 / 2,898 km (rounded conversion) |
+| Time to climb | 19 min to FL250 | 19 min to 7,620 m |
 | Max altitude | 30,000 ft | 9,144 m |
 | Takeoff / landing over 50 ft | 2,485 ft / 2,170 ft | 758 / 661 m |
 | Rate of climb | 1,920 ft/min | 9.75 m/s |
@@ -138,19 +143,24 @@ Single-engine pressurized turboprop, certified single- or dual-pilot, IFR, day/n
 | Cabin / baggage volume | 501 / 90 ft³ | 14.19 / 2.55 m³ |
 | Cargo door (W × H) | 4 ft 5 in × 4 ft 4 in | 1.35 × 1.32 m |
 
-Cabin length, width and height are omitted: the brochure's text layer repeats exterior values there. Read them off the PDF page. `[VERIFY]`
+Range assumes long-range cruise, ISA, FL300 and NBAA IFR reserves with a 100-nm alternate; the four- and six-passenger cases differ. Maximum cruise, maximum range and maximum payload are not simultaneous operating points. The 2,485/2,170-ft runway figures assume the stated weights, ISA, sea level and dry pavement; they do not validate Phoenix at 41°C or an unattended runway. Climb performance is condition-dependent, not a guaranteed mission time. Actual equipped weight and the PRO operating-weight pilot allowance remain unverified.
 
-### 4.3 Brochure text-layer errors
+The NGX's 1,803/1,568-nm figures belong to its own 2024 sheet and assumptions, not the PRO. Cabin interior dimensions remain excluded pending a page check.
 
-1. Max cruise reads "440 KTAS" beside "537 km/h" (≈ 290 kt). Use 290 KTAS.
-2. "Time to climb to FL 450" is impossible with a 30,000-ft ceiling; likely FL300.
-3. The interior-dimension block repeats exterior numbers.
+### 4.3 Brochure versions and source limits
 
-### 4.4 Working checks `[DERIVED]`
+1. Visual inspection found **440 KTAS**, **FL450** and the older range figures printed on p.40 of the repository PDF. They are not merely extraction errors. Do not use them as PRO performance.
+2. The fresh manufacturer brochure gives **290 KTAS at FL220**, **19 minutes to FL250** and **1,765/1,565 nm** for its stated four-/six-passenger cases. The former guess that the climb label meant FL300 is withdrawn.
+3. The applicable approved PRO AFM and Autoland supplement were not obtained. EASA identifies /47G POH Report 02523, Issue 02/Revision 00 or higher. A brochure is not that manual, and the repository PDF is not replaced by this correction.
 
-- **Payload is the binding limit.** 1,087 lb with full fuel against a group that grows from two to six people plus a dog, the dev box and its ~135-lb storm battery, and cargo. Every full-tank leg is a weight-and-balance problem; the Phoenix → KCLM leg (~1,020 nm great-circle, ~1,080 nm airway) still needs an independent fuel and ETE check at that load. `[VERIFY]`
+### 4.4 Working checks `[DERIVED]` / `[VERIFY]`
+
+- **Mission loading, not a generic group payload.** The 1,087-lb full-fuel payload is a screening figure with an operating-weight convention, not the fictional aircraft's measured capacity. The early missions carry two, then three people, not the later six-person group. Actual people, dog, bags, water, medical equipment, dev box, panels and Jackery need one manifest, actual equipped weight and loading arms. The ~135-lb Jackery is still a verification item. The former 170-lb Phoenix margin is unsupported; the prose's loading check is a fictional event, not validated arithmetic. Takeoff weight alone does not establish landing weight or CG compliance.
+- **Full-fuel KCLM–KNOW transfer.** The eleven-minute hop needs its own landing-weight check. At maximum takeoff weight, reaching the normal 9,921-lb landing limit would require losing 529 lb; that conditional subtraction does not establish this flight's actual starting weight or an overweight landing. Do not invent offloading, fuel removal or a stop to solve an unknown manifest.
+- **Sunday fuel.** Sept 10 starting fuel is not established by the Sept 8 KCLM fill before the transfer. Keep a mass ledger through taxi, climb, deviations, low passes, cruise, descent and reserve. Rounded remaining pounds and gallons added are not instrument-exact equivalents; density/temperature matter. No fresh top-off or reserve compliance is inferred.
+- **Route arithmetic is not dispatch approval.** Phoenix–KCLM is about 1,022 nm great-circle, excluding low passes and deviations. The stated 16:10–20:25 MST/PDT interval is 4h15, but begins at start/taxi. Amarillo 13:50 CDT is 11:50 MST; the existing 15:15 MST Phoenix landing therefore gives 3h25, not an established two-hour leg. The schedule and sunset limit still need an author decision. Weather, actual fuel, reserves, loading and runway conditions remain unverified; brochure range alone cannot certify these missions.
 - **Fuel with no grid:** a fuel truck with its own engine-driven pump (the Amarillo template), an FBO generator, or a hand or gravity method. Winter fields (Reno, the northern C-17 stops) add de-icing and snow.
-- **Autoland depends on GPS** and a runway in its database, so it degrades as GPS drifts without ground uploads (`CLAUDE.md` Unattended-world hazards).
+- **Autoland:** a suitable GPS approach with lateral and vertical guidance, adequate fuel, weather and runway/performance limits matter; not simply the nearest runway or a database entry. Manufacturer certification supports a 2028 PRO discovery, not every installation or an NGX retrofit. Nothing reviewed establishes detection of new wreckage or animals. PRO-specific activation details, button guard/label and GPS-degradation tolerance still need the approved supplement; no drift rate is certified here.
 
 ---
 
@@ -280,8 +290,9 @@ Open research checks, collected from this file and `CLAUDE.md`. Author decisions
 | `reference/cause_and_effect_2026-10-10.md` | The event's mechanism, evidence chain, and hidden-canon tier |
 | `reference/ai_triage_2026-10-10.md` | The AI 911 triage agent |
 | `reference/global-flight-traffic-model.md` (+ `.xlsx`) | The 2:00 a.m. sky calculator |
-| `reference/pc-12 to atl.md` | PC-12 legs to Atlanta |
-| `reference/PC-12-PRO-Brochure.pdf` | Manufacturer brochure; text-layer errors in §4.3 |
+| `reference/pc-12 to atl.md` | Historical CYVO–KATL premise, not the current CYEG–MSP–PDK mission |
+| `reference/2026-11-07_pc12_rescue-mission-ledger_variant-payload-fuel-and-time.md` | PC-12 variants, source conditions, mission clock/load/fuel ledger and unresolved checks |
+| `reference/PC-12-PRO-Brochure.pdf` | Retained manufacturer brochure; printed version errors and current-source correction in §4.3 |
 | `reference/iss-ham-radio-contact.md` | ARISS and ham-link mechanics (ARRL, ariss.org, hamsattracker, onallbands) |
 | `reference/power-grid-shutdown-timelines.md` | Draft 4 grid and nuclear model (NERC, FERC 2003 report, NRC, IEEE 1547, DOE) |
 | `reference/grid_2026-10-10.md`, `reference/grid.kml` | Grid notes and map layer |

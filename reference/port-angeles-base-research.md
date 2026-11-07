@@ -79,6 +79,14 @@ A small nearshore box at the harbor's southeast corner. The canon anchor positio
 - **Distances:** the anchorage ~0.65 nm SSW by boat; Olympic Medical Center ~3–4 mi by road; KCLM ~5 mi west.
 - **Exposure:** a 3-mile sand spit with one road; winter east winds, surge, and erosion. Mount Angeles ~9 nm south at ~7° elevation.
 
+### 3.3 Water, sanitation and cold-chain checks `[VERIFY]`
+
+Author verification, not completed shipboard tests. For the installed reverse-osmosis plant, see `CLAUDE.md` Places (*Active*); its existence is already canon, but model, capacity and current operating condition are not established. Still to establish: usable potable-water inventory, the trusted alongside supply and its quality checks, and the sewage holding/treatment/disposal arrangement. Harbor feedwater and shore water need source-specific checks; dependable power alone does not establish safe water or unlimited production. No contamination or new failure is implied.
+
+Section 9's continuous shore power and freezer log are positive evidence of cooling. The units of “ten below” remain unset; do not silently choose °F or °C. The travelers' cooler model and temperature history also remain unverified, without implying that its contents warmed or spoiled.
+
+Sources and limits: [Water, sanitation and refrigeration research, November 7, 2026](2026-11-07_water-sanitation-and-cold-chain_observations-reserves-and-local-archive.md). Representative Navy guidance is not the fictional cutter's approved manual. Any ship-specific archival or inspection beat belongs after the vessel is identified, not in John's September 5 knowledge.
+
 ---
 
 ## 4. The dead

@@ -203,7 +203,7 @@ Sam grabbed his backpack and went to the garage for the cooler. John met him in 
 
 Sam and John loaded John's Ridgeline and plugged the cooler into the power station. Before they left John went out to the side yard and turned the generator's controller from AUTO to OFF. The engine ran down and stopped, and the house behind him went dark. He locked the front door. They high-fived and were on the road in under forty minutes.
 
-**09:20**
+**08:15**
 
 The wrecks were where they'd been yesterday. The fire on 400 had mostly burned out, and with nothing left to surprise him John could go faster. On 285 yesterday's smoke was gone, so it would be faster to take 285 to Peachtree Industrial. They drove slowly through a black patch in the road where the remnants of an aircraft tail smoldered on the westbound lanes. On the way John brought up the PC-12 that had arrived at the Pilatus dealer on Sunday, brand new. Maybe it was already topped off? Sam agreed they should check it out.
 
@@ -211,7 +211,7 @@ They talked about what they might encounter, the weather, getting fuel at other 
 
 Sam was already firming up the plan on his iPad and adding alternates.
 
-**10:05**
+**09:00**
 
 John pulled around on Aviation Way to the Pilatus hangar. The big doors were shut and the walk-in door beside them was locked. Sam went back to the Epps shop for a pry bar and had it open in under a minute, the frame splitting at the strike plate. Inside it was dark and warm, the only light coming through the translucent panels high in the doors. The airplane sat in the middle of the floor, white with a gray stripe, N612PR on the tail.
 
@@ -223,15 +223,15 @@ They climbed into the cockpit with the headlamps, Sam in the left seat. He looke
 
 Sam read the placard. EMERGENCY AUTOLAND.
 
-"If the pilot stops flying, it notices," John said. "Nobody touches the controls for long enough, it asks once, and then it takes the airplane. Or anybody in a passenger seat lifts the guard and pushes it. It picks the nearest runway long enough for the airplane, flies the approach, lands, brakes to a stop, and shuts down the engine. It needs GPS and a runway in its database. That's all it needs. If something happens to you, I push that."
+"If the pilot stops responding, it can activate itself," John said. "Or anybody in a passenger seat lifts the guard and pushes it. It chooses an airport it can reach with the fuel aboard, with a suitable GPS approach and vertical guidance. Weather and runway length matter, too. It flies the approach, lands, brakes to a stop, and shuts down the engine. If something happens to you, I push that."
 
 Sam took the airplane's flight manual out of the pouch and opened it on his knee. "Give me fifteen minutes with the book." John checked the fuel while Sam skimmed: full tanks, as he'd guessed.
 
-Sam read the manual the way he had at Edmonton, normal procedures front to back, then the limitations, then the emergency procedures. The engine was the same Pratt & Whitney he'd flown out of Edmonton, with the same electronic control behind the power lever. Most of what was new was the panel, and John sat in the right seat with the Garmin pilot's guide from the pouch and answered what Sam asked him. An hour and ten minutes later Sam closed the manual. "All right."
+Sam read the manual the way he had at Edmonton, normal procedures front to back, then the limitations, then the emergency procedures. The engine was the same Pratt & Whitney he'd flown out of Edmonton, with the same electronic control behind the power lever. Most of what was new was the panel, and John sat in the right seat with the Garmin pilot's guide from the pouch and answered what Sam asked him. An hour and ten minutes later Sam closed the manual. "All right. Amarillo for fuel instead of Nashville."
 
 They pulled the hangar doors open. A battery tug sat on its charger in the corner, still near full. Sam towed the airplane out into the sun.
 
-They moved the Jackery out of John's car and up through the cargo door, a two-man lift again, and strapped it to the floor rings forward of the aft bulkhead, the solar panels flat beside it. John's flight bag with the dev box in it went on the floor behind the right seat, where he could reach it. Then the packs, John's bags, the cooler, and the pantry bags with the dog food. Sam did the weight and balance on his iPad from the numbers in the airplane's own manual: two pilots, the cargo, a forty-five-pound dog on the cabin floor, full fuel. It came out inside the envelope with room to spare. He did it a second time anyway.
+They moved the Jackery out of John's car and up through the cargo door, a two-man lift again, and strapped it to the floor rings forward of the aft bulkhead, the solar panels flat beside it. John's flight bag with the dev box in it went on the floor behind the right seat, where he could reach it. Then the packs, John's bags, the cooler, and the pantry bags with the dog food. Sam did the weight and balance on his iPad from the numbers in the airplane's own manual: two pilots, the cargo, a forty-five-pound dog on the cabin floor, full fuel. It came out inside the envelope. He did it a second time anyway.
 
 **10:45**
 

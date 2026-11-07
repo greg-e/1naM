@@ -4,7 +4,7 @@ The day was clear, no clouds and temps in the mid 70s. They climbed to 28,000 fe
 
 "I could get used to your cooking." Sam smiled as he took a bite of the sandwich. 
 
-"I've been thinking about food, with the power grid failure, all we'll have are dry and canned goods. I've never slaughtered a cow or even a chicken for that matter, you?" 
+"I've been thinking about food, with the power grid failure, we might be down to dry and canned goods if we can't keep things cold. I've never slaughtered a cow or even a chicken for that matter, you?" 
 
 "Nope," Sam replied, "I've always enjoyed learning new things and right now I welcome anything that will keep my mind off whatever this is."
 
@@ -20,7 +20,7 @@ John called out the checklist and they flew a regular downwind pattern for runwa
 
 "Amarillo, Pilatus Six One Two Papa Romeo short final 31."
 
-**13:15 local Central Time**
+**13:15 CDT**
 
 They touched down and Sam kept the power up rolling all the way to the end of the runway. The FBO was adjacent to runway 22.
 
@@ -32,7 +32,7 @@ Haven FBO was very nice, typical high end corporate place catering to jet-set CE
 
 They found the keys to the fuel truck and working together got 2PR fueled.
 
-**13:50 local Central Time**
+**13:50 CDT**
 
 No wind, they departed on runway 13 and climbed out south turning west toward Phoenix.
 
@@ -42,13 +42,13 @@ Sam looked at the iPad. "Around 15:00 local time in Phoenix, if we're gonna pull
 
 John thought for a minute. "Catherine seems like all business, should be easy to get her on board, anyway, it must be miserable there without AC, I hope she didn't head out."
 
-**14:50 local Mountain Time**
+**14:50 MST**
 
 They came in from the east with John reading off the addresses from her calls. Sam descended to 800 feet AGL over Tempe and flew up South Rural Road over an apartment complex with the power lever all the way forward, then on across the Salt River to the fire station. Maricopa County hospital was just north of Phoenix Sky Harbor International Airport. He flew just to the south of the tallest building, pulled up and made a slow turn to the south and flew south to north over the hospital, then turned and made a wide arc around the airport, low with the power up, making as much noise as possible.
 
 "That should do it, if she's at any of those she had to hear and see us, I'll make two more circuits and land on runway 25L over by that General Aviation FBO."
 
-**15:15 local Mountain Time**
+**15:15 MST**
 
 They rolled out keeping power to the end of the runway where Cutter Aviation was.
 
@@ -60,7 +60,7 @@ John pulled up the address she'd left on her last call, South Rural Road in Temp
 
 "Give me a hand on the left wing first, I need you on the meter," Sam said. "I want to be rolling by four-thirty."
 
-**15:30 local Mountain Time**
+**15:30 MST**
 
 They finished the left wing and Sam moved the ladder to the right. Cutter's ramp door was unlocked. John took Dan in with him and a few steps inside he caught the smell. The lobby was dark and hot, the air conditioning gone with everything else, and a young man in a company polo sat at the front desk with his head down on his arms. Dan stopped and whined and wouldn't go any closer. John dropped the leash, told him to stay, and went behind the desk, breathing through his mouth.
 
@@ -139,9 +139,9 @@ Sam was coming down the ladder from the right wing when they carried the bags ar
 
 "One twenty-five."
 
-He hefted each of her bags, got the iPad out of the cockpit and added her to the weight and balance from PDK. It came out inside the envelope with a hundred and seventy pounds to spare.
+He hefted each of her bags, got the iPad out of the cockpit and added her to the weight and balance from PDK. It came out inside the envelope.
 
-**16:10 local Mountain Time**
+**16:10 MST**
 
 Catherine took the forward cabin seat and Dan lay down on the floor by her feet. John handed her a headset and showed her where to plug it in. It was well over a hundred in the cabin with the door shut. Sam ran the start with John following on the card, and the air conditioning came on with the engine.
 
@@ -235,11 +235,11 @@ Catherine didn't say anything to that.
 
 They were over Nevada by then. She asked for the transcript again and John passed his phone back, and she read it through.
 
-**20:05 local Pacific Time**
+**20:05 PDT**
 
 Seattle went by off the right wing with no lights in it. The sun was down behind the Olympics and the sky over the ridges had gone orange. Sam started down across Puget Sound and came up the Strait with the dark town of Port Angeles ahead and the long curve of the Hook out in the water.
 
-**20:25 local Pacific Time**
+**20:25 PDT**
 
 William R. Fairchild International was on a bench above the water just west of town. Sam keyed the mic seven times on the airport frequency for the runway lights and nothing came on. "Port Angeles traffic, Pilatus Six One Two Papa Romeo, low pass runway 8." He flew it at two hundred feet with the landing lights on. Half a dozen deer were feeding along the edge of the pavement and two were standing on the centerline. They ran for the trees when he went over.
 
@@ -257,6 +257,6 @@ They drove the sedan down the apron. The side door of the hangar was unlocked. A
 
 A hook by the crew room door held a Toyota key. Behind the hangar he pressed the button on it and the lights blinked on a gray 4Runner. He folded the back seats down and it was long enough for the stretcher. It started on the first try and the gauge read a little over half.
 
-**20:50 local Pacific Time**
+**20:50 PDT**
 
 It was nearly dark when they got the stretcher and the drug box and Catherine's bags loaded. Catherine rode in the back with the gear and Dan, and Sam got up front. John turned on the headlights and drove out the airport gate.
