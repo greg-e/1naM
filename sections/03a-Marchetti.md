@@ -10,15 +10,21 @@ Paolo was at the kitchen table with his coffee and the *Corriere* open on his ta
 
 "Eat something real."
 
-She went out the side door and down the steps to the street. The sun wasn't over the mountains yet, and the old town was still in shadow under Castelgrande. A man was hosing down the paving in front of a bar. The bakery on the corner had its shutter halfway up. She ran down through the town and out to the river, where the path ran north along the embankment, gravel and then asphalt, the Ticino low and green below her at the end of the summer. Forty minutes, five mornings a week, out to the Torretta bridge and back. She had run it for eleven years.
+She went out the side door and down the steps to the street. The sun wasn't over the mountains yet, and the old town was still in shadow under Castelgrande. A man was hosing down the paving in front of a bar. The bakery on the corner had its shutter halfway up. She ran down through the town and out to the river, where the path ran north along the embankment, gravel and then asphalt, the Ticino low and green below her at the end of the summer. Forty minutes, five mornings a week, out to the Torretta bridge and back. She had run it for eleven years, under the morning flights out of Malpensa that came up the valley on their way north over the Alps, high and small, and she had stopped hearing them long ago.
 
 She was on the way back, a kilometer south of the bridge, when the bells of the Collegiata began to strike eight across the town.
 
-On the first stroke she couldn't get a breath. Something sat on her chest, and she stopped and put her hands on her knees and pulled, and the air didn't come. Fifty years old, a long run, the heart. She found the pulse at her wrist with two fingers, out of habit, while she pulled again. It was fast and it was regular. She counted the bell. On the third stroke the weight came off her as if someone had stood up, and the air went in, and she stayed bent over and breathed while the bell went on to eight.
+On the first stroke she couldn't get a breath. Her lungs filled and it did no good. She stopped and put her hands on her knees and breathed as deep and fast as she could, and none of it helped. Fifty years old, a long run, the heart. She found the pulse at her wrist with two fingers, out of habit, still breathing hard. It was fast and it was regular. She counted the bell. On the third stroke it passed, and her next breath was enough, and she stayed bent over and breathed while the bell went on to eight.
 
 When she straightened up, the cyclist who had passed her a minute before was off the path. She had to turn her head to find him, the way she always did on the right side. He was in the grass at the edge of the embankment with his bicycle across his legs, and he hadn't put a hand out. Farther on, a woman who walked a gray dog along here every morning lay on the asphalt with the leash still around her wrist. The dog stood over her.
 
 Then the horns started. They came from across the valley floor, from the motorway and the roads into town, one long blast and then another and then a dozen, and under them a grinding of metal that went on longer than any one collision could. A truck's air horn started and didn't stop.
+
+Under the horns there was a roar she took for the motorway until she understood it was coming from above her. She looked up the valley. One of the Malpensa flights was north of her over the Riviera, in the sun, high over the valley that was still in shadow. They were always still climbing when they passed the town. This one had its nose down. It was a white jet with two engines under the wings, and it was coming down steeply and leaning over to the right, and the noise got louder and higher as she watched. It went down toward the mountains on the east side of the valley, past Claro, and she lost it against the dark slope under Pizzo di Claro.
+
+There was a flash on the mountainside, orange, about halfway up. She started counting. The roar kept coming after the flash, still rising, and at twenty-six it stopped with a single heavy thud that she felt in her chest. Nine kilometers, near enough. Black smoke was already climbing off the slope, and the north wind took the top of it and laid it over down the valley, toward the town.
+
+<!-- [verify: MXP northbound departures routed up the Ticino/Riviera valley over Bellinzona, and their typical altitude there (~FL150–200 assumed); pilot slumping onto yoke/sidestick disconnecting the autopilot (Boeing column-force disconnect / Airbus sidestick takeover); dive time from ~FL170 (~45–60 s, impact ~08:01); impact on the west face of Pizzo di Claro ~9 km from the embankment path, sound delay ~26 s] -->
 
 She went to the cyclist. She lifted the bicycle off him. He was about thirty, in a yellow jacket, with his eyes open and his mouth open. He wasn't breathing. She put two fingers beside his windpipe and found a pulse, slow and faint, and while her fingers were there it stopped.
 
@@ -26,7 +32,7 @@ She hadn't done compressions on anyone since her residency. She knelt and put he
 
 The dog growled at her when she came up to the woman, then let her kneel. The woman was in her sixties, with gray hair cut short. No breath, no pulse, eyes open, the same open mouth. There was nothing to do for her either, and Elise stood up.
 
-The wind came down the valley in the mornings, from the north, the way it had come all her life. The cyclist had been twenty meters upwind of her when he fell. Whatever had reached him had reached her a moment later or at the same moment, and she was standing up. Swallows were working over the water. The dog had sat down beside the woman and was looking at her.
+The morning wind came down the valley from the north. The cyclist had been twenty meters upwind of her when he fell. Whatever had reached him had reached her a moment later or at the same moment, and she was standing up. The airplane had been thousands of meters above any of it. Swallows were working over the water. The dog had sat down beside the woman and was looking at her.
 
 She had her phone in the band on her arm. She called 144, and it rang twelve times, and she hung up and called 112, and it rang. She called Paolo. It rang until his voicemail picked up, and his voice asked her to leave a message.
 
@@ -52,11 +58,11 @@ She couldn't lift him. She straightened his legs and put a cushion from the sofa
 
 She knew what a pathologist should do with a morning like this one. Blood drawn within hours, from as many of them as she could reach, kept cold, before the chemistry of the bodies changed and took the answer with it. The hospital was three kilometers away. She stayed in the house.
 
-She called Matteo every half hour through the day. In the afternoon she called his flatmate, and the flatmate's phone rang out too. She called her sister-in-law in Lugano, and Paolo's office, and the institute's front desk, and the number for the police in Bellinzona. Nothing rang busy. Out in the valley the horns went on, one fewer each time she noticed them.
+She called Matteo every half hour through the day. In the afternoon she called his flatmate, and the flatmate's phone rang out too. She called her sister-in-law in Lugano, and Paolo's office, and the institute's front desk, and the number for the police in Bellinzona. Nothing rang busy. Out in the valley the horns went on, one fewer each time she noticed them. No flights came up the valley.
 
 **19:40**
 
-The streetlights came on over the town at dusk, and the windows in the houses that had left their lights on from the night before. Nothing moved in the street. There were still horns, fewer of them, the batteries going.
+The streetlights came on over the town at dusk, and the windows in the houses that had left their lights on from the night before. Nothing moved in the street. There were still horns, fewer of them, the batteries going. Up the valley, under Pizzo di Claro, the trees were burning in a ragged line across the slope, orange against the dark.
 
 Paolo lay where she had put him under the tablecloth. She sat at the table above him and ate bread and cheese because he had told her to eat something, and then she went upstairs to the small room at the back of the house where her radios were.
 

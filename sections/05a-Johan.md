@@ -8,7 +8,7 @@ Johan was at the chart table with the crew manifest, writing the names into the 
 
 The Inmarsat-C set had printed nothing all day, no gale warning, no ice report. He tore off the paper.
 
-*ALL SHIPS ALL SHIPS ALL SHIPS. THIS IS JOHN HARTMAN, ALPHARETTA, GEORGIA, USA. THIS IS NOT AN OFFICIAL COAST GUARD BROADCAST. SINCE 0600 UTC 05 SEP THERE HAS BEEN NO RESPONSE FROM ANY AIR TRAFFIC CONTROL, COAST GUARD, OR EMERGENCY SERVICE IN NORTH AMERICA. TWO SURVIVORS HERE. IF YOU RECEIVE THIS, CALL +1 404 555 0127 BY SATELLITE PHONE, OR REPLY TO THIS TERMINAL. GIVE YOUR SHIP NAME AND POSITION.*
+*ALL SHIPS ALL SHIPS ALL SHIPS. THIS IS JOHN HARTMAN, ALPHARETTA, GEORGIA, USA. THIS IS NOT AN OFFICIAL COAST GUARD BROADCAST. SINCE 0600 UTC 05 SEP WE HAVE HAD NO HUMAN RESPONSE FROM THE AIR TRAFFIC CONTROL, COAST GUARD, OR EMERGENCY SERVICES WE HAVE TRIED. TWO SURVIVORS HERE. IF YOU RECEIVE THIS, CALL +1 404 555 0127 BY SATELLITE PHONE, OR REPLY TO THIS TERMINAL. GIVE YOUR SHIP NAME AND POSITION.*
 
 He read it standing. Safety messages came from a coordinator with a number, in a format he could have recited, and they did not come from a man with a name. 0600 UTC was the figure he had worked out that morning off the bridge log. He read *TWO SURVIVORS HERE* again and looked out the windows for a while, at the stacks of containers and the gray water past them.
 

@@ -20,9 +20,9 @@ John put blueberries, avocado, beet juice, and spinach in the blender, ran it fo
 
 "Yesterday morning, after finding my neighbors dead and going for a drive and seeing more of the same, I came back home and started gathering data. That's when I found your flight. I broadened the search yesterday afternoon, and last night I started looking at what came back."
 
-John told Sam what he'd found. The DOT camera feeds showed no change in traffic. Ships were holding their courses, and many showed stopped along shorelines, not at ports.
+John told Sam what he'd found in the feeds he'd reviewed. The DOT camera samples hadn't given him another driver to look for. In the AIS records, ships were holding their courses, and many showed stopped along shorelines, not at ports.
 
-"The most striking thing to me is that there are zero aircraft airborne. The last one dropped off ADS-B yesterday at 19:02. There were 9,500 in the air at 02:00 yesterday. The only one that landed was yours."
+"The most striking thing to me is that the feeds still answering showed no aircraft airborne. Last ADS-B reception in that collection was at 19:02 yesterday. The 02:00 snapshot had 9,500 aircraft. The only landings I've identified in the records I checked were yours."
 
 Sam stared at him, his forehead furrowed.
 
@@ -40,7 +40,7 @@ Sam didn't say anything for a second. "Do we need to get out of dodge?"
 
 At a quarter past seven Dan was at the door with his leash in his mouth. "You coming?" John asked. Sam was already reaching for his shoes.
 
-They walked out into first light, Dan pulling at the leash. There was less barking than yesterday, and no sound at all from the Morrisons' house. They turned the corner at the bottom of the street. Dan stopped to examine the stop sign, and John waited and went on with his debrief. "The data shows it happened everywhere, all over the world, within a few minutes. Most of that comes from the aircraft data. I couldn't get very deep on other systems outside the continental United States."
+They walked out into first light, Dan pulling at the leash. There was less barking than yesterday, and no sound at all from the Morrisons' house. They turned the corner at the bottom of the street. Dan stopped to examine the stop sign, and John waited and went on with his debrief. "From the records I've got, it looks like it happened within a few minutes in places all over the world. Most of that comes from the aircraft data. I couldn't get very deep on other systems outside the continental United States."
 
 "Theresa and Ruth were fine at twelve-thirty," Sam said. "At 3:20ish when I came back forward neither of them had made a radio call or sent a message." He walked a few steps. "Whatever it was, they didn't have time."
 
@@ -48,7 +48,7 @@ They got to the subdivision entrance at Old Milton Parkway.
 
 "Any leads on other people?" Sam asked.
 
-"There've been eleven posts on social media since 02:00. I answered all of them. One wrote back, a man in Porto, Portugal. Alone. Haven't heard from him since. Then I thought of the 911 calls. Every call's in a log somewhere, with a callback number and a location. Thousands of county systems. I've had AI agents hacking them and pulling data all night."
+"The search flagged eleven posts from other accounts. I answered them all. One wrote back, a man in Porto, Portugal. Alone. Haven't heard from him since. I asked it to post on my accounts on the drive to PDK, too, hadn't got the confirmations last night. I'd already had it researching the 911 records. Last night I took the safety check off and had it query what it could reach. It found one of my calls, but my gas purchase wasn't in what I'd reviewed."
 
 They walked a while without talking. A dog barked in the house they were walking past, Dan answered it once.
 
@@ -65,9 +65,9 @@ John had already decided for himself at eleven the night before, standing at the
 
 **07:50**
 
-Back at the house they went to the office. A lot of the 911 systems had dropped off overnight. The model put the calls placed after 02:00 at somewhere over four thousand, most of them alarm panels and crash sensors. Once the filters threw out the noise, three were left.
+Back at the house they went to the office. A lot of the 911 systems he'd been querying had stopped answering overnight. The returned records listed somewhere over four thousand calls after 02:00 Tuesday. Most were flagged as alarm panels or crash sensors, kept separate from human-call candidates. In the material reviewed, three new leads had locations they could try.
 
-Someone in Huntsville, Alabama, had called sixteen times. That system kept no transcripts or recordings, just an address, in a neighborhood a few miles northeast of the airport.
+Someone in Huntsville, Alabama, had called sixteen times. The returned material had no audio or transcript, just an address, in a neighborhood a few miles northeast of the airport.
 
 Phoenix, Arizona, had four calls, with a recording and a transcript of each:
 

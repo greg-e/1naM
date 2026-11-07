@@ -47,13 +47,13 @@ The AIS receiver was a gray box the size of a toaster with a label in Della's bl
 
 Each line was a ship telling anyone in range who it was and where it was, in the same ugly six-bit text they had used for twenty-five years. None of it needed Seattle. It was his first live feed since pulling the plug in Alpharetta. He stood in the cold room and watched the terminal scroll.
 
-He spent the next hour between the pier box and the panel on the 02 level with a flashlight, Della telling him over the handheld which patches not to touch. By eleven, the dev box in the wardroom could see the station.
+He spent the next hour between the pier box and the panel on the 02 level with a flashlight, Della telling him over the handheld which patches not to touch. By eleven he was back at the wardroom table, and the dev box could see the station. He leaned toward the laptop's microphone.
 
 "What's on this network?"
 
 **Station network reachable through ship's shore connection. 63 hosts. No route off the station.**
 
-The config file still said *safety_layer: disabled*. He left it.
+What he wanted next was another agency's systems. He checked the model's status line: *pandora: disabled*, as he had left it in Alpharetta. He didn't change it.
 
 "Get me into the tower systems. Radios and AIS. Local control."
 

@@ -1,6 +1,6 @@
 # Survivor Location Probability Matrix
 
-Author's working model for why the Day 0 nationwide 911 search (Section 5) returns **three leads** (Section 6). The characters never see this math and never know the true survivor count. Numbers are tuning knobs, not findings; any change has to land on a sparse yield (writing rule: Scarcity).
+Author's working model for why the returned emergency-call material (Section 5) yields **three actionable leads** (Section 6), within a broader multichannel search. The characters never see this math and never know the true survivor count. Numerical factors and running counts are unvalidated author-tuning assumptions, not measured search performance; preserve the sparse yield (writing rule: Scarcity).
 
 Survival is not explained here or anywhere on the page. See `cause_and_effect_2026-10-10.md` §4 for the hidden-canon reason.
 
@@ -12,32 +12,34 @@ Survival is not explained here or anywhere on the page. See `cause_and_effect_20
 | Georgia | ~11 M | ~11 |
 | Global | ~8 B | ~8,000 at the US rate; higher in reality, since canon puts survivor density above the US rate in Canada, South America, Europe, and Asia `[decide ratios]` |
 
-## 2. Why John searches 911 and nothing else
+## 2. Multiple channels, different limits
 
-Section 5's reasoning, with the alternatives a reader will ask about:
+Sections 2 and 5 already establish a broader search and outreach effort. Emergency calls supply the three morning rescue leads, not the only possible evidence of survivors.
 
-| Source | Why it isn't the search |
+| Source | Current role / limit |
 | --- | --- |
-| Cameras, AIS, ADS-B, beacons | Passive. Shows dead machinery still running; a living person leaves no mark a dead one doesn't. |
-| **Social media** | Worth one line on the page, because readers will ask. With almost no human posting left, a new post *is* clean signal. But platforms dropped precise geotags years ago, so a post proves someone is alive, not where. A handful of posts from nowhere confirms survivors exist (some abroad) and can't be acted on. `[decide: add John's check to Section 5]` |
-| Amateur radio / WebSDR | Internet-connected receivers die with local power and internet. HF voice gives no position without a multi-receiver fix (KiwiSDR TDoA `[verify]`). Ham is the ISS channel's job, and Marchetti is found through the ISS, not by a scan. |
-| ISP traffic monitoring | Would be a second unauthorized intrusion, and a surveillance one, breaking "the safety layer comes off exactly once." John's own Day 0 downloads would be the biggest anomaly in it. Not used. |
-| **911 call logs** | The one action that leaves a durable record **with a location attached**: the carrier's location record rides along with every 911 call. The AI triage agent answered and logged every call. |
+| Cameras, AIS, ADS-B, beacons | Checked for candidate activity. Continued motion does not establish human control; missing reception does not establish death. Results apply to the returned feeds and windows |
+| **Social media** | Existing posts and requested public outreach are part of the search. A timestamp alone does not prove a new human action; a responsive exchange is stronger evidence but may still lack an actionable address. Publication, visibility and replies are separate checks |
+| Amateur radio / WebSDR | No new scan is established in these scenes. Preserve the later ISS/Marchetti discovery channel; do not infer that radio could never locate a person |
+| ISP traffic monitoring | Not an established search channel. A local policy toggle is not credentials or permission; routing visibility does not supply private traffic records |
+| **911 records** | Potentially location-bearing leads. Metadata, audio, transcripts and dispatch history are distinct; their availability, location precision and callbacks are not universal. Della's spoken coordinates remain a valuable source |
+
+John requests posts while driving; their receipts remain unestablished in the evening review. Porto's reply belongs to the discovered photograph's thread, not a confirmed response to those posts. The separate SafetyNET broadcast has no delivery receipt. His recovered call validates one path, not nationwide coverage; the missing QuikTrip control warns against treating a negative search as an empty world.
 
 ## 3. The 911 yield (US)
 
-Each factor cuts the pool. The interception factors are the honest levers.
+These factors tune the fictional yield; they are not researched probabilities or measurements of how many records John reached.
 
 | Step | Factor | Running count | Reasoning |
 | --- | --- | --- | --- |
 | US survivors | | ~350 | Canon |
-| Call 911 on Day 0 | ~0.5 | ~175 | Most who find their dead reach for a phone. Kids, the very old, the injured, people in dead zones, and people who wake late or alone and never find anyone don't. The agent answers, so nobody gives up on a busy signal. |
-| Their PSAP is reached and its logs read before it goes dark | ~0.15 | ~25 | ~5,000+ PSAPs `[verify count]`, each with its own security and a patchwork of CAD vendors and on-prem servers. 36 model instances work them through the night while the Eastern Interconnection drops at ~00:50 and county IT and network links fall behind it. Many counties come back unreadable or empty. |
-| Record usable (human caller, callback number, location, after 02:00) | ~0.5 | ~12 | Filters out alarm-company and car crash-detection autodialers; drops calls with no fix or a cell-sector-only location. |
-| Actionable by morning | | **3** | Callback numbers dead by morning (Huntsville's tower is already down). Repeat calls rank higher (Huntsville 16, Phoenix 4). Single calls with precise coordinates and injury content rank high (Elwha). The rest are stale, unlocatable, or duplicates. Characters see "three leads"; whether a few weaker hits were set aside is `[decide]`. |
+| Call 911 on Day 0 | ~0.5 | ~175 | Author assumption about attempted calls. Kids, the very old, the injured, dead zones and late discovery affect who tries. The fictional automated answerer does not establish that every attempted call connects or is logged. |
+| Record source reached and usable material returned | ~0.15 | ~25 | ~5,000+ PSAPs `[verify count]`; 36 instances query reachable sources overnight. Permissions, retention and returned coverage vary. The house loses utility power at 00:50, not a measured failure time for every source. Inaccessible, partial, unsearched and searched-with-no-match stay separate. |
+| Record usable (human caller, callback number, location, after 02:00) | ~0.5 | ~12 | Separate possible human reports from automated alerts; retain raw and uncertain records. An absent location or conversation limits actionability; it is not proof of no survivor. |
+| Actionable by morning | | **3** | Callback attempts fail; their cause is unverified. Repeated calls (Huntsville 16, Phoenix 4) and a specific location/injury report (Elwha) make different kinds of leads. Characters see three actionable leads from reviewed material. Whether weaker hits were set aside remains `[decide]`; the tuning counts do not establish additional people. |
 
-**Output: three leads, each an address or coordinates, a dead callback number, and a transcript fragment.** Matches Section 6.
+**Output: three actionable leads from the reviewed material.** Huntsville supplies an address and repeated-call count, no returned audio/transcript; Phoenix and Elwha supply conversations and locations. Callback attempts fail, without an established cause. None of this counts everyone alive.
 
 ## 4. What the discarded calls are good for
 
-The autodialer calls the filter throws out (car crash detection, smartwatch fall detection) spike together at 02:00–02:02 EDT nationwide. That's the event's synchronized timestamp, sitting in data John already has. See `cause_and_effect_2026-10-10.md` §5.
+The autodialer records set aside from human-call candidates, but retained in the archive (car crash detection, smartwatch fall detection), spike together at 02:00–02:02 EDT nationwide. That's the event's synchronized timestamp, sitting in data John already has. See `cause_and_effect_2026-10-10.md` §5.

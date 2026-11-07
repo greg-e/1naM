@@ -2,7 +2,7 @@
 
 ### 12:00
 
-An Airbus 350-900 operated by Delta airlines had departed from Atlanta filed destination of Seoul South Korea had landed at Edmonton, Alberta at 05:00am EDT. The other had departed Edmonton at 07:31am, a Pilatus PC-12 with no destination filed and the flight number read **DAL27PDK** and it was squaking **7700**, general emergency. 
+An Airbus A350-900 operated by Delta Air Lines had departed Atlanta, filed for Seoul, South Korea, and landed at Edmonton, Alberta, at 05:00 EDT. A Pilatus PC-12 had departed Edmonton at 07:31, no destination filed, its Flight ID **DAL27PDK**, squawking **7700**, general emergency. 
 
 "Give me full details of **DAL27PDK** PC-12 departed Edmonton at 07:31am." 
 
@@ -18,7 +18,7 @@ He glanced at the time, it was 12:10, that plane had left Minneapolis 40 minutes
 
 The PC-12 was passing through 8,000 feet in a southeast heading. 
 
-"DAL27PDK", John said outloud. He looked back at the A350-900 that landed in Edmonton, it was Delta flight 27. The pieces fell together, a pilot from DAL27 is now flying this PC-12 and the destination is PDK. John knew PDK, it was Peachtree Dekalb Airport, it is where he spent most weekends maintaining or flying his Cessna 182.
+"DAL27PDK," John said out loud. He looked back at the A350-900 that landed in Edmonton, it was Delta flight 27. Maybe a pilot from DAL27 was now flying this PC-12, and PDK was the destination. John knew PDK, it was Peachtree DeKalb Airport, where he spent most weekends maintaining or flying his Cessna 182.
 
 "Nautical miles from Edmonton to PDK?" 
 
@@ -34,7 +34,7 @@ So maybe he stopped in Minneapolis-St. Paul for fuel.
 
 **780nm and 2 h 47 min flighttime at 280 kt.**
 
-"That puts them on the ground between 14:15 and 14:45." John said.
+"If that's where they're headed, that puts them on the ground between 14:15 and 14:45," John said.
 
 He pulled out his notebook and noted next to questions 1 and 3:
 *1. Where else?* **global**
@@ -46,92 +46,120 @@ John was not sure how long it would take to get to PDK, on a regular Saturday it
 
 He grabbed his flight bag and added his laptop and charger to the bag and he grabbed the small power station that had capacity to charge the laptop couple of times, just in case. 
 
-He took Georgia Highway 400 south like he had earlier that day, the fire on the east side had spread to the entire retail shopping center, he could feel the heat as he drove by. He stopped slowing down and looking into the cars he passed. It took him 40 minutes to travel to the interchange with Interstate 285, double the normal time. He took the ramp onto Interstate 285 east, there was a greater mixture of trucks and cars on 285. The trucks definently added to the chaos. Jack-knifed, flipped over... a couple spots, even with fours lanes, it looked like there was no way to pass. Past the bridge at Chamblee-Dunwoody road there was a mass of black smoke billowing up, from what looked like both sides of the interstate. He exited onto Chamblee-Dunwoody and went south, an alternate route to PDK he had used many times when 285 was backed up. As he went he started gathering his thoughts and running scenarios for this new world he woke up to this morning. He talked to the Gemini chat to start making a checklist of things think through.
+He took Georgia Highway 400 south like he had earlier that day, the fire on the east side had spread to the entire retail shopping center, he could feel the heat as he drove by. He stopped slowing down and looking into the cars he passed. It took him 40 minutes to travel to the interchange with Interstate 285, double the normal time. He took the ramp onto Interstate 285 east, there was a greater mixture of trucks and cars on 285. The trucks definitely added to the chaos. Jack-knifed, flipped over... a couple spots, even with four lanes, it looked like there was no way to pass. Past the bridge at Chamblee-Dunwoody road there was a mass of black smoke billowing up, from what looked like both sides of the interstate. He exited onto Chamblee-Dunwoody and went south, an alternate route to PDK he had used many times when 285 was backed up.
 
-"I talk, you write it down. Group it however makes sense. Don't answer anything yet."
+He opened the voice chat on his phone. The phone was only the front end, the model ran on the dev box on his desk at home.
 
-**Ready.**
+"I've written global in my notebook. I don't know that. Mark's in Idaho, he isn't answering, nobody joined the standup, everybody I've seen is dead. But half the world was awake when this happened. Can we check what they're doing? Not just look for crashes, look for normal activity."
 
-He talked for most of the way down Chamblee-Dunwoody, slowing for a box truck across the center line, a minivan up on the curb at the Kroger. He talked about the grid, and the man in the car this morning with the pink fingers, and the Morrisons' dog. He talked about Mark's voicemail. He started on the internet and then went back to the grid because it was the same problem. Gemini didn't interrupt. At the light at Peachtree Industrial, he said, "Read it back."
+**I'll compare independent sources in different regions, including places where it's daytime. News, public posts, live cameras, departures. I'll keep missing coverage separate from no activity.**
 
-**Checklist**
+"And that plane. Maybe it is a Delta pilot. Maybe there's more than one person, maybe they're hurt. I don't even know if PDK means what I think it means."
 
-**Power**
-- The grid is running with nobody at the controls. How long before power goes out?
-- Georgia Power's control center: is anyone there?
-- Nuclear plants, what are the risks when there is no power and no one at the controls?
-- Home generator: propane level, transfer switch on AUTO.
-- Charge everything while the outlets work: laptop, phone, power station.
+He slowed for a box truck across the center line.
 
-**Data**
-- How long does the internet stay up? Data centers on backup generators: hours or days?
-- The flight tracking, AIS, and grid feeds are live only. Snapshot them while they answer.
-- Download maps, FAA charts, manuals.
-- Personal files. Download to local drives.
-- Books. Real how-to from sources he can trust, not whatever a model averaged together: medicine, water treatment, engines, generators, radios, food. Download everything to local storage.
+"Hold on."
 
-**Communications**
-- Satellite internet. How long does it work and what are their dependencies?
-- Satellite phones. Same question
-- Radios. What works with minimal or no infrastructure?
+He eased past the truck, watching the clearance on his side.
 
-**Water and food**
-- Water pressure depends on pumps, and pumps depend on power.
-- Refrigerator and freezer: what goes first.
-- Nobody is restocking anything.
-- Food plan. Eat the perishables first, then cans and dry goods. How many weeks in the pantry? Grocery stores before the coolers warm up.
+"I've got the radios in my 182. I'll try them when I get there. What if somebody needs help? I don't have a first aid kit, I don't have any training."
 
-**Fuel**
-- Gas pumps work as long as the power holds. After that, how do you get it out of the underground tank?
-- Gas cans. Fill them today.
+**We can save medical references. We don't know anyone's condition aboard the PC-12 yet.**
 
-**Hazards**
-- Fires with nobody coming: the shopping center on 400, the smoke on 285.
-- Stoves and gas lines left on.
-- Dogs shut in houses with no one to let them out. The Morrisons'.
-- The dead. Disease risk? How long before it matters? Gloves.
+"I'm not stopping for supplies. I want to meet whoever's on that plane, then come home and go through what you've found. But finding people, that's first."
 
-**Cause**
-- No departures anywhere after 1:59. Did it happen at the same minute everywhere? Find other timestamps.
-- People only. Dan is fine. The dogs are fine.
-- The pink fingers on the man in the car. Does that explain anything?
-- Is it still here? Air, water?
-- Contagious? He touched Harry, the clerk, the firemen.
+He started to ask about the internet, then stopped.
 
-**People**
-- The DAL27 pilot. Who are they? Could they be dangerous?
-- Mark. Keep calling.
-- How does a survivor show up? Only by doing something a system records: a call, a post, a departure.
-- 911 calls. The AI agent answered and logged every one. Who has access to those logs? Not him. That means getting into county dispatch systems without authorization.
-- Social media posts since 2:00.
-- DOT cameras. Anything moving on a road after 2:00 is someone driving.
-- Flock cameras. 
-- What else logs people without his access? Card transactions: the QuickTrip pump took his card this morning, so somebody's server recorded it. Cell carriers: phones moving between towers. Smart meters, doorbell cameras.
+"Power. We need to know where the power's going first. If we spend all afternoon searching one place and another goes dark, we've lost whatever was there. Can we map that? The US, Canada, Mexico, farther out wherever we've got access. Power, data centers, internet connections, cellular, all of it."
 
-"Develop plans to systematically research and pull any data from my checklist.  Spin up multiple agents to start deep dives for each major subject."
+**Power and reachability need separate layers. A source can stop answering while the grid is still up.**
 
-The phone was only the front end. The agents would run on the dev box on his desk at home.
+"Right, and a network route doesn't mean the thing at the other end works. Three layers, power, network, actual source. Last response, whether it keeps history, how long before that gets overwritten. Anything that's starting to fail and hasn't got an archive goes first."
 
-**8 agents. Writing to dev box internal storage. Copy to external drive on completion.**
+**I'll track those separately. Exact blackout times may not be available.**
 
-| Agent | Subject | Sources | Output | Status |
-|---|---|---|---|---|
-| 1 | Capture | All live feeds you're authorized for: ADS-B, AIS, DOT cameras, EIA grid, distress beacons | Snapshot every feed hourly, backfilled to 02:00 where history exists | Running. First pass ~20 min |
-| 2 | Power | EIA plant and balancing-authority data, NRC event reports, DHS infrastructure datasets | Plant-by-plant status; time to failure by region; Vogtle and Hatch backup power | Running |
-| 3 | Data | Internet routing tables, cloud provider status pages | Estimate how long networks and data centers stay up | Running |
-| 4 | Library | FAA charts and supplements, OpenStreetMap North America, Army field manuals, EPA and CDC water and sanitation guides, *Where There Is No Doctor*, equipment manuals | Offline copies. Print list for paper | Running. ~40 GB |
-| 5 | Communications | Satellite operator status pages, gateway locations, FCC license records | Which satellite internet and phone systems are still up, and what their ground stations run on | Running |
-| 6 | Food and water | Metro Atlanta water utility data, USDA food storage guidance | Days of water pressure; what spoils first; food plan for one adult and a dog | Running |
-| 7 | Cause | Beacon logs, ADS-B, AIS, grid frequency records | Timeline of every recorded stop after 01:55 EDT, worldwide | Running |
-| 8 | People | Public social media, DOT cameras, ADS-B and AIS departures after 02:00 | Any sign of a person acting after 02:00, with time and location | Running |
+"I want priorities, not a countdown. You've got our connections to FEMA, FAA, DOT, Coast Guard, NOAA, Homeland Security. Inventory what those actually give us, don't assume we've got every system in an agency."
 
-**6 tasks declined: county 911 dispatch records, Flock cameras, card transaction records, cell carrier tower records, smart meter data, doorbell cameras. Not authorized.**
+**I'll test the available feeds and mark the gaps.**
 
-John had helped build that refusal. 
+"Don't wait for the map, though. Save the raw data now, while it answers. Pull the history where there is any, keep taking snapshots every hour, copy it to the external drive. Keep searching other places too, I don't want everything focused on the first outage."
 
-"Understood," he said. "Run what you can."
+**What time should the search start?**
 
-**Running.**
- 
+"Two a.m. Eastern Daylight Time. Except for the PC-12, the last takeoff I found was 1:59. I woke at 2:05 with a thud, I think it was that gas truck I passed on 400. I don't know. Use two for now, keep the observations separate. Save some before it where there's history, so we've got something to compare."
+
+"I called 911," he said. "That's the first thing I did. Other people would do that."
+
+**What answered?**
+
+"An AI. Dispatchers were busy, it wouldn't give me a person. I called twice, same thing. It said it logged the call, no number, nothing I could look up."
+
+**Busy could be a fallback response. We don't know where the information went.**
+
+"Find out. Start around here, then across the country. Which dispatch centers, which vendors, where they store the calls, what access we'd need. We'll cross the authorization bridge when we get to it. Don't try to get into restricted systems now."
+
+**I'll start with public incident feeds and documented systems. Inaccessible records won't count as an empty search. Your calls can test whether a source covers you.**
+
+"FEMA dropped the call, FAA gave me a recording, Coast Guard just rang. None of that was a person. But I did buy gas. QuikTrip, a couple blocks off Exit 8 on 400. About nine, nine-thirty, my card worked."
+
+**That's another known action to test against if we can reach the records. A purchase at a pump is different from an automatic payment.**
+
+"So don't find ten thousand autopays and call them people. But don't throw out the purchases either. And cameras, DOT, Flock, I must have driven past some. Find out what they retain. If a search misses me, I want to know why."
+
+**Motion alone won't identify a person. Vehicles, animals, fire, wind, we'll have to separate them. Carrier records, plate readers, smart meters and doorbell cameras need their own coverage and access checks too.**
+
+"A meter doesn't tell us if somebody's home. My refrigerator would be running whether I was alive or not."
+
+He passed the minivan up on the curb at the Kroger.
+
+"Nobody would find me in the posts. I haven't posted anything. Put something on my accounts, Facebook, Instagram, wherever we're connected. Do it now, don't wait for the plane."
+
+The model read the message back.
+
+**I'm alive in the Atlanta, Georgia, area and looking for anyone else who is alive. If you see this, reply with your city, country, and current local date and time. Even if you see this later, please reply. I'm here.**
+
+"Yes, use that. No home address, nothing about the aircraft. Keep the replies at home, with the time and where they came from. And check the posts went through. A failed post isn't everybody ignoring me."
+
+**I'll record what each platform confirms, check public visibility where available, and keep failed or unverified attempts separate.**
+
+"My house has the whole-house generator and Starlink, so I'm not too worried about that. Not yet, anyway. But what else do I need to prepare for while you're looking?"
+
+**What food and water do you have?**
+
+"I went shopping this weekend. Freezer full of meat, fresh vegetables, dry stuff in the pantry. Just bought Dan's food. Neither of us takes medication. A couple cases of bottled water, and the taps work. City or county water, not a well."
+
+**Your generator won't run the utility's pumps or treatment plant. I'll check the supplier, storage and treatment information, and what can be verified about service. Do you have containers to fill?**
+
+"No containers, I don't even have a tub. There's a lake nearby, a river. But I don't know if I'm staying. What happens to the nuclear plants?"
+
+**Shutdown doesn't stop the fuel producing heat. Cooling still matters, including spent fuel. Offsite power, backup generators, batteries, water and passive systems differ by plant.**
+
+"Then I want a full assessment, not one timetable for all of them. The plants that could affect the house, or somewhere else I might go. What's actually shut down, what's still got power, what happens if nobody comes back."
+
+**I'll separate observed status from unattended scenarios, plant by plant. Cooling requirements, backup fuel and water, passive systems, spent fuel storage. Wind and rain matter if there's a release, not just distance.**
+
+"I don't know what I'm going to do yet. I'm overwhelmed."
+
+**I'll leave the location decision open.**
+
+"What else could change over the next few days? I've been around the bodies, I touched Harry, the clerk, the firemen. I don't know if it's a disease or if whatever did it is still here. The man in the car had pink fingers. Dan's fine, all those dogs are fine. Save that, don't make it a cause yet."
+
+**The cause and any continuing exposure are unknown. Avoid unnecessary contact with bodies and fluids. Bodies alone don't establish an epidemic. I'll include that in the medical research, without assuming a diagnosis.**
+
+"And fires. The nearest one to the house is five or six miles off, I don't think it's a problem."
+
+**We'll check wind, spread and the return route. Other hazards include gas leaks, fuel spills, downed lines and unattended machinery. Power loss affects water, refrigeration, communications and pumps at gas stations. Confined or loose animals need attention too. Industrial sites need separate checks.**
+
+"The Morrisons' dog is still shut in. Put the home preparations in the notes, what I need to do myself. Generator fuel, food, charging things, water when we've worked out how. And save the references, maps, FAA charts, medical, water treatment, equipment manuals. Actual books from people who know, not just your answers. My files and photos too."
+
+At the light at Peachtree Industrial, John said, "Read back what you're going to do."
+
+**Search for people and normal activity across independent sources. Archive accessible raw records now, with hourly snapshots and available history. Track power, network access and source reachability to prioritize what may be lost. Research emergency-call and other records, including permissions; use your calls and gas purchase as checks. Attempt the public posts and preserve replies and posting status. Assess utilities, other hazards and nuclear plants, and save trusted references offline. Keep sources, cutoffs, failures and unknowns with the results.**
+
+"Break the research up, run it on the dev box. Keep the notes and results there, copies on the external drive. I want to review it when I get home, including anything you couldn't reach. Don't tell me a handoff worked unless the local system acknowledges it."
+
+**Understood.**
+
+"Get to work."
 
 

@@ -166,11 +166,11 @@ The staff break room had a microwave plugged into a red outlet and a cupboard wi
 
 Della told it flat and in order. She was a civilian mechanic at the air station on the Hook, diesels and electrical, and she had stayed late on a generator. She was westbound on 101, a little before eleven.
 
-"Right before he came over the line I couldn't get a breath. Like somebody sat on my chest. I thought I was having a heart attack at thirty-two. Then his lights were in my lane."
+"Right before he came over the line I couldn't get a breath. I was pulling in all the air I could and it didn't do anything. Then his lights were in my lane."
 
 Catherine stopped with her sandwich in her hand.
 
-"I figured it was panic," Della said. "It wasn't the ribs. The ribs are a knife. That was a weight, and then it was gone."
+"I figured it was panic," Della said. "It wasn't the ribs. The ribs are a knife. That didn't hurt. I just couldn't get anything out of the air, and then it was gone."
 
 She came to with the airbag in her lap and her foot turned wrong under the pedals. The pickup's engine was still running and the man in it didn't answer. She dragged the emergency bag out from behind the seat, called 911 from the asphalt, and read it her coordinates off her map app. Then she went down the bank to the water on her backside with the bag dragging behind her. Down there she got the boot off and pulled the foot back straight because it was going gray, and she cut the splints with her pocketknife. The poncho liner had come out of the Army with her. She heard no cars and no airplanes until theirs.
 
