@@ -22,7 +22,7 @@ To the north, a hundred yards away, a car sat nose-down in the drainage ditch wi
 
 A man about forty sat nearly upright, held there by the shoulder belt, his eyes open, his foot still pressing the gas pedal. Behind John, Dan's ears went flat and a thin whine started in his chest.
 
-John reached across the man's knees, found the start button, and shut the engine off. The resulting silence was heavy. He checked for a pulse on the man's neck. The skin was cool, almost cold. No heartbeat. This had happened hours ago, not minutes. The man's left hand hung down beside the seat, the fingers a flushed pink, like a man come in out of the cold. Not what John expected.
+John reached across the man's knees, found the start button, and shut the engine off. The rear wheels spun down, and then he could hear Dan whining behind him. He checked for a pulse on the man's neck. The skin was cool, almost cold. No heartbeat. This had happened hours ago, not minutes. The man's left hand hung down beside the seat, the fingers a flushed pink, like a man come in out of the cold. Not what John expected.
 
 He backed away from the car and called 911 with Dan pressed against his leg.
 

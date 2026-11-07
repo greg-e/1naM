@@ -8,7 +8,7 @@ The Cessna 182 was just as he had left it on Sunday.  Dan jumped up and sat in t
 
 He dialed the Tower frequency and keyed the mic. "Peachtree Tower, anybody on this frequency?" Nothing. He dialed Approach. "Atlanta Approach, anybody?" Nothing. He dialed Center. "Atlanta Center, anybody?" Nothing. He went back to Approach, figured that was who a pilot coming into Atlanta would call.
 
-Then he waited, Dan lying on the seat next to him. He opened FlightAware on his phone and pulled up DAL27PDK. It was past Chattanooga, coming down out of 20,000 feet. His doubts caught up with him while he watched it. Maybe whoever was flying it wasn't listening to anything. Maybe it wasn't coming here at all, and PDK on the flight ID meant something else. Maybe whatever had killed everyone else had just taken longer with whoever that was, and John was about to watch it fly into the ground.
+Then he waited, Dan lying on the seat next to him. He opened FlightAware on his phone and pulled up DAL27PDK. It was past Chattanooga, coming down out of 20,000 feet. Maybe whoever was flying it wasn't listening to anything. Maybe it wasn't coming here at all, and PDK on the flight ID meant something else. Maybe whatever had killed everyone else had just taken longer with whoever that was, and John was about to watch it fly into the ground.
 
 There was one frequency every airplane listened to.
 
@@ -28,7 +28,7 @@ Twenty miles northwest of the field, Sam had Atlanta Approach on one radio and 1
 
 "Any station, Pilatus Charlie Golf Kilo Papa X-ray, transmitting in the blind. Twenty miles northwest of Atlanta, descending through eight thousand, landing DeKalb-Peachtree."
 
-Then a voice in his headset, on 121.5. A man, unsteady. "Kilo Papa X-ray, this is — this is Cesnna Four Six Five Hotel, on the ground at PDK. I can hear you."
+Then a voice in his headset, on 121.5. A man, unsteady. "Kilo Papa X-ray, this is — this is Cessna Four Six Five Hotel, on the ground at PDK. I can hear you."
 
 For a second Sam's voice wouldn't work at all. "Say again," he finally got out, rougher than he'd sounded once in ten hours of talking to dead air. "Say again. Who is this?"
 
