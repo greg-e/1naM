@@ -1,146 +1,130 @@
 ---
 name: zinsser
-description: Draft, revise, or audit 1 in a Million prose using William Zinsser's principles from On Writing Well (simplicity, cutting clutter, strong verbs, unity, leads and endings, rewriting), adapted for this novel's close-third POV, operational realism, and the author's plain voice. Use when writing a new scene in sections/, tightening or line-editing an existing passage, or when the author asks for a "Zinsser pass," a clutter check, or whether a passage reads clean.
+description: Draft, revise, or audit writing in the 1 in a Million repo using William Zinsser's principles from On Writing Well (simplicity, cutting clutter, strong verbs, unity, leads and endings, rewriting) plus AI-slop removal, adapted for this novel's close-third POV, operational realism, and the author's plain voice. Covers the novel's prose in sections/ and the repo's non-fiction (CLAUDE.md, reference docs, notes). Use when writing a new scene, tightening or line-editing a passage, or when the author asks for a "Zinsser pass," a clutter check, to "deslop," "clean up the writing," "remove AI slop," or whether a passage reads clean.
 ---
 
 # Zinsser pass for *1 in a Million*
 
-William Zinsser wrote *On Writing Well* for nonfiction, but its core is the same as this book's: say the true thing in the fewest plain words, and trust the reader. This skill turns his principles into working passes for the novel. It sits **under** CLAUDE.md: canon, POV rules, the operational-realism rules, the teaser-line ban, and the author's memories (no mannered flourishes, POV observes only, model voice facts only) all win if anything here seems to pull the other way. Most of the time they agree.
+William Zinsser wrote *On Writing Well* for nonfiction, but its core is the same as this book's: say the true thing in the fewest plain words, and trust the reader. This skill turns his principles into working passes for the novel. It sits **under** CLAUDE.md: canon, POV rules, the operational-realism rules, and the teaser-line ban all win if anything here seems to pull the other way. Most of the time they agree.
+
+This is the repo's only line-editing skill. It covers the novel's prose and, through the non-fiction section at the end, CLAUDE.md, the `reference/` docs, and notes.
 
 ## Voice
 
-**Be yourself, and here "yourself" is the author.** Zinsser's chapter on style says the writer's voice is the product; don't put on airs. In this book the voice is Greg's: plain, conversational, Southern-practical, commas and run-on rhythm, simple words, almost no crafted metaphor ("a silence that was eerie and a bit spooky," "well it wasn't exactly smooth, but it was efficient"). A Zinsser pass makes that voice clearer. It never replaces it with a polished literary register, and it never makes every sentence short and clipped. Clipped is its own affectation, and it's the one CLAUDE.md bans as teaser fragments.
+**Be yourself, and here "yourself" is the author.** Zinsser's chapter on style says the writer's voice is the product; don't put on airs. The author's voice is:
 
-When in doubt, cut a word rather than add a phrase.
+- **Plain words.** The common word over the impressive one.
+- **Conversational.** It reads like someone telling you what happened, with contractions.
+- **Comma rhythm.** Sentences often run on through commas rather than stopping; that's the rhythm, not an error to convert to periods.
+- **Dry humor, small and occasional,** usually in John's or Sam's observation of a dog, a habit, or an absurd machine still working.
+- **Almost no crafted metaphor.** Things are what they are.
+- **Not clipped.** A run of short, verbless sentences is its own affectation, and it's the one CLAUDE.md bans as teaser fragments.
+
+A Zinsser pass makes that voice clearer. It never replaces it with a polished literary register. When in doubt, cut a word rather than add a phrase.
+
+## Three standing rules
+
+These hold in every mode and every pass.
+
+1. **No mannered flourishes.** No crafted closers, no lyrical turns, no sentence built to be admired ("a silence he did not yet know the size of"). If a line draws attention to its writing, rewrite it plain.
+2. **POV observes only.** Narration reports what the POV character perceives and knows: what they see, hear, read off a screen or instrument, or work out. Never what the reader knows from another thread, never another character's unspoken thoughts, never an omniscient summary of the larger plot.
+3. **Model voice is facts only.** When John's model or agents speak (tables, status lines, query results), they give terse data: counts, times, positions, "Unknown." No inference, no reassurance, no explanation of what the data means. Interpretation belongs to the human reading it.
 
 ## Modes
 
 Pick the mode from the request:
 
-- **Draft**: writing a new scene. Before writing, settle the POV logic and the layout privately: whose scene it is, what that character can see, hear, read off an instrument, or work out, and where everyone and everything sits in the space. Apply the principles as you write, run the passes once over the result, then hand over the finished prose without notes on your process.
-- **Revise**: the author asks you to tighten or fix a passage. Edit in place, keep changes small and local, preserve sentence order and dialogue unless asked. After editing, list the kinds of change you made in two or three lines, not a line-by-line essay.
-- **Audit**: the author asks what's wrong, or asks for a check without edits. Don't touch the file. Report findings as `file:line`, the quoted phrase, the principle, and a suggested fix, most important first. Cap it at the ten that matter most unless asked for all.
+- **Draft**: writing a new scene. Before writing, settle the POV logic and the layout privately: whose scene it is, what that character can see, hear, read off an instrument, or work out, and where everyone and everything sits in the space. Apply the principles as you write, run the three reads once over the result, then hand over the finished prose without notes on your process.
+- **Revise**: the author asks you to tighten or fix a passage. Edit the file in place, keep changes small and local, preserve sentence order and dialogue unless asked. After editing, list the kinds of change you made in two or three lines, not a line-by-line essay; git and the editor's diff show the rest.
+- **Audit**: the author asks what's wrong, or asks for a check without edits. Don't touch the file. Report the ten findings that matter most, each as `file:line`, the quoted phrase, the principle, and a suggested fix, most important first. Then one line of totals for everything else by category (e.g. "Also: 23 qualifiers, 4 adverbial tags, 2 *there was*"). Give the full list only if asked.
 
 For the author's own passages, default to the lightest touch that fixes the problem. Rewriting a paragraph the author wrote needs a reason you can name.
 
-## The passes
+## The three reads
 
-Run them in this order. Each is a separate read; trying to do all of them at once is how things get missed.
+Do them in this order, as three separate reads. The scene read comes first because a sentence-level fix is wasted on a beat that's going to change.
 
-### 1. Clarity: does the reader know what happened?
+### Read 1: the scene
 
-Zinsser: clear thinking becomes clear writing. Before touching words, read the scene and answer, for each beat: who is doing what, where, and what the POV character sees or knows. If you can't answer, the problem is the thinking, not the sentence. Fix the beat (or flag it), then go on.
+Read the whole scene once for structure, not sentences.
 
-Common failures here:
+**Clarity.** Zinsser: clear thinking becomes clear writing. For each beat, answer: who is doing what, where, and what the POV character sees or knows. If you can't answer, the problem is the thinking, not the sentence. Fix the beat (or flag it), then go on. Common failures:
 - A pronoun with two possible owners ("he" with John and Sam both in the frame).
 - A time jump the reader can't place. The `### 07:15` headers do much of this work; prose shouldn't repeat them ("He checked his watch: 7:25" under a `### 7:25` header says it twice).
 - An object that appears without being set up (the reader meets the FBO's crew car before anyone said there was one).
 
-### 2. Clutter
-
-"Clutter is the disease of American writing." Strip every word that does no work. Targets:
-
-- **Little qualifiers**: *a bit, a little, sort of, kind of, rather, quite, very, pretty, somewhat, really, just, actually, almost, seemed to, began to, started to, managed to.* Keep one only when it's the true measurement ("almost cold" is a real reading of skin; "very quiet" isn't).
-- **Doubled words**: two adjectives or two verbs saying the same thing ("eerie and a bit spooky," "jackknifed... and folded"). Keep the more exact one, unless the pair is the author's rhythm and both carry weight.
-- **Inflated phrases**: *the resulting X, at this point in time, in order to, the fact that, due to the fact, for the purpose of, was able to, made his way to, proceeded to, in the direction of.* Replace with the plain word.
-- **Redundant pairs**: *nod his head, shrug his shoulders, stood up to his feet, back and forth* (often fine in the author's voice; check), *sat down in the seat, continued on.*
-- **AI lexicon**: *tapestry, delve, testament, robust, synergy, palpable, nuanced, symphony,* and their cousins. None belongs in this book's prose; replace with the plain word or the concrete thing.
-- **Told-after-shown**: a line that names the feeling the previous action already showed. "He backed away from the car and called 911 with Dan pressed against his leg" needs no "He was shaken."
-- **Pre-stated payoffs**: CLAUDE.md's teaser rule. "His doubts caught up with him while he watched it" followed by three sentences of doubts: the doubts do the work, so the announcing line can usually go.
-
-### 3. Words: verbs carry the scene
-
-Zinsser: verbs are the most important tool; use active verbs, and use the exact one.
-
-- Prefer the active voice. Passive is right when the actor is unknown or beside the point ("the tower frequency had been left on Approach") and wrong when it hides who did something the POV character watched.
-- Replace *was/were + -ing* and *there was/there were* when a direct verb is available ("there was only one other car parked in the lot" → "one other car sat in the lot"). Don't force it: "There was only one frequency every airplane was supposed to be listening to" is a deliberate setup line; leave it.
-- **Adverbs**: most are clutter, because a better verb holds the meaning. CLAUDE.md's audit words (*quickly, suddenly, dangerously, massively, intensely*) get replaced with a measurement, a reading, or a procedural step. The exception is an adverb doing comic or character work. "Dan's tail was swinging back and forth dangerously" is a joke in John's voice; keep it.
-- **Adjectives**: use them only when they add a fact. "A flushed pink" is a clinical clue; keep. "Overwhelming silence" is a feeling dressed as a fact; cut or replace with what John hears, or doesn't.
-- **Concept nouns and creeping nounism**: "the quietness made him curious" → what was quiet, and what did he do about it. Name the thing.
-- **Stock phrases and clichés**: *a chill ran up his spine, his heart sank, time stood still, an eerie silence, a deafening silence, the calm before the storm.* Replace with the specific observation, or cut.
-
-### 4. Usage and mechanics
-
-- Fix typos and agreement on every pass: the drafts carry ones like *exatly, ubiquitious, put put, Cesnna, driveway's, Are you safe where are?, breathing?.* Correct them silently in Revise mode; list them in Audit mode.
-- **Contractions**: use them in narration and dialogue, as the author does. "He didn't" not "he did not," except where a character is formal by habit (Johan's careful English, Marchetti).
-- **Punctuation**: the period is the default. Commas carry the author's rhythm; don't convert them all to periods. Semicolons sparingly. Dashes for interruptions in dialogue (a pilot breaking off mid-call). Exclamation points almost never; let the event do it.
-- **Mood changers**: start a sentence with *But* when the turn needs it; Zinsser prefers it to *However*. Use *Still*, *Then*, *Instead* the same way, plainly.
-- **That / which**: *that* for restrictive clauses, *which* (with a comma) for the rest.
-- **Units**: plain text per CLAUDE.md ("121.5," "FL280," "120 lbs/hr").
-
-### 5. Unity
-
-Zinsser asks for one pronoun, one tense, one mood, one attitude, held for the whole piece. For this book:
-
-- **One POV per scene file**, close third. Narration reports what that character perceives and knows (CLAUDE.md's POV rules and the *POV observes only* memory). A head-hop is a unity break. So is explaining a non-POV character's thoughts, motives, or unseen actions, and so is an omniscient summary of the larger plot: the big picture reaches the reader only through what the POV character sees, hears, reads off a screen or instrument, or works out.
+**Unity.** Zinsser asks for one pronoun, one tense, one mood, one attitude, held for the whole piece. For this book:
+- **One POV per scene file**, close third (standing rule 2). A head-hop is a unity break.
 - **One tense**: past. Watch drafts that slide into present during tension.
 - **One register per POV**: John thinks in systems and data flows and is dry; Sam in procedure and command; Johan in seamanship and spare German-English; Kendra in consumables and checklists; Marchetti in measured clinical terms. A line in John's scene that sounds like Sam's is a unity break.
-- **One attitude**: the book is plain and grave, with small dry humor. Don't swing into lyricism for a grief beat or into thriller voice for an action beat.
+- **One attitude**: plain and grave, with small dry humor. Don't swing into lyricism for a grief beat or into thriller voice for an action beat.
 
-### 6. Leads and endings
+**Leads and endings.**
+- **The lead** does the most work in the fewest words: a concrete action or observation that puts the reader in place and time. Don't open with weather-as-mood, a summary of what's about to happen, or a backstory block.
+- **The ending**: stop when you're done. End on the last concrete beat that matters. No reflective closing line, no mannered closer, no sentence that tells the reader what the scene meant. If the last paragraph explains the one before it, cut the last paragraph.
 
-- **The lead** of a scene does the most work in the fewest words: a concrete action or observation that puts the reader in place and time ("A thud woke him."). Don't open with weather-as-mood, a summary of what's about to happen, or a backstory block.
-- **The ending**: Zinsser's advice is to stop when you're done. End a scene on the last concrete beat that matters. Don't add a reflective closing line, a mannered closer ("a silence he did not yet know the size of"), or a sentence that tells the reader what the scene meant. If the last paragraph explains the one before it, cut the last paragraph.
+**Place and people.**
+- **Place**: pick the few details only this place has, the ones the POV character would actually notice. One chosen detail beats a catalog. No travel-brochure words (*nestled, sprawling, quaint, bustling*).
+- **Technical material** (Zinsser's chapter on science writing): lead the reader one step at a time from what they know to what they don't, per CLAUDE.md's jargon rule. Never stack two unexplained plot-bearing terms in one sentence. Exact nomenclature, in short active sentences.
+- **People**: let them talk. Keep the lines that sound like that person; cut the ones that only carry information the reader already has. Characters under stress talk short, in the shorthand of their trade; no conversation is an expository monologue in disguise.
 
-### 7. Sense of place, and people
+### Read 2: the lines
 
-- **Place**: pick the few details that only this place has, the ones the POV character would actually notice. The QuickTrip's cleaning robot, Rosa's bike against the garage, the Waffle House's last order burned black. One chosen detail beats a catalog. Avoid travel-brochure words (*nestled, sprawling, quaint, bustling*).
-- **Technical material** (Zinsser's chapter on science writing): lead the reader one step at a time from what they know to what they don't, which is CLAUDE.md's jargon rule. Function before name; explain once, through a character who knows telling one who doesn't. Never stack two unexplained plot-bearing terms in one sentence. Use the exact nomenclature for aviation, maritime, military, and medical procedure, but put it in short active sentences.
-- **People**: let them talk. Zinsser's advice on quotation fits dialogue: keep the lines that sound like that person, cut the ones that only carry information the reader already has. Characters under stress talk short, in the shorthand of their trade; nobody delivers a paragraph of exposition on the radio, and no conversation is an expository monologue in disguise.
+Now go sentence by sentence.
 
-**Dialogue mechanics:**
-- **No adverbial tags.** Cut *said angrily, replied softly, asked quietly*. The line and the action around it carry the tone.
-- **Action beats over tags** when a beat anchors the speaker in the place: hands on the power lever, a pen on the notebook, Dan's leash. "Said" is invisible and stays fine where a beat would be filler; don't hang a gesture on every line.
-- **The reader always knows who is speaking.** When it isn't clear from the alternation, put a beat or a tag before or right at the line, so the reader knows the speaker by the time the words land. A run of untagged lines between two people is fine as long as nobody has to count back.
+**Clutter.** "Clutter is the disease of American writing." Strip every word that does no work:
+- **Little qualifiers**: *a bit, a little, sort of, kind of, rather, quite, very, pretty, somewhat, really, just, actually, almost, seemed to, began to, started to, managed to.* Keep one only when it's a true measurement ("almost cold" is a real reading of skin; "very quiet" isn't).
+- **Doubled words**: two adjectives or two verbs saying the same thing. Keep the more exact one, unless the pair is the author's rhythm and both carry weight.
+- **Inflated phrases**: *the resulting X, at this point in time, in order to, the fact that, due to the fact, for the purpose of, was able to, made his way to, proceeded to, in the direction of.* Replace with the plain word.
+- **Redundant pairs**: *nod his head, shrug his shoulders, stood up to his feet, sat down in the seat, continued on.*
+- **AI lexicon**: *tapestry, delve, testament, robust, synergy, palpable, nuanced, symphony, seamlessly, leverage, unlock, transformative, elevate,* and their cousins. Replace with the plain word or the concrete thing. Also cut the "from X to Y" sweep ("from the cockpit to the cabin, everyone...").
+- **Told-after-shown**: a line that names the feeling the previous action already showed. "He backed away from the car and called 911 with Dan pressed against his leg" needs no "He was shaken."
+- **Pre-stated payoffs**: CLAUDE.md's teaser rule. A line that announces what the next sentences show ("His doubts caught up with him" before three sentences of doubts) can usually go.
+- **Repetitive openers**: a run of sentences that all start with a gerund ("Checking the gauge, he...") or a prepositional phrase ("In the cockpit... At the panel... On the ramp..."). Vary them, usually by starting with the subject.
+- **Formulaic shape**: setup, three neat points, a balanced conclusion, a polite closing line. Real scenes and real paragraphs don't fall into threes on schedule; break the pattern.
 
-### 8. Rewriting: read it aloud
+**Verbs and modifiers.** Zinsser: verbs are the most important tool; use active verbs, and use the exact one.
+- Prefer the active voice. Passive is right when the actor is unknown or beside the point, wrong when it hides who did something the POV character watched.
+- Replace *was/were + -ing* and *there was/there were* when a direct verb is available ("there was only one other car in the lot" → "one other car sat in the lot"). Don't force it; a deliberate setup line can keep its *there was*.
+- **Adverbs**: most are clutter. CLAUDE.md's audit words (*quickly, suddenly, dangerously, massively, intensely*) get replaced with a measurement, a reading, or a procedural step. The exception is an adverb doing comic or character work in the POV's voice; keep it.
+- **Adjectives**: only when they add a fact. "A flushed pink" is a clinical clue; keep. "Overwhelming silence" is a feeling dressed as a fact; replace it with what the character hears, or doesn't.
+- **Concept nouns**: "the quietness made him curious" → what was quiet, and what did he do about it. Name the thing.
+- **Stock phrases**: *a chill ran up his spine, his heart sank, time stood still, an eerie silence, a deafening silence, the calm before the storm.* Replace with the specific observation, or cut.
 
-Zinsser: rewriting is the essence of writing. The last pass is reading the passage at speaking pace, in your head or aloud. Mark every place you stumble, lose the subject, or run out of breath, and fix only those. Then stop. A passage that has been tightened three times starts losing the author's voice; the goal is the author's sentences, cleaner, not new sentences.
+**Usage and mechanics.**
+- Fix typos and agreement. Correct them silently in Revise mode; list them in Audit mode.
+- **Contractions** in narration and dialogue, as the author uses them, except where a character is formal by habit (Johan's careful English, Marchetti).
+- **Punctuation**: commas carry the author's rhythm; don't convert them all to periods. Semicolons sparingly. Dashes for interruptions in dialogue. Exclamation points almost never outside dialogue.
+- **Mood changers**: *But*, *Still*, *Then*, *Instead* at the start of a sentence when the turn needs it; Zinsser prefers *But* to *However*.
+- **That / which**: *that* for restrictive clauses, *which* (with a comma) for the rest.
+- **Dialogue tags**: no adverbial tags (*said angrily, replied softly*). Use an action beat when it anchors the speaker in the place; otherwise "said," which is invisible. Don't hang a gesture on every line. The reader always knows who is speaking by the time the words land.
 
-## Worked examples from the manuscript
+**CLAUDE.md terminology.** Check the passage against CLAUDE.md's Writing rules, especially the radio phraseology, airline terminology, plain-text units, and survivor-symptom rules. Read them there; don't work from memory, since they change.
 
-These show the scale of change the skill aims for. Each keeps the author's wording wherever it works.
+### Read 3: aloud
 
-**Clutter and a stock phrase** (00-John):
-> He stood on the sidewalk at his subdivision entrance and listened, a hum, maybe, but mostly a silence that was eerie and a bit spooky, a chill ran up his spine.
-
-→ He stood on the sidewalk at his subdivision entrance and listened. A hum, maybe, far off. Otherwise nothing, on a road that hadn't been quiet at any hour in years.
-
-(Cuts the doubled adjective, the qualifier, and the cliché; puts the reason it's strange, already in the paragraph, where the feeling was.)
-
-**Inflated phrase plus abstract adjective** (00-John):
-> John reached across the man's knees, found the start button, and shut the engine off. The resulting silence was overwhelming.
-
-→ John reached across the man's knees, found the start button, and shut the engine off. The wheels spun down, and then he could hear Dan whining.
-
-(Replace the feeling with what the silence lets him hear. Or, lighter: "Then it was quiet." Either is in the author's register.)
-
-**Overstuffed sentence** (00-John):
-> Nothing moving, on an ordinary Tuesday at this hour, this stretch of highway moved more people past this one spot in a minute than lived on his whole subdivision.
-
-→ Nothing was moving. On an ordinary Tuesday at this hour, this stretch of highway carried more people past this one spot in a minute than lived in his whole subdivision.
-
-(Split in two; drop the second "moving" for "carried.")
-
-**Keep it** (00-John):
-> Dan's tail was swinging back and forth dangerously as they walked down the driveway.
-
-Leave the adverb: it's John's dry humor about a big dog's tail, and the humor is the voice. Fix the comma splice in the original ("They headed out, Dan's tail was...") and stop.
-
-**Pre-stated payoff** (04-John and Sam):
-> His doubts caught up with him while he watched it. Maybe whoever was flying it wasn't listening to anything. Maybe...
-
-→ Drop the first sentence and start with "Maybe." The three maybes are the doubts.
+Zinsser: rewriting is the essence of writing. Read the passage at speaking pace, in your head or aloud. Mark every place you stumble, lose the subject, or run out of breath, and fix only those. Then stop. A passage tightened three times starts losing the author's voice; the goal is the author's sentences, cleaner, not new sentences.
 
 ## Quick audit search
 
 For a first sweep in Audit mode, grep the section for the usual offenders, then read each hit in context; a hit is a question, not a verdict.
 
 ```
-\b(very|quite|rather|really|just|a bit|a little|sort of|kind of|somewhat|pretty|actually|seemed to|began to|started to|managed to|quickly|suddenly|dangerous(ly)?|massive(ly)?|intense(ly)?|overwhelming|eerie|resulting|in order to|the fact that|made his way|proceeded to|tapestry|delve|testament|robust|synergy|palpable|nuanced|symphony)\b
+\b(very|quite|rather|really|just|a bit|a little|sort of|kind of|somewhat|pretty|actually|seemed to|began to|started to|managed to|quickly|suddenly|dangerous(ly)?|massive(ly)?|intense(ly)?|overwhelming|eerie|resulting|in order to|the fact that|made his way|proceeded to|tapestry|delve|testament|robust|synergy|palpable|nuanced|symphony|seamlessly|leverage|transformative)\b
 ```
 
 Also search for "there was", "there were", and "was \w+ing" for weak constructions, "!" outside dialogue, and adverbial tags (`(said|asked|replied|whispered|called) \w+ly`).
+
+## Non-fiction: CLAUDE.md, reference docs, notes
+
+The same clutter, verb, and AI-lexicon rules from Read 2 apply. Skip Voice, the standing rules, and Read 1, which are for scenes. Then:
+
+- **State it directly.** Give the fact, constraint, or decision first; reasons after, if needed.
+- **No conversational filler**: *Here is, As you can see, Note that, It's worth mentioning, Let me know if.*
+- **Don't summarize twice.** No intro that says what a section will cover followed by a recap of what it covered.
+- **Concrete over abstract**: name the system, number, file, or date, not "various factors" or "key considerations."
+- **Tables and lists only where the content is truly parallel**; otherwise plain sentences.
+- For CLAUDE.md, keep its own conventions (canon entries as plot facts, `[verify]`/`[decide]` markers, current-state wording rather than change history).
 
 ## What this skill doesn't do
 
