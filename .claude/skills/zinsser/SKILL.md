@@ -32,11 +32,19 @@ These hold in every mode and every pass.
 
 ## Modes
 
-Pick the mode from the request:
+Pick the mode from the request. **Session is the default**; use Revise or Audit only when the author asks for them by name ("just fix it," "audit only," "no edits").
 
-- **Draft**: writing a new scene. Before writing, settle the POV logic and the layout privately: whose scene it is, what that character can see, hear, read off an instrument, or work out, and where everyone and everything sits in the space. Apply the principles as you write, run the three reads once over the result, then hand over the finished prose without notes on your process.
-- **Revise**: the author asks you to tighten or fix a passage. Edit the file in place, keep changes small and local, preserve sentence order and dialogue unless asked. After editing, list the kinds of change you made in two or three lines, not a line-by-line essay; git and the editor's diff show the rest.
-- **Audit**: the author asks what's wrong, or asks for a check without edits. Don't touch the file. Report the ten findings that matter most, each as `file:line`, the quoted phrase, the principle, and a suggested fix, most important first. Then one line of totals for everything else by category (e.g. "Also: 23 qualifiers, 4 adverbial tags, 2 *there was*"). Give the full list only if asked.
+- **Session** (default): work through the passage with the author as a teammate, fixing as you go.
+  1. Run the three reads privately and rank the findings, most important first (canon and POV, then structure, then lines).
+  2. Bring up **one finding at a time** with the AskUserQuestion tool. Each question quotes the line with its `file:line`, names the problem in one sentence, and offers two or three fixes, the recommended one first and marked "(Recommended)", plus "Leave it." The question has to make sense by itself, because the author may see only the question dialog.
+  3. **Apply the author's pick right away** with Edit, then bring up the next finding. If they choose "Other" and write their own wording, use it as written.
+  4. **Ask a craft question only when the answer changes the fix**: what a character knows at this point, what a beat is for, whether a rough line is rough on purpose. Ask it as multiple choice with the likely readings as options. Don't ask what the page already answers or what CLAUDE.md settles.
+  5. **Stop after the ten findings that matter most.** Give one line of what's left by category ("Also: 6 qualifiers, 2 *there was*") and ask whether to keep going. The author can stop at any point.
+  6. **Wrap up** in two or three lines: what changed and what the author chose to leave. Then ask whether to commit. If the author's choices showed a voice preference the skill doesn't state yet (e.g. keeping an adverb that is a real rate), offer to add it to this skill.
+  Batch nothing and fix nothing silently, typos included; a typo can share a question with the finding next to it.
+- **Draft**: writing a new scene. Before writing, settle the POV logic and the layout privately: whose scene it is, what that character can see, hear, read off an instrument, or work out, and where everyone and everything sits in the space. If a choice that shapes the scene isn't settled by CLAUDE.md or the request, ask the author first, one multiple-choice question at a time with a recommendation. Apply the principles as you write, run the three reads once over the result, then hand over the finished prose without notes on your process.
+- **Revise** (only when asked by name, e.g. "just fix it"): edit the file in place without asking, keep changes small and local, preserve sentence order and dialogue unless asked. After editing, list the kinds of change you made in two or three lines, not a line-by-line essay; git and the editor's diff show the rest.
+- **Audit** (only when asked by name, or for a check with no edits): don't touch the file. Report the ten findings that matter most, each as `file:line`, the quoted phrase, the principle, and a suggested fix, most important first. Then one line of totals for everything else by category (e.g. "Also: 23 qualifiers, 4 adverbial tags, 2 *there was*"). Give the full list only if asked.
 
 For the author's own passages, default to the lightest touch that fixes the problem. Rewriting a paragraph the author wrote needs a reason you can name.
 
@@ -92,7 +100,7 @@ Now go sentence by sentence.
 - **Stock phrases**: *a chill ran up his spine, his heart sank, time stood still, an eerie silence, a deafening silence, the calm before the storm.* Replace with the specific observation, or cut.
 
 **Usage and mechanics.**
-- Fix typos and agreement. Correct them silently in Revise mode; list them in Audit mode.
+- Fix typos and agreement. Ask about them in Session mode, correct them silently in Revise mode, list them in Audit mode.
 - **Contractions** in narration and dialogue, as the author uses them, except where a character is formal by habit (Johan's careful English, Marchetti).
 - **Punctuation**: commas carry the author's rhythm; don't convert them all to periods. Semicolons sparingly. Dashes for interruptions in dialogue. Exclamation points almost never outside dialogue.
 - **Mood changers**: *But*, *Still*, *Then*, *Instead* at the start of a sentence when the turn needs it; Zinsser prefers *But* to *However*.
@@ -107,7 +115,7 @@ Zinsser: rewriting is the essence of writing. Read the passage at speaking pace,
 
 ## Quick audit search
 
-For a first sweep in Audit mode, grep the section for the usual offenders, then read each hit in context; a hit is a question, not a verdict.
+For a first sweep in Session or Audit mode, grep the section for the usual offenders, then read each hit in context; a hit is a question, not a verdict.
 
 ```
 \b(very|quite|rather|really|just|a bit|a little|sort of|kind of|somewhat|pretty|actually|seemed to|began to|started to|managed to|quickly|suddenly|slowly|dangerous(ly)?|massive(ly)?|intense(ly)?|overwhelming|eerie|resulting|in order to|the fact that|made his way|proceeded to|tapestry|delve|testament|robust|synergy|palpable|nuanced|symphony|seamlessly|leverage|transformative)\b
