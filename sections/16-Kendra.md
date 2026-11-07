@@ -6,7 +6,7 @@ Luca had the tracking laptop open on the Columbus bulkhead beside the radio, and
 
 Kendra hooked a toe under the handrail and pulled herself in beside him. The radio was a black Kenwood the size of a hardback book, with a hand mic on a coiled cord and a strip of gray tape on the faceplate where somebody before them had written the frequencies in marker: *DN 145.800 / UP 144.490 (Reg 2), 145.200 (Reg 1)*. The station talked on the first one and listened on the others.
 
-Ellen Pruitt came through the hatch from Node 2 and stopped herself on the overhead rail. She was the commander, and she came to every Port Angeles pass now. Two weeks ago the radio's little screen had shown them a packet message: *PORT ANGELES WA. 6 ALIVE. LISTENING EVERY PASS 145.800.* It had come in over the packet relay on some pass while they slept, and been sitting there for a day before Luca thought to scroll back. Since then they had called on every pass over the Northwest, and twice they had heard a carrier come up on the uplink, and a man's voice under the noise, and then nothing they could read.
+Ellen Pruitt came through the hatch from Node 2 and stopped herself on the overhead rail. She was the commander, and she came to every Port Angeles pass now. Two weeks ago the radio's little screen had shown them a packet message: *PORT ANGELES WA. 6 ALIVE. LISTENING EVERY PASS 145.800.* It had come in over the packet relay and been sitting there for a day before Luca noticed it. Since then they had called on every pass over the Northwest, and twice they had heard a carrier come up on the uplink, and a man's voice under the noise, and then nothing they could read.
 
 "Two minutes," Luca said.
 
@@ -88,7 +88,7 @@ It was what she did with her hands now. The station's water ran in a loop: every
 
 On Day 0 she had been at this rack at 05:30 GMT, two hours before the crew's wake-up, because the ground had asked her in early to work a fault on this same machine. Dave Ruiz was on the overnight console in Houston and reading her the procedure over the loop a step at a time. At 06:00 he was on step fourteen. "Okay, Kendra, for step fourteen we'd like you to hold the—"
 
-Then nothing, not static, not the hiss and click that meant the link had dropped. The loop was open and the link was good, and the voice had stopped in the middle of a word.
+The voice stopped in the middle of a word. No static, no click of a dropped link. The loop was open and both links were good.
 
 She had called him on Space to Ground Two, then on One. She had checked the comm page and found both links locked and green. By 06:20 she had woken Ellen. By 07:00 they had called every number on the station's phone, which ran through Houston on the same link: the flight director's console, the Huntsville payload center where she had worked for ten years, the European control center outside Munich, SpaceX in California. Everything rang. Nothing answered. The Russians came through from their end with the same story about Moscow. At 07:30 Ellen opened the daily planning conference on schedule and read the control centers' names into the loop in order, Houston, Huntsville, Munich, Tsukuba, Moscow, and waited after each one, and nobody joined.
 

@@ -42,7 +42,7 @@ John looked at the bottom step. "Browns Ferry?"
 
 "I went by two miles north of it. Nothing off the stacks. 
 
-They got the tie-downs on. The wind eddied around the end of the hangar, and it brought what was behind those doors out across the ramp. The boy lifted his head. He looked at the shut doors, then at Sam. "Are there..." he said, and he stopped.
+They got the tie-downs on. The wind eddied around the end of the hangar and carried the smell of the seventeen in there out across the ramp. The boy lifted his head. He looked at the shut doors, then at Sam. "Are there..." he said, and he stopped.
 
 "Seventeen," John said. "They worked here. We haven't gotten to them yet. There's none on the ship where we are staying."
 

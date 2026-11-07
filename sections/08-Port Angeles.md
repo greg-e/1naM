@@ -12,7 +12,7 @@ Catherine went to the pickup first. The driver was a heavy man in a canvas coat,
 
 She closed the door on him and went to the SUV.
 
-It was empty. The airbags hung slack and the floor on the driver's side had come up and back, the pedals pushed most of the way to the seat. The driver's door stood open with dried blood on the frame and on the asphalt below it. The back door was open too. A trail of blood and scuff marks went from there to the rail and along the rail to the end of the span, where the bank dropped off through salal and alder toward the river. There were no footprints. Whoever made it had gone along sitting down.
+It was empty. The airbags hung slack and the floor on the driver's side had come up and back, the pedals pushed most of the way to the seat. The driver's door stood open with dried blood on the frame and on the asphalt below it. The back door was open too. A trail of blood and scuff marks went from there to the rail and along the rail to the end of the span, where the bank dropped off through salal and alder toward the river. There were no footprints.
 
 Sam leaned over the rail with his headlamp. "Hello? Anybody down there?"
 
@@ -164,7 +164,7 @@ The staff break room had a microwave plugged into a red outlet and a cupboard wi
 
 "I need the whole story," Catherine said. "Start with the bridge."
 
-Della told it flat and in order, the way she would have written up a fault. She was a civilian mechanic at the air station on the Hook, diesels and electrical, and she had stayed late on a generator. She was westbound on 101, a little before eleven.
+Della told it flat and in order. She was a civilian mechanic at the air station on the Hook, diesels and electrical, and she had stayed late on a generator. She was westbound on 101, a little before eleven.
 
 "Right before he came over the line I couldn't get a breath. Like somebody sat on my chest. I thought I was having a heart attack at thirty-two. Then his lights were in my lane."
 

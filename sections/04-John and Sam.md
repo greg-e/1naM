@@ -10,8 +10,6 @@ He dialed the Tower frequency and keyed the mic. "Peachtree Tower, anybody on th
 
 Then he waited, Dan lying on the seat next to him. He opened FlightAware on his phone and pulled up DAL27PDK. It was past Chattanooga, coming down out of 20,000 feet. Maybe whoever was flying it wasn't listening to anything. Maybe it wasn't coming here at all, and PDK on the flight ID meant something else. Maybe whatever had killed everyone else had just taken longer with whoever that was, and John was about to watch it fly into the ground.
 
-There was one frequency every airplane listened to.
-
 ### 14:08 - John
 
 John dialed in 121.5, the emergency frequency and got his thumb on the transmit button.

@@ -12,7 +12,7 @@ He had sent that set more than forty calls since the fifth, and nothing had ever
 
 "All stations, all stations, all stations. This is John Hartman at the Coast Guard station on Ediz Hook, Port Angeles, Washington. Position four eight degrees zero eight decimal four minutes north, one two three degrees two four decimal six minutes west. There are people alive here. We have power, food, and a doctor. Answer on channel one six. Over."
 
-An American voice, carrying static. Taped to the console above the handset were the strip of printer paper with that name on it and the card where he had written its number. He logged the time off the GPS, *0800*, and the pencil broke through the paper on the last zero. He picked up the handset.
+An American voice, carrying static. Taped to the console above the handset were the strip of printer paper with John Hartman's name on it and the card where he had written his number. He logged the time off the GPS, *0800*, and the pencil broke through the paper on the last zero. He picked up the handset.
 
 "Ediz Hook, Ediz Hook, Ediz Hook. This is motor vessel *Pacific Tender*, *Pacific Tender*, *Pacific Tender*, on channel one six. Over."
 
@@ -311,7 +311,7 @@ The track ran straight east, south of the Aleutians. On Tuesday night he had ask
 | Sept 5, 18:28 | 50°21'N, 174°11'W | 075 | 11.5 |
 | Sept 6, 08:00 | 51°01'N, 170°13'W | 075 | 11.5 |
 
-Seven and a half knots off in fifty-eight minutes, in three even steps. An engine didn't fail in three-knot steps. Somebody had pulled back the telegraph, and it had been on his drive since Tuesday evening.
+Seven and a half knots off in fifty-eight minutes, in three even steps. An engine didn't fail in three-knot steps. Johan had pulled back the telegraph, and it had been on his drive since Tuesday evening.
 
 "Query every vessel in the archive," he said. "Speed changes over ten percent in under two hours, not ending in a dead stop, after 06:30 UTC September fifth. Exclude tide and current drift."
 
