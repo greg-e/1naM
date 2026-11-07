@@ -53,6 +53,14 @@ A small nearshore box at the harbor's southeast corner. The canon anchor positio
 - **Boats:** SOLAS requires rescue-boat and lifeboat davits to launch by gravity or stored mechanical power, operable by one person `[SRC]` Lloyd's Register Class News 17/2023, Marine Insight, Fountom. Her actual boats are `[VERIFY]`.
 - **Radio:** a GMDSS radio room (VHF, SSB, satellite terminal) and a ~40-m mast.
 
+### 2.4 *Pacific Tender* machinery checks `[VERIFY]`
+
+The installed main engine, separator models and auxiliary fuel/heat arrangement are unidentified. Establish usable clean auxiliary fuel, electrical/control power and treatment heat during the 34h02 propulsion stop; no separate distillate circuit, boiler or capacity is assumed. Stored fuel, settling fuel and treated service fuel remain different inventories.
+
+Verify separator disc count, fasteners, lifting/cleaning method and the return to service of the previously vibrating No. 2 machine. The prose's starting-air figures/recharge, low-pressure shutdown response and slowdown program are model-dependent, not validated operating data. The roughly 29-hour purifier interval also needs the ship-clock advance point; do not assume a fixed offset retroactively. Johan's forty-hour generator supply is an estimate requiring usable inventory, load and supporting-system checks, not a guaranteed Sunday shutdown.
+
+Sources and specialist gaps: [Johan machinery review, November 7, 2026](2026-11-07_johan-ship-machinery_fuel-treatment-and-solo-operation-dependencies.md). Representative maker references are not this ship's approved manual; no replacement cleaning tool, solvent or repair procedure is specified.
+
 ---
 
 ## 3. The Coast Guard station on Ediz Hook

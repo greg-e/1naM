@@ -18,6 +18,6 @@ It took him an hour and a half with the piping diagram off the bulkhead and a fl
 
 He came up at half past five with his shirt stuck to him and the AIS alarm going. *Ocean Prosper*, a bulk carrier, eleven miles off the port bow and crossing, closest point 0.2 miles in thirty-one minutes. He called her twice on 16 by name.
 
-By the rules she was to keep clear of him, and he was to hold his course and speed. He held them with the glasses on her until she was two miles off. He gave her five short blasts on the whistle, which shook the windows, and she came on with her bow wave steady and the sun on her wheelhouse glass. He took the autopilot off and put the helm over twenty degrees to starboard, and it was most of a minute before the heading began to move.
+By the rules she was to keep clear of him, and he was to hold his course and speed, but he could act once it was clear she wasn't giving way. He held them with the glasses on her until she was two miles off. He gave her five short blasts on the whistle, which shook the windows, and she came on with her bow wave steady and the sun on her wheelhouse glass. He took the autopilot off and put the helm over twenty degrees to starboard, and it was most of a minute before the heading began to move.
 
 She crossed astern of him at nine-tenths of a mile. There was nobody on her bridge wing. He brought the *Pacific Tender* back to 085, put the autopilot in, and logged it: time, range, name, and that she did not answer.

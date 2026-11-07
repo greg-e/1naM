@@ -129,7 +129,7 @@ At first light the bearings were unchanged. He had written the shutdown list on 
 
 Port anchor first. One would hold her in September, but nobody would be aboard when the winter gales came down the Strait. He let it go on the brake at 07:12 and stopped it at four shackles, then veered the starboard chain to eight.
 
-Below, he tripped the quick-closing valves on the main engine, isolated the bunker tanks, and tagged each handle. He walked the ship with the watertight door checklist and dogged every door. The bridge panel still showed one open; he went back down, kicked a mop handle out of the coaming, and dogged it shut. He left No. 2 generator on its day tank, forty hours of fuel to keep the fans and freshwater pumps running until Sunday, and hung a battery lantern on the foremast and another on the poop rail.
+Below, he tripped the quick-closing valves on the main engine, isolated the bunker tanks, and tagged each handle. He walked the ship with the watertight door checklist and dogged every door. The bridge panel still showed one open; he went back down, kicked a mop handle out of the coaming, and dogged it shut. He left No. 2 generator on its day tank, what he reckoned was forty hours of fuel to keep the fans and freshwater pumps running until Sunday, and hung a battery lantern on the foremast and another on the poop rail.
 
 On the provision flat the vegetables he had stacked in the passageway on the fifth had rotted into black water. The chill room compressor still hummed. He put his palm on the insulated door. *Okafor. Alvarez. Bautista.* He checked the latch.
 
@@ -211,7 +211,7 @@ Johan looked at him a while. Then he crouched, filled the thermos cup with black
 
 "We have an officer's stateroom open on *Active*," John said. "Or the forty-one-footer's yours, if you'd rather sleep on your ship."
 
-"No. She is secure. The generator runs until Sunday." He glanced back at the lifeboat. "That does not go back up the davit. It is yours now."
+"No. She is secure. The generator should run until Sunday." He glanced back at the lifeboat. "That does not go back up the davit. It is yours now."
 
 He shouldered his bag, tucked the sextant case under his left arm, and let Sam carry the charts up the brow. On the quarterdeck he stopped at the watch stand, where the ship's log lay open with a pen in the gutter, and read down the page: the five names John had logged on the seventh beside the places they had died. *Whitlock, quarterdeck. Tran, control room. Haas, galley.*
 
@@ -229,7 +229,7 @@ In the lower rack the mechanic lay propped on pillows, her arm in a sling, her l
 
 "You a deck officer or an engineer?"
 
-"Deck." He gave her the short version: Alvarez's notebook propped on the rail, the purifier alarm he slept through, the main engine lost at 0400 Saturday, thirty-four hours rolling in the trough while he pulled the bowl with a chain fall and scraped a hundred and twenty discs with a putty knife.
+"Deck." He gave her the short version: Alvarez's notebook propped on the rail, the purifier alarm he slept through, the main engine lost at 0400 Saturday, thirty-four hours rolling in the trough while he pulled the bowl with a chain fall and cleaned a hundred and twenty discs one by one.
 
 She stopped chewing. "You tore down an Alfa Laval bowl solo in a seaway?"
 
