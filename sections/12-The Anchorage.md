@@ -1,28 +1,6 @@
-# Pacific Tender
+# The Anchorage
 
-### 9/14/2028, 05:30 ship's time - Johan
-
-He kept her outside all night at dead slow, west until midnight and then back. At half past five the top of Vancouver Island showed against the gray in the east, Tatoosh Island light bearing 088, eleven miles. He brought the revolutions up from the bridge console, and by twenty past six she was making eleven and a half knots.
-
-Cape Flattery came abeam at a quarter to seven, black rock with the swell breaking white along its foot, and Neah Bay opened behind it, a breakwater and a line of moored boats all lying the same way. He made coffee in the pantry behind the bridge and drank it standing at the radar.
-
-At eight o'clock the DSC alarm went off on the VHF at the GMDSS console.
-
-He had sent that set more than forty calls since the fifth, and nothing had ever come back. He crossed the bridge and read the screen. *ALL SHIPS. SAFETY. CH 16.* The sender was a nine-digit number starting with 00366, a United States coast station. He silenced the alarm, and the speaker on 16 opened up.
-
-"All stations, all stations, all stations. This is John Hartman at the Coast Guard station on Ediz Hook, Port Angeles, Washington. Position four eight degrees zero eight decimal four minutes north, one two three degrees two four decimal six minutes west. There are people alive here. We have power, food, and a doctor. Answer on channel one six. Over."
-
-An American voice, carrying static. Taped to the console above the handset were the strip of printer paper with John Hartman's name on it and the card where he had written his number. He logged the time off the GPS, *0800*, and the pencil broke through the paper on the last zero. He picked up the handset.
-
-"Ediz Hook, Ediz Hook, Ediz Hook. This is motor vessel *Pacific Tender*, *Pacific Tender*, *Pacific Tender*, on channel one six. Over."
-
-His voice came out rough; he hadn't used it since calling Tofino the evening before. The speaker hissed. He watched the second hand on the console clock go around twice.
-
-"Ediz Hook, this is *Pacific Tender*. I hear you. Position four eight degrees two four minutes north, one two four degrees two two minutes west. Course zero nine six, speed eleven and a half, inbound. One person on board. Over."
-
-Nothing came back. He corrected the position for the half mile she had run and called a third time.
-
-### 08:01 local Pacific Time, Thursday
+### 9/14/2028, 08:01 local Pacific Time - John
 
 The phone chimed on the shelf over John's bunk. It had gone off fourteen times since the tower antenna came online Wednesday afternoon: a log barge off Clallam Bay, a seiner adrift off Pillar Point, a skiff washing past Sekiu at three-tenths of a knot. He had told the model not to filter, and he had gotten to sleep just before five.
 
@@ -62,12 +40,19 @@ Sam came into the wardroom in a Coast Guard T-shirt, Tyler at his elbow and Dan 
 
 Sam's mouth twitched. "I'd shift."
 
-"Shifting two two alpha," John said, and while the model changed frequencies he pulled up the AIS target.
+"Shifting two two alpha," John said, and while the model changed frequencies he pulled up the AIS target and the channel log.
 
 **PACIFIC TENDER. Container ship. 48°24'N, 124°22'W. Course 096. Speed 11.4 kt. Tower receiver, first report 07:52.**
 **New contact alert sent 07:52. Acknowledged 07:52.**
 
-He had dismissed that alert in his sleep. Every other target on the board was dead in the water or washing back and forth with the tide. This one was making 11.4 knots.
+**Channel 16, tower:**
+**08:00:00 Scheduled call, recorded. 0:52.**
+**08:01:09 Voice, not scheduled. 0:14.**
+**08:02:47 Voice, not scheduled. 0:21.**
+**08:03:22 Voice, not scheduled. 0:18.**
+**08:03:41 Local override. Live.**
+
+He had dismissed the first alert in his sleep. The man had answered the recording three times before anyone answered him. Every other target on the board was dead in the water or washing back and forth with the tide. This one was making 11.4 knots.
 
 Catherine came in holding her glasses, and Sam briefed her in six words. She looked at the speaker. "Is he hurt? Ask about his breathing."
 
@@ -95,61 +80,77 @@ John relayed it.
 
 Sam looked at the bulkhead clock. Four hours until she rounded the spit. Sam looked at John, "What are deadheads?"
 
-### 11:15 ship's time - Johan
+### 12:35 local Pacific Time
 
-He began taking the way off her at half past ten. *Golden Kestrel* lay a mile and a quarter off the port beam, rust-streaked and riding high. At a quarter past eleven, down to six knots, he clicked the autopilot off and steered by hand.
+They were at *Active*'s stern rail by half past twelve. Sam had brought the binoculars down from the bridge, and Catherine had Della's handheld, turned to 22A. Tyler stood on the bottom rail. Dan put his front paws up on the steel beside him and watched the gulls.
 
-The Hook came up as a low line of driftwood and sand, then the tower near the spit's end, the lighthouse, a hangar. He brought her around the spit, south and then west, and the harbor opened: the paper mill at the far end, the town on the hill behind it, no smoke from the stacks, a white ferry dark at her slip.
+The ship came around the end of the Hook a little after that, the containers first, stacked in blocks above the hull, then the white accommodation at the stern with the bridge on top. She was moving slower than the ferry did leaving its slip. John had watched her for four hours as a triangle and a line of numbers on the AIS screen, and the size of her took him a moment.
 
-The cutter lay along the pier on his starboard hand. Through the glasses from the wing he found them at her stern rail: a tall man with a heavy beard holding a cap, a shorter man with his arms folded, a small woman shading her eyes, and a boy on the bottom rail with a dog's front paws up on the steel beside him. The boy raised one arm straight up.
+Tyler raised one arm straight up.
 
-Johan lowered the glasses and raised his hand. Then he went back inside; the bow needed five more degrees.
+Sam had the glasses on the bridge. "There. On the wing." He handed them across.
 
-The wind was west at eight knots, so she would lie the way she was heading. At half a mile he stopped the engine. At three cables he rang astern, heard the starting air, and felt the propeller bite through the deck plates. The speed on the GPS went 2.1, 1.3, 0.6, then a little sternway, and he stopped her. Eighteen fathoms.
+John found the wing and a man at the end of it, small at that distance, in a dark jacket. The man raised his hand and held it up a second. Then he went back inside.
 
-He clipped the handheld to his jacket and walked forward along the port alley between the container stacks, seven minutes to the bow.
+She came south past the end of the spit and turned west into the harbor, slow enough that John could watch the bow come around against the mill on the far shore. The wind was out of the west, light, and she came up into it. Half a mile off, the wash under her stern went flat.
 
-Let go on the brake in eighteen fathoms, eleven tonnes of anchor could run away with the chain, so he walked it out on the windlass motor. Halfway through the second shackle the chain went slack in the hawse pipe. Bottom. He took the windlass out of gear and fed her chain on the brake as the wind pushed her astern, a few fathoms at a time, counting the painted links. At six shackles on deck he screwed the brake down, dropped the stopper bar, and drove the pin home. Ahead of the bow the chain rose out of the water in a long dripping curve and hummed under his palm, then sagged back under the surface. She had brought up.
+"He's stopped the engine," Sam said.
 
-He hoisted the anchor ball on the foremast. Walking aft, he looked across at the cutter. The four were still at the stern rail.
+She kept going for a while on her own weight. Then the water under her stern turned white and boiled up along her sides, and the bow slowed against the shoreline behind it until it didn't move at all. The white water went flat again.
 
-On the wing he took bearings on the light, the hangar, and the mill stack and set the GPS anchor alarm to a tenth of a mile. He rang *FINISHED WITH ENGINES*, rode the elevator down to the engine control room, answered the telegraph himself, and logged it in Alvarez's book. Back on the bridge he keyed the VHF.
+Catherine looked at the handheld. Tyler asked whether he was all right, and Sam said he thought so.
 
-"Ediz Hook, *Pacific Tender*. Anchored at one three zero one. Six shackles on deck, starboard anchor. Over."
+John put the glasses on the deck alongside the container stacks and found a figure walking forward, very small, in and out of sight between the stacks. He checked his watch. It was seven minutes before the figure reached the bow.
 
-"*Pacific Tender*, Ediz Hook." Reyes's voice. "We watched it. Nice work. Call when you're ready."
+The sound came across the water a few seconds after John saw the haze, a heavy grinding rumble that ran, stopped, ran again. A brown cloud hung off the bow and drifted downwind. The ship eased back from it on the wind. The rumble came in short runs for a few minutes after that, and then it stopped, and a black ball went up the foremast.
 
-He stayed on the wing into dusk and checked the bearings at the seven o'clock tide change. Ashore the town stayed black. He had passed Port Angeles at night dozens of times, with the pilot boat running out under the harbor lights. Tonight there was a row of lights along the spit and three yellow portholes on the cutter.
+The handheld opened up. "Ediz Hook, *Pacific Tender*. Anchored at one three zero one. Six shackles on deck, starboard anchor. Over."
 
-In his cabin he showered, trimmed his beard with scissors from the first aid kit, nicking himself under the jaw, and laid out a clean company polo. On the bridge he peeled the tape off the GMDSS console, filed the card at the back of the chart drawer under the old notices to mariners, and folded the strip of printer paper into the clean shirt's pocket. He lay down across from the alarm panel and slept five hours straight.
+Catherine handed it to Sam.
 
-### 9/15/2028, 06:10 ship's time - Johan
+"*Pacific Tender*, Ediz Hook. We watched it. Nice work. Call when you're ready."
 
-At first light the bearings were unchanged. He had written the shutdown list on the back of a chart correction form the night before, and he worked down it.
+Tyler got down off the rail. "What's six shackles?"
 
-Port anchor first. One would hold her in September, but nobody would be aboard when the winter gales came down the Strait. He let it go on the brake at 07:12 and stopped it at four shackles, then veered the starboard chain to eight.
+"No idea," Sam said. "Ask him tomorrow."
 
-Below, he tripped the quick-closing valves on the main engine, isolated the bunker tanks, and tagged each handle. He walked the ship with the watertight door checklist and dogged every door. The bridge panel still showed one open; he went back down, kicked a mop handle out of the coaming, and dogged it shut. He left No. 2 generator on its day tank, what he reckoned was forty hours of fuel to keep the fans and freshwater pumps running until Sunday, and hung a battery lantern on the foremast and another on the poop rail.
+At dusk John went up to the flight deck. The town was dark on the hill and the mill was dark at the end of the harbor. Across the water the ship lay with a white light at each end, the only lights on it.
 
-On the provision flat the vegetables he had stacked in the passageway on the fifth had rotted into black water. The chill room compressor still hummed. He put his palm on the insulated door. *Okafor. Alvarez. Bautista.* He checked the latch.
+### 9/14–9/15/2028, ship's time (UTC−7) - Deck log, radio log and engine log, MV *Pacific Tender*, at Port Angeles
 
-In the engine control room he recorded the valve closures under his last entries in Alvarez's logbook, signed, and shut the cover for the first time since September fourth.
+| Time | Book | Entry |
+| --- | --- | --- |
+| Thu 1030 | Deck | Commenced reducing speed. *Golden Kestrel* drifting, 1.2 nm to port, not under command, no lights or signals. JB |
+| 1115 | Deck | 6 kn. Autopilot off, hand steering. JB |
+| 1240 | Deck | Ediz Hook rounded. Course for anchorage. Wind W 8 kn. JB |
+| 1243 | Deck | Stopped engine. JB |
+| 1246 | Deck | Full astern. 1249 stopped, slight sternway. Depth 18 fm. Left bridge for forecastle. JB |
+| 1256 | Deck | At windlass. Stbd anchor walked out on windlass motor. On bottom at 1½ shackles. Windlass out of gear, chain paid out on brake as she fell astern. JB |
+| 1301 | Deck | Brought up, 6 shackles on deck. Brake on, stopper on. Anchored, pos 48-07.8N 123-25.0W. Anchor ball hoisted. JB |
+| 1302 | Radio | VHF ch 22A to Ediz Hook: anchored 1301, 6 shackles stbd anchor. Acknowledged, S. Reyes. JB |
+| 1315 | Deck | Anchor bearings: Ediz Hook Lt 041°, USCG hangar 019°, mill stack 271°. GPS anchor alarm 0.1 nm. JB |
+| 1320 | Engine | FWE rung from bridge, answered in ECR. *J. Brandt, 2/O* |
+| 1900 | Deck | Tide change. Bearings unchanged. Anchor lights on. JB |
+| 2200 | Deck | Bearings unchanged. Anchor watch on bridge. JB |
+| Fri 0310 | Deck | Bearings unchanged. JB |
+| 0610 | Deck | Bearings unchanged. Commenced securing vessel per list. JB |
+| 0712 | Deck | Port anchor let go on brake, brought up at 4 shackles. Stbd chain veered to 8 shackles. JB |
+| 0830 | Engine | M/E fuel quick-closing valves tripped. Bunker tanks isolated, handles tagged. *J. Brandt, 2/O* |
+| 0945 | Deck | Watertight doors closed per checklist. Bridge panel showed 1 open: obstruction in coaming cleared, door closed. All closed at panel. JB |
+| 1015 | Engine | No. 2 D/G on day tank, est. 40 h at present load. Fans and FW pumps running. Book closed. *J. Brandt, 2/O* |
+| 1030 | Deck | Battery lanterns fore (foremast) and aft (poop rail). JB |
+| 1040 | Deck | Provisions chill room: compressor running, door latched. Okafor, Alvarez, Bautista in chill room; 19 in their cabins. JB |
+| 1600 | Deck | Free-fall lifeboat: inspected, engine run 2 min on skid. Satisfactory. JB |
+| 1634 | Radio | Radio watch closed. Handheld VHF ch 22A for lifeboat. JB |
+| 1635 | Deck | At anchor Port Angeles Harbor 48-07.8N 123-25.0W. Stbd anchor 8 shackles, port 4. M/E shut down, F.O. isolated, W/T doors closed. No. 2 D/G on day tank. Anchor lights on battery fore and aft. 22 crew remain aboard. Left vessel by free-fall lifeboat. *Brandt, Second Officer* |
 
-He packed a canvas bag: clothes, the framed photo of Lena at her school in Hamburg, his rigging knife. He cased his sextant, took the *Nautical Almanac*, the sight reduction tables, and the Puget Sound charts, and filled his thermos at the galley urn. At the chart table he made his last entry in the deck log:
-
-*1635. At anchor Port Angeles Harbor 48-07.8N 123-25.0W. Stbd anchor 8 shackles, port 4. M/E shut down, F.O. isolated, W/T doors closed. No. 2 D/G on day tank. Anchor lights on battery fore and aft. 22 crew remain aboard. Left vessel by free-fall lifeboat. Brandt, Second Officer.*
-
-He put both logs in his bag, tapped the barometer, and switched off the radar.
-
-The enclosed orange lifeboat sat nose-down on its launch skid at the stern, sixty feet above the water. He had inspected it every week for two years and never launched it. He strapped his gear under the seats, ran the diesel for two minutes, and shut it down. On the platform he pulled the steel safety pin and hung it on its hook, then dogged the hatch behind him and keyed the handheld.
-
-"Ediz Hook, *Pacific Tender*. I leave her now. Free-fall lifeboat, one person. To you in fifteen minutes. Over."
-
-"*Pacific Tender*, Ediz Hook," Hartman answered. "We're at the float below the pier. We'll take your line."
-
-He strapped into the helmsman's seat, cinched the harness, and pressed his head back against the rest. Through the port the cutter was a gray sliver across the harbor. He stroked the hydraulic release pump fourteen times. The hook tripped, and the skid dropped away under him.
+<!-- [verify: anchoring sequence and timings for a ship this size in 18 fathoms; anchor bearings from 48-07.8N 123-25.0W (light, station hangar, mill stack); 40 h day-tank estimate (usable fuel, load, support arrangement); free-fall lifeboat checks] -->
 
 ### 16:52 local Pacific Time
+
+The handheld on Sam's belt opened up while they were walking down the brow to the float. "Ediz Hook, *Pacific Tender*. I leave her now. Free-fall lifeboat, one person. To you in fifteen minutes. Over."
+
+"*Pacific Tender*, Ediz Hook," John answered. "We're at the float below the pier. We'll take your line."
 
 John saw the drop before he heard it. The orange hull slid off the ship's stern, fell nose-first, and went into the harbor in a burst of white water as tall as the boat, and was gone. Then the crack of it came across the anchorage. Catherine gripped his forearm. A hundred yards astern of the ship the lifeboat came up, rolled upright, and settled. The diesel started.
 
@@ -185,7 +186,7 @@ Johan unbuttoned his breast pocket and handed John a strip of thermal paper fold
 
 "That phone number wasn't much help after Wednesday," John said.
 
-"The first day, I thought it was the ship," Johan said. "Gas from a leaking container. I wore a breathing set and tested the air. Then the printer gave me this. So I knew it was not the ship."
+"The first day, I thought it was the ship," Johan said. "Gas from a leaking container. I tested the air. Then the printer gave me this. So I knew it was not the ship."
 
 John refolded it along its creases and held it out.
 
@@ -217,11 +218,11 @@ He shouldered his bag, tucked the sextant case under his left arm, and let Sam c
 
 He turned to a clean page and wrote: *15 Sept 2028, 1722. Brandt, J., 2nd Off., M/V Pacific Tender, aboard.* He laid the pen back in the crease.
 
-### 18:00 local Pacific Time - Johan
+### 18:00 local Pacific Time
 
-All six of them ate in the sick bay. There were two stools, so Johan sat on the deck inside the door with his back against the bulkhead and his plate on his knees: fried potato cakes with melted cheddar. The last meal he had eaten in a room with another person was the cook's pork adobo on the third. The dog came over, pushed its nose into the gap on his left hand, and breathed out. Johan held his hand still.
+All six of them ate in the sick bay. There were two stools, so Johan sat on the deck inside the door with his back against the bulkhead and his plate on his knees. John had made potato cakes on the griddle with cheddar melted over them, and Johan ate his without looking up. Dan came over, pushed his nose into the gap on Johan's left hand, and breathed out. Johan held the hand still.
 
-In the lower rack the mechanic lay propped on pillows, her arm in a sling, her leg in a cast to the knee, the bruising on her face gone yellow. She had watched him since he sat down.
+Della was propped on pillows in the lower rack, her arm in the sling and her leg in its cast to the knee, the bruising on her face gone yellow. She had watched him since he sat down.
 
 "Who tended your fuel purifiers?"
 
@@ -229,7 +230,7 @@ In the lower rack the mechanic lay propped on pillows, her arm in a sling, her l
 
 "You a deck officer or an engineer?"
 
-"Deck." He gave her the short version: Alvarez's notebook propped on the rail, the purifier alarm he slept through, the main engine lost at 0400 Saturday, thirty-four hours rolling in the trough while he pulled the bowl with a chain fall and cleaned a hundred and twenty discs one by one.
+"Deck." He gave her the short version: Alvarez's notebook propped on the rail, the purifier alarm he slept through, the main engine lost at 0400 Saturday, thirty-four hours rolling in the trough while he took the bowl apart with a chain fall and cleaned the discs.
 
 She stopped chewing. "You tore down an Alfa Laval bowl solo in a seaway?"
 
@@ -243,9 +244,9 @@ She stopped chewing. "You tore down an Alfa Laval bowl solo in a seaway?"
 
 "First restart, I forgot to crack the operating water valve."
 
-The corner of her mouth lifted. "Everybody does that once." She handed her plate to the doctor. "I've got a bilge pump on the pier I can't reach with this cast. Tomorrow."
+The corner of her mouth lifted. "Everybody does that once." She handed her plate to Catherine. "I've got a bilge pump on the pier I can't reach with this cast. Tomorrow."
 
-The boy on the stool by the medicine cabinet had a spiral notebook on his knees. He came over with a stubby pencil. "How much fresh water is on your ship?"
+Tyler was on the stool by the medicine cabinet with his spiral notebook on his knees. He came over with a stubby pencil. "How much fresh water is on your ship?"
 
 "Three hundred tonnes leaving Yokohama. Call it two hundred fifty now."
 
@@ -253,7 +254,7 @@ The boy on the stool by the medicine cabinet had a spiral notebook on his knees.
 
 "One thousand."
 
-The boy wrote it down. The page was ruled into columns with a straightedge: *USCGC Active*, dates, liters a day. At the top *5 people* was crossed out and *6* written beside it, with long division in the margin.
+Tyler wrote it down. John could see the page from the doorway, ruled into columns with a straightedge: *USCGC Active*, dates, liters a day. At the top *5 people* was crossed out and *6* written beside it, with long division in the margin.
 
 "You update that every day?" Johan asked.
 
@@ -261,13 +262,13 @@ The boy wrote it down. The page was ruled into columns with a straightedge: *USC
 
 "Then it is an official log. Who signs it?"
 
-The boy looked at the page.
+Tyler looked at the page.
 
 "A log is signed at the close of the watch," Johan said, "or it is only scrap paper."
 
-The boy printed his name and the date at the foot of the column and turned it around. Johan read the entry, nodded once, and finished his potatoes.
+Tyler printed his name and the date at the foot of the column and turned it around. Johan read the entry, nodded once, and finished his potatoes.
 
-### 21:15 local Pacific Time - John
+### 21:15 local Pacific Time
 
 Johan came into the wardroom with two mugs. He had scrubbed out the galley's thirty-cup percolator, and the room smelled like chicory. He stood behind a chair and looked at the dev box, the laptop, and the battery on the deck.
 
@@ -311,7 +312,7 @@ The track ran straight east, south of the Aleutians. On Tuesday night he had ask
 | Sept 5, 18:28 | 50°21'N, 174°11'W | 075 | 11.5 |
 | Sept 6, 08:00 | 51°01'N, 170°13'W | 075 | 11.5 |
 
-Seven and a half knots off in fifty-eight minutes, in three even steps. An engine didn't fail in three-knot steps. Johan had pulled back the telegraph, and it had been on his drive since Tuesday evening.
+Seven and a half knots off in fifty-eight minutes, in three even steps. An engine didn't fail in three-knot steps. Johan had brought the revolutions down by hand, and it had been on his drive since Tuesday evening.
 
 "Query every vessel in the archive," he said. "Speed changes over ten percent in under two hours, not ending in a dead stop, after 06:30 UTC September fifth. Exclude tide and current drift."
 
