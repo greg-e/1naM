@@ -12,7 +12,7 @@ The watch alarm on the bulkhead should have rung every twelve minutes until the 
 
 <!-- [verify: bridge navigational watch alarm stages and key switch] -->
 
-The ship had crossed the date line the morning before, and her clocks ran eleven hours behind Greenwich now. The last entry in the bridge log was just before seven the previous evening. Johan worked it to Greenwich: six in the morning, Tuesday.
+The ship had changed her date the morning before, ahead of the line, and her clocks ran eleven hours behind Greenwich now. The last entry in the bridge log was just before seven the previous evening. Johan worked it to Greenwich: six in the morning, Tuesday.
 
 He found Second Engineer Alvarez dead in the engine control room, upright in his chair with a logbook open in front of him, the entry stopped mid-sentence. He found the cook dead against the galley counter, a pot on the stove gone dry and scorched black. He went through the accommodation block after that, cabin by cabin, and found them all the same way, no struggle, no mess. It took almost two hours. He was the only man alive aboard the *Pacific Tender*.
 

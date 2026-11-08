@@ -5,6 +5,7 @@
 | Time | Book | Entry |
 | --- | --- | --- |
 | Mon 1835 | Engine | No. 2 F.O. purifier vibration high, changed over to No. 1. Will open No. 2 when *Alvarez* |
+| Wed 1200 | Deck | Pos 51-34N 166-59W. Altered course to 085 per passage plan. 11.5 kn. Wind W 4, overcast, bar 1012. JB |
 | Wed 2340 | Deck | Bridge watch alarm keyed OFF by undersigned. JB |
 | Thu 0241 | Radio | EGC repeat received, identical to Tue 1441. Dialled +1 404 555 0127. Fast tone. JB |
 | 0841 | Radio | EGC repeat received, identical. Dialled. Fast tone. JB |
@@ -40,4 +41,4 @@
 | 1430 | Deck | Pos 52-10N 146-36W. Co 096, 11.5 kn. Not-under-command lights off. Not under command 34 h 02 min. Drifted 31 nm. JB |
 | 1500 | Radio | No EGC received since Fri 2141. JB |
 
-<!-- [verify: positions dead-reckoned between canon fixes (Thu noon sight, clock change near 157W, 51-54N 147-20W at the shutdown, 31 nm drift), with a Wed course alteration to 085 off the page; the 29-hour purifier-to-shutdown interval assumes Thu 2312 is already UTC−10, so the clock change falls at 2000 Thu; daily transfer figure; installed purifier type and cleaning method per maker's manual (no disc count or scraping on the page); service-tank level for restart; start-air recharge time] -->
+<!-- [verify: positions dead-reckoned between canon fixes (Thu noon sight, clock change near 157W, 51-54N 147-20W at the shutdown, 31 nm drift), with the Wed 1200 alteration to 085; the 29-hour purifier-to-shutdown interval assumes Thu 2312 is already UTC−10, so the clock change falls at 2000 Thu; daily transfer figure; installed purifier type and cleaning method per maker's manual (no disc count or scraping on the page); service-tank level for restart; start-air recharge time] -->
