@@ -156,6 +156,102 @@ John read it again. "Yes. Sorry."
 
 He pulled his chair in and added which prediction lists they had used.
 
+### 9/30/2028, 11:14 local Pacific Time
+
+The two prediction lists disagreed by forty seconds on this one, and both put it high, fifty-eight degrees out of the southwest. It was the first daytime pass they had tried. John had worked out on Thursday that every pass they'd sat up for came over the Hook in the middle of the station's night, Greenwich time, when anyone aboard would be asleep. This one came over at a quarter past six in the evening on the station's clock.
+
+He had the set on the table in the operations building with the frequency sheet in its sleeve beside it, the receive and transmit entries checked against the display twice. Johan was outside on the pavement with the antenna, its cable coming in through the door. Sam stood behind John's chair. Tyler sat on the floor by the door with his back to the wall and his grandmother's Bible on his knees, where he could see the radio and Johan both.
+
+At 11:16 the speaker gave them noise. At 11:17 the noise changed.
+
+"Hold," John said, and Johan held.
+
+"...station, any station, this is NA1SS, the International Space Station." A woman's voice, flat and clear, under a little hiss. "Seven aboard, all well. We are listening on one four four decimal four niner zero. Any station, over."
+
+Tyler was on his feet. He didn't come any closer to the table.
+
+"That's Commander Pruitt," he said.
+
+John keyed the microphone. "NA1SS, NA1SS, this is Ediz Hook, Port Angeles, Washington. We read you. Six alive at this station. Over."
+
+He let go of the key. The hiss came back. Nobody in the room moved.
+
+"Any station, any station, this is NA1SS," the woman said. "Seven aboard, all well. Listening on one four four decimal four niner zero. Over."
+
+"She didn't hear you," Sam said.
+
+John checked the display. Transmit on 144.490. Receive on 145.800. He called again, slower, and gave the position. Outside, Johan brought the antenna around a few degrees and held it. John called a third time and a fourth. Each time the woman's voice came back with the same words, as if nobody had spoken, and the fourth time it broke up halfway through and went to noise.
+
+At 11:25 the noise went flat. John looked at the clock and wrote the time.
+
+Johan came in with the cable over his arm and stood in the doorway. "You heard," he said.
+
+"We heard her. She didn't hear us."
+
+Johan sat down with the notebook. John watched him write it: the time, the frequencies, *NA1SS heard, voice, female, calling any station. 7 aboard well. Answered 4 times on 144.490. No reply heard.* There was nothing to correct.
+
+Tyler hadn't sat back down. He had both arms around the Bible.
+
+"Seven," he said. "That's everybody."
+
+"That's what she said," John said.
+
+"That's everybody," Tyler said again, and went out past Johan and down the stairs. Sam looked at John and went after him.
+
+### 21:40 local Pacific Time
+
+Sam came to the wardroom door in his socks. "He's on the flight deck," he said. "He asked for you."
+
+The flight deck lights were off. Tyler was at the starboard rail in the foul-weather jacket that came to his knees, with Dan sitting against his leg and the Bible held shut against his chest. The town was dark along the foot of the mountains. Out over the Strait the sky was clear and full of stars. John came and stood beside him at the rail.
+
+"Is it going over?" he asked.
+
+"Not one you can see. It went over at ten. Low." Tyler kept looking at the sky. "Grandma prayed every night. Out loud, at the kitchen table, after supper. She did Mom every night, by name, since March."
+
+John waited.
+
+"Does God hear people?" Tyler said. "When the radio doesn't."
+
+John put both hands on the rail. The steel was cold and wet.
+
+"My wife would have told you yes," he said. "Naomi. She'd have told you that and meant it, and she'd have been sure." He didn't know how to say the rest to a ten-year-old, so he said it plain. "I went to church with her for twenty years. I thought I believed what she believed. When she died I found out it was hers. I'd been borrowing it." He looked at the boy. "So I don't know, Tyler. I'm sorry. I don't."
+
+Tyler thought about that for a while. Dan shifted against his leg.
+
+"Grandma marked one," he said. "For Mom."
+
+He opened the Bible on the rail, and John took out his phone and held its light over the page. It was the King James, with tissue-thin paper and a lot of pencil in it. Tyler turned to the place without looking for it. In the margin beside two verses, in small careful pencil, was *K. launch 3/14/28*.
+
+"You read it," Tyler said. "I read it already."
+
+John read it out loud.
+
+"*If I take the wings of the morning, and dwell in the uttermost parts of the sea; even there shall thy hand lead me, and thy right hand shall hold me.*"
+
+He read it once more to himself. Tyler was looking out over the dark water past the end of the Hook, and then up.
+
+"We're on the sea," Tyler said. "And she's up there."
+
+"Yes."
+
+"So it's both."
+
+John didn't say anything. He held the light steady until Tyler shut the book, and then he turned it off.
+
+"Naomi had one marked too," he said after a while. "In Romans. About hoping for what you can't see. If you can already see it, she said, it isn't hope." He looked up at the sky over the Strait, where nothing was going over. "I used to think that was a nice thing to say."
+
+"Is it?"
+
+"I don't know yet."
+
+Tyler picked up Dan's leash. "Commander Pruitt said seven," he said. "That's everybody. I'm going to bed."
+
+"Okay."
+
+The boy went across the flight deck and down the ladder with the dog ahead of him. John stayed at the rail until he heard the door below.
+
+In his cabin he took Naomi's Bible off the shelf over the desk and turned to the Psalms. She hadn't marked the hundred and thirty-ninth. He read the two verses again in her translation, which said them a little differently, and left the book open on the desk under the lamp when he lay down.
+
 ### 10/2/2028, 10:40 local Pacific Time
 
 Catherine had asked John to drive her up on the Monday check, and she didn't say why until they had dated the notice on the hospital glass. The envelope under it was empty.
