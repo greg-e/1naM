@@ -156,6 +156,74 @@ John read it again. "Yes. Sorry."
 
 He pulled his chair in and added which prediction lists they had used.
 
+### 10/2/2028, 10:40 local Pacific Time
+
+Catherine had asked John to drive her up on the Monday check, and she didn't say why until they had dated the notice on the hospital glass. The envelope under it was empty.
+
+"I want to use the blood gas machine in the ED," she said. "Bring the cart."
+
+The machine sat on a counter in the back of the emergency department on a red outlet, the size of a small printer, with a touchscreen and a slot for the syringe. It had been running since the fifth on the hospital's generator with nobody to feed it. The screen showed a column of warnings in red: calibration overdue, quality control not performed, three more under those. Catherine read each one and cleared them.
+
+"It wants to calibrate," she said. "Twenty minutes. Then it'll tell me if it'll take a sample."
+
+"What are you testing?"
+
+"Carbon monoxide." She found a box of blood gas syringes in a drawer under the counter and checked the date on it. "I said at the bridge it looked like cyanide or carbon monoxide. I want to take one of those off the list."
+
+The calibration ran. Catherine put on a gown over her clothes, then a mask and a face shield, then two pairs of gloves, and handed John the same. They went down the hall to the closed rooms where they had put the three from the department the first night. John had written their names on the nurses' station counter, and he hadn't been back.
+
+It was nearly four weeks. Catherine went in first and didn't stop at the door. She worked at the groin of the patient from bay 4 with the syringe for a long time, changed the angle twice, and came out with a few milliliters of something very dark. She capped it and wrote on the label. Then the nurse, and the tech. Three syringes in her gloved hand. John held the doors.
+
+The machine had passed its calibration. She fed it the first syringe and stood back while it drew the sample in. It took about a minute.
+
+"Read me the line that says COHb," she said. She was stripping off her outer gloves.
+
+"One point six percent."
+
+"That's normal. A nonsmoker's under three. Somebody who died of carbon monoxide is forty, fifty, sixty." She ran the second. "And?"
+
+"Two point one."
+
+The third was one point four.
+
+"Those numbers hold up in a dead body," Catherine said. "Carbon monoxide sticks to the hemoglobin and stays. The oxygen numbers don't mean anything after this long, but that one does." She took the printouts off the machine and folded them once. "It wasn't carbon monoxide. Not in these three."
+
+"And cyanide?"
+
+"I can't test for it here. You send that out to a reference lab." She looked at him over the mask. "But it would have to be in every bedroom in Georgia, and on Sam's airplane at thirty-six thousand feet, and on Johan's ship in the middle of the Pacific, and on a pickup driver on an open bridge, all in the same few minutes. There's no fire on the bridge. There's no source."
+
+They went out to the ambulance bay and took the gowns off in the air. Catherine sat on the bumper of a parked ambulance with the printouts on her knee.
+
+"You know why they're pink," she said.
+
+"Tell me anyway."
+
+"Your blood picks up oxygen in your lungs, and it's bright red. Then it goes around, and your cells pull the oxygen out and use it, and the blood that comes back is dark. That's why a vein looks blue." She held up one finger. "Carbon monoxide makes the blood red because it sits on the hemoglobin in place of the oxygen, and it's red whether there's oxygen or not. That's one way to get cherry red." She held up a second finger. "Cyanide does it the other way. The blood's full of oxygen, the way it should be, and the cells can't take it out. There's a last step inside the cell where the oxygen actually gets used, and cyanide jams it. So the blood comes back to the heart still bright red, and the person suffocates sitting in clean air."
+
+John thought about Della on the bridge, pulling in all the air she could and getting nothing from it.
+
+"Della said it felt like the air didn't do anything," he said.
+
+"Yes." Catherine looked at the printouts. "That's what I heard too. She was breathing fine. Her lungs were working. Her blood was probably full of oxygen. And it didn't help."
+
+"So it's the second one."
+
+"So it acts like the second one. Every one of them I've looked at since the fifth. And there isn't any cyanide." She folded the paper smaller. "Something stopped the cells from using oxygen. All at once, everywhere. I don't know what does that. I don't know of anything that does that."
+
+"Can you test it on us? On me, on you?"
+
+"I could draw yours right now and it would be normal. Mine too. We're fine. Whatever it did, it isn't doing it to us." She put the printouts in her shirt pocket. "That's the problem. The only people it shows up in are dead."
+
+John got out his notebook and turned to the six questions. Next to *2. How did this happen?* he had *Hypoxia?* from the first night in Alpharetta. He wrote *not CO (3 dead, OMC, Oct 2)*, and under it, *cells can't use oxygen? (Catherine)*.
+
+She read it over his arm.
+
+"Put a question mark on the second one," she said. "A big one."
+
+He already had. He made it bigger.
+
+<!-- [verify: hospital blood gas analyzer with co-oximetry on emergency power after weeks unattended (calibration, cartridge life, QC); COHb measurement reliability in post-mortem blood at ~4 weeks; normal COHb ranges; cyanide as a send-out test at a community hospital] -->
+
 ### 10/3/2028, 16:25 local Pacific Time
 
 Sam came back from town with a roll of wire and a paper bag of apples. He set the wire on the wardroom deck and put an apple beside John's laptop.
