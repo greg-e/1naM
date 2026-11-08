@@ -45,6 +45,49 @@ Caleb Rusk, Olivier Maurel and Monika Faller were drawn at random, not designed.
 - **Rules set by the author before rolling:** Europeans drawn from regions within ~400 km of Bellinzona, weighted by population; the American from the western states (CA, WA, OR, NV, AZ, UT, ID), weighted by population; age from real population pyramids, full range, re-rolled under 4 (an infant can't survive alone).
 - **Data (approximate, 2023–24):** US Census age pyramid; Eurostat EU age pyramid; BLS employment shares by SOC major group; regional populations in millions. Employment, household, and where-at-the-event tables are rough shares, `[VERIFY]` before quoting any of them as statistics.
 - **Draws:** seed 1804700894 was rejected by the author (a 68-year-old Piedmont forklift operator, a 30-year-old disabled single mother in rural Veneto, a 10-year-old girl in California). **Seed 2082101391 was accepted**: a 50-year-old Provence loan officer (→ Olivier), a 68-year-old Baden-Württemberg retired medical assistant (→ Monika), an 18-year-old rural Washington caregiver (→ Caleb).
+- **Olivier and Monika: drawn, not used (2026-11-08).** The Europe trip was cut (Sam and Johan fly over only to fetch Marchetti), and the group never finds them. Their character entries, removed from `CLAUDE.md`, are kept here for a possible later use. Not canon.
+
+  > ### Olivier Maurel
+  >
+  > #### Demographics:
+  >  Age 50 | Nice, France | Unmarried partner of ~20 years (name `[decide]`), no children | Loan officer at a bank branch in Nice. Drawn at random (seed 2082101391), not built for the mission.
+  >
+  > #### Physical Appearance & Presence:
+  >  About 6'0", heavyset, with a big laugh nobody has heard since September. A tailored suit gone loose over the months alone.
+  >
+  > #### Attire:
+  >  His office clothes, kept up longer than they should have been: suit trousers, pressed shirts going frayed at the collar, good leather shoes not made for walking a dead city.
+  >
+  > #### Background:
+  >  A Niçois, born and raised. At 08:00 CEST Sept 5 he's standing in a packed morning tram on Nice's Line 1. Everyone around him slumps in seconds; the driver's vigilance control brakes the tram to a stop between stations with the doors shut `[verify Nice tram vigilance system]`, and he works the emergency door release to get out. He walks home across the city and finds his partner dead in their apartment. He was awake at the instant and felt it (a few seconds of breathing hard and getting nothing from it). He lives alone in Nice for months, believing himself the only one. How the group finds him is `[decide]`. No trade the group needs, no radio. Not a POV character.
+  >
+  > #### Friction & Flaws:
+  > - Quiet Sadness: The grief doesn't break; it settles. He's courteous, slow to speak, and somewhere else.
+  >
+  > - Survivor's Guilt: Of a full tram and a whole city, he's the one who stood up. He can't find a reason, and it shames him.
+  >
+  > - Earning His Place: He'll do anything asked of him, the dirtiest and heaviest jobs first, as if survival were a loan he has to repay.
+  >
+  > ### Monika Faller
+  >
+  > #### Demographics:
+  >  Age 68 | Freiburg im Breisgau, Germany | Widow; lived with her daughter's family (daughter, son-in-law, two grandchildren) | Retired medical assistant (*Medizinische Fachangestellte*) from a doctor's practice. Has atrial fibrillation, on an anticoagulant. Drawn at random (seed 2082101391), not built for the mission.
+  >
+  > #### Physical Appearance & Presence:
+  >  About 5'4", wiry and weathered from a lifetime of Black Forest hiking. Short gray hair she cuts herself. Quick, assessing eyes.
+  >
+  > #### Attire:
+  >  Sensible walking shoes, a fleece, a canvas shoulder bag with her pills sorted by day.
+  >
+  > #### Background:
+  >  At 08:00 CEST Sept 5 she's on a Freiburg tram to her doctor's appointment, a check on her anticoagulant. The tram brakes to a stop when its driver dies, and she gets herself out. At home she finds her daughter's family dead. She was awake at the instant and felt it. Weeks later, alone, she drives south to Nice to live by the sea for the winter, unaware of Olivier. How the group finds her is `[decide]`. Forty years in a practice give her practical skills (drawing blood, injections, records), useful to Catherine and Marchetti, but she's not a clinician. Off monitoring, her AFib is a quiet clock: stroke risk if she stops the drug, bleeding risk if she falls on it. Not a POV character.
+  >
+  > #### Friction & Flaws:
+  > - Won't Be Fussed Over: She knows exactly how dangerous her AFib is off monitoring, and refuses to let anyone treat her as fragile. She hides symptoms, including from Catherine.
+  >
+  > - Sharp Tongue: Blunt in the southwestern German way, and doesn't soften it in English.
+
+- **The woman in the Okanagan (2026-11-08).** Okanagan mode (`node reference/survivor-draw.js <seed> okanagan`), conditioned on what Section 15a already fixes: female, adult, rural property on Okanagan Lake; US age and occupation tables stand in for Canadian ones `[VERIFY]`. **Seed 1899991466 was accepted**: 30, customer service rep, living with her parents, at work on a night shift at 23:00 PDT. Ethnicity rolled separately from approximate Okanagan-Similkameen shares (white/European, including Portuguese, 84; Indigenous, Syilx and others, 7; South Asian 3; East Asian 3; other/mixed 3 `[VERIFY census]`): seed 318078424, roll 12.60 → white/European.
 - **Caleb's ethnicity** was rolled separately from approximate Forks demographics (white 64, Hispanic 22, two or more races 6, Native 5, other 3 `[VERIFY census]`): seed 647769873, roll 15.08 → white.
 - **Why the base rates matter** `[DERIVED]`: among ~350 random US survivors, expect ~77 children (22% under 18), ~60 over 65, ~1 physician (~0.3% of the population), ~0.1 airline pilots, ~1 licensed ham operator. Survivors the group *finds* are biased toward people who acted traceably (a transponder, a 911 call, a radio), which is what justifies Sam and Marchetti.
 

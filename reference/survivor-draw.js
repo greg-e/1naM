@@ -72,6 +72,15 @@ function person(regions, ages, localTime, whereTable) {
 }
 const EU_WHERE = { "at home, getting ready": 40, "commuting (car/train/bike/foot)": 30, "already at work or school": 22, "elsewhere (shop, cafe, gym)": 8 };
 const US_WHERE = { "at home, asleep": 58, "at home, awake": 30, "at work on a night shift": 7, "out (driving, bar, friend's place)": 5 };
+// Okanagan mode (2026-11-08): the woman at the field in Section 15a. Usage: node reference/survivor-draw.js <seed> okanagan
+// Conditioned on what the page fixes: female, adult (18+), rural property on the east side of Okanagan Lake, BC.
+// US age/occupation tables stand in for Canadian ones [VERIFY: Okanagan skews older than the US pyramid].
+if (process.argv[3] === "okanagan") {
+  let p; do { p = person({ "Okanagan, BC": 1 }, AGE_US, "23:00 Mon PDT", US_WHERE); } while (p.sex !== "female" || p.age < 18);
+  p.setting = "rural (fixed by the page)";
+  console.log("OKANAGAN"); for (const [k, v] of Object.entries(p)) console.log(`  ${k.padEnd(10)} ${v}`);
+  process.exit(0);
+}
 for (const [label, args] of [["EUROPE 1", [EUROPE, AGE_EU, "08:00 CEST Tue", EU_WHERE]],
     ["EUROPE 2", [EUROPE, AGE_EU, "08:00 CEST Tue", EU_WHERE]], ["US WEST", [WEST, AGE_US, "23:00 Mon local", US_WHERE]]]) {
   console.log(label); for (const [k, v] of Object.entries(person(...args))) console.log(`  ${k.padEnd(10)} ${v}`); console.log();
