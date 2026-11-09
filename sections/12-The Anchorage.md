@@ -66,19 +66,9 @@ Catherine came in holding her glasses, and Sam briefed her in six words. She loo
 
 Sam pulled the laptop toward him. "This is Sam Reyes. I fly airplanes. We don't have a tug or a pilot. We have a forty-one-foot utility boat, and nobody here has driven it."
 
-"I need nothing, thank you."
+"I need nothing, thank you. When the ship is secure, I will come in. Tomorrow. I want a night on watch to see how the anchor holds on the tide. *Pacific Tender* standing by on one six and two two alpha."
 
-Tyler ran down to the sick bay and came back winded. "Della says ask what he draws. And tell him there's deadheads inside the Hook."
-
-John relayed it.
-
-"Twelve point eight meters. Forty-two feet. The deadheads are in the Coast Pilot. Who is Della?"
-
-"Our mechanic."
-
-"When the ship is secure, I will come in. Tomorrow. I want a night on watch to see how the anchor holds on the tide. *Pacific Tender* standing by on one six and two two alpha."
-
-Sam looked at the bulkhead clock. Four hours until she rounded the spit. Sam looked at John, "What are deadheads?"
+Sam looked at the bulkhead clock. Four hours until she rounded the spit.
 
 ### 12:35 local Pacific Time
 
@@ -224,27 +214,15 @@ All six of them ate in the sick bay. There were two stools, so Johan sat on the 
 
 Della was propped on pillows in the lower rack, her arm in the sling and her leg in its cast to the knee, the bruising on her face gone yellow. She had watched him since he sat down.
 
-"Who tended your fuel purifiers?"
+"Who tended your fuel?"
 
 "I did."
 
-"You a deck officer or an engineer?"
+"You're a deck officer."
 
-"Deck." He gave her the short version: Alvarez's notebook propped on the rail, the purifier alarm he slept through, the main engine lost at 0400 Saturday, thirty-four hours rolling in the trough while he took the bowl apart with a chain fall and cleaned the discs.
+"Yes." He gave her the short version: Alvarez's notebook propped on the rail, the purifier alarm he slept through, the main engine lost at 0400 Saturday, thirty-four hours rolling in the trough while he took the bowl apart and cleaned it with the manual open on the bench. "First restart, I forgot the operating water valve."
 
-She stopped chewing. "You tore down an Alfa Laval bowl solo in a seaway?"
-
-"Both. With the manual open on the bench."
-
-"One-handed."
-
-"I held the disc stack against my chest."
-
-"What'd you screw up?"
-
-"First restart, I forgot to crack the operating water valve."
-
-The corner of her mouth lifted. "Everybody does that once." She handed her plate to Catherine. "I've got a bilge pump on the pier I can't reach with this cast. Tomorrow."
+The corner of her mouth lifted. "Everybody does that once." She handed her plate to Catherine and lay back on the pillows.
 
 Tyler was on the stool by the medicine cabinet with his spiral notebook on his knees. He came over with a stubby pencil. "How much fresh water is on your ship?"
 

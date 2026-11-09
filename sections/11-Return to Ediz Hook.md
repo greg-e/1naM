@@ -2,7 +2,7 @@
 
 **12:00 local Pacific Time, Monday**
 
-"Ninety-nine one," John said, and wrote it on the sheet with the time beside it. That made eight lines since Sunday morning, in the columns Catherine had ruled for him. Della took the plastic cylinder off the blanket and did ten on it while he counted, with Tran's meter by her good hand and the marine handheld hissing on 16. She got the piston a little higher than she had on Saturday.
+"Ninety-nine one," John said, and wrote it on the sheet with the time beside it. That made eight lines since Sunday morning, in the columns Catherine had ruled for him. Della took the plastic cylinder off the blanket and did ten on it while he counted, with the marine handheld hissing on 16 by her good hand. She got the piston a little higher than she had on Saturday.
 
 He had worked it out in the notebook that morning. If they left Huntsville at first light, with an hour on the ground at Omaha and a headwind the whole way, they couldn't be here before one o'clock. The aviation handheld wasn't going to hear an airplane from inside all that steel, so from one on he took it and Dan up to the flight deck every half hour. The wind was out of the west at about ten knots, with high thin cloud and the Olympics clear behind the town.
 
@@ -161,3 +161,19 @@ Tyler's arm came down and stopped. He didn't say anything.
 John got it a few seconds later, a white point that didn't blink, sliding along above the black line of the mountains with the yellow sky behind it. It was brighter than he would have thought. He watched it pass the notch. Tyler's arm went along with it, and Sam had put a hand on the back of the big jacket. It went on to the left for about another minute, dimmer and lower, until it went behind the ridge.
 
 Tyler kept his arm out a little longer. Then he brought it down and held out his hand, and Sam gave him the headlamp. He opened the notebook against his chest to a clean line, wrote *Mon 7:54, Ediz Hook*, and next to it he wrote *saw it*.
+
+He kept the notebook against his chest. "Kids at school talk to them sometimes," he said. "A whole class, on a radio. They get their questions ready." He looked up at John. "Could we..."
+
+John waited. Tyler looked back at the ridge.
+
+"Could we what?"
+
+"Call her."
+
+"We'd need a radio," John said. "The ones we've got are for boats."
+
+"Do you know how?"
+
+"No."
+
+Tyler nodded. He shut the notebook on the pencil and gave the headlamp back to Sam, and they went down out of the wind.

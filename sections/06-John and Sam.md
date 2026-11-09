@@ -87,7 +87,7 @@ Phoenix, Arizona, had four calls, with a recording and a transcript of each:
 >
 > AGENT: I'm an AI assistant handling the queue while the dispatchers are on other calls.
 >
-> CALLER: Then get me one of them. Tell them a physician is reporting a mass casualty at a hospital. They'll pick up.
+> CALLER: Then get me one of them. Tell them a physician is reporting a mass casualty event. They'll pick up.
 >
 > AGENT: All dispatchers are on other calls. I can stay on the line with you as long as you like.
 >
@@ -163,35 +163,45 @@ Phoenix, Arizona, had four calls, with a recording and a transcript of each:
 >
 > CALLER: No. Just keep it.
 
-The most disturbing was a single call whose location record put it at the Elwha River bridge on Highway 101, west of Port Angeles, Washington, out on the Olympic Peninsula.
+The most disturbing was a single call placed by a car's crash-notification system, with a location record that put it at the Elwha River bridge on Highway 101, west of Port Angeles, Washington, out on the Olympic Peninsula.
 
-**Monday, 23:19 PDT. 1 min 34 sec. Location: Highway 101, Elwha River bridge.**
+**Monday, 23:01 PDT. 20 min 31 sec. Location: Highway 101, Elwha River bridge.**
 
-> AGENT: 911. What's the address of your emergency?
+> AGENT: 911. Your vehicle has reported a crash. Are you hurt? Can you hear me?
 >
-> CALLER: Highway 101, the Elwha River bridge, west of Port Angeles. I'll give you coordinates off my phone. Four eight, zero three, five five point seven north. One two three, three four, three six point six west. You got that?
+> [No response. 18 min 06 sec.]
+>
+> CALLER: [groaning] ...Hello?
+>
+> AGENT: I'm here. Your vehicle called 911 after a crash. Can you tell me where you are?
+>
+> CALLER: Hang on. [breathing hard] Highway 101. The Elwha bridge, west of Port Angeles.
 >
 > AGENT: I have your location. Tell me what happened.
 >
-> CALLER: Head-on, on the bridge. Me and a pickup. The other driver's not moving and his engine's still running. My left foot's turned around backward and I can't use that arm.
+> CALLER: Head-on. Me and a pickup. I must've been out. [groaning] His engine's still running. He's not moving.
+>
+> AGENT: Are you injured?
+>
+> CALLER: My left foot's turned around backward. Oh God. [inaudible] Can't use that arm.
 >
 > AGENT: I'm so sorry. That sounds very painful. Help is being dispatched. Are you in your vehicle?
 >
-> CALLER: I'm on the road. How long?
+> CALLER: Half out of it. How long?
 >
 > AGENT: Call volume is higher than usual. A unit will arrive as priority allows. Please stay near your vehicle so responders can find you.
 >
-> CALLER: I'm not lying in a traffic lane in the dark. Somebody comes through here at sixty, that's it for me. I'm going down under the bridge.
+> CALLER: I'm not lying in a traffic lane in the dark. [breathing hard] Somebody comes through here at sixty, that's it for me. I'm going down under the bridge.
 >
 > AGENT: I'd recommend staying near your vehicle. Can you stay on the line with me?
 >
-> CALLER: I've got one arm. I need it.
+> CALLER: Can't. Gotta go.
 
-John dialed Huntsville first on Microsoft Teams, which would go out through Starlink and connect through any ground gateway still up. The call failed. "I'm guessing the cell towers near that address have lost power," he said. "They run on batteries when the grid goes. Four to eight hours, maybe."
+John dialed Huntsville first through the computer, using the internet through Starlink and connect through any ground gateway still up. The call failed. "I'm guessing the cell towers near that address have lost power," he said. "They run on batteries when the grid goes. Four to eight hours, maybe."
 
 He tried the other two numbers, same result.
 
-Sam looked at John, purpose replacing the sadness that had been on his face since yesterday. "We have someone who needs our help pronto. We get the doctor in Phoenix and then get her up to Port Angeles." Sam got up. "Let me get my iPad and plan this out."
+Sam looked at John. "We have someone who needs our help pronto. We get the doctor in Phoenix and then get her up to Port Angeles." Sam got up. "Let me get my iPad and plan this out."
 
 Sam put in PDK to PHX. "About six hours to Phoenix, then four and a half PHX to CLM. We'll be flying west, which will extend our daylight. Hang on, let me do the math. Say we get out of PDK by 12:00, figuring the drive is an hour or more and then we need to top off the plane. Hmm. Not going to work. That puts us in Port Angeles close to 9 p.m. Pacific, and we can't risk flying past sunset. Let's roll, John. We get out of PDK as soon as we can, and we can make Nashville for fuel."
 

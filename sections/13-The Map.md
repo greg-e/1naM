@@ -62,11 +62,7 @@ Catherine came in carrying the covered plate. She looked at the two of them, set
 
 Sam drew a line from Port Angeles toward Sequim, following the coast with the pencil held above the paper.
 
-"We're talking about looking for people."
-
-"I can see that."
-
-"John wants somebody here while we fly."
+"John wants somebody here while we fly," he said.
 
 "Then tell me how to get hold of you. And when to start worrying."
 
@@ -104,9 +100,67 @@ Sam looked at him. "John. We're not going to do all of it before breakfast."
 
 "I'm trying to work out what we're promising."
 
-Johan pushed his plate back a little and looked at the map.
+John looked at the line Sam had drawn along the coast. By day it was a road with houses on both sides and trees between them, and whoever was in the houses would have to come outside while the airplane was over them.
 
-"What do you tell them from the airplane?"
+"At night they'd have a light on," he said.
+
+Sam looked up from the map.
+
+"Tuesday night the power went out at my house at ten to one, and the generator picked it up. My porch light's on a timer. It stayed on." John turned the notebook back to the page from that night. "Anybody with a generator, or a battery, or a fire. That shows a long way off."
+
+"From an airplane," Catherine said.
+
+"From a satellite. NOAA has two that take a picture of the lights every night. After the hurricanes it was how they saw which neighborhoods had power back. I worked on some of that data."
+
+"We don't have the internet," Sam said.
+
+"They don't need it. They send down what they see, all the time, to anybody with the right dish. The universities had them on their roofs."
+
+He pulled the dev box toward him and typed. Johan read the screen over his plate.
+
+**NOAA-20, NOAA-21. VIIRS direct broadcast, X-band, 7812 MHz. Continuous. No ground station required.**
+
+**Day/Night Band: 750 m. Detects isolated lights, lit vessels.**
+
+**Night passes, 48.14 N 123.41 W: 01:00–02:30 PDT. Receivable to 2,500 km at 5° elevation.**
+
+**Receive chain: tracking antenna 1.5–2.4 m, low-noise amplifier, downconverter, receiver, decoder. On hand: none.**
+
+**Satellite status after 9/5: Unknown. Orbital elements on hand: none.**
+
+"Two thousand five hundred," Johan said.
+
+"Kilometers. Most of the West, and a lot of Canada."
+
+"That's a lot of lights," Catherine said. "Lights aren't people."
+
+"No. My porch light would've been on it Wednesday morning, and I was asleep." John looked back at the screen. "So would every house with a generator. A generator left running looks the same every night, until the propane's gone. Somebody alive turns the lights off in the morning and on again at night. They drive somewhere and the light's somewhere else."
+
+"So you compare the nights," Sam said.
+
+"Every clear one. And the longer it goes, the more of the generators quit. What's left means more."
+
+Johan put his fork down. "How do you know it sees anything?"
+
+"The pole lights." The lights on the pier and the station lot ran all night on the reactor. "If it doesn't show us, I don't trust it to show anybody."
+
+"You take the first bearing on a light you know," Johan said.
+
+Sam had his finger on the screen under *On hand: none*. "That's everything."
+
+"Everything but the power." John started a new page and wrote *lights at night* at the top, and under it a line for each thing they didn't have: *dish, 2 m, tracking*, *front end, 7.8 GHz*, *decoder*, *orbits*. "I don't know where the satellites are, either. The capture never saved them."
+
+"And if they've stopped," Sam said.
+
+"Then we get nothing on the first pass, and I won't know if it's them or us."
+
+Sam looked at the list for a while, then pulled the road map back across the table.
+
+"So we fly today."
+
+"We fly today. This is for later."
+
+"What do you tell them from the airplane?" Johan asked.
 
 "Nothing yet," Sam said. "We don't have a way to talk to somebody in a house."
 
@@ -116,7 +170,7 @@ Johan pushed his plate back a little and looked at the map.
 
 Sam picked up the pencil again. "Same places. Give them time to put something out."
 
-John wrote *repeat* below the other three lines.
+John wrote *repeat* below *overdue*.
 
 Catherine had one hand on the back of the empty chair. "You can leave a message when you're on the ground. You didn't come to my door. I had to find you."
 
@@ -124,7 +178,7 @@ Catherine had one hand on the back of the empty chair. "You can leave a message 
 
 "Because I knew there was an airport. Somebody else might go to the hospital. Or the police station. You could have been gone by the time I got there."
 
-John took the salt away from the map and set his mug on the fold instead. He could put a message on a hospital door. He had gone in and out of Olympic Medical Center for days without leaving one.
+John set his mug on the fold of the map. He had gone in and out of Olympic Medical Center for days without leaving a message on the door.
 
 "Where would you put it?" he asked.
 
@@ -140,9 +194,13 @@ Tyler stood in the doorway with his grandmother's Bible tucked under one arm. Da
 
 "Not all of us," Sam said. "We're working it out."
 
-Tyler came to the table and stood beside John. His eyes moved along the line Sam had indicated, then up the map.
+Tyler came to the table and stood beside John. He read the screen before he looked at the map.
 
-"There's Canada."
+"That's JPSS," he said. "The weather ones."
+
+"That's them."
+
+Tyler looked up the map. "There's Canada."
 
 "There's a lot of it," Sam said.
 
@@ -182,13 +240,11 @@ Sam slid the map out from under his hand and opened the next fold. The north edg
 
 "I'm not saying Edmonton tomorrow," Sam said. "I'm saying we don't decide this is as far as we go because it's as far as the handheld reaches."
 
-John looked down at *overdue* in his notebook. He had written it heavily enough to mark the sheet underneath.
-
 "Then we need something better than the handheld."
 
 "Yes," Sam said. "And a plan for coming back."
 
-John drew no boundary on the map. He wrote *airports* on the clean margin and put a small square beside the word.
+John drew no boundary on the map. He wrote *airports* on the margin and put a small square beside the word.
 
 "We start with what we can get back to," he said. "And keep looking at the next bit."
 
@@ -262,39 +318,67 @@ John took the notebook back out. "All right. Let's drive today."
 
 Sam picked up the map. "I'll tell Catherine."
 
-### 11:20 local Pacific Time
+<!-- [verify: JPSS HRD at 7812 MHz carries full VIIRS including the Day/Night Band; dish size needed for HRD (1.5–2.4 m is a working range); NOAA-20/21 night pass times at 48°N (~01:30 local, ~50 min apart); 2,500 km reception radius at 5° elevation from 834 km (author's geometry); NOAA's use of DNB for post-hurricane outage mapping (Maria, 2017); DNB detection of isolated lights.] -->
 
-Della had made them come to the sick bay before they left. Johan was sitting on one of the stools with the radio on his knee, and she had the road map across the blanket below her good hand. John had brought down the notebook page, with a line across it where he had torn it out badly.
+### 10:40 local Pacific Time
 
-She read the places Sam had written in the margin and stopped at the airport.
+Catherine had taken the IV out that morning. The cut on the shin was closing, and the antibiotics could go by mouth now. At breakfast she had said Della didn't need a sick bay anymore, and that she had been looking at its ceiling for a week.
 
-"What are you taking?"
+Sam went up the officers' passageway and opened the captain's cabin for the first time since he had shut it on the eighth. It had a bed instead of a rack, a settee and a desk, its own head with a shower, and two windows on the starboard side looking across the harbor at the town. The family photographs were still in the rail along the bulkhead. Catherine made the bed up with clean sheets from the linen locker and set the shower chair she had brought from the hospital in the shower.
 
-"The truck," Sam said. "We're looking at the airplanes. Not taking one up today."
+They moved Della in the wheelchair. The stairway up was wide but steep. John and Sam took the chair by the frame, Johan took the footrest with the cast on it, and Catherine went up backward ahead of them with her hand under Della's heel. Della held the armrest with her good hand and didn't say anything until they set her down at the top.
 
-"You said you were going flying."
+In the cabin she looked at the photographs. A man in dress blues with a woman and two girls on a beach. The same man younger, with a cutter behind him.
 
-"We changed it."
+"Do you want those put away?" Catherine asked.
 
-She held the page out to John. "Then change this."
+"Leave them up."
 
-He crossed out *flight*, wrote *drive*, and added the hospital. Catherine watched from the end of the examination table while he did it.
+They got her from the chair onto the bed on Catherine's count. Catherine put the cylinder on the nightstand with the marine handheld and the bottle of antibiotic tablets, and went back down for her bag. Sam and Johan went to bring the pickup around to the brow. John stayed to put the wheelchair where she could reach it.
 
-"Back by three," Sam said. "If we change our minds about flying, we come back here first."
+"John." She was looking out the window. "You're going into town."
 
-Johan put the radio on the blanket beside the map. "And I remain here."
+"The hospital and the field. Back by three."
+
+"If you go past a store, bring me a bottle." She said it to the window. "Anything. I don't care what."
+
+John stood with his hands on the grips of the chair. He thought about the tablet at two in the morning, and about her asking Catherine the time all night at the hospital.
+
+"I'll be back by three," he said.
+
+He met Catherine in the passageway coming back up with her bag and told her. She looked at the cabin door for a moment. Then she took the route sheet off the top of her bag and gave it to him.
+
+"This says flight," she said.
+
+"We changed it. We're driving."
+
+"Then change it."
+
+He crossed out *flight*, wrote *drive*, and added the hospital. She read it over and took it back. Then she went into the cabin and shut the door behind her.
+
+John waited in the passageway. He could hear Catherine's voice through the door and not the words, and once Della's, louder, and then Catherine's again, going on. After a while Sam called up the stairway that the truck was at the brow. John left the door shut and went down.
+
+Johan was at the foot of the brow with the ship's radio.
+
+"Back by three," Sam told him. "If we change our minds about flying, we come back here first."
+
+"And I remain here."
 
 "You can go back to bed," John said. "We're not leaving town."
 
 "I have slept."
 
-Della tapped the airport with one finger. "School airplanes are on the west side. Don't let him bring you home a helicopter."
+John looked up at the white dome on the mast. "What's in that?"
 
-"Not today," Sam said.
+"The VSAT. Ship's internet." Johan looked up at it too. "On my ship the same. A dish, stabilized. It finds one satellite over the equator and holds it while she rolls."
 
-She looked at John. "He thinks that's funny."
+"Could it follow one across the sky? Horizon to horizon in ten minutes."
 
-The pickup was where they had left it by the pier. John put a sheet of paper on the hood and held it down while Sam opened the roll of clear tape. The message had the station's name, *Ediz Hook*, and *PEOPLE ALIVE HERE* at the top. Below that John had drawn the road from the hospital down to the waterfront and along the spit, with the mill and the gate. At the bottom it asked for a dated reply and a location if the reader could not come. He had left a space for when they would check again.
+"I never saw it asked."
+
+The dish wouldn't care what it was pointed at. The feed on the end of it would; it was built for the ship's own band, and seven point eight gigahertz wasn't it. John opened the notebook to *lights at night* and wrote *VSAT, manual?* under the list, and *what's on the end* beside *front end*.
+
+John put a sheet of paper on the hood of the pickup and held it down while Sam opened the roll of clear tape. The message had the station's name, *Ediz Hook*, and *PEOPLE ALIVE HERE* at the top. Below that John had drawn the road from the hospital down to the waterfront and along the spit, with the mill and the gate. At the bottom it asked for a dated reply and a location if the reader could not come. He had left a space for when they would check again.
 
 "Monday," Sam said.
 
@@ -322,10 +406,12 @@ Above the roof stood a metal mast with a horizontal boom and several crosspieces
 
 John took a picture through the open window, then got out to read the house number. The curtains were closed. He went no farther than the gate.
 
-Back in the truck he wrote the number and the street on the back of their route sheet.
+Back in the truck he wrote the number and the street on the back of their route sheet. Some hams talked through satellites. If this one did, he'd have a program that knew where they were.
 
 "Field first?" Sam asked.
 
 John looked at the mast again. "No. Let's look here."
 
 Sam took the radio off its clip and called the ship.
+
+<!-- [verify: Argus-class OPC commercial SATCOM radome and dish size (~1.2–1.5 m); whether a stabilized maritime VSAT pedestal and its controller can be commanded to program-track a low-orbit pass; the dome's Ku-band feed/LNB unusable at 7.8 GHz; Argus-class CO's cabin layout, deck, and windows.] -->

@@ -30,7 +30,7 @@ Johan looked at the radio for a while. "On a ship there is a list for this," he 
 
 John turned the tone off and put the power on high and wrote both changes on the back of the sheet with the date. Then he took a clean page and wrote down every line in the menu for memory 12, what it said and what it should say, and what the manual said each one did. It filled the page. He put it in the sleeve with the frequency sheet.
 
-Della had him bring the power supply to the sick bay in the morning so she could read the label on the back. "Thirty amps," she said. "You won't hurt it at fifty watts. Don't key it for ten minutes straight."
+In the morning he read the label on the back of the power supply. Thirty amps continuous, which was plenty for the radio at fifty watts, and he wrote that on the back of the sheet too.
 
 ### 10/16/2028, 12:10 local Pacific Time
 

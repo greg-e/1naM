@@ -1,10 +1,44 @@
 # Port Angeles
 
-**21:00 local Pacific Time**
+**20:05 local Pacific Time**
 
-The Elwha bridge was ten minutes west on 101, through second-growth fir and past a scatter of houses with their porch lights out. The headlights picked up the bridge rail and then two vehicles a little past the middle of the span. A pickup had come across the center line and met a small gray SUV nearly head-on. The hit had shoved the SUV back against the rail, and the pickup sat skewed across both lanes with its front end folded.
+Seattle went by off the right wing with no lights in it. The sun was down behind the Olympics and the sky over the ridges had gone orange. Sam started down across Puget Sound and came out over the Strait at nine thousand feet, with Port Angeles thirty miles ahead under the mountains.
 
-John stopped short of the bridge and left the headlights on the wreck. He shut Dan in the 4Runner and got out with his headlamp. It was cold and he could hear the river a long way down.
+From up there they could see lights. A lit window on the shore past Sequim, then two more up on the bench above it. A yard light on a pole with a barn under it. A building in Sequim with its parking lot lit. The light at the end of Dungeness Spit, flashing white. John counted them out loud for Catherine and got to eleven before Port Angeles. The town had one lit building, up on the hill above the harbor. "That's the hospital," John said. "On its generator." Out in the water the Hook made a long dark curve, and near the far end of it a row of lights ran along the spit, with a hangar lit beside them and a Coast Guard cutter lying at a pier with her deck lights on.
+
+Sam took them down to two thousand feet along the water. The lower they went the less there was. The lit windows were single points with nothing around them, no streetlights, no headlights on the roads, no glow over the town, and between them the shore and the hills were black. The town went by on the left with the hospital lit and the rest of it gone.
+
+"Darker than I figured," Sam said. "I thought there'd be more than that."
+
+"The grid's down out here too," John said. "Anything lit is making its own power."
+
+Fairchild International went by on its bench west of town. Sam keyed the mic seven times on the airport frequency for the runway lights and the field stayed dark. He tried it again and nothing came on. He banked back toward the harbor, where the lights on the Hook ran in their line along the spit.
+
+"That one's lit," Sam said. He found the Coast Guard field on the chart, dialed in its frequency, and keyed the mic seven times. Two rows of white runway lights came up along the Hook, the length of the runway. A lighted windsock beside them stood out from the west.
+
+"Ediz Hook traffic, Pilatus Six One Two Papa Romeo, low pass runway two six." He flew out past the end of the spit, came around over the Strait, and went down the runway at two hundred feet with the landing lights on. A sheet of gulls came up white off the pavement and went out over the harbor. On the second pass nothing came up. He came around once more and landed on 26, short, and turned off onto the ramp in front of the big hangar.
+
+When John opened the door the air coming in was in the fifties and smelled like salt water and kelp. Dan went down the airstair and stood on the ramp with his nose up. The hangar was lit behind its windows. The pole lights ran on down the road toward the end of the spit, and past them the cutter lay along the pier, white, with the red stripe on her bow and her lights on from the waterline to the mast. John stood on the ramp and listened. Every place he had seen with power since Tuesday had a generator running behind it. Here he heard the gulls settling on the water and a fan turning on a roof somewhere, and that was all.
+
+Catherine had her bag out of the cabin. "I need something to carry her up a riverbank, and something I can lay her flat in."
+
+"It's a rescue station," John said. "They'll have litters in there."
+
+The personnel door beside the hangar's big doors had a badge reader on it and was held open on a rubber wedge. Inside the lights were on. Three red and white helicopters sat in a row on the painted floor. The middle one had its cowlings off and a work stand beside it, and two men in coveralls lay on the floor under it. A third sat at a bench along the wall with his head down on his arms. It smelled the way Cutter had, but not as bad in the cool. Catherine walked over and looked at each of them and came back.
+
+Along the back wall were tall lockers with names stenciled on them, and above them two Stokes litters hung on pegs, wire baskets the length of a man with a rail around the edge and the straps folded inside. Catherine took one down and looked it over. "That's better than a stretcher on a bank," she said.
+
+Outside the side door a white Suburban with the Coast Guard stripe on its doors was parked nose in to the wall, the keys in the cupholder. John folded the back seats down and Sam slid the litter in, and it fit with a few inches to spare. They put Catherine's bags in beside it. Catherine rode in the back with the gear and Dan, and Sam got up front.
+
+**20:45 local Pacific Time**
+
+They drove out along the spit in the dark with the Strait on the right. At the gate a booth was lit beside the inbound lane, and a young man in a blue uniform sat on the stool inside it with his chin on his chest. The outbound lane had no arm. John drove past him slowly and didn't stop.
+
+**21:10 local Pacific Time**
+
+The Elwha bridge was twenty-five minutes from the Hook, past the mill, through a town with no lights in it, and west on 101 through second-growth fir and past a scatter of houses with their porch lights out. The headlights picked up the bridge rail and then two vehicles a little past the middle of the span. A pickup had come across the center line and met a small gray SUV nearly head-on. The hit had shoved the SUV back against the rail, and the pickup sat skewed across both lanes with its front end folded.
+
+John stopped short of the bridge and left the headlights on the wreck. He shut Dan in the Suburban and got out with his headlamp. It was cold and he could hear the river a long way down.
 
 Catherine went to the pickup first. The driver was a heavy man in a canvas coat, held upright by his belt with his head against the side window. She opened his door, put two fingers on his neck, then pulled his collar back and looked at the skin of his neck under her headlamp, and at his hand where it lay on his thigh. It was the same flushed pink John had seen on the fingers of the man in the ditch on Old Milton.
 
@@ -18,7 +52,7 @@ Sam leaned over the rail with his headlamp. "Hello? Anybody down there?"
 
 They listened to the river. Then a woman's voice came from under the bridge, hoarse. "Down here."
 
-They went down the bank holding on to the alder, Catherine with her bag and Sam with the stretcher and the drug box. It took ten minutes in the dark. She was under the first span, where the bank leveled off in gravel above the water, propped against the concrete in a green Army poncho liner with a foil space blanket over it. She was short and thickset, with her black hair in a braid that had come half undone and was crusted dark along the hairline on the left. Both eyes were blacked. The skin on her cheekbones and forearms was raw and shiny. She held her left arm across her body with the hand tucked into the front of a hi-vis vest, and her left leg was splinted on both sides with lengths of alder tied on with strips of flannel. Two empty water bottles, a third half full of river water, a first-aid kit, and an empty bottle of ibuprofen were lined up where her right hand could reach them.
+They went down the bank holding on to the alder, Catherine with her bag and John and Sam with the litter between them. It took ten minutes in the dark. She was under the first span, where the bank leveled off in gravel above the water, propped against the concrete in a green Army poncho liner with a foil space blanket over it. She was short and thickset, with her black hair in a braid that had come half undone and was crusted dark along the hairline on the left. Both eyes were blacked. The skin on her cheekbones and forearms was raw and shiny. She held her left arm across her body with the hand tucked into the front of a hi-vis vest, and her left leg was splinted on both sides with lengths of alder tied on with strips of flannel. Two empty water bottles, a third half full of river water, a first-aid kit, and an empty bottle of ibuprofen were lined up where her right hand could reach them.
 
 She put her right hand up against the headlamps. "Fire department?"
 
@@ -52,25 +86,27 @@ Della thought about it. "This morning. Not much. Dark."
 
 "Came to with the airbag in my lap. Don't know how long."
 
-Catherine looked up at John and Sam. "The ankle's broken and it's been out of place. Collarbone, at least two ribs. She has a fever and something's going on under those ribs that I need a scanner to see. She's dry." She opened the orange box. "Sam, hold this light. I'm putting a line in her before we move her."
+Catherine looked up at John and Sam. "The ankle's broken and it's been out of place. Collarbone, at least two ribs. She has a fever and something's going on under those ribs that I need a scanner to see. She's dry." She opened her bag. "Sam, hold this light. I'm putting a line in her before we move her."
 
-She tied off Della's right arm and got the needle in on the first try. She gave Sam the bag of fluids to hold up, then drew up morphine and pushed it slowly into the line, watching Della's face.
+She tied off Della's right arm and got the needle in on the first try. She gave Sam the bag of fluids to hold up.
 
-"That'll help in a couple of minutes," she said.
+"I don't have anything for the pain," she told Della. "Not till the hospital. I'm sorry."
 
-They opened the stretcher on the gravel beside her. On Catherine's count they lifted her across in one movement, Catherine holding the splinted leg. Della cried out once. Catherine strapped her in at the chest and thighs and tucked the space blanket around her.
+"Okay," Della said.
+
+They set the litter on the gravel beside her. On Catherine's count they lifted her across in one movement, Catherine holding the splinted leg. Della cried out and shut her mouth on it. Catherine strapped her in at the chest and thighs and tucked the space blanket around her.
 
 **21:50 local Pacific Time**
 
-John and Sam took the head end, climbing backward with the handles at their knees and the dirt sliding under their boots. Catherine came behind with the foot end in one hand and the bag of fluids held up in the other. They stopped every few yards to get their feet set and catch their breath, and each time Catherine put two fingers on Della's wrist before she'd let them go on. Up on the road Dan had started barking in the 4Runner.
+John and Sam took the head end, climbing backward with the rail at their knees and the dirt sliding under their boots. Catherine came behind with the foot end in one hand and the bag of fluids held up in the other. They stopped every few yards to get their feet set and catch their breath, and each time Catherine put two fingers on Della's wrist before she'd let them go on. Up on the road Dan had started barking in the Suburban.
 
-It took about twenty minutes. At the top they set the stretcher down on the shoulder in the headlights. Della's face was gray and she was breathing fast and shallow. Catherine stayed down beside her with her fingers on Della's wrist until the breathing slowed, then nodded.
+It took about twenty minutes. At the top they set the litter down on the shoulder in the headlights. Della's face was gray and she was breathing fast and shallow. Catherine stayed down beside her with her fingers on Della's wrist until the breathing slowed, then nodded.
 
-John put Dan up front with Sam. They slid the stretcher in over the folded seats, and Catherine climbed in beside it and hung the bag from the coat hook. John turned the 4Runner around in the road and headed back east toward Port Angeles.
+John put Dan up front with Sam. They slid the litter in over the folded seats, and Catherine climbed in beside it and hung the bag from the coat hook. John turned the Suburban around in the road and headed back east toward Port Angeles.
 
 **22:15 local Pacific Time**
 
-Della's voice came from the back, slower than it had been. "Where are we going?"
+Della's voice came from the back, slower than it had been. "This is the duty truck. Where are we going?"
 
 "Olympic Medical Center," Catherine said.
 
@@ -84,15 +120,15 @@ Nobody answered right away. John looked at Catherine in the mirror.
 
 She didn't say anything for a mile or so.
 
-"The Hook?" she asked.
+"You were on the Hook," she said.
 
-"We just landed. We haven't been anywhere but the bridge."
+"We landed there," John said. "The airport was dark. The Coast Guard runway came on when Sam keyed it. The whole end of the spit is lit, and I couldn't hear a generator."
 
-"How long's the hospital got power?"
+"You wouldn't." She stopped to get a breath. "The Navy put in a little reactor when they built the sub escort pier. It sits behind a fence back of the hangar and runs itself. When the town goes down it cuts loose and keeps going, nobody has to reboot anything."
 
-"It should be on its generator. I don't know how much fuel it has."
+"There's a cutter at the pier with her lights on," Sam said.
 
-"After the hospital you go to the Hook." She stopped to get a breath. "Coast Guard station, out on Ediz Hook. I work there. It's got power. The Navy put in a little reactor when they built the sub escort pier, it sits behind a fence and runs itself. When the town goes down it cuts loose and keeps going, nobody has to reboot anything. The *Active* is at the pier, three hundred sixty foot cutter, loaded for a Bering Sea patrol. Two months of food in the freezers. Makes her own water. She has a medical bay, and the station has a clinic."
+"That's the *Active*. Three hundred sixty foot, loaded for a Bering Sea patrol. Two months of food in the freezers. Makes her own water. She has a medical bay, and the station has a clinic." She got another breath. "I work there. After the hospital you take me back out."
 
 "Does the bay have a CT?" Catherine asked.
 
@@ -102,9 +138,9 @@ She didn't say anything for a mile or so.
 
 "Fine. Then the Hook."
 
-Sam turned around in his seat. "Is the cutter running?"
+Sam turned around in his seat. "Is she on her own generators?"
 
-"She's on shore power, off the reactor. Should be just like I left her, lights on, freezers cold."
+"Shore power, off the reactor. Should be just like I left her, freezers cold."
 
 John looked at her in the mirror. "How big a reactor?"
 
@@ -112,9 +148,9 @@ John looked at her in the mirror. "How big a reactor?"
 
 "How many people aboard?" Sam asked.
 
-"Five on duty. Seventeen at the station." She got another breath. "They have a runway. Forty-five hundred feet."
+"Five on duty. Seventeen at the station."
 
-"That's plenty," Sam said.
+John thought of the three men in the hangar and the one in the gate booth, and didn't say anything.
 
 "That's enough talking," Catherine said. "Slow, deep breaths, Della, as deep as you can stand."
 
@@ -124,7 +160,7 @@ They came down into town with no lights anywhere until the hospital, on the hill
 
 The ambulance doors at Olympic Medical Center opened for them. The emergency department was small, a few bays and one trauma room, and the air in it was warm and smelled the way Cutter had. The board over the nurses' station showed one patient, in bay 4, with the curtain drawn. The night nurse was slumped at the station and a tech lay on the floor of the hall beside a supply cart. Catherine looked at each of them once and went on to the trauma room.
 
-She worked the way Sam worked the airplane, out loud and in order, using whoever was nearest. The monitor on the wall came up when she clipped on the leads. Heart rate 118. Temperature 101.4. Blood pressure 102 over 64. Oxygen 90. She hooked a cannula over Della's ears and turned the flowmeter on the wall to two liters, and John watched the 90 come up to 94. The medication cabinet wanted a fingerprint and a login. Sam found a hammer in a maintenance closet and opened it with the claw, one drawer at a time. Catherine put a second IV in the other arm, filled a row of tubes, fed a few drops into a handheld analyzer from a drawer, and hung a liter of saline wide open.
+She worked the way Sam worked the airplane, out loud and in order, using whoever was nearest. The monitor on the wall came up when she clipped on the leads. Heart rate 118. Temperature 101.4. Blood pressure 102 over 64. Oxygen 90. She hooked a cannula over Della's ears and turned the flowmeter on the wall to two liters, and John watched the 90 come up to 94. The medication cabinet wanted a fingerprint and a login. Sam found a hammer in a maintenance closet and opened it with the claw, one drawer at a time. Catherine drew up morphine and pushed it slowly into the line, watching Della's face. "That'll help in a couple of minutes," she said. She put a second IV in the other arm, filled a row of tubes, fed a few drops into a handheld analyzer from a drawer, and hung a liter of saline wide open.
 
 "Hemoglobin's ten," she said. "She's lost some. Kidneys are behind, that's two days of not drinking enough."
 
@@ -158,7 +194,7 @@ Catherine took Della's right hand, held it out flat, and watched it. It was stea
 
 John and Sam wheeled the stretcher out of bay 4 with the sheet drawn up over the man on it and put him in an empty room at the end of the hall. They carried the nurse and the tech to the room beside it and laid them on the beds. John wrote the room numbers and what they had found on a paper towel and taped it to the counter at the nurses' station.
 
-They took the 4Runner back to the field with Dan for the flight bag, their packs, the cooler and the dog food. The airplane sat on the ramp where they had left it, and Sam walked around it once with his headlamp and locked it.
+They took the Suburban back out the Hook with Dan for the flight bag, their packs, the cooler and the dog food. The gate arm was down across the inbound lane. Sam found the release on the booth side and walked it up, with the young man on his stool an arm's length from him, and they left it up. The airplane sat on the ramp under the hangar lights where they had left it, and Sam walked around it once and locked it.
 
 The staff break room had a microwave plugged into a red outlet and a cupboard with canned soup in it. John heated the soup and made sandwiches from what was left in the cooler, and they ate in the trauma room. Sam sat on the floor against the wall with Dan's head in his lap. Catherine raised the head of the stretcher and Della ate half a cup of soup, slowly, the spoon in her right hand.
 
@@ -172,7 +208,7 @@ Catherine stopped with her sandwich in her hand.
 
 "I figured it was panic," Della said. "It wasn't the ribs. The ribs are a knife. That didn't hurt. I just couldn't get anything out of the air, and then it was gone."
 
-She came to with the airbag in her lap and her foot turned wrong under the pedals. The pickup's engine was still running and the man in it didn't answer. She dragged the emergency bag out from behind the seat, called 911 from the asphalt, and read it her coordinates off her map app. Then she went down the bank to the water on her backside with the bag dragging behind her. Down there she got the boot off and pulled the foot back straight because it was going gray, and she cut the splints with her pocketknife. The poncho liner had come out of the Army with her. She heard no cars and no airplanes until theirs.
+She came to with the airbag in her lap and her foot turned wrong under the pedals. The pickup's engine was still running and the man in it didn't answer. The car's crash system had already dialed 911, and she told the agent where she was. She dragged the emergency bag out from behind the seat. Then she went down the bank to the water on her backside with the bag dragging behind her. Down there she got the boot off and pulled the foot back straight because it was going gray, and she cut the splints with her pocketknife. The poncho liner had come out of the Army with her. She heard no cars and no airplanes until theirs.
 
 Catherine wrote it down.
 

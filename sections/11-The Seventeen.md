@@ -122,8 +122,6 @@ He read it. She named the four from the boat crew and the cook, and wrote each o
 
 When it was done she handed the clipboard back.
 
-"Bench six, in the shop," she said. "The drop light's got a short in the cord. Somebody's going to get bit. Bring it over to the ship and I'll do it tonight."
-
 They took the seventeen back along the spit in four loads in the bed of the pickup, past the pilot station and the boat launch, to the lumber sheds at the landward end, and laid them in a row beside *Active*'s five. That made twenty-two. John wrote the seventeen names in the station's own log on the watch floor, under the last entry Boyd had made, with the places and the time, and signed it.
 
 ### 16:30 local Pacific Time
@@ -146,75 +144,41 @@ She was at the counter with the envelope, checking the cart off against it.
 
 ### 9/13/2028, 13:15 local Pacific Time
 
-The tower stood at the end of the station's lot on a concrete pad, a gray lattice going up a hundred and seventy feet, with a ladder up one leg inside a cage and a steel cable running down the middle of the ladder. Della had them push her out to the foot of it after lunch with the cast up on the footrest, Tran's meter in her lap, and a handheld clipped to the arm of the chair. The wind was out of the west at six or eight knots, and there was high cloud.
+John had brought Della her coffee at seven and asked her where the jumper was. "My bench in the shop," she said. "Gold bag. The work order's on it." That was all she said about it, and when he looked in at eight she was asleep again.
 
-Sam had found the climbing gear in a locker in the boat shed: a full-body harness, a lanyard with two hooks, and a sleeve that clamped onto the ladder's cable. Della made him bring all of it to her before he put anything on.
+He went for it at noon. It had been on her bench in a gold bag with the work order taped to it since the thirtieth of August. The fourth bench along, Sandoval's, was clear.
 
-"Inspection tag," she said.
+The tower stood at the end of the station's lot on a concrete pad, a gray lattice going up a hundred and seventy feet, with a ladder up one leg inside a cage and a steel cable running down the middle of the ladder. The wind was out of the west at six or eight knots, and there was high cloud.
 
-He turned the harness over. "March this year."
+Sam had found the climbing gear in a locker in the boat shed: a full-body harness, a lanyard with two hooks, and a sleeve that clamped onto the ladder's cable. He laid it out on the concrete and went over it against the label sewn into the harness, the webbing on both shoulders, the stitching, every buckle. The inspection tag said March. He put the sleeve on the cable upside down, and it wouldn't go on. Right side up it went on, and when he hung his weight from it, it locked and wouldn't move. He read the label out loud to John twice: the sleeve rides up with you, you don't unclip from it until the lanyard is around the leg up top, two hooks, one always on.
 
-"Look at the webbing on both shoulders. Look at the stitching. Every buckle." She watched him do it. "Now the sleeve. Put it on the cable upside down."
+The work order had a sketch on the back. The antenna was at a hundred and fifty feet on a standoff arm on the north leg, with a platform at one forty, and the jumper ran from the antenna down to the main line at the platform.
 
-Sam tried it. It wouldn't go on.
+John had the haul rope, run through a pulley Sam had clipped to the cage at the bottom, with a canvas bag tied to the end holding the jumper, the tape, a wrench, and a rag. Catherine stood off to one side with her bag on the concrete. Tyler was on *Active*'s flight deck with the binoculars and Dan, where Sam had put him, and John could see the small figure at the rail.
 
-"Good. That's the way it's supposed to not go on. Now right side up."
-
-It went on, and he pulled down hard on it with his weight, and it locked on the cable and wouldn't move.
-
-"That's what catches you," Della said. "It rides up with you. You don't touch it. You don't unclip from it for anything until you've got the lanyard around the leg up top. Two hooks, one always on. Say it."
-
-"One always on."
-
-"The antenna's at a hundred and fifty, on a standoff arm on the north leg. There's a platform at one forty. The jumper runs from the antenna down to the main line at the platform. You take the old one off at both ends, you bring it down. Don't drop it, I want to see it."
-
-John had gone to her bench in the shop at noon for the new jumper. It had been on the bench in a gold bag with the work order taped to it since the thirtieth of August. Bench six was next to it, with the drop light Della had rewired the night before in the sick bay with John holding the cord, and the fourth bench along, Sandoval's, was clear.
-
-He had the haul rope now, run through a pulley Sam had clipped to the cage at the bottom, with a canvas bag tied to the end holding the jumper, the tape, a wrench, and a rag. He was going to hold it.
-
-"If you need a break," Della said, "you clip both hooks and you take one. You don't hang on with your arms. And you tell me before you do anything to that connector."
-
-"Yes, ma'am."
-
-Sam started up. He went at the speed Della told him to, slow, three points on the ladder, the sleeve sliding up the cable at his chest. Catherine stood behind the wheelchair. Tyler was on *Active*'s flight deck with the binoculars and Dan, where Sam had put him, and John could see the small figure at the rail.
-
-At fifty feet Sam stopped and took a breath and went on. At a hundred he stopped longer. At the platform he swung his lanyard hook around the leg and clipped it, then the second, and keyed the radio.
+Sam started up, slow, three points on the ladder, the sleeve sliding up the cable at his chest. At fifty feet he stopped and took a breath and went on. At a hundred he stopped longer. At the platform he swung his lanyard hook around the leg and clipped it, then the second, and keyed the radio.
 
 "I'm at the platform."
 
-"How's your hands?" Della said.
-
-"Fine."
-
-"Take a minute anyway."
+"Take a minute," Catherine said.
 
 He took it. John watched him up there against the cloud, and his own hands were wet inside his gloves on the rope.
 
 "Okay," Sam said. "I've got the connector. The boot's split down one side. It's green inside."
 
-"Green on the pin?"
+"Bring it down," John said.
 
-"Green on everything."
+He got it off at the antenna, then at the platform. He put the old jumper in the bag and John let it down, hand under hand, and untied it and turned the connector to the light. The pin was furred with green.
 
-"That's it." Della looked at the meter in her lap. "Take it off. Lefty-loosey, you're looking up at it, so think about it before you turn it."
+John tied on the new one and Sam hauled it up. The sheet in the gold bag said hand tight and then a quarter turn with the wrench, and the work order said how to tape it: rubber tape first, stretched and wrapped from the bottom up so the water ran off it, then black tape over that. Sam had John read it up to him a line at a time. It took him most of an hour.
 
-He got it off at the antenna, then at the platform. He put the old jumper in the bag and John let it down, hand under hand, and untied it and gave it to Della. She took the connector in her good hand and turned it to the light and looked into it.
-
-"Yep," she said. "There's your August."
-
-John tied on the new one and Sam hauled it up. Della talked him through it one end at a time: hand tight, then a quarter turn with the wrench and no more, then the tape. "Rubber tape first. Stretch it to about half its width and wrap it from the bottom up, half over each turn, so water runs off it and not into it. Two layers. Then the black over the top, same way."
-
-It took him most of an hour. When he was done she had John hold the far end of the main line at the receiver in the comms room while she read the meter at the base, and she told him to swap the leads and she read it again, and nodded.
-
-"Come down," she said. "Same as you went up. Slower."
+"Come down," John said. "Same as you went up."
 
 John went up the back stairs to the comms room while Sam was coming down. The gray box on the rack had been showing one dim light since Sunday. Now it had two, and the second one was flickering. He plugged in the laptop.
 
 The lines came up faster than he could read them.
 
-He keyed the handheld. "Della. It's working."
-
-"I know it's working," she said. "Ask your computer what it sees."
+He keyed the handheld. "Sam. It's working."
 
 He asked the model from the laptop.
 
@@ -224,12 +188,16 @@ He asked the model from the laptop.
 
 His phone had been buzzing in his pocket since he'd come up the stairs. He took it out and turned the volume down and left the alerts on.
 
-At the bottom of the tower Sam was sitting on the concrete with the harness still on and his back against the cage. Della had the old connector in her hand again. She held it up to him.
+At the bottom of the tower Sam was sitting on the concrete with the harness still on and his back against the cage.
 
-"Want it?"
+That evening, while John was taking her plate, Sam came down to the sick bay with the old jumper. Della had slept most of the afternoon. She took the connector in her good hand and turned it to the light and looked into it.
+
+"Yep," she said. "There's your August."
+
+She held it up to him. "Want it?"
 
 "No," Sam said.
 
 She put it in the pocket of her flannel shirt.
 
-<!-- [verify: Argus-class / station body-bag stock is fictional; plaster short-leg cast technique and cure times; MH-65E alert crew of four and night maintenance on a phase inspection; ladder safety-cable fall arrest on a 170-ft lattice tower; AIS antenna jumper replacement and coax check with a multimeter; tower receiver range from 150 ft] -->
+<!-- [verify: Argus-class / station body-bag stock is fictional; plaster short-leg cast technique and cure times; MH-65E alert crew of four and night maintenance on a phase inspection; ladder safety-cable fall arrest on a 170-ft lattice tower, and the instruction label on the harness and sleeve; AIS antenna jumper replacement, torque, and weatherproofing tape; tower receiver range from 150 ft] -->

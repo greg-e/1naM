@@ -234,29 +234,3 @@ Catherine didn't say anything to that.
 "It should have shut itself down, they all did. The problem is the spent fuel pools. Once the backup power runs out they have ten to twenty-one days before the fuel is exposed. I wouldn't plan on going back to Phoenix."
 
 They were over Nevada by then. She asked for the transcript again and John passed his phone back, and she read it through.
-
-**20:05 PDT**
-
-Seattle went by off the right wing with no lights in it. The sun was down behind the Olympics and the sky over the ridges had gone orange. Sam started down across Puget Sound and came up the Strait with the dark town of Port Angeles ahead and the long curve of the Hook out in the water.
-
-**20:25 PDT**
-
-William R. Fairchild International was on a bench above the water just west of town. Sam keyed the mic seven times on the airport frequency for the runway lights and nothing came on. "Port Angeles traffic, Pilatus Six One Two Papa Romeo, low pass runway 8." He flew it at two hundred feet with the landing lights on. Half a dozen deer were feeding along the edge of the pavement and two were standing on the centerline. They ran for the trees when he went over.
-
-He came around and landed long, past where they had been, and taxied to the terminal. When John opened the door the air coming in was in the fifties and smelled like salt water and fir. Dan went down the airstair and stood on the ramp with his nose up.
-
-Citizen Air was in the terminal, closed and locked. John cupped his hands against the glass and put his headlamp on it. Nobody was at the counter and a pegboard of keys hung on the wall behind it. Sam took the fire extinguisher off its bracket by the fuel tanks and put it through the door. The ring tagged CREW CAR was on the second row, and the car was a white sedan in the short-term lot, full tank.
-
-Catherine looked in the back seat. "I can't lay her flat in that. What else is on this field?"
-
-John pointed his headlamp down the apron. A red and white helicopter sat on a pad in front of a hangar with a Life Flight sign on it.
-
-"That'll do," she said. "They'll have a stretcher."
-
-They drove the sedan down the apron. The side door of the hangar was unlocked. A pilot sat in a recliner in the crew room and a woman in a flight suit was at the table with her head on her arms, and a man in the same flight suit lay on a bunk through the open door behind them. It smelled the way Cutter had, but not as bad in the cool. Catherine looked at each of them with her headlamp and then went past them into the supply room. She came out with a folding stretcher and handed it to Sam, went back for an orange drug box and a bag of IV fluids, and sent John to look for keys.
-
-A hook by the crew room door held a Toyota key. Behind the hangar he pressed the button on it and the lights blinked on a gray 4Runner. He folded the back seats down and it was long enough for the stretcher. It started on the first try and the gauge read a little over half.
-
-**20:50 PDT**
-
-It was nearly dark when they got the stretcher and the drug box and Catherine's bags loaded. Catherine rode in the back with the gear and Dan, and Sam got up front. John turned on the headlights and drove out the airport gate.

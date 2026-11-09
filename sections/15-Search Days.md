@@ -337,25 +337,3 @@ A radio sat beneath a shelf in one photograph, with an external speaker and its 
 He had flown the Cessna with Sam twice since the first search. On the second trip Sam had let him bring it all the way in, then kept him aboard to explain why he had let the airplane drift toward the edge of the runway while he looked at the windsock. John had written that in the airplane's binder before he had written anything about the houses they passed.
 
 They had repeated the first search route, and part of a second one, taking photographs from the same side where they could. John had mistaken laundry left on a line for a new signal until he found it in the earlier photograph. On days they didn't fly, they checked notices, inspected the airplane or worked at the radios. The hospital envelope remained empty. Once, a gust had torn it loose, and Catherine brought it back with wet corners and asked for something that would keep the paper dry.
-
-Sam put another apple on the table and opened the map beneath it. The maps now covered both sides of the border; John had brought the Canadian charts out of the airplane's collection and kept them with the others rather than in a separate pile.
-
-"I want to look inland while we can," Sam said.
-
-He traced the settled strip along the Okanagan lakes with his finger. There were roads running along it, towns, fields and airports. John found Penticton in the Canadian flight supplement they had brought back from the pilot lounge. He laid it open beside the map, with the airport chart facing Sam.
-
-"That's a place we can land," John said. "If it's clear."
-
-"And get out to look."
-
-John followed the roads north and south of the airport. He could see why Sam had picked the valley. Their camera had brought home a great many photographs of trees.
-
-"We still have to cross the mountains," he said.
-
-"I know. I'm not proposing we follow a road under the cloud. We wait for a day we can make the crossing and come back."
-
-"Same day."
-
-"For the first look."
-
-John took a fresh sheet out of the printer tray. He wrote the airport name at the top and drew two columns, *Out* and *Back*. He left the space beneath them blank while Sam went to get the charts.
