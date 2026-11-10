@@ -1,44 +1,44 @@
-**John Hartman**
+**John Hartman, Alpharetta, GA**
 
 **9/5/2028**
 
-A thud woke him. Distant and heavy, enough to rattle the bedroom window in its frame, and gone before he was fully awake. The clock read 2:05. He lay in the dark and waited: listening for a siren or alarm, anything. Nothing, he heard his dog resettled at the foot of the bed. John rolled over and went back to sleep.
+A thud woke him. Distant and heavy, enough to rattle the bedroom window in its frame, and gone before he was fully awake. The clock read 2:05. He lay in the dark and waited: listening for a siren or alarm, anything. Nothing but his dog resettling at the foot of the bed. John rolled over and went back to sleep.
 
-He woke again at six-thirty, same as every morning. Sixty-one years old and alone for sixteen of them, well, not really alone. There was always a dog, currently a mountain cur named Dan.
+He woke again at six-thirty, same as every morning. Sixty-one years old, alone for the last sixteen, well, not really alone. There was always a dog, currently a mountain cur named Dan.
 
-He showered, then head to the kitchen for what he called first breakfast: a blueberry, avocado, beet juice, and spinach smoothie. It wasn't exactly smooth, but it was efficient. Gray light came in the kitchen window. The days were getting shorter, which would start to cut his walks with Dan short. He tried not to think about work on the walk.
+He showered, then head to the kitchen for what he called first breakfast: a blueberry, avocado, beet juice, and spinach smoothie. It wasn't exactly smooth, but it was efficient. Gray light came in the kitchen window. The days were getting shorter, which would start to cut his walks with Dan short
 
 **07:15**
 
-They headed out, Dan's tail swinging back and forth as they walked down the driveway.
+They headed out, Dan's tail swinging back and forth as they walked down the driveway. This was a highlight of his day, a chance to clear his head and not think about work.
 
-The neighborhood was quiet. Cars that were gone at this time on a workday sat parked in driveways like it was a Sunday morning. At the corner where the Pattersons' kids caught the school bus at 7:20, there were no kids and no bus.
+The neighborhood was quiet, unusually quiet. Cars that were gone at this time on a workday sat parked in driveways, it was more like a Sunday morning. At the corner where the Pattersons' kids caught the school bus at 7:20, there were no kids and no bus.
 
-He checked his watch: 7:25. The quietness made him curious. He walked to where his subdivision met Old Milton Parkway. Old Milton hadn't been quiet at any hour in years. He stood on the sidewalk at his subdivision entrance and listened. It was so quiet.
-
-"Hmm," he said out loud, this was making no sense. Yesterday had been labor day, but that usually meant more activity, not less and certainly not nothing.
-
-To the north, a hundred yards away, a car was nose-down in the drainage ditch. It must have just happened. He jogged up the hill. The front of the car had gone down into a storm culvert, lifting the rear wheels off the ground so they spun freely. He put Dan in a sit a few yards back, went to the driver's door, and pulled it open.
-
-A man about forty sat nearly upright, held there by the shoulder belt, his eyes open, his foot still pressing the gas pedal.
-
-John reached across the man's knees, found the start button, and shut the engine off. The rear wheels spun down, and then he could hear Dan whining behind him. He checked for a pulse on the man's neck. The skin was cool, almost cold. No heartbeat. This had happened hours ago, not minutes. The man's left hand hung down beside the seat, the fingers a flushed pink, like when you are out in subfreezing temperature. Not what John expected.
-
-He backed away from the car and called 911 with Dan pressed against his leg.
+He checked his watch: 7:25. The quietness made him curious. He walked to where his subdivision met Old Milton Parkway. Old Milton hadn't been quiet at any hour in years. He stood on the sidewalk at his subdivision entrance and listened. There was zero traffic, no cars at all.
 
 **07:40**
 
-It answered on the first ring, and for a second he took it for a person: a woman's voice, warm and unhurried, with a small breath before the question. "Nine-one-one, what's the address of your emergency?" It was the even, steady voice of an AI agent.
+"Hmm," he said out loud, this was making no sense. Yesterday had been labor day, but that usually meant more activity, not less and certainly not nothing.
 
-"Old Milton Parkway," John said. "Roughly one mile north of Highway 400."
+To the north, a hundred yards away, he could make out a car flipped over in the drainage ditch. It must have just happened. He jogged up the hill, dialing 911. 
+
+911 answered on the first ring, and for a second he took it for a person: a woman's voice, warm and unhurried, with a small breath before the question. "Nine-one-one, what's the address of your emergency?" It was the even, steady voice of an AI agent.
+
+"Old Milton Parkway," John said catching his breath. "Roughly one mile north of Highway 400."
+
+He had gotten to the car and had Dan sit a few yards back. He went to the driver's door, and pulled it open.
 
 "What is the emergency?"
 
-"A car accident. One car involved, the driver is dead."
+"A car accident. One car involved."
 
-"Is the driver breathing?"
+"How many people involved, any injuries?"
 
-"No, I said he is dead."
+A man about forty was held upside down by the shoulder belt, his eyes open, his foot still pressing the gas pedal.
+
+John reached across the man's knees, found the start button, and shut the engine off. The rear wheels spun down, and then he could hear Dan whining behind him. He checked for a pulse on the man's neck. The skin was cool, almost cold. No heartbeat. This had happened hours ago, not minutes. The man's left hand hung down beside the seat, the fingers a flushed pink, like your skin looks like on a cold winter day. Not what John expected.
+
+"One person, a man, he's dead."
 
 "Are you safe where you are?"
 
@@ -50,61 +50,82 @@ John felt the small, stupid pull of being understood by it. Call volume was high
 
 He asked for a person. It said it was an AI assistant handling the queue while the dispatchers were on other calls, that everything had been logged, and that it would stay on the line as long as he liked. John hung up.
 
-He walked south toward 400, maybe around the bend there was something that would make sense. A road crew. A cop waving traffic around a wreck. The silence made him aware of his own sounds: his boots on the sidewalk, Dan's tags clinking together.
+He walked south toward Georgia Highway 400.
 
-Old Milton passed under 400. An eighteen-wheeler had jackknifed across the southbound lanes and folded against the bridge rail. The tractor had gone through the rail and hung nose-down over the road below. Nothing moved. On an ordinary Tuesday at this hour, this stretch of highway moved more people past this one spot in a minute than lived in his whole subdivision. Farther south, a column of black smoke rose into the sky.
+Old Milton passed under 400. An eighteen-wheeler had jackknifed across the southbound lanes and folded against the bridge rail. The tractor had gone through the rail and hung nose-down over the road below. Nothing moved. On an ordinary Tuesday at this hour, this stretch of highway moved more people past this one spot in a minute than nearly everyone that lived in his subdivision. Farther south, a column of black smoke rose into the sky.
 
 **07:55**
 
-He pulled up the news on his phone. News app, the top story was six hours old with no update. He switched apps: the same frozen feed. No updates. Dan leaned hard into his leg and whined. John turned for home and walked fast, leash short, not quite running.
+He called 911 again and reported the truck. 
 
-Back in the subdivision, he heard the Morrisons' dog, barking steady and hoarse. Another one farther down, behind a fence. A small one, high and frantic, inside a house with the blinds still down. Dan pulled toward the Morrisons' door, and John shortened the leash and kept him moving.
+"A unit will be dispatched as soon as possible." It said.
+
+"There are no sirens, no fire trucks, no police, what's going on? Connect me to a supervisor."
+
+"Do not attempt to move severely injured persons unless there is an immediate environmental hazard. Do not approach the commercial vehicle if you smell fuel or chemical propellants. Please remain on the line. Dispatch will connect you with a human operator as soon as one becomes available.
+
+(Ten seconds of dead air)
+
+"Attempting to route to primary Public Safety Answering Point...
+"Routing failed.
+"Attempting to route to secondary regional node...
+"Routing failed.
+
+"I apologize. The dispatch network is currently unresponsive. Your incident data has been cached and will be transmitted when the connection is re-established. Please secure your immediate area and await first responders."
+
+He was already headed home.  Back in the subdivision, he heard the Morrisons' dog, barking steady and hoarse. Another one farther down, behind a fence. A small one, high and frantic, inside a house with the blinds still down. Dan pulled toward the Morrisons' door, and John shortened the leash and kept him moving.
 
 **08:15**
 
-Back at the house, Dan went under the kitchen table and stayed there. John opened his laptop. The same frozen feed: the national wires, the overseas outlets, the social platforms that should have been a roar of overnight noise. Every one of them sat still, nothing post since two in the morning.
+Back at the house, Dan went under the kitchen table and stayed there. John opened his laptop. He looked at CNN and Fox, then Instagram and X. All of them seemed frozed, nothing post since two in the morning.
 
-**08:30**
+At 8:30 he logged in to his standing sync call with his group at Google, the public-sector team he ran engagements for out of the D.C. office. Five minutes went by, then ten, and nobody else joined. He sat looking at his video tile, he looked like he felt - weak, pale. He closed the meeting. He direct messaged his boss in DC, then an email to his team.
 
-At 8:30 he logged in to his standing sync call with his group at Google, the public-sector team he ran engagements for out of the D.C. office. Five minutes went by, then ten, and nobody else joined. He sat looking at his own pale reflection in the video tile. He closed the meeting.
-
-He started calling people: his brother Mark first, then down the list of everyone he talked to in an ordinary week. Mostly voicemail. He left a few messages.
+He started calling people: his brother Mark first, then down the list of everyone he talked to in an ordinary week. Mostly voicemail. He left a few messages. He called the Alpharetta police department direct number and tried every branch on the directory, nobody picked up.  
 
 He set the phone down. Through the kitchen window he could hear the Morrisons' dog, still barking. Dan lifted his head off the floor and watched him.
 
 "Harry," he said out loud.
 
-He left Dan in the house and went next door. Harry had been his friend for twenty years. He had gotten John through the worst of it after his wife Naomi died. He rang the bell and waited. Nothing. He knocked. Nothing. The front door was locked. He went around to the garage and tried the code Harry had given him a few months back, and the door went up. "Harry? You here?" Nothing. Through the kitchen, the living room, down the hall to the master bedroom. "Harry?"
+He left Dan in the house and went next door. Harry had been his friend for twenty years. Besides Waffle House and Quick Trip, Harry was represented most of his regular 'live' interaction he had since his wife Naomi died. They had hung out most of the day yesterday, Harry was usually up by now, but he did have a few beers past his limit last night. John rang the bell and waited. Nothing. He knocked. Nothing. The front door was locked. He went around to the garage and tried the code Harry had given him a few months back, and the door went up. "Harry? You here?" Nothing. Through the kitchen, the living room, down the hall to the master bedroom. "Harry?"
 
 Harry was in bed, on his side, the blanket at his waist. "Harry?" John checked for a pulse. His friend was dead. He pulled the blanket up over Harry's shoulder and let himself back out through the kitchen.
 
-He walked up the street toward the Morrisons', toward the barking. He rang the doorbell and knocked. The barking got louder, vicious. He didn't know their dog and didn't think now was a good time to meet.
+His chest was tight, he walked up the street toward the Morrisons', toward the barking. He rang the doorbell and knocked. The barking got louder, vicious. He didn't know their dog and didn't think now was a good time to meet.
 
-Next door was the Pattersons'. He went to their door and rang the bell. "Bill? Hey Bill! Judy, are you there? Kids?" No response. The front door and garage were locked. He went through the side gate to the back deck. The back door stood open. John stepped in. "Bill? Judy? Hello? Anyone here?"
+Next door was the Pattersons'. He went to their door and rang the bell. "Bill? Hey Bill! are you there?" No response. The front door and garage were locked. He went through the side gate to the back deck. The back door stood open. John stepped in. "Bill? Judy? Hello? Anyone here?"
 
-He walked down the hall and saw Judy and Bill in bed. "Hello?" He forced himself to make sure. Cold. Down the hall, both kids were in their rooms, same, gone, dead. He left and walked fast toward home, looking over his shoulder.
+He walked down the hall and saw Judy and Bill in bed. "Hello?" He forced himself to make sure. They were both cold with no pulse. Down the hall, both kids were in their rooms, same. He left and walked fast toward home, looking over his shoulder.
 
 **09:10**
 
-Dan met him at the door like it had been a week. He grabbed his keys and Dan's leash. "Come on, buddy, let's go for a drive."
+Dan met him at the door like it had been a week. He grabbed his keys and Dan's leash. "Dan, Truck. Let's go for a drive." Dan scrambled for the garage door.
 
-Out on Old Milton Parkway, nothing had changed since an hour ago.He headed south toward 400. The eighteen-wheeler still hung off the bridge. He took the ramp south toward Atlanta. Nothing moved. A couple of cars sat in the ditch; one was flipped over. The black smoke he had seen earlier was thicker now. As he got close, he saw that a fuel tanker had left the road, sheared through a thin line of trees and a fence, and crashed into the back of a retail shopping center on the east side. The building was on fire. No emergency vehicles, no fire trucks, no sirens.
+Out on Old Milton Parkway, nothing had changed since an hour ago. He headed south toward 400. The eighteen-wheeler still hung off the bridge. He took the ramp south toward Atlanta.
 
-He tried 911 again on the speaker. Same voice, same answer. He hung up. He had blown off getting gas on Sunday, and now the gas light was on. Exit 8 had a QuikTrip a few blocks off 400.
+*Whats going on*, he thought.
+
+Nothing moved. A couple of cars sat in the ditch; one was flipped over. The black smoke he had seen earlier was thicker now. As he got close, he saw that a fuel tanker had left the road, sheared through a thin line of trees and a fence, and crashed into the back of a retail shopping center on the east side. The building was burning. No emergency vehicles, no fire trucks, no sirens.
+
+He tried 911 again on the speaker. Same voice, same answer. He hung up. He had blown off getting gas on Sunday, and now the gas light was on.
+
+"Great, that's all I need." His ears were hot and heartrate was climbing, *No time for a heartattack, John, calm down.*
+
+Exit 8 had a QuikTrip a few blocks off 400.
 
 The place was lit up and the pumps were on. He pulled up to pump eight. 
 
-Two other cars sat at the island: a white pickup at pump two with the door open and a man face down on the concrete beside it, the nozzle still in the tank; a red Honda at pump five, a woman behind the wheel with her head against the window. John checked the man and then the woman. Both dead. Dan watched from the back window, quiet.
+There was a white pickup at pump two with the door open and a man face down on the concrete beside it, the nozzle still in the tank. John went over and checked the man. Dead. Dan watched from the back window of the truck, quiet.
 
-The pump took his credit card and turned on, the numbers ticking up. It was comforting to have something working like normal.
+The pump took his credit card and turned on. It was calming to have one thing normal this morning.
 
-He went into the store. The lights were on, country music playing low over the speakers. He went straight to the cooler, grabbed three water bottles, "Hello? Anybody here?" No answer.
+After filling up the tank, he went into the store. The lights were on, country music in the background. He went straight to the cooler, grabbed three water bottles, "Hello? Anybody here?" No answer.
 
 "Caution. Cleaning in progress."
 
 He spun around, the water bottles flying out of his hands onto the floor. A knee-high, disc-shaped robot was working up the aisle. It repeated the line, bumped the base of a shelf, backed off a couple of inches, corrected, and kept going. John stood there a minute, letting his stomach go back to where it belonged.
 
-Behind the counter, on the floor wedged between the register and the cigarette rack there was a woman, twenties, maybe younger, in a QuikTrip polo. Her eyes and mouth were open. He checked for a pulse. Cold. 
+Behind the counter, on the floor wedged between the register and the cigarette rack there was a woman, twenties, maybe younger, in a QuikTrip polo. Her eyes and mouth were open. He checked for a pulse. Cold.
 
 "So sorry," John said out loud. He left the water and went back to the car.
 
@@ -114,7 +135,7 @@ He pulled up the map on his phone and searched for the closest fire station. Nor
 
 The main door was unlocked. "Hello? Anyone here?" Silence. He walked down the hall. In the kitchen, two firefighters in uniform lay on the floor. He checked both. No pulse, cold.
 
-**10:30**
+**10:05**
 
 Back in the car, he sat staring out the windshield at the sun flashing off the glass of the bay doors. He pulled out the small notebook he always carried to get thoughts out of his head and see what he was thinking. He wrote four questions:
 
@@ -123,21 +144,25 @@ Back in the car, he sat staring out the windshield at the sun flashing off the g
 *3. Is there anyone else alive?*
 *4. Why am I alive?*
 
-He could get more questions from the systems he had access to back at home.
+He headed back home.
 
-**10:50**
+**10:40**
 
-Back home, John started on his first question: *Where else?* He opened his laptop and pulled up FlightAware an app that tracked flights around the world. At this time of day, there should be more than 9,000 active flights. To get a quick count, he clicked on 'Browse by Aircraft Type' to view all tracked aircraft. He copied the first column giving the count by type and dropped it into a chat.
+Back home, John started on his first question:
+
+*Where else?*
+
+He opened his laptop and pulled up FlightAware an app that tracked flights around the world. At this time of day, there should be more than 14,000 active flights. To get a quick count, he clicked on 'Browse by Aircraft Type' to view all tracked aircraft. He copied the first column giving the count by type and dropped it into a chat.
 
 **323 aircraft.**
 
-"That can't be right," he said out loud. Even though the number seemed wrong, his immediate thought jumped was: *That means there are other people alive.*
+"That can't be right," he said out loud. *But, that means there are other people alive!* He thought.
 
-FlightAware was a patchwork. Much of its ground coverage came from hobbyists—thousands of people with a thirty-dollar receiver for ADS-B—the system that broadcasts an aircraft's position and identity—and a small antenna in a window or an attic, feeding data over their home internet. The rest came from satellites, airline feeds, or FlightAware filling gaps with best-guess estimates. John had spent his career analyzing data like this. This was more than a server hiccup. He needed something more reliable.
+FlightAware was a patchwork. Much of its ground coverage came from hobbyists, thousands of people with a simple receiver for ADS-B, the system that broadcasts an aircraft's position and identity, and a small antenna in a window or an attic, feeding data over their home internet. The rest came from satellites, airline feeds, or FlightAware filling gaps with best-guess estimates. John had spent his career analyzing data like this. This was more than a server hiccup. He needed something more reliable.
 
-He got up from the kitchen table and walked to his office. His team at Google was part of a massive AI integration project across the FAA, DOT, Coast Guard, NOAA, Homeland Security, and FEMA.
+He got up from the kitchen table and walked to his office. His team at Google was part of a massive AI integration project across the FAA, DOT, Coast Guard, NOAA, Homeland Security, and FEMA. He had access to read-only live output from those agencies.
 
-He docked the laptop and remoted into the local development model he had been testing. It still held live credentials for the FAA's own systems: ERAM, which tracks every airplane at altitude for the twenty en route centers, and STARS, which runs the radar scopes at the approach controls around the big airports. It held the Coast Guard's AIS too, the feed of position reports every large ship broadcasts. He opened a terminal and connected the model to two more. SMART was the FAA's new system for pulling every flight's route and trajectory into one picture. Aireon was a company that had put ADS-B receivers on a constellation of communications satellites, so it heard airplanes over the oceans and the poles, where no ground antenna reached. His team had built the MCP server for it, a small piece of software that sat between the model and Aireon's data and told the model what it could ask for and how. He keyed his mic.
+He docked the laptop and remoted into the local development model he had been testing. To get a reliable live feed he connected to: ERAM, which tracks every airplane at altitude for the twenty en route centers, and STARS, which runs the radar scopes at the approach controls around the big airports. It held the Coast Guard's AIS too, the feed of position reports every large ship broadcasts. He opened another terminal and connected the model to two more. SMART was the FAA's new system for pulling every flight's route and trajectory into one picture. Aireon was a company that had put ADS-B receivers on a constellation of communications satellites, so it heard airplanes over the oceans and the poles, where no ground antenna reached. His team had built the MCP server for it, a small piece of software that sat between the model and Aireon's data and told the model what it could ask for and how. He keyed his mic.
 
 "How many aircraft are currently airborne globally?"
 
@@ -149,15 +174,19 @@ The response printed two seconds later.
 
 **1:59am.**
 
-John stared at the screen. "There have been no departures globally after 1:59am?"
+John stared at the screen. "There have been no departures globally since 1:59am?"
 
-**Correct.**
+**One departure.**
 
-He appreciated the model's brevity—direct, built for air traffic control environments where operators needed quick truth over consensus data.
+He appreciated the model's brevity—direct, built for air traffic control environments where operators needed quick answers.
 
-"Map all current airborne flights and generate a table of aircraft type, carrier, departure time, departure location, filed destination location, and current flight duration. Plot all current locations and flight paths on a map."
+"Give me the details on the one departure."
 
-The first table updated: **342**. The second table showed: **2**.
+**Pilatus PC-12 NGX (C-GKPX); DAL27PDK; Departed Edmonton CYEG → no destination filed; Departed 07:31; landed Minneapolis-St. Paul KMSP 10:45**
+
+"Map all current airborne flights and generate a table of aircraft type, carrier, departure time, departure location, filed destination location, and current flight duration."
+
+Table updated: **342**. 
 
 "The first output was 351. Why a lower number now?"
 
@@ -210,11 +239,11 @@ John's mouth went dry and his stomach turned. "Are all these people dead?"
 
 **Unknown.**
 
-He pulled up his team's active contacts: FEMA's operations center in D.C., the FAA Command Center in Warrenton, Virginia, and the Coast Guard's National Command Center in Washington.
+He sent several direct messages to his Team, then he pulled up his team's active contacts: FEMA's operations center in D.C., the FAA Command Center in Warrenton, Virginia, and the Coast Guard's National Command Center in Washington.
 
 The FEMA line rang until it dropped. The FAA line picked up on an automated recording asking him to hold for the next available specialist. He held for five minutes, listening to it loop. He had stood on that floor in Warrenton—rows of specialists at their consoles, the entire country's air traffic up on the wall in front of them, a room that never closed. He knew how many people it took to staff a shift in there. "Please continue to hold," the recording repeated. The Coast Guard line rang and rang. No answers.
 
-He scrolled down to the second table—the two flights that had either taken off or landed after 2:00 AM:
+He did have something interesting.  "Give me a table of takeoff and landing operations since 1:59 am."
 
 
 | # | Carrier / type | Flight ID | Route | Departed | Sched. arr. | Planned Flight Duration | Actual Flight Duration | Squawk | Event after 02:00 | Status |
