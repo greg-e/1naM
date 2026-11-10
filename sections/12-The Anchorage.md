@@ -296,7 +296,7 @@ Seven and a half knots off in fifty-eight minutes, in three even steps. An engin
 
 The model worked for fifteen minutes.
 
-**11,240 vessels evaluated. Matches: 1.**
+**106,160 vessels evaluated. Matches: 1.**
 **PACIFIC TENDER.**
 
 John opened his notebook to the page with his questions. Under *3. Is there anyone else alive?*, beneath *ISS (7?)*, he wrote *Johan Brandt*. He took the slip of thermal paper from his shirt pocket, pressed it flat between the pages, and next to *SafetyNET 2141*, wrote: *1 ship*.

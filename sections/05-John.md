@@ -11,7 +11,7 @@ John shut the door to his office, sat down, pulled out his notebook, stared at i
 
 Sam had talked about the pink skin and his training for crew incapacitation. He thought the crew had died for lack of oxygen.
 
-He felt numb, before today the only dead person he had seen was his wife Naomi. He had lost count of the people he had seen today. *Glad I never watched* The Walking Dead, he thought.
+He felt numb, before today the only dead person he had seen was his wife Naomi. He had lost count of the people he had seen today. *Glad I never watched The Walking Dead*, he thought.
 
 He looked at the screens and got back to work:
 
@@ -209,7 +209,7 @@ He'd been in bed in Alpharetta. Sam had been in a bunk at forty thousand feet ov
 
 ### 22:00
 
-Naomi's study was across the hall from his office. He went in without turning on the overhead light, the lamp on her desk was enough. He kept the room the way it was. Her reading glasses folded on the blotter. The afghan her mother had made over the arm of the chair. Her Bible on the side table, the leather gone soft and dark at the corners where her hands had held it, a strip of ribbon hanging out of it.
+Naomi's study was across the hall from his office. He went in without turning on the overhead light, the lamp on her desk was enough. He kept the room the way it was. Her reading glasses folded on the blotter. The afghan her mother had made over the arm of the chair. Her Bible on the side table, the leather soft and dark at the corners where her hands had held it, a strip of ribbon hanging out of it.
 
 He sat in her chair, and stayed there a while.
 

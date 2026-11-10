@@ -176,7 +176,7 @@ Tyler pointed at the desk. A picture stood at the end of the row, a small woman 
 
 "She's up there," Tyler said. "Since March."
 
-In five days John had counted ninety-five hundred airplanes and eleven thousand ships. He had the grid by the hour and every reactor in two hundred miles. Sam had flown under that thing for twenty years, and neither of them had said one word about it.
+In five days John had counted ninety-five hundred airplanes and a hundred and five thousand ships. He had the grid by the hour and every reactor in two hundred miles. Sam had flown under that thing for twenty years, and neither of them had said one word about it.
 
 Tyler had gone to the desk. He had a spiral notebook there and he opened it and held it out, a column of times in the same careful pencil, a lot of them checked off. "I copied them off the app, before my phone died. It still goes over. I saw it Thursday and I saw it Friday, right on time, and there's one tonight at 7:41. So it's still up there, so that means..." He looked at the page. "Do you think they..."
 

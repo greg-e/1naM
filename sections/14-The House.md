@@ -2,7 +2,7 @@
 
 ### 9/16/2028, 11:40 local Pacific Time - John
 
-"Active, Sam. We're stopped at a house with an antenna. John wrote the address on the back of the route sheet. I'll read it to you."
+"Active, Sam. We're stopped at a house with an antenna. John's got the address. I'll read it to you."
 
 He did, and Johan read it back. John took two masks from the box behind the pickup's seat and put one on the dash beside Sam's hand.
 
@@ -28,13 +28,13 @@ The office was the bedroom at the back. The door wouldn't open all the way becau
 
 A framed license hung above the desk. John read the name, *Arthur Keene*, and wrote it in his notebook. Through the window he could see the mast rising out of its brackets on the back wall. Two thick cables came through a plate below the sill, ran along the baseboard, and came up behind a desk crowded with equipment.
 
-There were two radios, a power supply, a laptop with its lid down, and a microphone on a small stand. The larger radio had a tuning knob worn smooth at the edge and a pair of headphones plugged into the front. There were more knobs than John could read from where he stood. On the shelf above it sat manuals, a soldering iron and a row of small plastic drawers with handwritten labels. A photograph of a black dog was pinned to the side of one drawer.
+There was a radio, a power supply, a laptop with its lid down, and a microphone on a small stand. A pair of headphones was plugged into the front of the radio, and its face had more buttons than John could read from where he stood. On the shelf above it sat manuals, a soldering iron and a row of small plastic drawers with handwritten labels. A photograph of a black dog was pinned to the side of one drawer.
 
 Sam moved the bag off the folding chair and put it on the floor. He unzipped it and lifted out a coil of cable, then held the bag open for John. There were loose adapters in one pocket and a small notebook in another.
 
 "We take this with it," John said. "Even if we don't know what it's for."
 
-He put his phone's light on and took a picture of the backs of the radios before he touched a cable. The plugs were crowded together, with two leads disappearing behind the drawers. He moved the drawers far enough to see that one went to a speaker and the other to the laptop.
+He put his phone's light on and took a picture of the back of the radio before he touched a cable. The plugs were crowded together, with two leads disappearing behind the drawers. He moved the drawers far enough to see that one went to a speaker and the other to the laptop.
 
 Sam held the light while he took another picture.
 
@@ -46,7 +46,7 @@ Sam held the light while he took another picture.
 
 John looked at the door they had barely got through. "No."
 
-He found the power strip under the desk and unplugged it from the wall. A gray cable from the larger radio was fastened to a copper bar behind the shelf. He photographed that, too, and followed it with the light until it went through the wall.
+He found the power strip under the desk and unplugged it from the wall. A gray cable from the back of the radio was fastened to a copper bar behind the shelf. He photographed that, too, and followed it with the light until it went through the wall.
 
 "We can't take all of this," he said.
 
@@ -56,7 +56,7 @@ Sam crouched beside him. "What stays?"
 
 He got the tape and pencil out of the truck. Sam tore strips while John marked the plugs and the sockets they came out of, giving both ends the same number. The connectors on the power leads were different from the plugs at the rear. John checked each lead back to the supply before he removed it, and kept the supply beside the radio it had fed.
 
-With the equipment pulled forward, he could reach the manuals. The first was for the larger set, an HF transceiver. He matched the picture on the cover to the front panel and put it on top of the radio. The other manual belonged to the smaller set. An antenna with a short handle and rows of metal elements leaned behind the door, its cable looped around the handle. John moved it out of the way with both hands.
+With the equipment pulled forward, he could reach the manuals. One was for the radio. He matched the picture on the cover to the front panel and put it on top of the radio. An antenna with a short handle and rows of metal elements leaned behind the door, its cable looped around the handle. John moved it out of the way with both hands.
 
 A sheet taped to the wall had been hidden behind it. *ARISS* was printed across the top, above a table of frequencies and operating modes.
 
@@ -72,7 +72,7 @@ John pointed to *International Space Station*, then the two columns beneath it.
 
 "Downlink's what we listen to. Uplink's what we send on. Different frequencies."
 
-He took a picture and lifted the tape from the wall, holding the corner so it wouldn't tear. There were other frequencies below the voice entries, and notes in pencil in the margin. He put the whole sheet inside the smaller radio's manual.
+He took a picture and lifted the tape from the wall, holding the corner so it wouldn't tear. There were other frequencies below the voice entries, and notes in pencil in the margin. He put the whole sheet inside the radio's manual.
 
 Sam held out an open logbook. "He's got it here, too."
 
@@ -88,7 +88,7 @@ He closed the log and put it with the manuals in an empty printer-paper carton u
 
 "Not yet."
 
-Sam took the smaller radio out to the truck while John gathered the laptop, its charger and the leads that had been attached to it. The power supply was heavier than he expected. He carried it against his stomach with the larger radio's cable looped over one wrist, and Sam came back for the radio itself.
+Sam took the radio out to the truck while John gathered the laptop, its charger and the leads that had been attached to it. The power supply was heavier than he expected. He carried it against his stomach with its cable looped over one wrist.
 
 They wrapped the equipment in a blanket from behind the seat. The antenna wouldn't fit safely across the cab, so they put the bag and a folded part of the blanket under it in the pickup bed and secured it without bending the elements. The mast and the wires outside the house stayed where they were.
 
@@ -106,15 +106,13 @@ Johan met them at the pickup. He had changed into a Coast Guard sweatshirt with 
 
 "This one goes inside first," John said, handing him the carton. "Books and the laptop."
 
-They carried the equipment to the wardroom in three trips. John put the carton on the table, took the radios out of their blanket and laid the numbered leads beside them. The HF set went at the far end with its manual underneath. He left the smaller set in front of his chair and put the folded frequency sheet beside it.
+They carried the equipment to the wardroom in three trips. John put the carton on the table, took the radio out of the blanket and laid the numbered leads beside it. He set it in front of his chair with its manual and put the folded frequency sheet beside them.
 
-Johan picked up the HF manual and looked from the cover to the radio. He rested his hand on the top of the case.
-
-"We used HF at sea."
+Johan picked up the manual and looked from the cover to the radio. He rested his hand on the top of the case.
 
 "You know this one?"
 
-"No."
+"No. Ship radios. Not this."
 
 He sat down and opened the manual. Sam put the power supply on the table and set the antenna on two empty chairs with its cable gathered underneath. He looked toward the windows.
 
@@ -154,7 +152,7 @@ Tyler ran his finger along the entry again. "What was his name?"
 
 Tyler kept his finger on the line. John left the book where he could read it.
 
-Johan had put his own book down. He picked up the loose frequency sheet and held it beside the smaller set's manual. John pulled his chair over so they could both see it.
+Johan looked up from the manual. He picked up the loose frequency sheet and held it beside the open page. John pulled his chair over so they could both see it.
 
 "This is different from the channels we've been using," John said. He pointed to the voice entries. "We receive here, transmit here. We need to find how this set does that."
 

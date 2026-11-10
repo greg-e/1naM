@@ -2,11 +2,9 @@
 
 ### 9/18/2028, 09:20 local Pacific Time - John
 
-The envelope outside the hospital was empty. John put the end of his pencil into each bottom corner to make sure no folded reply had caught there, then wrote the date on the notice. Sam held a second piece of tape across the top while he pressed it onto the glass.
+The terminal at the airport was unlocked. John could see the couches where they had first put their bags down, and beyond them, through the glass, the runway, with a gull standing on the centerline.
 
-At the airport they fixed the other notice beside the terminal door. John added *Thursday* and the date below the request for replies. Through the glass he could see the couches where they had first put their bags down, and beyond them the runway, with a gull standing on the centerline.
-
-Sam brought the key board out of the office and set it on a couch. Some hooks were empty. He matched the numbers on the remaining tags to the hangars and wrote them on the back of the paper John had used for the notice.
+Sam brought the key board out of the office and set it on a couch. Some hooks were empty. He matched the numbers on the remaining tags to the hangars and wrote them on the back of an envelope.
 
 They opened three before they found the other 182. It was white with a faded blue stripe and had an oil-stained towbar lying under the nose. A box of cleaning rags stood beside the door, with a dead mouse in the bottom. Nobody was inside the hangar.
 
@@ -36,69 +34,118 @@ They worked through the handbook's inspection with the hangar door open. There w
 
 They left the airplane in the hangar that day. John took the keys and the books to the truck, wrote the meter reading on a sheet of paper, and went back to put a copy in the pocket beside the checklist.
 
-The airport notice was still empty when they drove past it.
+### 9/23/2028, 19:45 local Pacific Time
 
-### 9/21/2028, 10:35 local Pacific Time
+Sam had flown the Cessna around the field on Wednesday and come back to the ship with a page of notes and a complaint about the seat. The papers went in a binder that stayed with the airplane, not in the wardroom's growing stack. At supper he said he wanted to take it farther.
 
-Sam had flown the Cessna around the field the previous afternoon and brought it back to the same hangar. He had come back to the ship with a page of notes and a complaint about the seat, and John had read the notes first. They had put the papers in a binder that went with the airplane, not in the wardroom's growing stack.
+"How far?" Catherine asked.
 
-Now John sat in the right seat with a camera in his lap and the road map folded to Sequim. Sam had the airplane. They had checked the runway on foot before starting and taxied past their notice on the terminal glass.
+"Past where the handheld reaches."
 
-Catherine had their route and their return time. Johan had checked the handheld Sam was carrying against the ship's radio while they were still on the ground. Tyler was staying with him and Della.
+The handheld and the Cessna's radios were VHF. VHF went in a straight line, about as far as the antenna could see, and the first ridge cut it off.
 
-Past Port Angeles, John kept his eyes on the side roads leading inland. A driveway ended under the trees, and he leaned forward to see around the window post. By the time he found the roof, they had passed it. He turned to look back, with the camera caught between his stomach and the belt.
+"Going to Huntsville," Sam said, "I lost John before Everett, and I didn't have anybody again until we were forty miles out coming home. Two days. If we'd gone down in Montana, you'd have found out Tuesday night."
 
-"Let that one go," Sam said.
+"I'd have found out you didn't come back," Catherine said. "That isn't the same thing."
 
-"I didn't see the yard."
+"Airplanes that cross oceans carry HF," John said. "It bounces off the upper atmosphere and comes down hundreds of miles away. Sometimes thousands."
 
-"Write that down."
+"The ship has one," Johan said. "In the radio room. The same kind as mine, with a long antenna on the mast. I looked at it Monday." He turned his cup on the table. "From the Pacific I have talked to Bremen with one like it. Some nights. Other nights not to Honolulu."
 
-He wrote it down. At the next open patch he remembered to look before bringing the camera up. There was a blue tarp over a boat, a white tank beside a shed, and a row of empty lawn chairs. He took a picture with the road in it, then a wider one so they could find the place again.
+John had been in that room with a flashlight on the tenth, following the fiber. He had looked at the patch panel and nothing else.
 
-He had been looking for people, a hand moving over a head, somebody running. Now he tried to remember where the objects were.
+"So this end has one," Catherine said.
 
-Sam asked whether he wanted another look at a field off the road. John had seen pale material laid out near a gate. They came back over it from the other direction. The material lifted at one end, dropped, and lifted again. Through the camera John could see a torn edge caught on a fencepost.
+"This end has one," Sam said. "Neither airplane does. Not the Pilatus, not the Cessna."
 
-"It's a sheet or a feed sack," he said. "Caught on the wire."
+"Somebody's does," John said.
 
-"Got the location?"
+John pulled the dev box's keyboard toward him. The archive held the flight plans that had gone through the FAA's system since June, and the last ADS-B report from every airplane before it went quiet. A transponder stopped transmitting when the pilot shut down, so the last report put an airplane on the field where it had landed, or on the taxiway to its parking spot.
 
-John marked it. Sam kept the wings level while he took the photograph.
+Catherine came around behind his chair. "How do you know which ones have it?"
 
-They turned before the route on Catherine's paper ended. John had wanted to keep going toward the next cluster of houses, but the ones behind them were already hard to place without the map. He drew a line where they had turned and wrote the time beside it.
+"It's on the flight plan," Sam said. "There's a field for what's in the airplane, a letter for each piece of equipment. H is HF."
 
-On the way back he looked out the other side. Some of the roofs were familiar now. A little farther west he could see the harbor and the Hook, with the Pilatus parked by the hangar. Sam made a call on the handheld and Catherine answered. She had heard them earlier, then lost them for a while.
+"And people fill it in right?"
 
-"We're coming back," Sam told her.
+"It's in the profile. You type it once, and it goes on every plan after that."
 
-John took a picture of the spit through the windshield, then put the camera away for the landing.
+John asked for N612PR first. They knew what was in that panel.
 
-At the ship, Tyler wanted to see every photograph. He sat at the laptop while John copied them across, and stopped him at the blue tarp.
+| Date | Route | Equipment includes H |
+|---|---|---|
+| 7/27 | Goose Bay CYYR → Bangor KBGR | Yes |
+| 7/28 | Bangor KBGR → Sioux Falls KFSD | Yes |
+| 7/28 | Sioux Falls KFSD → Broomfield KBJC | Yes |
+| 9/3 | Broomfield KBJC → Peachtree-DeKalb KPDK | No |
 
-"Was somebody there?"
+"Ferry radio," Sam said. "They put one in for the ocean and take it out when the airplane gets to Colorado. There's no HF in that panel. I'd have seen the control head."
 
-"We didn't see anybody."
+"So an H means it was in the airplane that day," John said. "Not that it's in it now."
 
-Tyler enlarged it until the tarp broke up into squares. John took the mouse and brought it back down.
+He wrote that in the notebook before he asked for the rest. "What types?"
 
-"We need the wide one, too. So we can find it."
+"PC-12. Caravans. People fly those into places where nobody answers on VHF." Sam thought about it. "Pilatus makes a jet, too. The PC-24. One pilot."
 
-They put the photographs in a folder with the date. John printed the route and marked the stretch where the trees had hidden most of the houses. He put no cross through it.
+John asked for all three, June through the fifth, nearest to the Hook by last position.
 
-Johan came in with the radio and handed it back. "You were early."
+**IFR flight plans only. VFR flights without a filed plan not included.**
 
-"We turned around," John said.
+| Type | Airframes with H filed | H on ferry legs only |
+|---|---|---|
+| PC-12 | 9 | 2 |
+| C208 Caravan | 17 | 0 |
+| PC-24 | 1 | 1 |
 
-"Good. Catherine had the clock."
+| Type | Registration | Last position | Last report (PDT) | From KNOW | H on last plan |
+|---|---|---|---|---|---|
+| PC-12 NGX | N731TB | Boeing Field, Seattle (KBFI) | 9/4 16:41 | 58 nm | Yes |
+| C208B Grand Caravan | N86KT | Ketchikan, AK (PAKT) | 9/2 18:05 | 530 nm | Yes |
+| PC-24 | N924PB | Broomfield, CO (KBJC) | 8/19 14:22 | 930 nm | Ferry legs yes; 1 later flight, no plan |
 
-She was at the galley door, eating a piece of bread with cheese folded into it. "I had two clocks. Yours and the one he kept asking about."
+**Equipment as entered by the filer. Installation not verified.**
 
-Tyler looked up from the photographs. "I asked twice."
+**Last position is the last ADS-B report. Movement after shutdown not recorded.**
 
-"Three times," Johan said.
+"One of the ferry PC-12s is ours," Sam said.
 
-Catherine handed the boy the rest of the bread and went back to the sick bay.
+John asked where the Boeing Field airplane had been.
+
+**14 plans with H, 6/9 to 9/4. Destinations: Ketchikan, Juneau, Whitehorse, Anchorage, Kodiak. Last plan: Ketchikan PAKT → Boeing Field KBFI, departed 9/4 14:02 PDT.**
+
+"Somebody who went north a lot," Sam said. "That's our airplane with a radio in it. Half an hour from here."
+
+He put his finger on the Caravan's line. "And that one's yours."
+
+John looked at him.
+
+"The Pilatus is a lot of airplane to learn a turbine in. The Caravan's a Cessna. Fixed gear, no pressurization, slower, and the panel's the same G1000 you have in your 182. It's an easier airplane to learn the PT6 in."
+
+"It's five hundred miles."
+
+"We take the Pilatus up, and you fly the Caravan home with me in the right seat. That's a lesson." He leaned over and read the PC-24's line. "Broomfield. That's where ours came through."
+
+"It came across in August. One flight since, with no plan."
+
+"Then it's a ferry radio, or it isn't. We'd have to go and look."
+
+"On the ship there is a schedule," Johan said. "The same hour every day, the same frequency. If you miss it, you call at the next one."
+
+"And if they miss two?" Catherine asked.
+
+"Then before they go, you have decided what you do about two."
+
+"Then I want to learn the radio," Catherine said. "If I'm the one waiting."
+
+Johan nodded. "Tomorrow. First I see if it works."
+
+John started a new page in the notebook and wrote *HF: Active radio room. Schedule, frequency, 2 missed = ?* at the top. Under it he copied the three airplanes, their fields and the distances. Beside the Caravan he wrote *John, transition*. Beside the PC-24 he wrote *ferry?*
+
+"Put *look* next to all three," Sam said. "Not *get*. We go over every one of them like we did the Cessna."
+
+John wrote *look* three times. When he looked up, Johan had taken his cup to the galley and gone up the passageway toward the radio room.
+
+<!-- [verify: Argus-class OPC MF/HF transceiver fit, antenna, and whether it can be keyed locally in clear voice without crypto or network login; FAA flight-plan history available to John's archive from June; ICAO Item 10a "H" = HF RTF and how filing profiles carry the equipment string; temporary HF on Pilatus factory ferry flights and removal at Broomfield; N612PR ferry routing and dates; HF as installed option on PC-12 NGX, C208B, PC-24; C208B Grand Caravan G1000 NXi panel; counts of HF-filed airframes; fictional registrations N731TB, N86KT, N924PB not assigned; distances KNOW–KBFI 58 nm, KNOW–PAKT ~530 nm, KNOW–KBJC ~930 nm] -->
 
 ### 9/27/2028, 19:10 local Pacific Time
 
@@ -254,7 +301,7 @@ In his cabin he took Naomi's Bible off the shelf over the desk and turned to the
 
 ### 10/2/2028, 10:40 local Pacific Time
 
-Catherine had asked John to drive her up on the Monday check, and she didn't say why until they had dated the notice on the hospital glass. The envelope under it was empty.
+Catherine had asked John to drive her up to the hospital, and she didn't say why until they were at the emergency department doors.
 
 "I want to use the blood gas machine in the ED," she said. "Bring the cart."
 
@@ -334,6 +381,4 @@ A radio sat beneath a shelf in one photograph, with an external speaker and its 
 
 "We'll go together," he said. "After the next flight."
 
-He had flown the Cessna with Sam twice since the first search. On the second trip Sam had let him bring it all the way in, then kept him aboard to explain why he had let the airplane drift toward the edge of the runway while he looked at the windsock. John had written that in the airplane's binder before he had written anything about the houses they passed.
-
-They had repeated the first search route, and part of a second one, taking photographs from the same side where they could. John had mistaken laundry left on a line for a new signal until he found it in the earlier photograph. On days they didn't fly, they checked notices, inspected the airplane or worked at the radios. The hospital envelope remained empty. Once, a gust had torn it loose, and Catherine brought it back with wet corners and asked for something that would keep the paper dry.
+He had flown the Cessna twice that week, with Sam in the right seat. It flew like his own, except that it wanted more right rudder in the climb and the trim wheel was stiff through the last few turns.

@@ -6,51 +6,9 @@ John had put a plate over Johan's breakfast and left it in the galley. He had co
 
 It was folded to Washington, with a strip of British Columbia across the top. Sam opened it on the wardroom table and put the salt on one corner. John moved the dev box off another. Dan got up from under the table, walked around Sam, and lay down in the same place.
 
-"We should go up today," Sam said.
+"Phoenix had one," Sam said. He put his finger on the Elwha. "This had one. There are more."
 
-"Where?"
-
-Sam put his finger on the airport west of town. "Start there. Then east. Sequim, along the road. Not high enough that somebody on the ground thinks we're going to Seattle."
-
-John turned the map around. He had a printout beside the laptop, the eleven thousand ships and the one match, and he put it under the map.
-
-"You'll see the road. Not everybody along it."
-
-"I know."
-
-"If they're inside when you go over—"
-
-"Then I don't see them. I still want to go."
-
-John got his notebook out. "We need to know where you went."
-
-"I'll bring you the track."
-
-"And what you could see. Low cloud, trees, whichever side you weren't looking at. I don't want to mark a town empty because we flew over it."
-
-Sam pulled a chair out and sat down. "Who's marking it empty?"
-
-"Nobody. I'm trying not to."
-
-The recorded call came over the wardroom speaker. They waited through John's position, the food, the doctor, the request to answer on channel one six. Sam looked at the clock on the bulkhead. When it finished he reached under the map for a pencil.
-
-"You come with me. You look, I fly."
-
-"Somebody needs to be here."
-
-"Catherine's here. Della's here. We don't both have to stay."
-
-"And Thursday we nearly slept through a ship."
-
-Sam laid the pencil down. John looked at the corner of the printout under the map.
-
-"That was me," he said. "I asked it to wake me for everything, then I stopped waking up."
-
-"So let's not do that again."
-
-"I want a person on this end. With where we're going written down, and when we're due back. Not just the model."
-
-"Good. Who?"
+"We found those two because they called 911." John had a printout beside the laptop, the hundred and six thousand ships and the one match, and he put it under the map. "And Johan because he answered a radio. Nobody's calling now."
 
 Catherine came in carrying the covered plate. She looked at the two of them, set it down at the vacant place, and took the salt off the map.
 
@@ -60,23 +18,7 @@ Catherine came in carrying the covered plate. She looked at the two of them, set
 
 "Wants coffee. Wants to know why nobody brought her coffee. It's on the cart outside her door."
 
-Sam drew a line from Port Angeles toward Sequim, following the coast with the pencil held above the paper.
-
-"John wants somebody here while we fly," he said.
-
-"Then tell me how to get hold of you. And when to start worrying."
-
-"Those handhelds won't reach everywhere," John said. "Once there's a ridge between us, they might not reach at all."
-
-"Then what do I do?"
-
-He had no answer for that yet. He turned to a clean page and wrote *route, return time, overdue*.
-
-Sam leaned over to read it. "First trip stays close. We don't get on the other side of a mountain without a way back."
-
-"A way back isn't the same as a way to call," Catherine said.
-
-"No," Sam said. "It isn't."
+Sam put the salt back. "So how do we find the ones who don't call?"
 
 Johan came in with his hair wet, wearing the same clean shirt he had come ashore in. He stopped at the plate, lifted the edge, and sat down.
 
@@ -86,21 +28,7 @@ Johan came in with his hair wet, wearing the same clean shirt he had come ashore
 
 He took a forkful of potatoes. "It is good."
 
-John put the notebook where they could all see it. "If we see a signal, or somebody comes out, we don't want to spend the rest of the afternoon working out where we can land."
-
-"We pick the fields before we leave," Sam said. "Look at the approaches. Carry enough to come home without buying fuel."
-
-"And then we need a car."
-
-"Yes."
-
-"And a road that gets us to them."
-
-Sam looked at him. "John. We're not going to do all of it before breakfast."
-
-"I'm trying to work out what we're promising."
-
-John looked at the line Sam had drawn along the coast. By day it was a road with houses on both sides and trees between them, and whoever was in the houses would have to come outside while the airplane was over them.
+John looked at the map. By day it was roads with houses on both sides and trees between them, and whoever was in the houses would be inside.
 
 "At night they'd have a light on," he said.
 
@@ -154,39 +82,9 @@ Sam had his finger on the screen under *On hand: none*. "That's everything."
 
 "Then we get nothing on the first pass, and I won't know if it's them or us."
 
-Sam looked at the list for a while, then pulled the road map back across the table.
+Sam looked at the list for a while. "None of that's on this ship."
 
-"So we fly today."
-
-"We fly today. This is for later."
-
-"What do you tell them from the airplane?" Johan asked.
-
-"Nothing yet," Sam said. "We don't have a way to talk to somebody in a house."
-
-"They hear an airplane," John said. "They go outside. We've gone."
-
-"You come back," Johan said.
-
-Sam picked up the pencil again. "Same places. Give them time to put something out."
-
-John wrote *repeat* below *overdue*.
-
-Catherine had one hand on the back of the empty chair. "You can leave a message when you're on the ground. You didn't come to my door. I had to find you."
-
-"You found the airport," Sam said.
-
-"Because I knew there was an airport. Somebody else might go to the hospital. Or the police station. You could have been gone by the time I got there."
-
-John set his mug on the fold of the map. He had gone in and out of Olympic Medical Center for days without leaving a message on the door.
-
-"Where would you put it?" he asked.
-
-"Where they don't have to go into the building to read it."
-
-"And tell them to come here?"
-
-"Tell them we're here. Let them tell us where they are."
+"No. This is for later."
 
 Tyler stood in the doorway with his grandmother's Bible tucked under one arm. Dan got up and pushed past John's knees to him. The boy put his free hand on the dog's head.
 
@@ -199,56 +97,6 @@ Tyler came to the table and stood beside John. He read the screen before he look
 "That's JPSS," he said. "The weather ones."
 
 "That's them."
-
-Tyler looked up the map. "There's Canada."
-
-"There's a lot of it," Sam said.
-
-"You were there."
-
-"Edmonton."
-
-"Would somebody hear you if you flew there?"
-
-"They'd hear the airplane if we went over them. We wouldn't know whether they'd heard us."
-
-Tyler put the Bible on the table, away from the pencil, and bent over the map.
-
-"We can't do all that," John said.
-
-Sam rubbed his thumb along the pencil. "We can get farther than Sequim."
-
-"I know. But if we find somebody three days away, and they need help, can we go back?"
-
-"We went to Alabama."
-
-"We had an address and a boy to bring home."
-
-Tyler looked up at him. John put his hand flat on the map, over the water between the Hook and Vancouver Island.
-
-"We had your address," he said. "That helped us. We knew where to look."
-
-"You didn't know I was there."
-
-"No."
-
-Tyler waited.
-
-"We went to look," John said.
-
-Sam slid the map out from under his hand and opened the next fold. The north edge wouldn't lie flat, and Johan held it down with his plate.
-
-"I'm not saying Edmonton tomorrow," Sam said. "I'm saying we don't decide this is as far as we go because it's as far as the handheld reaches."
-
-"Then we need something better than the handheld."
-
-"Yes," Sam said. "And a plan for coming back."
-
-John drew no boundary on the map. He wrote *airports* on the margin and put a small square beside the word.
-
-"We start with what we can get back to," he said. "And keep looking at the next bit."
-
-"That I can do."
 
 Catherine picked up Johan's empty plate. He caught it by the edge and stood.
 
@@ -304,17 +152,17 @@ Sam folded the map to the airport and left it on the table.
 
 "Another airplane?"
 
-"Something we can use for the short trips. We don't need the Pilatus every time we want to look at the next town."
+"Something we can use for the short trips. We don't need the Pilatus every time we go up the coast."
 
 John glanced toward the window, though the hangar was on the other side of the ship. "I'd rather fly something I know."
 
 "So would I. We find one, we inspect it. We don't take whatever's closest to the door."
 
-"And you keep teaching me in ours."
+"And you keep teaching me the turbine in ours."
 
-"Yes. But you don't learn the airplane while we're trying to find a person on the ground. We do one job."
+"Yes."
 
-John took the notebook back out. "All right. Let's drive today."
+John put the notebook in his pocket. "Then the radio first, and the field after."
 
 Sam picked up the map. "I'll tell Catherine."
 
@@ -338,7 +186,7 @@ They got her from the chair onto the bed on Catherine's count. Catherine put the
 
 "John." She was looking out the window. "You're going into town."
 
-"The hospital and the field. Back by three."
+"Into town and the field. Back by three."
 
 "If you go past a store, bring me a bottle." She said it to the window. "Anything. I don't care what."
 
@@ -346,21 +194,13 @@ John stood with his hands on the grips of the chair. He thought about the tablet
 
 "I'll be back by three," he said.
 
-He met Catherine in the passageway coming back up with her bag and told her. She looked at the cabin door for a moment. Then she took the route sheet off the top of her bag and gave it to him.
-
-"This says flight," she said.
-
-"We changed it. We're driving."
-
-"Then change it."
-
-He crossed out *flight*, wrote *drive*, and added the hospital. She read it over and took it back. Then she went into the cabin and shut the door behind her.
+He met Catherine in the passageway coming back up with her bag and told her. She looked at the cabin door for a moment. Then she went into the cabin and shut the door behind her.
 
 John waited in the passageway. He could hear Catherine's voice through the door and not the words, and once Della's, louder, and then Catherine's again, going on. After a while Sam called up the stairway that the truck was at the brow. John left the door shut and went down.
 
 Johan was at the foot of the brow with the ship's radio.
 
-"Back by three," Sam told him. "If we change our minds about flying, we come back here first."
+"Back by three," Sam told him.
 
 "And I remain here."
 
@@ -378,35 +218,19 @@ John looked up at the white dome on the mast. "What's in that?"
 
 The dish wouldn't care what it was pointed at. The feed on the end of it would; it was built for the ship's own band, and seven point eight gigahertz wasn't it. John opened the notebook to *lights at night* and wrote *VSAT, manual?* under the list, and *what's on the end* beside *front end*.
 
-John put a sheet of paper on the hood of the pickup and held it down while Sam opened the roll of clear tape. The message had the station's name, *Ediz Hook*, and *PEOPLE ALIVE HERE* at the top. Below that John had drawn the road from the hospital down to the waterfront and along the spit, with the mill and the gate. At the bottom it asked for a dated reply and a location if the reader could not come. He had left a space for when they would check again.
-
-"Monday," Sam said.
-
-"We can check tomorrow."
-
-"We can. Pick one we won't miss."
-
-John wrote Monday and the date. He made a second copy for the airport and put both sheets in the cab.
-
-They stopped at the hospital first. Sam taped the notice to the glass beside the entrance while John fixed an envelope below it with a pencil and folded paper inside. He wrote *REPLIES* across the envelope. The doors stayed shut. They took a picture of the notice before they left.
-
-On the way west John drove while Sam looked down the side streets. Near a row of houses Sam told him to slow, then put his hand on the dash.
+On the way through town John drove while Sam looked down the side streets. Near a row of houses Sam told him to slow, then put his hand on the dash.
 
 "There. Back of the brown one."
 
-Above the roof stood a metal mast with a horizontal boom and several crosspieces, too regular to be a tree branch. A wire ran down toward the house. John pulled over clear of the intersection. He could see another wire between a pole at the rear of the lot and the chimney.
+Above the roof stood a metal mast with a horizontal boom and several crosspieces, too regular to be a tree branch. A wire ran down toward the house. John pulled over clear of the intersection.
 
 "Television?" Sam asked.
 
 "Might be."
 
-"And that one?"
-
-"I don't know."
-
 John took a picture through the open window, then got out to read the house number. The curtains were closed. He went no farther than the gate.
 
-Back in the truck he wrote the number and the street on the back of their route sheet. Some hams talked through satellites. If this one did, he'd have a program that knew where they were.
+Back in the truck he wrote the number and the street in his notebook. Some hams talked through satellites. If this one did, he'd have a program that knew where they were.
 
 "Field first?" Sam asked.
 

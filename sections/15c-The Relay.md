@@ -10,11 +10,11 @@ He had read the typed part a dozen times since Arthur Keene's house. The voice f
 *TONE OFF!!*
 *HI pwr*
 
-John turned the smaller radio around so he could see its face, and opened the manual to the menu pages, and went through memory 12 one setting at a time with his finger on the page. The frequencies were right. They had always been right; he had checked them before every pass. Two lines down, the radio was sending a tone under his voice at sixty-seven hertz. On the line under that, the power was set to low.
+John turned the radio around so he could see its face, and opened the manual to the menu pages, and went through memory 12 one setting at a time with his finger on the page. The frequencies were right. They had always been right; he had checked them before every pass. Two lines down, the radio was sending a tone under his voice at sixty-seven hertz. On the line under that, the power was set to low.
 
 "Johan," he said.
 
-Johan was at the other end of the table with the HF manual. He came and looked over John's shoulder.
+Johan was at the other end of the table with the pass log. He came and looked over John's shoulder.
 
 "It's been sending a tone with every call," John said. "For the repeater in town, I'd guess. That's what Arthur used this channel for when he wasn't working the station. And the power's turned down to five watts." He put his finger on the margin. "He wrote it down. Tone off. He gave it two exclamation points."
 
@@ -40,7 +40,7 @@ They had worked three daytime passes since the change, Saturday, Sunday, and thi
 
 "Somebody's got to be at the radio when it goes over us," John said. "And they don't know there's anybody here to be at it for."
 
-He opened the frequency sheet again. Below the voice entries was the packet line, 145.825, and in Arthur's pencil beside it, *APRS digi — msgs relayed, no op needed*. The manual for the smaller set had a chapter on it. The radio had its own modem and could send a short line of text that the station would repeat back down to anyone listening, with nobody aboard touching anything. If someone looked at the station's radio screen, the last messages would be on it.
+He opened the frequency sheet again. Below the voice entries was the packet line, 145.825, and in Arthur's pencil beside it, *APRS digi — msgs relayed, no op needed*. The radio's manual had a chapter on it. The radio had its own modem and could send a short line of text that the station would repeat back down to anyone listening, with nobody aboard touching anything. If someone looked at the station's radio screen, the last messages would be on it.
 
 <!-- [verify: 2028 status of the ISS APRS digipeater on 145.825; whether the onboard radio's display keeps received messages; the dual-band set's built-in TNC] -->
 

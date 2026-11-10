@@ -98,9 +98,9 @@ That makes it a **polar path**, which is real friction for the page: auroral flu
 
 ## 7. Station hardware
 
-**HF transceiver.** About 100 W output on 13.8 V DC. Draws ~20–23 A transmitting at full power, ~1–2 A receiving. Common 2026 models: Icom IC-7300 (by far the most common base rig), Yaesu FT-710 and FT-991A (the 991A also covers VHF/UHF), Kenwood TS-590SG and TS-890S, Elecraft K4. Portables at about 10 W: Icom IC-705 and Elecraft KX3. Arthur's HF set is unnamed in canon; an IC-7300 fits a retired club ham `[decide]`. A built-in automatic antenna tuner matches only modest mismatches; a wire for several bands needs an external tuner.
+**HF transceiver.** About 100 W output on 13.8 V DC. Draws ~20–23 A transmitting at full power, ~1–2 A receiving. Common 2026 models: Icom IC-7300 (by far the most common base rig), Yaesu FT-710 and FT-991A (the 991A also covers VHF/UHF), Kenwood TS-590SG and TS-890S, Elecraft K4. Portables at about 10 W: Icom IC-705 and Elecraft KX3. Arthur has no HF set in canon; the Hook's HF station is *Active*'s own MF/HF set (Section 15, §12). A built-in automatic antenna tuner matches only modest mismatches; a wire for several bands needs an external tuner.
 
-**Dual-band VHF/UHF mobile.** Arthur's "smaller set" with its own packet modem fits a Kenwood TM-D710G-family radio (the same family as the ISS's TM-D710GA) or a Yaesu FTM-400/500-series `[decide]`. These store frequency, offset, CTCSS tone, and power **per memory channel**, which is exactly the trap in Section 15c. On a split satellite channel (145.800 receive, 144.490 transmit) the radio is simply set to an "odd split" memory.
+**Dual-band VHF/UHF mobile.** Arthur's radio (his only set) with its own packet modem fits a Kenwood TM-D710G-family radio (the same family as the ISS's TM-D710GA) or a Yaesu FTM-400/500-series `[decide]`. These store frequency, offset, CTCSS tone, and power **per memory channel**, which is exactly the trap in Section 15c. On a split satellite channel (145.800 receive, 144.490 transmit) the radio is simply set to an "odd split" memory.
 
 **Satellite antenna.** A handheld two-band Yagi, with 2 m and 70 cm elements on one boom and a short handle (Arrow II-style), is what Arthur owned in Section 14.
 
@@ -118,15 +118,14 @@ Hung as an inverted V from one high point, it needs only one support. An **end-f
 
 **Height decides the angle.** For long distance, high is better: at least a half wavelength up (~33 ft on 20 m) for low takeoff angles. For NVIS, low is better: ~0.1–0.2 wavelength. **One antenna can't do both well.** A group that wants Europe and a regional link needs two wires, or one wire and the acceptance of a compromise.
 
-**On the Hook's 170-ft tower** (canon: Sam hangs the HF wire, Della directs):
+**At the Hook** (canon: *Active*'s MF/HF set and its mast antenna, Section 15; no wire on the tower):
 
-- A sloping dipole or end-fed wire run from high on the tower down to an anchor gives good low-angle radiation.
-- Slope it **toward 032°** if they can, the bearing to Bellinzona (though a sloper's directivity is modest).
-- Feedline loss on a long run matters. Through ~200 ft of cheap coax, a meaningful share of 100 W never reaches the wire `[verify loss figures]`. Della would ask for the good cable.
-- The tower carries the VTS radar and AIS. HF energy can couple into the tower and into the station's receivers, and the tower structure detunes a wire hung close to it. Hang it away from the steel and check the AIS receiver after the first transmission.
-- Salt air on the spit corrodes connectors. Tape and seal everything.
+- A cutter's HF antenna is typically a large whip or fan fed by an automatic coupler that matches it across 2–30 MHz `[verify Argus-class HF antenna and coupler]`. Nobody has to cut a wire for a band.
+- A vertical favors low takeoff angles, good for Bellinzona and Broomfield, weaker for NVIS on the short regional legs.
+- Her mast also carries radar, AIS, and the VSAT dome. HF transmit power can couple into nearby receivers; check the tower's AIS feed after the first transmission.
+- Salt air on the spit corrodes connectors. Tape and seal anything the group adds.
 
-**Beam and rotator.** A directional HF Yagi on a tower, turned by a rotator. That was the antenna Sam spotted at Arthur's house (Section 13); the mast and wires stayed behind in Section 14. Taking the beam down for the Hook would be a major rigging job, and a beam gives a few S-units over a wire on a marginal polar path `[decide whether anyone ever tries]`.
+**Beam and rotator.** A directional Yagi on a mast, turned by a rotator. The beam Sam spotted at Arthur's house (Section 13) is a VHF/UHF antenna for his dual-band set, not HF; the mast and its cables stayed behind in Section 14.
 
 **Ground.** A copper bar and ground rod for lightning and RF; canon has Arthur's ground strap and the ground cable John didn't bring (Section 14).
 
@@ -207,9 +206,9 @@ These matter for the search plan: a survivor is far likelier to have one of thes
 
 ## 12. Maritime and aviation crossover
 
-**Johan (GMDSS).** His certificate covers marine VHF with DSC (channel 70 for alerts, 16 for voice), MF/HF DSC and voice, NAVTEX, and Inmarsat-C/SafetyNET (canon: the SafetyNET printout). Marine HF voice uses designated channels, upper sideband by convention, and he knows HF propagation from the bridge. What's new to him is ham practice: open frequencies with no channel plan, callsign etiquette, satellites. Canon already gives him "We used HF at sea" / "You know this one?" / "No."
+**Johan (GMDSS).** His certificate covers marine VHF with DSC (channel 70 for alerts, 16 for voice), MF/HF DSC and voice, NAVTEX, and Inmarsat-C/SafetyNET (canon: the SafetyNET printout). Marine HF voice uses designated channels, upper sideband by convention, and he knows HF propagation from the bridge. What's new to him is ham practice: open frequencies with no channel plan, callsign etiquette, satellites. Canon gives him "You know this one?" / "No. Ship radios. Not this." at Arthur's satellite set (Section 14).
 
-**The cutter's radios.** *Active*, as a Coast Guard cutter, carries HF transceivers with large antennas. Military and government HF sets are typically general-coverage and could likely be set to ham frequencies, potentially at higher power than Arthur's rig. Whether *Active*'s HF can be tuned to 14 MHz, and whether it needs crypto or a login (like her bridge AIS in Section 11), is `[verify]`. It's a plausible alternative or backup to Arthur's set, and a Della-and-Johan task.
+**The cutter's radios.** *Active*, as a Coast Guard cutter, carries HF transceivers with large antennas, and **her MF/HF set in the radio room is the Hook's HF station** (canon from Section 15, Sept 23: Johan has looked at it, the same kind as his ship's). It works the group's HF-equipped airplanes and, from November, Marchetti. Military and government HF sets are typically general-coverage, so tuning ham frequencies is likely; whether it reaches 14 MHz and whether it needs crypto or a login (like her bridge AIS in Section 11) is `[verify]`. It can't work the ISS: that link is 2 m VHF and stays on Arthur's set.
 
 **Aircraft HF for the crossing.** Long-range jets carry HF for oceanic position reports to Gander and Shanwick, and nobody is there to hear them.
 
@@ -255,7 +254,7 @@ Aircraft HF sets tune continuously across ~2–30 MHz in USB and can work ham fr
   - **0 to ~200 nm: VHF.** At FL250 the radio horizon to the Hook's 170-ft tower works out to ~210 nm, but the Olympics and Cascades shadow parts of it. An agreed aviation frequency, or 2 m.
   - **~200 to ~600 nm: 40 m by day, 80 m at night.** The airplane is past VHF range and inside 20 m's skip zone (§5).
   - **Beyond ~600 nm:** 40 m still, with 20 m opening somewhere past ~1,000 km on a winter day near solar minimum `[verify with VOACAP for December 2028]`.
-  - The Hook's tower wire is hung for low-angle long distance; the regional legs want a second, low wire for 40/80 m (§8). It's the same two-antenna problem as the regional search link.
+  - *Active*'s mast antenna favors low-angle long distance `[verify its type and pattern]`; the regional legs may want a second, low wire for 40/80 m (§8). It's the same two-antenna problem as the regional search link.
 - **Sideband.** Aeronautical HF runs upper sideband by convention, while hams use lower sideband on 40 and 80 m (§6). Either the airplane's set offers LSB `[verify KHF 1050 modes]` or both ends agree to run USB on every band. An agreed exception the Hook's operator has to remember, the newcomer's wrong-sideband mistake in reverse.
 - **Schedule.** Modeled on oceanic position reports: a check-in at takeoff, then every 30 or 60 minutes at fixed UTC times, giving position, altitude, fuel, and ETA, each logged by John. A missed check-in means the backup band, then the next scheduled time. Agree before departure when "missed" becomes "overdue" (the route, return time, overdue rule from Section 13).
 - **SELCAL.** Many aircraft HF installations include SELCAL, a decoder that keeps the speaker quiet until the ground station sends the airplane's code of two tone pairs `[verify whether a donor PC-12 or kit has it]`. Without it, a single pilot listens to HF static for hours. With it, the dev box can generate the tones through the Hook's rig and chime the airplane: the kind of fix John builds. The code is set on the airplane's decoder; they read it off before departure.
@@ -268,7 +267,7 @@ Aircraft HF sets tune continuously across ~2–30 MHz in USB and can work ham fr
 
 **The kit** (roughly 45–55 lb `[verify weights]`):
 
-- **Transceiver.** A 100 W HF rig. Not Arthur's, which stays on the Hook's desk for the Marchetti schedule. A second rig from one of the club-directory houses: Sam found a room of gear he couldn't identify on Oct 3 (Section 15) `[decide]`. An IC-705 is lighter and easier on a battery, but 10 W on SSB over this path in a low-sunspot winter is marginal. It's a backup, or a digital-mode rig (JS8Call gets through at 10 W where voice fails, if someone learns it, §6).
+- **Transceiver.** A 100 W HF rig, since *Active*'s set stays aboard for the Marchetti schedule. A second rig from one of the club-directory houses: Sam found a room of gear he couldn't identify on Oct 3 (Section 15) `[decide]`. An IC-705 is lighter and easier on a battery, but 10 W on SSB over this path in a low-sunspot winter is marginal. It's a backup, or a digital-mode rig (JS8Call gets through at 10 W where voice fails, if someone learns it, §6).
 - **Power.** One 100 Ah LiFePO4 battery (~25 lb `[verify]`). The rig draws ~20–23 A transmitting and 1–2 A receiving. A one-hour schedule, about a third of it transmitting, uses ~9 Ah, so one battery covers about a week to 80% discharge without recharging. Broomfield's grid has been down since September, so there's no hangar outlet; a 100 W folding panel and charge controller top it up if the stay runs long. Not the Jackery: it weighs ~135 lb and it's the dev box's power.
 - **Antenna.** A wire for 40 and 20 m: an end-fed half-wave for 40 m (~66 ft, which also works on 20 m) with a 49:1 transformer, or a 40/20 linked dipole. A throw line and weight to get it up a ramp light pole, a hangar roof edge, or a tree. 50 ft of RG-8X coax and a short ground lead. An external tuner if the rig has none built in (the IC-705 doesn't).
 - **The rest.** Headphones and mic, an SWR meter if the rig lacks one, spare fuses, tape and sealant, a logbook and pencils, a watch set to UTC, and a laminated card with the schedule, frequencies, and fallback rules. A VHF handheld for checks on the ramp.
@@ -276,7 +275,7 @@ Aircraft HF sets tune continuously across ~2–30 MHz in USB and can work ham fr
 
 **Who runs it.** Johan. HF from the bridge is his world; what's new is ham practice (§12, GMDSS). Hanging the wire is his kind of rigging, and the log is his kind of log. That leaves Sam free for the PC-24 manuals.
 
-**The path.** 1,719 km on a bearing of 115° from the Hook, ~295° back from Broomfield: one F2 hop at mid-latitudes, clear of the auroral zone, so far easier than the polar path to Bellinzona. The Rockies don't matter to skywave. At this range the takeoff angle is low enough that the Hook's tower wire suits it, and no NVIS wire is needed.
+**The path.** 1,719 km on a bearing of 115° from the Hook, ~295° back from Broomfield: one F2 hop at mid-latitudes, clear of the auroral zone, so far easier than the polar path to Bellinzona. The Rockies don't matter to skywave. At this range the takeoff angle is low enough that *Active*'s mast antenna should suit it `[verify]`, and no NVIS wire is needed.
 
 - **40 m by day** is the likely workhorse.
 - **20 m** may open around midday.
@@ -300,10 +299,10 @@ Aircraft HF sets tune continuously across ~2–30 MHz in USB and can work ham fr
 
 ## 13. The book's stations
 
-- **Arthur Keene's station** (Sections 14–15c): HF transceiver, dual-band VHF/UHF set with packet modem, 30 A supply, laptop with tracking software, handheld two-band Yagi, ARISS frequency sheet with pencil margin notes, logbook with NA1SS contacts, a club directory listing other hams' addresses. The rooftop beam, mast, and wires stayed at the house. Callsign `[decide; fictional, verify unassigned]`.
+- **Arthur Keene's station** (Sections 14–15c): dual-band VHF/UHF set with packet modem (no HF), 30 A supply, laptop with tracking software, handheld two-band Yagi, ARISS frequency sheet with pencil margin notes, logbook with NA1SS contacts, a club directory listing other hams' addresses. The rooftop beam, mast, and cables stayed at the house. Callsign `[decide; fictional, verify unassigned]`.
 - **The Hook station:**
   - **ISS:** the dual-band set and Yagi in the operations building, John on the radio, Johan aiming, Tyler calling angles (Section 15c).
-  - **HF:** Arthur's HF set and a wire on the 170-ft tower, from ~mid-to-late November (CLAUDE.md).
+  - **HF:** *Active*'s MF/HF set and mast antenna, from late September for the airplanes, and ~mid-to-late November for Marchetti (CLAUDE.md).
   - **Monitoring:** the tower's VHF for marine 16/22A/70 with the dev box listening.
 - **HB9EMT, Bellinzona** (Marchetti):
   - HF transceiver, wire to the chestnut in the garden, crossed satellite Yagis on the roof (unused since summer until October).
@@ -318,7 +317,7 @@ Aircraft HF sets tune continuously across ~2–30 MHz in USB and can work ham fr
 1. A VOACAP run for Hook–Bellinzona, December 2028 – February 2029, SSN ~35–40, on 20/17/40 m and both paths. Set a primary and backup schedule from it.
 2. Marchetti's station power source.
 3. Whether to keep *14.230* in her Day 0 log (SSTV calling frequency) or move it.
-4. Arthur's callsign and radio models (suggest an IC-7300 plus a TM-D710G-family set).
+4. Arthur's callsign and radio model (suggest a TM-D710G-family set).
 5. Whether *Active*'s HF can work ham bands.
 6. Whether the PC-24 has HF installed. This drives how the crossing's radio schedule works.
 7. Whether any local repeater is solar-powered and still up. That could become part of the new search plan.
