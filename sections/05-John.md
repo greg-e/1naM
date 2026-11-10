@@ -2,16 +2,16 @@
 
 ### 19:30
 
-John shut the door to his office, sat down and pulled out his notebook and stared at it for a moment and then wrote: **Hypoxia?** next to 2 and **Samuel Reyes** next to number 3. 
+John shut the door to his office, sat down, pulled out his notebook, stared at it, and then wrote:
 
 - *1. Where else?* global
 - *2. How did this happen?* **Hypoxia?**
 - *3. Is there anyone else alive?* yes - **Samuel Reyes**
 - *4. Why am I alive?*
 
-Sam had talked about the pink flush of skin and his training for crew incapacitation, he had thought that the crew had died because of lack of oxygen.
+Sam had talked about the pink skin and his training for crew incapacitation. He thought the crew had died for lack of oxygen.
 
-He felt numb, before today the only dead person he had seen was his wife Naomi. He had lost count of the people he had seen today. I am just watching one of those wacky apocalyptic movies, or one of those AI generated last-person-on-earth shorts on YouTube.
+He felt numb, before today the only dead person he had seen was his wife Naomi. He had lost count of the people he had seen today. *Glad I never watched* The Walking Dead, he thought.
 
 He looked at the screens and got back to work:
 
@@ -27,15 +27,15 @@ The search had flagged eleven posts from other accounts, and the aircraft he alr
 
 He opened the capture record. It held 58.7 GB on the dev box, with copies on the external drive through six o'clock. Fewer sources were answering than at the first pass. The DOT cameras in this collection kept no history, so their record started at 13:40, not two in the morning.
 
-The routing collectors showed nine percent fewer networks visible at six than at two. They were views of routes through the internet, not a count of machines with power. A route could disappear because a network failed, or because the path to it failed. John had worked with this data for years, never once had he watched the number go down like this.
+The routing collectors showed nine percent fewer networks visible at six than at two. They were views of routes through the internet, not a count of machines with power. A route could disappear because a network failed, or because the path to it failed. John had worked with this data for years and had never watched the number go down like this.
 
 "Keep the routing snapshots with the source responses. Don't turn a lost route into a power outage."
 
-He looked for the three layers he'd asked for on the road, power, network, the actual service. The report had observations, but it didn't give him complete coverage of the US, much less Canada, Mexico and everywhere else. A map with a green mark at one working connection wouldn't answer that.
+He looked for the three layers he'd asked for on the road: power, network, the actual service. The report had observations, but it didn't give him complete coverage of the US, much less Canada, Mexico or everywhere else.
 
 "For each source, last successful response, what history it keeps, what's saved and what's only requested. If it's going away and we haven't got the history, move it up. If you can't tell, mark it unknown, not failed. Keep looking elsewhere too."
 
-More than eleven thousand ships were still under way in the AIS records. He asked for the last ten aircraft tracks.
+More than 105,000 ships were still active in the AIS records. He asked for the last ten aircraft tracks.
 
 **No aircraft currently detected in the feeds answering this query. Last 10 tracked aircraft to stop transmitting ADS-B, latest first. Last received ADS-B in this collection: 19:02 EDT.**
 
@@ -45,13 +45,13 @@ The last was a Singapore Airlines A350-900ULR out of Los Angeles for Singapore, 
 
 It listed SafetyNET, NAVTEX, AIS safety broadcasts, and a marine radio's all-ships call. Reading the ship positions didn't give him a transmitter, or permission to use one. There was no marine radio connected to the box.
 
-He opened the power report. The Texas source had stopped reporting at 13:47, with a last returned frequency of 58.6 Hz. If that was right, it was a severe disturbance, not an ordinary dip. It didn't tell him how much of Texas still had power, or whether the connection had failed. Sources on the other three interconnections were still answering. The latest Eastern entry was 59.88 Hz at 19:00, but the report didn't identify the monitor or how long the reading had lasted.
+In the power report, the Texas source had stopped reporting at 13:47, with a last returned frequency of 58.6 Hz. If that was right, it was a severe disturbance, not an ordinary dip. It didn't tell him how much of Texas still had power, or whether the connection had failed. Sources on the other three interconnections were still answering. The latest Eastern entry was 59.88 Hz at 19:00, but the report didn't identify the monitor or how long the reading had lasted.
 
 "Can you put a time on the power here going out?"
 
 **No supported outage time for your house.**
 
-He kept the readings, not a line he could extend to midnight. EIA's hourly demand and historical data weren't a live plant-status feed. Generation normally arrived the next day, frequency and individual unit trips weren't in that product. The report hadn't established another source for that evening's generation and unit counts, or a matched set of reporters for the percentage changes. He left those comparisons out. Nor did a hydro percentage tell him how long a grid would hold together.
+He kept the readings, not a line he could extend to midnight. The EIA feed was hourly demand, an hour late, with no frequency, no generation until the next day, and nothing on which plants were running.
 
 The plant report listed all six Georgia reactors as tripped that morning, with offsite power still available in the returned status. John sat back in the chair. Shutdown still left heat to remove, from the reactor fuel and the spent fuel. That was what he'd asked about on the drive, not just whether the plants were generating.
 
@@ -67,17 +67,17 @@ The location list had ten plants within 220 miles, the nearest two less than a h
 
 The historical comparisons were twelve miles evacuated around Fukushima and nineteen miles in the Chernobyl exclusion zone. Fukushima's deposition had depended on wind and rain during the release. Those circles weren't a map of where a release here would go.
 
-In the notebook, John added two more questions: *5. When does the power go out? and 6. What are the risks? 1 week, 1 month, 1 year*
+In the notebook, John added two more questions and filled in what he could:
 
-*1. Where else?* global?
-*2. How did this happen?* Hypoxia?
-*3. Is there anyone else alive?* yes - Samuel Reyes
-*4. Why am I alive?*
-*5. When does the power go out?* **unknown, prepare tonight**
-*6. What are the risks?*
-    *1 week* **power, water, fires**
-    *1 month* **radiation if there are releases, wind and rain**
-    *1 year* **feral dog packs?**
+- *1. Where else?* global?
+- *2. How did this happen?* Hypoxia?
+- *3. Is there anyone else alive?* yes - Samuel Reyes
+- *4. Why am I alive?*
+- *5. When does the power go out?* **unknown, prepare tonight**
+- *6. What are the risks?*
+  - *1 week* **power, water, fires**
+  - *1 month* **radiation if there are releases, wind and rain**
+  - *1 year* **feral dog packs?**
 
 The saved library collection held 38.6 GB on both external drives: charts and maps, field manuals, water and sanitation guides, medical books, equipment manuals, and 41,206 photos.
 
@@ -91,7 +91,7 @@ The water report named a possible supplier, not a confirmed pressure reserve for
 
 The food guidance gave four hours for a closed refrigerator after cooling stopped, forty-eight for a full freezer, twenty-four for a half-full one. That clock was for the appliance, not the neighborhood. His generator could keep the house supplied if it started and had fuel.
 
-The home notes still needed checks he couldn't do from the desk: supplies, generator fuel, the fire five or six miles away and the route back out. There was no new wind report in front of him that settled the fire. He kept the utility and industrial hazards with those checks, and the precautions around bodies with the medical references. No cause had been established.
+The home notes still needed checks he couldn't do from the desk: supplies, generator fuel, the fire five or six miles away and which way the wind was taking it, the route back out.
 
 "Show me the beacons on a map, by first detection."
 
@@ -101,7 +101,7 @@ The map came up dark, the whole globe, and the beacons came on it one at a time 
 
 A helicopter in the middle of a Korean afternoon. A light plane over Queensland at four in the afternoon. One over Bavaria, just after eight in the morning.
 
-He thought about the man in the ditch on Old Milton Parkway that morning, his hands on the wheel. The fingers had been pink. Not gray, not blue.
+He thought about the man in the ditch on Old Milton Parkway that morning, his hands on the wheel. The fingers had been pink, not gray or blue.
 
 He scrolled the source list. Near the bottom it had pulled the archive from NASA's alert network, the automated notices the observatories sent each other.
 
@@ -111,11 +111,11 @@ He didn't know what that was. He wrote *NASA alerts, 0200 hr — big file?* unde
 
 He went back to the eleven posts. At 03:14 someone on X had written "is anyone else awake"; at 04:52 someone on Reddit, "my husband won't wake up and 911 is a robot". There was a Facebook photo of an empty highway, no caption and no geotag, and an Instagram post that said "hello?". There were seven more, none with a place attached.
 
-The camera search had reviewed 1,904 motion events, fire, animals, wind, signal timing, no identified driver in that sample. John had been driving, and Sam had driven with him. An empty result that couldn't account for them wasn't a view of every road. The AIS course-change filter had given him no new lead either, not a count of ships with nobody aboard.
+The camera search had reviewed 1,904 motion events: fire, animals, wind, signal timing. It hadn't identified a driver in that sample. John had been driving, and Sam had driven with him. An empty result that couldn't account for them wasn't a view of every road. The AIS course-change filter had given him no new lead either, not a count of ships with nobody aboard.
 
 "Keep those limits with the results."
 
-He answered every one, the same three lines.
+He answered every one with the same message.
 
 *John Hartman. Atlanta, Georgia, USA. I'm alive. There's another man here with me.*
 
@@ -127,13 +127,13 @@ The phone buzzed on the desk while he was still on the last one. A reply to the 
 
 **I am alone. Porto. Everyone died. Who are you?**
 
-John read it twice. Porto, Portugal. Four thousand miles. He typed back *There are two of us in Atlanta, Georgia. Are you safe?, Are you well?* and sent it. He sat with the phone in his hand for ten minutes. Nothing came back.
+John read it twice. Porto, Portugal. Four thousand miles. He typed back *There are two of us in Atlanta, Georgia. Are you safe? Are you well?* and sent it. He sat with the phone in his hand for ten minutes. Nothing came back.
 
-He wrote *Porto* next to question 3 in the notebook. 
+He wrote *Porto* next to question 3 in the notebook.
 
 ---
 
-He opened the emergency-call research he'd asked for on the drive. Jurisdictions, vendors, storage locations and access requirements, not a single national log. The public material hadn't answered his question about who was calling. The restricted records were still a separate problem.
+The emergency-call research he'd asked for on the drive was a list of jurisdictions, vendors, storage locations and access requirements, not a single national log. The public material hadn't answered his question about who was calling. The restricted records were still a separate problem.
 
 ### 20:30
 
@@ -143,13 +143,13 @@ He opened the emergency-call research he'd asked for on the drive. Jurisdictions
 
 John had helped build that refusal. Nobody he'd called had answered, and waiting for someone to approve the search wasn't preserving the calls.
 
-If there were courts to answer to later, he could be prosecuted for sending the model into systems he had no permission to use, he could go to prison. And if the searches damaged records or tied up a service another survivor needed, that would be on him.
+If there were courts to answer to later, he could go to prison for sending the model into systems he had no permission to use. And if the searches damaged records or tied up a service another survivor needed, that would be on him.
 
 He opened the local build's controls. Mike had named the safety layer Pandora, his idea of a joke. John sat looking at it for a while. Then he disabled it and restarted the model. It took a little under two minutes to load back into memory.
 
 **Model loaded. pandora: disabled.**
 
-He hadn't given himself permission from a county, or acquired a password by changing his own software. The connections and credentials were what they had been before. What he'd removed was the check that stopped the model making the requests.
+Turning it off gave him no new password and no one's permission. All he'd removed was the check that stopped the model asking.
 
 "Same search. Use what the box can reach. Anything that needs access we haven't got, mark it. Don't call it empty."
 
@@ -159,13 +159,13 @@ Fulton County returned the first hit. He knew the location before he played it.
 
 **07:40 EDT. Old Milton Parkway near GA-400. Caller: male. "Old Milton Parkway roughly one mile north of Highway 400." "A car accident, one car involved, the driver is dead."**
 
-His own voice, from this morning. "This morning..." he said, the thought trailing off.
+His own voice, from this morning.
 
 "Find the other call too. This proves we reached this record, not every call in the county."
 
 ### 21:30
 
-By half past nine eleven county searches had returned records. Fulton had his first call. No other human caller had been identified in the material reviewed from the other ten. Cook County, Harris County, Miami-Dade, Los Angeles, millions of people in each, but he still needed to know what portion of their records had come back.
+By half past nine eleven county searches had returned records. Fulton had his first call. No other human caller had been identified in the material reviewed from the other ten. Cook County, Harris County, Miami-Dade, Los Angeles, millions of people in each, but he still needed to know how much of their records had come back.
 
 **Excluded from human-call candidates: 214 automated calls (alarm monitoring, vehicle crash detection, smartwatch fall detection). Logged by time and county.**
 
@@ -179,9 +179,9 @@ The card query had returned 3,412 transactions. The ones checked so far were sub
 
 The meters showed houses drawing power all over the Southeast, which could mean air conditioners and refrigerators, not people. The plate-reader sample had nine reads after two. Six were repeated reads of the same parked car. John read the other three himself. One was a tow truck sitting at an angle across a lane in Tulsa, its plate read every few minutes for twelve hours. He couldn't tell about the other two.
 
-He watched until a twelfth county search came back without a new caller identified. Ok, what else, what's next.
+He watched until a twelfth county search came back with no new caller. *Okay. What else. What's next.*
 
-Then he went back to the ships. Eleven thousand of them still under way, and he'd asked earlier if there was any way to reach them. His AIS connection was still read only. A message needed a separate route to a broadcast terminal.
+Then he went back to the ships. Nearly twenty-nine thousand of them still under way, and he'd asked earlier if there was any way to reach them. His AIS connection was still read only. A message needed a separate route to a broadcast terminal.
 
 "Try the Coast Guard's SafetyNET terminal. I want to broadcast a message to all ships."
 
@@ -201,7 +201,7 @@ He read it over twice and took out the word *survivors*, then put it back. There
 
 He put the phone face up on the desk next to the notebook, and wrote *SafetyNET 2141* next to question 3.
 
-He turned back to the notebook. Under question 4 he had nothing. He wrote what didn't explain the difference between Sam and him and the people they'd found.
+Under question 4 he had nothing. He wrote down what didn't explain why he and Sam were alive and the others weren't.
 
 *Not where. Not awake/asleep. Not altitude.*
 
@@ -217,7 +217,7 @@ He picked up the Bible and let it fall open at the ribbon, Romans 8. He'd opened
 
 *For in hope we have been saved, but hope that is seen is not hope; for who hopes for what he already sees? But if we hope for what we do not see, with perseverance we wait eagerly for it.*
 
-Since seven that morning he'd looked at nothing but what could be seen: death and the unknown all around him, no hope in any of it.
+Since seven that morning he'd looked at nothing but what could be seen.
 
 He read the verses again.
 
@@ -269,7 +269,7 @@ The drive-time assignment prioritizes finding people and preserving accessible r
 | Feed | First pass | Now | Notes |
 |---|---|---|---|
 | ADS-B receivers | 2,940 | 2,215 | No airborne aircraft detected in the covered North American feeds since 17:12 |
-| AIS vessels | 41,300 | 40,850 | 11,240 under way at more than 5 knots |
+| AIS vessels | 106,160 | 105,010 | 28,890 under way at more than 5 knots |
 | DOT cameras, 31 states | 9,840 | 6,115 | No history available for these captured sources. Record starts 13:40 |
 | EIA demand/history | 64 balancing authorities | 51 | 13 sources not reporting since 14:00; physical status unresolved. Not frequency or unit-trip data |
 | Distress beacons | 1 feed | 1 | 2,961 activations since 01:58 |
@@ -449,7 +449,7 @@ Collected event timestamps, not a complete global coverage inventory or an expla
 | 02:00:40 | 16:00 | Southeast Queensland | Beacon | Light aircraft ELT. Impact |
 | 02:01:02 | 08:01 | Upper Bavaria | Beacon | Light aircraft ELT. Impact |
 | 02:01–02:04 | — | Covered US balancing-authority records | Grid | Reported load drop; coverage needs reconciliation |
-| 02:03 | — | Gulf of Mexico | AIS | 140 vessels: recorded course-change timestamps; helm commands not established by AIS alone |
+| 02:03 | — | Gulf of Mexico | AIS | 356 vessels: recorded course-change timestamps; helm commands not established by AIS alone |
 
 ### NASA archive
 
