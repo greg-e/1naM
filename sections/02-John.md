@@ -37,10 +37,10 @@ So maybe he stopped in Minneapolis-St. Paul for fuel.
 "If that's where they're headed, that puts them on the ground between 14:15 and 14:45," John said.
 
 He pulled out his notebook and noted next to questions 1 and 3:
-*1. Where else?* **global**
-*2. How did this happen?*
-*3. Is there anyone else alive?* **yes**
-*4. Why am I alive?*
+- *1. Where else?* **global**
+- *2. How did this happen?*
+- *3. Is there anyone else alive?* **yes**
+- *4. Why am I alive?*
  
 John was not sure how long it would take to get to PDK, on a regular Saturday it took about 35 minutes to get there, today? It may be a challenge. He decided to go right away. 
 
@@ -50,27 +50,15 @@ He took Georgia Highway 400 south like he had earlier that day, the fire on the 
 
 He opened the voice chat on his phone. The phone was only the front end, the model ran on the dev box on his desk at home.
 
-"I've written global in my notebook. I don't know that. Mark's in Idaho, he isn't answering, nobody joined the standup, everybody I've seen is dead. But half the world was awake when this happened. Can we check what they're doing? Not just look for crashes, look for normal activity."
+"Everybody I've seen is dead. Half the world was awake when this happened. Can we check what they're doing? Not just look for crashes, look for normal activity."
 
 **I'll compare independent sources in different regions, including places where it's daytime. News, public posts, live cameras, departures. I'll keep missing coverage separate from no activity.**
 
 "And that plane. Maybe it is a Delta pilot. Maybe there's more than one person, maybe they're hurt. I don't even know if PDK means what I think it means."
 
-He slowed for a box truck across the center line.
+He slowed for a box truck across the center line.  He eased past the truck, watching the clearance on his side.
 
-"Hold on."
-
-He eased past the truck, watching the clearance on his side.
-
-"I've got the radios in my 182. I'll try them when I get there. What if somebody needs help? I don't have a first aid kit, I don't have any training."
-
-**We can save medical references. We don't know anyone's condition aboard the PC-12 yet.**
-
-"I'm not stopping for supplies. I want to meet whoever's on that plane, then come home and go through what you've found. But finding people, that's first."
-
-He started to ask about the internet, then stopped.
-
-"Power. We need to know where the power's going first. If we spend all afternoon searching one place and another goes dark, we've lost whatever was there. Can we map that? The US, Canada, Mexico, farther out wherever we've got access. Power, data centers, internet connections, cellular, all of it."
+"How long does power stay on? Not just here, everything we can connect to."
 
 **Power and reachability need separate layers. A source can stop answering while the grid is still up.**
 
