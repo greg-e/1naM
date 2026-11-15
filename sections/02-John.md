@@ -48,106 +48,70 @@ He grabbed his flight bag and added his laptop and charger to the bag and he gra
 
 He took Georgia Highway 400 south like he had earlier that day, the fire on the east side had spread to the entire retail shopping center, he could feel the heat as he drove by. He stopped slowing down and looking into the cars he passed. It took him 40 minutes to travel to the interchange with Interstate 285, double the normal time. He took the ramp onto Interstate 285 east, there was a greater mixture of trucks and cars on 285. The trucks definitely added to the chaos. Jack-knifed, flipped over... a couple spots, even with four lanes, it looked like there was no way to pass. Past the bridge at Chamblee-Dunwoody road there was a mass of black smoke billowing up, from what looked like both sides of the interstate. He exited onto Chamblee-Dunwoody and went south, an alternate route to PDK he had used many times when 285 was backed up.
 
-He opened the voice chat on his phone. The phone was only the front end, the model ran on the dev box on his desk at home.
+He opened the voice chat on his phone. The model itself ran on the dev box on his desk at home.
 
-"Everybody I've seen is dead. Half the world was awake when this happened. Can we check what they're doing? Not just look for crashes, look for normal activity."
+"Everybody I've seen is dead," he said. "But half the world was awake when this happened. Look for anybody doing something normal. News, posts, cameras, departures, anywhere it's daytime."
 
-**I'll compare independent sources in different regions, including places where it's daytime. News, public posts, live cameras, departures. I'll keep missing coverage separate from no activity.**
+**Searching. Sources that don't answer will be listed separately.**
 
-"And that plane. Maybe it is a Delta pilot. Maybe there's more than one person, maybe they're hurt. I don't even know if PDK means what I think it means."
+"Good. I want to know where you couldn't look."
 
-He slowed for a box truck across the center line.  He eased past the truck, watching the clearance on his side.
+A box truck sat across the center line. He eased past it, watching the clearance on his side.
 
-"How long does power stay on? Not just here, everything we can connect to."
+"Save everything while it's still up, the raw data, whatever history they keep, and pull it again every hour onto the external drive. Don't sort it first. Power's going to go and I don't know when, so check the power, the network, and whether the thing's actually working, one can be up when the others aren't. Whatever looks closest to going, save that first."
 
-**Power and reachability need separate layers. A source can stop answering while the grid is still up.**
+**Start time for the search?**
 
-"Right, and a network route doesn't mean the thing at the other end works. Three layers, power, network, actual source. Last response, whether it keeps history, how long before that gets overwritten. Anything that's starting to fail and hasn't got an archive goes first."
+"Two a.m. Eastern. The last takeoff I found was 1:59, except the PC-12. Grab some from before two where you can, so we have something to compare."
 
-**I'll track those separately. Exact blackout times may not be available.**
+**Saving now.**
 
-"I want priorities, not a countdown. You've got our connections to FEMA, FAA, DOT, Coast Guard, NOAA, Homeland Security. Inventory what those actually give us, don't assume we've got every system in an agency."
+"Check what our FEMA, FAA, DOT, Coast Guard, NOAA, and DHS connections actually reach. Don't assume it's the whole agency."
 
-**I'll test the available feeds and mark the gaps.**
+**I'll list what each one gives us.**
 
-"Don't wait for the map, though. Save the raw data now, while it answers. Pull the history where there is any, keep taking snapshots every hour, copy it to the external drive. Keep searching other places too, I don't want everything focused on the first outage."
+"I called 911 twice this morning. If anybody else is alive, they called too. Find out where those calls go, who keeps them, what we can get to. If you find my calls, you'll know the search works." He slowed for a wreck on the shoulder. "Same with my gas. QuikTrip off Exit 8 on 400, about nine, nine-thirty. My card worked."
 
-**What time should the search start?**
+**Noted. Automatic payments will be kept separate from purchases.**
 
-"Two a.m. Eastern Daylight Time. Except for the PC-12, the last takeoff I found was 1:59. I woke at 2:05 with a thud, I think it was that gas truck I passed on 400. I don't know. Use two for now, keep the observations separate. Save some before it where there's history, so we've got something to compare."
+"Right. Cameras too, DOT, Flock. I drove past some of them today. If a search misses me, I want to know why."
 
-"I called 911," he said. "That's the first thing I did. Other people would do that."
+**Camera motion will be logged separately. No occupant identification.**
 
-**What answered?**
+"I know. And nobody's going to find me in the posts, I never post anything. Put something up on my accounts, Facebook, Instagram, wherever we're connected."
 
-"An AI. Dispatchers were busy, it wouldn't give me a person. I called twice, same thing. It said it logged the call, no number, nothing I could look up."
-
-**Busy could be a fallback response. We don't know where the information went.**
-
-"Find out. Start around here, then across the country. Which dispatch centers, which vendors, where they store the calls, what access we'd need. We'll cross the authorization bridge when we get to it. Don't try to get into restricted systems now."
-
-**I'll start with public incident feeds and documented systems. Inaccessible records won't count as an empty search. Your calls can test whether a source covers you.**
-
-"FEMA dropped the call, FAA gave me a recording, Coast Guard just rang. None of that was a person. But I did buy gas. QuikTrip, a couple blocks off Exit 8 on 400. About nine, nine-thirty, my card worked."
-
-**That's another known action to test against if we can reach the records. A purchase at a pump is different from an automatic payment.**
-
-"So don't find ten thousand autopays and call them people. But don't throw out the purchases either. And cameras, DOT, Flock, I must have driven past some. Find out what they retain. If a search misses me, I want to know why."
-
-**Motion alone won't identify a person. Vehicles, animals, fire, wind, we'll have to separate them. Carrier records, plate readers, smart meters and doorbell cameras need their own coverage and access checks too.**
-
-"A meter doesn't tell us if somebody's home. My refrigerator would be running whether I was alive or not."
-
-He passed the minivan up on the curb at the Kroger.
-
-"Nobody would find me in the posts. I haven't posted anything. Put something on my accounts, Facebook, Instagram, wherever we're connected. Do it now, don't wait for the plane."
-
-The model read the message back.
+The model read it back.
 
 **I'm alive in the Atlanta, Georgia, area and looking for anyone else who is alive. If you see this, reply with your city, country, and current local date and time. Even if you see this later, please reply. I'm here.**
 
-"Yes, use that. No home address, nothing about the aircraft. Keep the replies at home, with the time and where they came from. And check the posts went through. A failed post isn't everybody ignoring me."
+"Use that. No address. Save the replies, and make sure the posts actually went up."
 
-**I'll record what each platform confirms, check public visibility where available, and keep failed or unverified attempts separate.**
+He passed a minivan up on the curb at the Kroger.
 
-"My house has the whole-house generator and Starlink, so I'm not too worried about that. Not yet, anyway. But what else do I need to prepare for while you're looking?"
+"What do I need to worry about at the house? I've got the generator and Starlink."
 
-**What food and water do you have?**
+**Water. The utility's pumps and treatment plant need their own power. Do you have containers?**
 
-"I went shopping this weekend. Freezer full of meat, fresh vegetables, dry stuff in the pantry. Just bought Dan's food. Neither of us takes medication. A couple cases of bottled water, and the taps work. City or county water, not a well."
+"No. I don't even have a tub. A couple cases of bottled water. The freezer's full, I just bought Dan's food, and neither of us takes anything. What happens at the nuclear plants with nobody there?"
 
-**Your generator won't run the utility's pumps or treatment plant. I'll check the supplier, storage and treatment information, and what can be verified about service. Do you have containers to fill?**
+**Shutdown stops the reaction, not the heat. Cooling depends on each plant's backup power and water. Spent fuel too.**
 
-"No containers, I don't even have a tub. There's a lake nearby, a river. But I don't know if I'm staying. What happens to the nuclear plants?"
+"Then look at them one at a time. The ones that could reach the house, or anywhere else I might go." He stopped at a red light with nobody else at it, and waited for it out of habit. "I touched people today. Harry, the clerk, the firemen. Is that a problem?"
 
-**Shutdown doesn't stop the fuel producing heat. Cooling still matters, including spent fuel. Offsite power, backup generators, batteries, water and passive systems differ by plant.**
+**Cause unknown. Avoid contact with bodies and fluids.**
 
-"Then I want a full assessment, not one timetable for all of them. The plants that could affect the house, or somewhere else I might go. What's actually shut down, what's still got power, what happens if nobody comes back."
+"The man in the car had pink fingers. Dan's fine, all those dogs are fine. Write that down. I don't know what it means yet."
 
-**I'll separate observed status from unattended scenarios, plant by plant. Cooling requirements, backup fuel and water, passive systems, spent fuel storage. Wind and rain matter if there's a release, not just distance.**
+**Saved.**
 
-"I don't know what I'm going to do yet. I'm overwhelmed."
+"Fires, gas leaks, anything between the house and here. And put the Morrisons' dog on my list. Make me a list of what I have to do at the house myself. Then download what I'd need offline, maps, FAA charts, medical, water, manuals. Whole books, not summaries. My files and photos too."
 
-**I'll leave the location decision open.**
+At the light at Peachtree Industrial he said, "Read it back."
 
-"What else could change over the next few days? I've been around the bodies, I touched Harry, the clerk, the firemen. I don't know if it's a disease or if whatever did it is still here. The man in the car had pink fingers. Dan's fine, all those dogs are fine. Save that, don't make it a cause yet."
+**Search every region for people and normal activity. Archive everything that answers, hourly, with history. Track power, network, and service status. Find the 911 records; your two calls and the QuikTrip purchase are the checks. Post on your accounts, save replies. Water, hazards, nuclear plants by site. References offline.**
 
-**The cause and any continuing exposure are unknown. Avoid unnecessary contact with bodies and fluids. Bodies alone don't establish an epidemic. I'll include that in the medical research, without assuming a diagnosis.**
-
-"And fires. The nearest one to the house is five or six miles off, I don't think it's a problem."
-
-**We'll check wind, spread and the return route. Other hazards include gas leaks, fuel spills, downed lines and unattended machinery. Power loss affects water, refrigeration, communications and pumps at gas stations. Confined or loose animals need attention too. Industrial sites need separate checks.**
-
-"The Morrisons' dog is still shut in. Put the home preparations in the notes, what I need to do myself. Generator fuel, food, charging things, water when we've worked out how. And save the references, maps, FAA charts, medical, water treatment, equipment manuals. Actual books from people who know, not just your answers. My files and photos too."
-
-At the light at Peachtree Industrial, John said, "Read back what you're going to do."
-
-**Search for people and normal activity across independent sources. Archive accessible raw records now, with hourly snapshots and available history. Track power, network access and source reachability to prioritize what may be lost. Research emergency-call and other records, including permissions; use your calls and gas purchase as checks. Attempt the public posts and preserve replies and posting status. Assess utilities, other hazards and nuclear plants, and save trusted references offline. Keep sources, cutoffs, failures and unknowns with the results.**
-
-"Break the research up, run it on the dev box. Keep the notes and results there, copies on the external drive. I want to review it when I get home, including anything you couldn't reach. Don't tell me a handoff worked unless the local system acknowledges it."
+"Split it up and run it on the dev box. Keep everything there, copies on the external drive. I'll go through it when I get home, including what you couldn't reach."
 
 **Understood.**
 
 "Get to work."
-
-
