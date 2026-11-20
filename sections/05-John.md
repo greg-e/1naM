@@ -15,23 +15,15 @@ He felt numb, before today the only dead person he had seen was his wife Naomi. 
 
 He looked at the screens and got back to work:
 
-"Show me the people search, then what's been saved."
+"Summarize the search results."
 
-The search had flagged eleven posts from other accounts, and the aircraft he already knew about. That wasn't a count of twelve people. Sam was asleep down the hall, the others were words and a photograph on a screen.
-
-"And the message I asked you to post on the drive? Where are the receipts?"
-
-**Per-platform publication and public visibility not established in this report.**
-
-"Separate attempted, confirmed, failed, anything you can't verify. Keep my accounts out of the survivor candidates. And keep checking for replies."
+The search had flagged eleven posts from other accounts, and the aircraft he already knew about.
 
 He opened the capture record. It held 58.7 GB on the dev box, with copies on the external drive through six o'clock. Fewer sources were answering than at the first pass. The DOT cameras in this collection kept no history, so their record started at 13:40, not two in the morning.
 
 The routing collectors showed nine percent fewer networks visible at six than at two. They were views of routes through the internet, not a count of machines with power. A route could disappear because a network failed, or because the path to it failed. John had worked with this data for years and had never watched the number go down like this.
 
-"Keep the routing snapshots with the source responses. Don't turn a lost route into a power outage."
-
-He looked for the three layers he'd asked for on the road: power, network, the actual service. The report had observations, but it didn't give him complete coverage of the US, much less Canada, Mexico or everywhere else.
+He looked for the three layers he'd asked for: power, network, the actual service. The report had observations, but it didn't give him complete coverage of the US, much less Canada, Mexico or everywhere else.
 
 "For each source, last successful response, what history it keeps, what's saved and what's only requested. If it's going away and we haven't got the history, move it up. If you can't tell, mark it unknown, not failed. Keep looking elsewhere too."
 
@@ -45,27 +37,23 @@ The last was a Singapore Airlines A350-900ULR out of Los Angeles for Singapore, 
 
 It listed SafetyNET, NAVTEX, AIS safety broadcasts, and a marine radio's all-ships call. Reading the ship positions didn't give him a transmitter, or permission to use one. There was no marine radio connected to the box.
 
-In the power report, the Texas source had stopped reporting at 13:47, with a last returned frequency of 58.6 Hz. If that was right, it was a severe disturbance, not an ordinary dip. It didn't tell him how much of Texas still had power, or whether the connection had failed. Sources on the other three interconnections were still answering. The latest Eastern entry was 59.88 Hz at 19:00, but the report didn't identify the monitor or how long the reading had lasted.
+In the power report, the Texas source had stopped reporting at 13:47, with a last returned frequency of 58.6 Hz. If that was right, it was a severe disturbance. It didn't tell him how much of Texas still had power, or whether the connection had failed. Sources on the other three interconnections were still answering. The latest Eastern entry was 59.88 Hz at 19:00, but the report didn't identify the monitor or how long the reading had lasted.
 
 "Can you put a time on the power here going out?"
 
-**No supported outage time for your house.**
+**No supported outage time for current location.**
 
-He kept the readings, not a line he could extend to midnight. The EIA feed was hourly demand, an hour late, with no frequency, no generation until the next day, and nothing on which plants were running.
+The plant report listed all six Georgia reactors as tripped that morning, with offsite power still available in the returned status. John sat back in the chair.
 
-The plant report listed all six Georgia reactors as tripped that morning, with offsite power still available in the returned status. John sat back in the chair. Shutdown still left heat to remove, from the reactor fuel and the spent fuel. That was what he'd asked about on the drive, not just whether the plants were generating.
-
-Vogtle's older units depended on different cooling and backup systems from the two newer AP1000s. The report cited seventy-two hours of passive cooling for the newer design, then water makeup. It was a design reference, not a reading of the water left there now. The older units' nominal diesel fuel supply didn't tell him that a generator would run unattended until the tank was empty.
-
-"Where's the plant-by-plant assessment? What's known about the equipment now, what needs people, what water it needs? The pools separately."
+"Where's the plant-by-plant assessment?"
 
 **Incomplete. Current backup equipment condition, usable fuel and water, and spent fuel heat loads not established.**
 
-The location list had ten plants within 220 miles, the nearest two less than a hundred. Vogtle was 159 miles east-southeast. There wasn't enough in the report to give ten different plants the same date for their pools to uncover. He left the dates out of his notebook.
+The location list had ten plants within 220 miles, the nearest two less than a hundred. Vogtle was 159 miles east-southeast. 
 
-"Keep working through the designs. Actual status on one side, what might happen with nobody there on the other. I need to know what would make me leave, not pick a date and call it safe until then."
+"Keep working through the designs. Actual status on one side, what might happen with nobody there on the other. I need to know what would make me leave my current location."
 
-The historical comparisons were twelve miles evacuated around Fukushima and nineteen miles in the Chernobyl exclusion zone. Fukushima's deposition had depended on wind and rain during the release. Those circles weren't a map of where a release here would go.
+The historical comparisons were twelve miles evacuated around Fukushima and nineteen miles in the Chernobyl exclusion zone. Fukushima's deposition had depended on wind and rain during the meltdown. 
 
 In the notebook, John added two more questions and filled in what he could:
 
@@ -77,31 +65,13 @@ In the notebook, John added two more questions and filled in what he could:
 - *6. What are the risks?*
   - *1 week* **power, water, fires**
   - *1 month* **radiation if there are releases, wind and rain**
-  - *1 year* **feral dog packs?**
+  - *1 year* **feral dog packs? rats? food?**
 
 The saved library collection held 38.6 GB on both external drives: charts and maps, field manuals, water and sanitation guides, medical books, equipment manuals, and 41,206 photos.
 
 He didn't open the photos. He checked that the count was right and that they were on both drives.
 
-The satellite report had Starlink up and degrading, Iridium answering, Globalstar partial, Inmarsat answering. They all had ground dependencies, even the satellites that could relay to each other. The reported generator at the Iridium gateway in Tempe had no established endurance. John kept the phone options in the notes, with the gateways and service paths still to check.
-
-The water report named a possible supplier, not a confirmed pressure reserve for his house. His generator wouldn't run the treatment plant. He had a couple cases of bottled water, no containers to fill and no tub. Nearby surface water still needed a way to collect and treat it.
-
-"Don't give me days of food from a grocery list. There's Sam now, too. We need to count what's here, for both of us and Dan."
-
-The food guidance gave four hours for a closed refrigerator after cooling stopped, forty-eight for a full freezer, twenty-four for a half-full one. That clock was for the appliance, not the neighborhood. His generator could keep the house supplied if it started and had fuel.
-
-The home notes still needed checks he couldn't do from the desk: supplies, generator fuel, the fire five or six miles away and which way the wind was taking it, the route back out.
-
-"Show me the beacons on a map, by first detection."
-
-**4,118 recorded stops between 01:58:40 and 02:06:00 EDT in the collected records, across multiple regions. No matching cluster before 01:58 or after 02:06 in the searched interval.**
-
-The map came up dark, the whole globe, and the beacons came on it one at a time as the timeline ran: emergency locator transmitters on airplanes, ship beacons, personal locators. He'd expected them to start somewhere and spread out. The plotted records didn't. They came on in separated parts of the world, all within a few minutes.
-
-A helicopter in the middle of a Korean afternoon. A light plane over Queensland at four in the afternoon. One over Bavaria, just after eight in the morning.
-
-He thought about the man in the ditch on Old Milton Parkway that morning, his hands on the wheel. The fingers had been pink, not gray or blue.
+He thought about the man in the ditch on Old Milton Parkway that morning, his hands on the wheel. The fingers had been pink, not gray or blue. 
 
 He scrolled the source list. Near the bottom it had pulled the archive from NASA's alert network, the automated notices the observatories sent each other.
 
@@ -109,15 +79,11 @@ He scrolled the source list. Near the bottom it had pulled the archive from NASA
 
 He didn't know what that was. He wrote *NASA alerts, 0200 hr — big file?* under the line and left it for later. There were people to look for first.
 
-He went back to the eleven posts. At 03:14 someone on X had written "is anyone else awake"; at 04:52 someone on Reddit, "my husband won't wake up and 911 is a robot". There was a Facebook photo of an empty highway, no caption and no geotag, and an Instagram post that said "hello?". There were seven more, none with a place attached.
-
-The camera search had reviewed 1,904 motion events: fire, animals, wind, signal timing. It hadn't identified a driver in that sample. John had been driving, and Sam had driven with him. An empty result that couldn't account for them wasn't a view of every road. The AIS course-change filter had given him no new lead either, not a count of ships with nobody aboard.
-
-"Keep those limits with the results."
+He went back to the eleven posts. At 03:14 someone on X had written "is anyone else awake"; at 04:52 someone on Reddit, "my husband won't wake up and 911 is a robot". There was a Facebook photo of an empty highway, no caption and no geotag, and an Instagram post that said "hello?". There were seven more, no locations.
 
 He answered every one with the same message.
 
-*John Hartman. Atlanta, Georgia, USA. I'm alive. There's another man here with me.*
+*John Hartman. Atlanta, Georgia, USA. Anyone getting this? Please reply.*
 
 ### 19:52
 
@@ -133,7 +99,7 @@ He wrote *Porto* next to question 3 in the notebook.
 
 ---
 
-The emergency-call research he'd asked for on the drive was a list of jurisdictions, vendors, storage locations and access requirements, not a single national log. The public material hadn't answered his question about who was calling. The restricted records were still a separate problem.
+The emergency-call research he'd asked for was a list of jurisdictions, vendors, storage locations and access requirements, not a single national log. He need to access the restricted records.
 
 ### 20:30
 
@@ -262,7 +228,8 @@ The drive-time assignment prioritizes finding people and preserving accessible r
 | Power and plant hazards | Grid reports and unconfirmed Georgia unit status; no supported house outage time or common plant release schedule |
 | Offline library | Saved collection below; not a claim that all requested references are present |
 | Communications | Reported systems answering, dependencies and endurance checks separate |
-| Household preparation | Known supplies versus inventory still needed for John, Sam and Dan; utility, fire, industrial and medical questions remain |
+| Agency connections | Inventory of what the FEMA, FAA, DOT, Coast Guard, NOAA and DHS connectors reach; mostly read only, none the whole agency |
+| Household preparation | Known supplies versus inventory still needed for John, Sam and Dan; John's own house list (gas leaks, fire, the Morrisons' dog); utility, industrial and medical questions remain |
 | Event timing | Collected stop/activation cluster, not an identified cause |
 | Restricted records | Jurisdiction/vendor/storage/access research first; evening searches conditional on actual reachability, not blanket agency access |
 
@@ -421,19 +388,19 @@ Satellite phones remain possible options to test, not categorically pointless. A
 
 ### Water, food and household preparation
 
-Known from John on the drive: municipal city/county water, stocked weekend groceries, frozen meat, fresh vegetables, pantry goods, a newly bought bag of Dan's food and a couple cases of bottled water. **No water containers and no bathtub.** Neither John nor Dan takes medication; John has no first-aid kit or training. The whole-house generator and Starlink do not supply the water utility's pumps or treatment.
+Known from John on the drive: a full freezer, a newly bought bag of Dan's food and a couple cases of bottled water. **No water containers and no bathtub.** Neither John nor Dan takes medication. The whole-house generator and Starlink do not supply the water utility's pumps or treatment. On contact with the dead, the drive-time answer was cause unknown, avoid bodies and fluids.
 
 | Item | Working record / limit |
 |---|---|
 | Supplier | Draft identifies Fulton County treatment on the Chattahoochee [verify: actual supplier]. No house-specific pressure reserve, treatment status or time-to-loss established |
-| Surface water | Nearby lake/river noted by John; collection and treatment still need a practical plan, not assumed containers or safe water |
+| Surface water | Nearby surface water; collection and treatment still need a practical plan, not assumed containers or safe water |
 | Refrigerator | USDA guidance in the saved report: about 4 hours after loss of cooling, door closed; not a guarantee every item is safe |
 | Freezer | Saved guidance: about 48 hours full, 24 hours half full, door closed; actual food condition matters |
 | Backup power | Cooling-loss guidance starts when the appliance loses cooling, not simply when utility power elsewhere fails. Generator operation, fuel and faults need checking |
-| Food inventory | Not measured. No established weeks of supplies for John and Sam or days in Dan's bag; count and plan for both adults and the dog |
+| Food inventory | Not measured. "The freezer's full" establishes no weeks of supplies for John and Sam or days in Dan's bag; count and plan for both adults and the dog |
 | Dan | Existing report profile: 45 lbs, planning estimate about 1,000 calories/day [verify: individual feeding needs]. Bag quantity and duration not established |
 | Generator | At 23:00: AUTO, Ready; propane gauge 78%; transfer panel on Utility. No runtime calculated from that gauge alone |
-| Hazards | Existing fire five or six miles from home, road smoke and blockages; new wind/spread observations not supplied. Check utilities, leaks, machinery, industrial sites and confined/loose animals; medical references distinguish unknown cause/exposure from automatic epidemic claims |
+| Hazards | Fires and gas leaks between the house and PDK, as requested on the drive: the GA-400 fire five or six miles from home, road smoke and blockages; new wind/spread observations not supplied. The Morrisons' dog is on John's house list. Check utilities, leaks, machinery, industrial sites and confined/loose animals; medical references distinguish unknown cause/exposure from automatic epidemic claims |
 
 **Subsequent update — 00:50, September 6:** The house loses utility power; the generator starts and the transfer switch operates. This is a local observation, not validation of a regional outage forecast.
 
@@ -450,6 +417,8 @@ Collected event timestamps, not a complete global coverage inventory or an expla
 | 02:01:02 | 08:01 | Upper Bavaria | Beacon | Light aircraft ELT. Impact |
 | 02:01–02:04 | — | Covered US balancing-authority records | Grid | Reported load drop; coverage needs reconciliation |
 | 02:03 | — | Gulf of Mexico | AIS | 356 vessels: recorded course-change timestamps; helm commands not established by AIS alone |
+
+**Saved drive-time observation:** Driver, Old Milton Parkway: fingers pink. Dogs unaffected. Recorded as an observation, not a finding.
 
 ### NASA archive
 
@@ -472,7 +441,7 @@ The eleven external posts are candidates, not eleven verified survivors. John's 
 | 08:20 | Instagram | None | "hello?" |
 | 09:05 to 15:40 | Various | None | 7 more |
 
-**Known aircraft candidate: DAL27PDK**, with the Edmonton departure and Minneapolis continuation already recorded. This is not a new worldwide departure census. **AIS course-change query:** no new lead in the captured tracks; AIS alone does not identify helm commands or establish who is aboard. **Camera sample:** 1,904 reviewed motion events, fire/animals/wind/signal timing, no identified driver in that sample. Coverage of John's and Sam's drives is not established, so this is not evidence of no driving anywhere.
+**Known aircraft candidate: DAL27PDK**, with the Edmonton departure and Minneapolis continuation already recorded. This is not a new worldwide departure census. **AIS course-change query:** no new lead in the captured tracks; AIS alone does not identify helm commands or establish who is aboard. **Camera sample:** 1,904 reviewed motion events, fire/animals/wind/signal timing, no car under someone's control in that sample; no occupant identification. John's GA-400 drives (about 09:10 and 12:15) predate the 13:40 start of the camera record; coverage of the afternoon drives with Sam is not established, and John asks for that drive as a control. This is not evidence of no driving anywhere.
 
 At 19:52 Porto replies in the thread of the discovered Facebook highway photograph after John's evening reply, not as an established response to his own drive-time public post. Original Portuguese, translation and subsequent silence are in the narrative. Neither the candidate count nor the reply is a survivor census.
 
